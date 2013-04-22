@@ -21,6 +21,16 @@
         "name": "OMQuickHelp",
         "url": "https://github.com/omz/Dash-Plugin-for-Xcode",
         "description": "Plugin for Xcode to integrate the Dash documentation viewer app"
+      },
+      {
+        "name": "KSImageNamed",
+        "url": "https://github.com/ksuther/KSImageNamed-Xcode",
+        "description": "Xcode plug-in that provides autocomplete for imageNamed: calls"
+      },
+      {
+        "name": "HOStringSense",
+        "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
+        "description": "Plugin for Xcode to make working with strings less \"escaped\""
       }
     ],
     "color_schemes": [
