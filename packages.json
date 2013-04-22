@@ -1,0 +1,98 @@
+{
+  "packages": {
+
+    "plugins": [
+      {
+        "name": "DerivedData Exterminator",
+        "url": "https://github.com/kattrali/deriveddata-exterminator",
+        "description": "Button for quickly deleting derived data. Makes Xcode happy."
+      },
+      {
+        "name": "OMMiniXcode",
+        "url": "https://github.com/omz/MiniXcode",
+        "description": "Xcode plugin for working without the main toolbar"
+      },
+      {
+        "name": "OMColorSense",
+        "url": "https://github.com/omz/ColorSense-for-Xcode",
+        "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
+      },
+      {
+        "name": "OMQuickHelp",
+        "url": "https://github.com/omz/Dash-Plugin-for-Xcode",
+        "description": "Plugin for Xcode to integrate the Dash documentation viewer app"
+      }
+    ],
+    "color_schemes": [
+      {
+        "name": "Humane",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
+        "description": "This theme was originally made for Xcode 3 by Damien Guard"
+      },
+      {
+        "name": "Monokai",
+        "url": "https://raw.github.com/mclaughj/Monokai-Xcode-Theme/master/Monokai.xccolortheme",
+        "description": "A simple port of the Monokai TextMate theme to Xcode"
+      },
+      {
+        "name": "Tomorrow",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting"
+      },
+      {
+        "name": "Tomorrow Night",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting"
+      },
+      {
+        "name": "Tomorrow Night (Bright)",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night%20Bright.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting"
+      },
+      {
+        "name": "Solarized Light",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Light.dvtcolortheme",
+        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
+      },
+      {
+        "name": "Solarized Dark",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Dark.dvtcolortheme",
+        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
+      }
+    ],
+    "project_templates": [
+      {
+        "name": "AFNetworking",
+        "url": "https://github.com/AFNetworking/Xcode-Project-Templates",
+        "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
+      },
+      {
+        "name": "Nevir Templates",
+        "url": "https://github.com/nevir/xcode-templates",
+        "description": "(hopefully) Best practice Xcode templates that suck less."
+      },
+      {
+        "name": "Xcode plugin",
+        "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode4"
+      },
+      {
+        "name": "iOSOpenDev Templates",
+        "url": "https://github.com/kokoabim/iOSOpenDev-Xcode-Templates",
+        "description": "http://www.iOSOpenDev.com"
+      },
+      {
+        "name": "Minimal",
+        "url": "Minimalistic, nib-less templates for Xcode 4",
+        "description": "https://github.com/omz/MinimalisticXcodeTemplates"
+      }
+    ],
+    "file_templates": [
+      {
+        "name": "Licensed",
+        "url": "https://github.com/mattt/Xcode-Licensed-Templates",
+        "description": "Minimal Xcode Templates for Open Source Developers"
+      }
+    ]
+  }
+}
