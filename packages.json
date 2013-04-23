@@ -31,6 +31,21 @@
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
         "description": "Plugin for Xcode to make working with strings less \"escaped\""
+      },
+      {
+        "name": "XVim",
+        "url": "https://github.com/JugglerShu/XVim",
+        "description": "Xcode plugin for Vim keybindings"
+      },
+      {
+        "name": "XCode4_beginning_of_line",
+        "url": "https://github.com/insanehunter/XCode4_beginning_of_line",
+        "description": "XCode 4 plugin to make HOME key jump to the first non-whitespace line of code"
+      },
+      {
+        "name": "BBUncrustifyPlugin",
+        "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
+        "description": "Xcode plugin to uncrustify the source code opened in the editor"
       }
     ],
     "color_schemes": [
