@@ -127,11 +127,6 @@
         "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
       },
       {
-        "name": "Nevir Templates",
-        "url": "https://github.com/nevir/xcode-templates",
-        "description": "(hopefully) Best practice Xcode templates that suck less."
-      },
-      {
         "name": "Xcode plugin",
         "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
         "description": "Project Template for creating a plugin for Xcode4"
