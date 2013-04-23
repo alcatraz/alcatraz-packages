@@ -143,11 +143,16 @@
       }
     ],
     "file_templates": [
-      {
-        "name": "Licensed",
-        "url": "https://github.com/mattt/Xcode-Licensed-Templates",
-        "description": "Minimal Xcode Templates for Open Source Developers"
-      }
+        {
+          "name": "Licensed",
+          "url": "https://github.com/mattt/Xcode-Licensed-Templates",
+          "description": "Minimal Xcode Templates for Open Source Developers"
+        }
+        {
+          "name": "Cappuccino file template set for Xcode 4",
+          "url": "https://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x",
+          "description": "A set of file templates for Xcode 4.x to create Cappuccino related classes & categories"
+        }
     ]
   }
 }
