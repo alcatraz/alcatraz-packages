@@ -51,6 +51,41 @@
         "name": "Lin",
         "url": "https://github.com/questbeat/Lin",
         "description": "Xcode4 plugin shows completion for NSLocalizedString"
+      },
+      {
+        "name": "XCFixin_CurrentLineHighlighter",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin highlights the line currently being edited in the source editor"
+      },
+      {
+        "name": "XCFixin_DisableAnimations",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin disables Xcode's various NSAnimation-based animations, such as the Show/Hide Debug Area, Show/Hide Navigator, and Show/Hide Utilities animations."
+      },
+      {
+        "name": "XCFixin_FindFix",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin makes Xcode show all find options (such as \"Ignore Case\") in the find bar when it opens."
+      },
+      {
+        "name": "XCFixin_HideDistractions",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": " This fixin adds a \"Hide Distractions\" menu item to the View menu, which focuses the current editor by hiding auxiliary views and maximizing the active window. This fixin works best when the XCFixin_DisableAnimations fixin is also installed."
+      },
+      {
+        "name": "XCFixin_InhibitTabNextPlaceholder",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin disables using the tab key to select between argument placeholders of a synthesized (by Xcode's code completion) method call."
+      },
+      {
+        "name": "XCFixin_TabAcceptsCompletions",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
+      },
+      {
+        "name": "XCFixin_UserScripts",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
       }
     ],
     "color_schemes": [
