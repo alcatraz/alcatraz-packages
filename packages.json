@@ -43,11 +43,6 @@
         "description": "XCode 4 plugin to make HOME key jump to the first non-whitespace line of code"
       },
       {
-        "name": "BBUncrustifyPlugin",
-        "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
-        "description": "Xcode plugin to uncrustify the source code opened in the editor"
-      },
-      {
         "name": "Lin",
         "url": "https://github.com/questbeat/Lin",
         "description": "Xcode4 plugin shows completion for NSLocalizedString"
