@@ -76,6 +76,11 @@
         "name": "XCFixin_TabAcceptsCompletions",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
+      },
+      {
+        "name": "XCFixin_UserScripts",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
       }
     ],
     "color_schemes": [
