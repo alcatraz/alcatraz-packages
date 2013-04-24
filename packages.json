@@ -100,6 +100,11 @@
         "description": "A simple port of the Monokai TextMate theme to Xcode"
       },
       {
+        "name": "Railscasts",
+        "url": "https://github.com/levey/Xcode4theme-Railscasts/blob/master/Railscasts.dvtcolortheme",
+        "description": "Railscasts theme for Xcode 4.x"
+      },
+      {
         "name": "Tomorrow",
         "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
         "description": "A bright theme with pastel colours and sensible syntax highlighting"
