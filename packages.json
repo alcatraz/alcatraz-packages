@@ -91,6 +91,11 @@
         "name": "XcodeAutoCloseDebug",
         "url": "https://github.com/larsxschneider/XcodeAutoCloseDebug",
         "description": "Close the debug window automatically after the debug session has ended."
+      },
+      {
+        "name": "Xprop",
+        "url": "https://github.com/shpakovski/Xprop",
+        "description": "Exclude @property and @synthesize document items from the navigator menu."
       }
     ],
     "color_schemes": [
