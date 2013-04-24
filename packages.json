@@ -3,6 +3,11 @@
 
     "plugins": [
       {
+        "name": "KGStatusBar",
+        "url": "https://github.com/kevingibbon/KGStatusBar",
+        "description": "A minimal status bar for iOS."
+      },
+      {
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
         "description": "Button for quickly deleting derived data. Makes Xcode happy."
