@@ -90,6 +90,21 @@
         "description": "A useful and attractive dark brown and orange theme by Tim Kemp"
       },
       {
+        "name": "Ciapre",
+        "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre.dvtcolorthemen",
+        "description": "An easy on the eyes, port of Ciapre - Sublime Text to Xcode. The original one."
+      },
+      {
+        "name": "Ciapre Blue",
+        "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre%20Blue.dvtcolortheme",
+        "description": "So I heard you like blue."
+      },
+      {
+        "name": "Ciapre 2",
+        "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre%202.dvtcolortheme",
+        "description": "An easy on the eyes, port of Ciapre - Sublime Text to Xcode. Even simpler version."
+      },
+      {
         "name": "Humane",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
         "description": "This theme was originally made for Xcode 3 by Damien Guard"
