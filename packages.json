@@ -85,6 +85,11 @@
     ],
     "color_schemes": [
       {
+        "name": "Chocolate Box",
+        "url": "https://raw.github.com/tkemp/Colour-and-standards/blob/master/Chocolate%20Cake.dvtcolortheme",
+        "description": "A useful and attractive dark brown and orange theme by Tim Kemp"
+      },
+      {
         "name": "Humane",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
         "description": "This theme was originally made for Xcode 3 by Damien Guard"
