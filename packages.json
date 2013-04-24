@@ -115,6 +115,11 @@
         "description": "A simple port of the Monokai TextMate theme to Xcode"
       },
       {
+        "name": "ObsidianCode",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
+        "description": "A theme made by Ben Scheirman."
+      },
+      {
         "name": "Railscasts",
         "url": "https://github.com/levey/Xcode4theme-Railscasts/blob/master/Railscasts.dvtcolortheme",
         "description": "Railscasts theme for Xcode 4.x"
