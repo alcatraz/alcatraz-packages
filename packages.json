@@ -81,6 +81,16 @@
         "name": "XCFixin_UserScripts",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
+      },
+      {
+        "name": "ShowInGitHub",
+        "url": "https://github.com/larsxschneider/ShowInGitHub",
+        "description": "Open the related Github page of a source file directly form the Xcode editor code window."
+      },
+      {
+        "name": "XcodeAutoCloseDebug",
+        "url": "https://github.com/larsxschneider/XcodeAutoCloseDebug",
+        "description": "Close the debug window automatically after the debug session has ended."
       }
     ],
     "color_schemes": [
