@@ -83,7 +83,7 @@
         "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
       },
       {
-        "name": "ShowInGitHub",
+        "name": "ShowInGithub",
         "url": "https://github.com/larsxschneider/ShowInGitHub",
         "description": "Open the related Github page of a source file directly form the Xcode editor code window."
       },
