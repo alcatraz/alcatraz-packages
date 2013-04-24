@@ -101,6 +101,11 @@
         "name": "DLAutoresizeMaskPlugin",
         "url": "https://github.com/garnett/AutoresizeMask-for-Xcode",
         "description": "Vizualize autoresizing masks in the code editor."
+      },
+      {
+        "name": "ios filter control",
+        "url": "https://github.com/ShadyElyaski/ios-filter-control",
+        "description": "An iOS Filter UIControl Subclass. Zero Graphics. Highly Customizable. Inspired by National Geographics: Park Guides."
       }
     ],
     "color_schemes": [
