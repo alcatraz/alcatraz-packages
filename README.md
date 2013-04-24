@@ -7,6 +7,7 @@ To contribute your own package, fork this project and edit packages.json to incl
 
 ### Plugin Format
 The `url` should be a repository containing the Xcode project, and the `name` should be the same as the `.xcodeproj` file.
+
 ``` json
 {
   "name": "LifeChangingPlugin",
@@ -17,6 +18,7 @@ The `url` should be a repository containing the Xcode project, and the `name` sh
 
 ### Color Scheme Format
 Use link to raw color scheme file for `url`
+
 ``` json
 {
   "name": "Most Amazing Theme Ever",
@@ -27,6 +29,7 @@ Use link to raw color scheme file for `url`
 
 ### File or Project Template Format
 The `url` should be a repository containing one or more templates
+
 ``` json
 {
   "name": "Magical",
