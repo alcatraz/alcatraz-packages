@@ -6,10 +6,10 @@ Package list repository for [Alcatraz](https://github.com/mneorr/Alcatraz), the 
 To contribute your own package, fork this project and edit packages.json to include your submission in the correct section (plugins, color schemes, or templates), and submit a pull request.
 
 ### Plugin Format
-The `url` should be a repository containing the Xcode project
+The `url` should be a repository containing the Xcode project, and the `name` should be the same as the `.xcodeproj` file.
 ```
 {
-  "name": "My Life-Changing Xcode Plugin",
+  "name": "LifeChangingPlugin",
   "url": "https://github.com/me/xcode-life-changing-plugin",
   "description": "Makes Xcode stop, collaborate and listen."
 }
