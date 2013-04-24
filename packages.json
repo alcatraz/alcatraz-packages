@@ -111,7 +111,7 @@
       },
       {
         "name": "Monokai",
-        "url": "https://raw.github.com/mclaughj/Monokai-Xcode-Theme/master/Monokai.xccolortheme",
+        "url": "https://raw.github.com/mclaughj/Monokai-Xcode-Theme/master/Monokai.dvtcolortheme",
         "description": "A simple port of the Monokai TextMate theme to Xcode"
       },
       {
