@@ -98,7 +98,7 @@
         "description": "Exclude @property and @synthesize document items from the navigator menu."
       },
       {
-        "name": "AutoresizeMask-for-Xcode",
+        "name": "DLAutoresizeMaskPlugin",
         "url": "https://github.com/garnett/AutoresizeMask-for-Xcode",
         "description": "Vizualize autoresizing masks in the code editor."
       }
