@@ -183,6 +183,11 @@
         "name": "Solarized Dark",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Dark.dvtcolortheme",
         "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
+      },
+      {
+        "name": "Zenburn",
+        "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
+        "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions."
       }
     ],
     "project_templates": [
