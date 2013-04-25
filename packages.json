@@ -145,6 +145,11 @@
         "description": "A theme made by Ben Scheirman."
       },
       {
+        "name": "Push Popcorn",
+        "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
+        "description": "A theme made by Andrea Gelati."
+      },
+      {
         "name": "Railscasts",
         "url": "https://github.com/levey/Xcode4theme-Railscasts/blob/master/Railscasts.dvtcolortheme",
         "description": "Railscasts theme for Xcode 4.x"
