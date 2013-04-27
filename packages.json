@@ -193,6 +193,11 @@
         "name": "Zenburn",
         "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
         "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions."
+      },
+      {
+        "name": "Sidetracked",
+        "url": "https://raw.github.com/drudge/Sidetracked/master/Sidetracked.dvtcolortheme",
+        "description": "Stylish, Railscast inspired color scheme for various text/code editors."
       }
     ],
     "project_templates": [
