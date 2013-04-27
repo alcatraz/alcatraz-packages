@@ -5,3 +5,4 @@ rvm:
  - system
 
 script: rspec spec
+before_install: gem install rspec
