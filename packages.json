@@ -193,6 +193,11 @@
         "name": "Zenburn",
         "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
         "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions."
+      },
+      {
+        "name": "Vale",
+        "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
+        "description": "Satisfaction for you eyes, made by Chris Medina"
       }
     ],
     "project_templates": [
