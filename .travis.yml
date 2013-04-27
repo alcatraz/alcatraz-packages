@@ -5,4 +5,6 @@ rvm:
  - 2.0
 
 script: rspec spec
-before_install: gem install rspec
+before_install:
+ - gem install rspec
+ - gem install json
