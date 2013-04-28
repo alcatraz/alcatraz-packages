@@ -135,6 +135,11 @@
         "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. Even simpler version."
       },
       {
+        "name": "EGO v2",
+        "url": "https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.dvtcolortheme",
+        "description": "EGO v2 theme, favorite theme for xCode 4."
+      },
+      {
         "name": "Humane",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
         "description": "This theme was originally made for Xcode 3 by Damien Guard"
