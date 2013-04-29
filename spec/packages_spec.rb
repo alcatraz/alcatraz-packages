@@ -1,5 +1,6 @@
 require 'rspec'
 require 'json'
+require 'uri'
 
 describe "Packages" do
 
@@ -23,4 +24,10 @@ describe "Packages" do
     end
   end
 
+  it "should have valid URLs for packages" do
+    @packages.values.flatten.each do |package|
+      package.should have_key "url"
+      package["url"].should =~ URI::regexp
+    end
+  end
 end
