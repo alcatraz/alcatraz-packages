@@ -213,6 +213,41 @@
         "name": "Vale",
         "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
         "description": "Satisfaction for you eyes, made by Chris Medina"
+      },
+      {
+          "name": "Darkloud",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/Darkloud.dvtcolortheme",
+          "description": "https://github.com/tursunovic/xcode-themes"
+      },
+      {
+          "name": "Kellys",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/Kellys.dvtcolortheme",
+          "description": "https://github.com/tursunovic/xcode-themes"
+      },
+      {
+          "name": "Night",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/Night.dvtcolortheme",
+          "description": "https://github.com/tursunovic/xcode-themes"
+      },
+      {
+          "name": "Quiet Light",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/Quiet Light.dvtcolortheme",
+          "description": "https://github.com/tursunovic/xcode-themes"
+      },
+      {
+          "name": "RailsCasts_selfmade",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/RailsCasts_selfmade.dvtcolortheme",
+          "description": "Inspired by the famous Railscast TextMate theme. https://github.com/tursunovic/xcode-themes"
+      },
+      {
+          "name": "Sidewalk Chalk",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/Sidewalk Chalk.dvtcolortheme",
+          "description": "https://github.com/tursunovic/xcode-themes"
+      },
+      {
+          "name": "Yozora",
+          "url": "https://raw.github.com/tursunovic/xcode-themes/master/xcode-themes/Yozora.dvtcolortheme",
+          "description": "https://github.com/tursunovic/xcode-themes"
       }
     ],
     "project_templates": [
