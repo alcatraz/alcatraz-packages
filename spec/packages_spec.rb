@@ -30,4 +30,15 @@ describe "Packages" do
       package["url"].should =~ URI::regexp
     end
   end
+
+  it "every color scheme URL is unique" do
+    schemes = @packages["color_schemes"]
+    schemes.map {|s| s["url"].downcase}.uniq.size.should == schemes.size
+  end
+
+  it "should only have uniquely named packages" do
+    @packages.each do |type, list|
+      list.map {|p| p["name"].downcase}.uniq.size.should == list.size
+    end
+  end
 end
