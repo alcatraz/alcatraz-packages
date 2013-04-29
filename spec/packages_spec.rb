@@ -20,7 +20,7 @@ describe "Packages" do
   it "every color scheme url points to a raw file" do
     links = @packages['color_schemes'].map { |package| package['url'] }
     links.each do |link|
-      link.should match ".dvtcolortheme"
+      link.should match ".dvtcolortheme$"
     end
   end
 
