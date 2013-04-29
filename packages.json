@@ -95,7 +95,7 @@
       {
         "name": "XcodeAutoCloseDebug",
         "url": "https://github.com/larsxschneider/XcodeAutoCloseDebug",
-        "description": "Close the debug window automatically after the debug session has ended."
+        "description": "Close the debug window automatically after the debug session has ended. IMPORTANT - Read the README for configuration instructions."
       },
       {
         "name": "Xprop",
