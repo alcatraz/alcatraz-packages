@@ -233,8 +233,8 @@
       },
       {
         "name": "Minimal",
-        "url": "Minimalistic, nib-less templates for Xcode 4",
-        "description": "https://github.com/omz/MinimalisticXcodeTemplates"
+        "url": "https://github.com/omz/MinimalisticXcodeTemplates",
+        "description": "Minimalistic, nib-less templates for Xcode 4"
       }
     ],
     "file_templates": [
