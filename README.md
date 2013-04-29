@@ -22,7 +22,7 @@ Use link to raw color scheme file for `url`
 ``` json
 {
   "name": "Most Amazing Theme Ever",
-  "url": "https://raw.github.com/me/xcode-amazing-theme/master/ThemeFile.dvcolortheme",
+  "url": "https://raw.github.com/me/xcode-amazing-theme/master/ThemeFile.dvtcolortheme",
   "description": "Easy on the eyes, makes code sing"
 }
 ```
