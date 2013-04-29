@@ -180,6 +180,21 @@
         "description": "A theme base on dusk."
       },
       {
+        "name": "Sidetracked",
+        "url": "https://raw.github.com/drudge/Sidetracked/master/Sidetracked.dvtcolortheme",
+        "description": "Stylish, Railscast inspired color scheme for various text/code editors."
+      },
+      {
+        "name": "Solarized Light",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Light.dvtcolortheme",
+        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
+      },
+      {
+        "name": "Solarized Dark",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Dark.dvtcolortheme",
+        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
+      },
+      {
         "name": "Tomorrow",
         "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
         "description": "A bright theme with pastel colours and sensible syntax highlighting"
@@ -193,26 +208,17 @@
         "name": "Tomorrow Night (Bright)",
         "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night%20Bright.dvtcolortheme",
         "description": "A bright theme with pastel colours and sensible syntax highlighting"
-      },
+      }
+      ,
       {
-        "name": "Solarized Light",
-        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Light.dvtcolortheme",
-        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
-      },
-      {
-        "name": "Solarized Dark",
-        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Dark.dvtcolortheme",
-        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications."
+        "name": "Vale",
+        "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
+        "description": "Satisfaction for you eyes, made by Chris Medina"
       },
       {
         "name": "Zenburn",
         "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
         "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions."
-      },
-      {
-        "name": "Vale",
-        "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
-        "description": "Satisfaction for you eyes, made by Chris Medina"
       }
     ],
     "project_templates": [
