@@ -3,6 +3,11 @@
 
     "plugins": [
       {
+        "name": "BBUncrustifyPlugin",
+        "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
+        "description": "Xcode plugin to uncrustify the source code opened in the editor"
+      },
+      {
         "name": "SCXcodeMinimap",
         "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
         "description": "SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode."
