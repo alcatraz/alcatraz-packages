@@ -263,6 +263,11 @@
           "name": "Cappuccino",
           "url": "https://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x",
           "description": "A set of file templates for Xcode 4.x to create Cappuccino related classes & categories"
+        },
+        {
+          "name": "GHUnit Templates",
+          "url": "https://github.com/jessecurry/ghunit-xcode-templates",
+          "description": "A set of file templates for Xcode 4.x to create GHUnit test cases"
         }
     ]
   }
