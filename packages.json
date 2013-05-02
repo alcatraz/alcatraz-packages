@@ -116,11 +116,6 @@
         "name": "DocExpander",
         "url": "https://github.com/bjtitus/XcodeDocExpander",
         "description": "Intelligent comment expansion based on DocBlockr for Sublime Text."
-      },
-      {
-        "name": "XcodeColors",
-        "url": "https://github.com/robbiehanson/XcodeColors",
-        "description": "Allows you to use colors in the Xcode debugging console."
       }
     ],
     "color_schemes": [
