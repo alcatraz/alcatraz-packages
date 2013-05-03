@@ -145,6 +145,11 @@
         "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. Even simpler version."
       },
       {
+        "name": "Cobalt",
+        "url": "https://raw.github.com/michaelmruta/Xcode-Cobalt-Theme/master/~:Library:Developer:Xcode:UserData:FontAndColorThemes/Cobalt%204.4.dvtcolortheme",
+        "description": "Cobalt color theme for Xcode"
+      },
+      {
         "name": "EGO v2",
         "url": "https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.dvtcolortheme",
         "description": "EGO v2 theme, favorite theme for xCode 4."
