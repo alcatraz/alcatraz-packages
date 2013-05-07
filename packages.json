@@ -185,6 +185,11 @@
         "description": "A theme base on dusk."
       },
       {
+        "name": "RFDusk Presentation",
+        "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk%20Presentation.dvtcolortheme",
+        "description": "Presentation version of RFDusk."
+      },
+      {
         "name": "Sidetracked",
         "url": "https://raw.github.com/drudge/Sidetracked/master/Sidetracked.dvtcolortheme",
         "description": "Stylish, Railscast inspired color scheme for various text/code editors."
