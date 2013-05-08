@@ -121,6 +121,11 @@
         "name": "PeepOpen",
         "url": "https://github.com/enriquez/PeepOpen-Xcode-4-Plugin",
         "description": "Plugin for PeepOpen. An alternative to Open Quickly..."
+      },
+      {
+        "name": "XcodeColors",
+        "url": "https://github.com/robbiehanson/XcodeColors.git",
+        "description": "XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process."
       }
     ],
     "color_schemes": [
