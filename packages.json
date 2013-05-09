@@ -121,6 +121,11 @@
         "name": "PeepOpen",
         "url": "https://github.com/enriquez/PeepOpen-Xcode-4-Plugin",
         "description": "Plugin for PeepOpen. An alternative to Open Quickly..."
+      },
+      {
+        "name": "InstaCodesPlugin",
+        "url": "https://github.com/parametr/instacodes-for-xcode",
+        "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x."
       }
     ],
     "color_schemes": [
