@@ -133,7 +133,7 @@
         "name": "Blues",
         "url": "https://raw.github.com/HansPinckaers/blues-theme/master/Blues.dvtcolortheme",
         "description": "A light theme (white background) based on Xcodes default template by Hans Pinckaers",
-		"screenshot": "http://f.cl.ly/items/3L0g3b3a3o420s1k1l31/blues.png"
+	"screenshot": "http://f.cl.ly/items/3L0g3b3a3o420s1k1l31/blues.png"
       },
       {
         "name": "Chocolate Box",
@@ -164,7 +164,7 @@
         "name": "EGO v2",
         "url": "https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.dvtcolortheme",
         "description": "EGO v2 theme, favorite theme for xCode 4.",
-		"screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
+	"screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
       },
       {
         "name": "Humane",
