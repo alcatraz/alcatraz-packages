@@ -41,4 +41,13 @@ describe "Packages" do
       list.map {|p| p["name"].downcase}.uniq.size.should == list.size
     end
   end
+
+  it "should have valid URLs for screenshots if they are present" do
+    valid_image_formats = %w(png jpg jpeg bmp gif)
+    @packages.values.flatten.each do |package|
+      if package.has_key? 'screenshot'
+        valid_image_formats.should include package['screenshot'].split('.').last
+      end
+    end
+  end
 end
