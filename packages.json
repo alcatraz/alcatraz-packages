@@ -177,6 +177,11 @@
         "description": "A simple port of the Monokai TextMate theme to Xcode"
       },
       {
+        "name": "New Roman Times",
+        "url": "https://gist.github.com/coryalder/811771/raw/4ef9e9007f3677df7d9e378c3fe1743c1383c74f/New+Roman+Times.dvtcolortheme",
+        "description": "A proportional coding theme. Times New Roman for code, Menlo for comments and the console."
+      },
+      {
         "name": "ObsidianCode",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
         "description": "A theme made by Ben Scheirman."
