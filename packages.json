@@ -14,7 +14,8 @@
       {
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
-        "description": "Button for quickly deleting derived data. Makes Xcode happy."
+        "description": "Button for quickly deleting derived data. Makes Xcode happy.",
+        "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/exterminator+minixcode.png"
       },
       {
         "name": "OMMiniXcode",
@@ -35,12 +36,14 @@
       {
         "name": "KSImageNamed",
         "url": "https://github.com/ksuther/KSImageNamed-Xcode",
-        "description": "Xcode plug-in that provides autocomplete for imageNamed: calls"
+        "description": "Xcode plug-in that provides autocomplete for imageNamed: calls",
+        "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png"
       },
       {
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
-        "description": "Plugin for Xcode to make working with strings less \"escaped\""
+        "description": "Plugin for Xcode to make working with strings less \"escaped\"",
+        "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
       },
       {
         "name": "XVim",
@@ -55,7 +58,8 @@
       {
         "name": "Lin",
         "url": "https://github.com/questbeat/Lin",
-        "description": "Xcode4 plugin shows completion for NSLocalizedString"
+        "description": "Xcode4 plugin shows completion for NSLocalizedString",
+        "screenshot": "https://a248.e.akamai.net/camo.github.com/6c4fc4630543be9addbb384133d07074866d0a8a/687474703a2f2f61646f746f75742e73616b7572612e6e652e6a702f6769746875622f4c696e2f6c696e5f737330322e706e67"
       },
       {
         "name": "XCFixin_CurrentLineHighlighter",
@@ -110,7 +114,8 @@
       {
         "name": "DLAutoresizeMaskPlugin",
         "url": "https://github.com/garnett/AutoresizeMask-for-Xcode",
-        "description": "Vizualize autoresizing masks in the code editor."
+        "description": "Vizualize autoresizing masks in the code editor.",
+        "screenshot": "https://raw.github.com/garnett/AutoresizeMask-for-Xcode/master/example.png"
       },
       {
         "name": "DocExpander",
@@ -125,7 +130,8 @@
       {
         "name": "InstaCodesPlugin",
         "url": "https://github.com/parametr/instacodes-for-xcode",
-        "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x."
+        "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x.",
+        "screenshot": "http://instacod.es/file/58434"
       }
     ],
     "color_schemes": [
