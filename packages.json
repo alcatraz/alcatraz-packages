@@ -88,6 +88,11 @@
         "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
       },
       {
+        "name": "XCFixin_CustomizeWarningErrorHighlights",
+        "url": "https://github.com/armadillu/Xcode-4-Fixins",
+        "description": "Customize the inline error/warning message highlight color. Useful if you want to be able to read your code when using a dark background color."
+      },
+      {
         "name": "XCFixin_UserScripts",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
