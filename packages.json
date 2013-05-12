@@ -19,7 +19,8 @@
       {
         "name": "OMMiniXcode",
         "url": "https://github.com/omz/MiniXcode",
-        "description": "Xcode plugin for working without the main toolbar"
+        "description": "Xcode plugin for working without the main toolbar",
+        "screenshot": "https://github.com/omz/MiniXcode/raw/master/Screenshot.png"
       },
       {
         "name": "OMColorSense",
