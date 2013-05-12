@@ -7,6 +7,7 @@ To contribute your own package, fork this project and edit packages.json to incl
 
 ### Plugin Format
 The `url` should be a repository containing the Xcode project, and the `name` should be the same as the `.xcodeproj` file.
+The `screenshot` is optional but should be a direct URL to a single image
 
 ``` json
 {
@@ -23,7 +24,8 @@ Use link to raw color scheme file for `url`
 {
   "name": "Most Amazing Theme Ever",
   "url": "https://raw.github.com/me/xcode-amazing-theme/master/ThemeFile.dvtcolortheme",
-  "description": "Easy on the eyes, makes code sing"
+  "description": "Easy on the eyes, makes code sing",
+  "screenshot": "http://raw/github.com/me/awesome-screenshot.png"
 }
 ```
 
