@@ -1,306 +1,306 @@
 {
-    "packages": {
-        "plugins": [
-            {
-                "name": "BBUncrustifyPlugin",
-                "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
-                "description": "Xcode plugin to uncrustify the source code opened in the editor"
-            },
-            {
-                "name": "SCXcodeMinimap",
-                "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
-                "description": "SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode."
-            },
-            {
-                "name": "DerivedData Exterminator",
-                "url": "https://github.com/kattrali/deriveddata-exterminator",
-                "description": "Button for quickly deleting derived data. Makes Xcode happy."
-            },
-            {
-                "name": "OMMiniXcode",
-                "url": "https://github.com/omz/MiniXcode",
-                "description": "Xcode plugin for working without the main toolbar"
-            },
-            {
-                "name": "OMColorSense",
-                "url": "https://github.com/omz/ColorSense-for-Xcode",
-                "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
-            },
-            {
-                "name": "OMQuickHelp",
-                "url": "https://github.com/omz/Dash-Plugin-for-Xcode",
-                "description": "Plugin for Xcode to integrate the Dash documentation viewer app"
-            },
-            {
-                "name": "KSImageNamed",
-                "url": "https://github.com/ksuther/KSImageNamed-Xcode",
-                "description": "Xcode plug-in that provides autocomplete for imageNamed: calls"
-            },
-            {
-                "name": "HOStringSense",
-                "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
-                "description": "Plugin for Xcode to make working with strings less \"escaped\""
-            },
-            {
-                "name": "XVim",
-                "url": "https://github.com/JugglerShu/XVim",
-                "description": "Xcode plugin for Vim keybindings"
-            },
-            {
-                "name": "XCode4_beginning_of_line",
-                "url": "https://github.com/insanehunter/XCode4_beginning_of_line",
-                "description": "XCode 4 plugin to make HOME key jump to the first non-whitespace line of code"
-            },
-            {
-                "name": "Lin",
-                "url": "https://github.com/questbeat/Lin",
-                "description": "Xcode4 plugin shows completion for NSLocalizedString"
-            },
-            {
-                "name": "XCFixin_CurrentLineHighlighter",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": "This fixin highlights the line currently being edited in the source editor"
-            },
-            {
-                "name": "XCFixin_DisableAnimations",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": "This fixin disables Xcode's various NSAnimation-based animations, such as the Show/Hide Debug Area, Show/Hide Navigator, and Show/Hide Utilities animations."
-            },
-            {
-                "name": "XCFixin_FindFix",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": "This fixin makes Xcode show all find options (such as \"Ignore Case\") in the find bar when it opens."
-            },
-            {
-                "name": "XCFixin_HideDistractions",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": " This fixin adds a \"Hide Distractions\" menu item to the View menu, which focuses the current editor by hiding auxiliary views and maximizing the active window. This fixin works best when the XCFixin_DisableAnimations fixin is also installed."
-            },
-            {
-                "name": "XCFixin_InhibitTabNextPlaceholder",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": "This fixin disables using the tab key to select between argument placeholders of a synthesized (by Xcode's code completion) method call."
-            },
-            {
-                "name": "XCFixin_TabAcceptsCompletions",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
-            },
-            {
-                "name": "XCFixin_UserScripts",
-                "url": "https://github.com/davekeck/Xcode-4-Fixins",
-                "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
-            },
-            {
-                "name": "ShowInGithub",
-                "url": "https://github.com/larsxschneider/ShowInGitHub",
-                "description": "Open the related Github page of a source file directly form the Xcode editor code window."
-            },
-            {
-                "name": "XcodeAutoCloseDebug",
-                "url": "https://github.com/larsxschneider/XcodeAutoCloseDebug",
-                "description": "Close the debug window automatically after the debug session has ended."
-            },
-            {
-                "name": "Xprop",
-                "url": "https://github.com/shpakovski/Xprop",
-                "description": "Exclude @property and @synthesize document items from the navigator menu."
-            },
-            {
-                "name": "DLAutoresizeMaskPlugin",
-                "url": "https://github.com/garnett/AutoresizeMask-for-Xcode",
-                "description": "Vizualize autoresizing masks in the code editor."
-            },
-            {
-                "name": "DocExpander",
-                "url": "https://github.com/bjtitus/XcodeDocExpander",
-                "description": "Intelligent comment expansion based on DocBlockr for Sublime Text."
-            },
-            {
-                "name": "PeepOpen",
-                "url": "https://github.com/enriquez/PeepOpen-Xcode-4-Plugin",
-                "description": "Plugin for PeepOpen. An alternative to Open Quickly..."
-            },
-            {
-                "name": "InstaCodesPlugin",
-                "url": "https://github.com/parametr/instacodes-for-xcode",
-                "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x."
-            }
-        ],
-        "color_schemes": [
-            {
-                "name": "Blues",
-                "url": "https://raw.github.com/HansPinckaers/blues-theme/master/Blues.dvtcolortheme",
-                "description": "A light theme (white background) based on Xcodes default template by Hans Pinckaers",
-                "screenshot": "http://f.cl.ly/items/3L0g3b3a3o420s1k1l31/blues.png"
-            },
-            {
-                "name": "Chocolate Box",
-                "url": "https://raw.github.com/tkemp/Colour-and-standards/master/Chocolate%20Cake.dvtcolortheme",
-                "description": "A useful and attractive dark brown and orange theme by Tim Kemp"
-            },
-            {
-                "name": "Ciapre",
-                "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre.dvtcolortheme",
-                "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. The original one.",
-                "screenshot": "https://f.cloud.github.com/assets/1097578/415654/3009f0ec-ac3a-11e2-9271-e2e681d05795.png"
-            },
-            {
-                "name": "Ciapre Blue",
-                "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre%20Blue.dvtcolortheme",
-                "description": "So I heard you like blue.",
-                "screenshot": "https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png"
-            },
-            {
-                "name": "Ciapre 2",
-                "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre%202.dvtcolortheme",
-                "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. Even simpler version.",
-                "screenshot": "https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png"
-            },
-            {
-                "name": "Cobalt",
-                "url": "https://raw.github.com/michaelmruta/Xcode-Cobalt-Theme/master/~:Library:Developer:Xcode:UserData:FontAndColorThemes/Cobalt%204.4.dvtcolortheme",
-                "description": "Cobalt color theme for Xcode"
-            },
-            {
-                "name": "EGO v2",
-                "url": "https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.dvtcolortheme",
-                "description": "EGO v2 theme, favorite theme for xCode 4.",
-                "screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
-            },
-            {
-                "name": "Humane",
-                "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
-                "description": "This theme was originally made for Xcode 3 by Damien Guard",
-                "screenshot": "http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png"
-            },
-            {
-                "name": "Monokai",
-                "url": "https://raw.github.com/mclaughj/Monokai-Xcode-Theme/master/Monokai.dvtcolortheme",
-                "description": "A simple port of the Monokai TextMate theme to Xcode"
-            },
-            {
-                "name": "New Roman Times",
-                "url": "https://gist.github.com/coryalder/811771/raw/4ef9e9007f3677df7d9e378c3fe1743c1383c74f/New+Roman+Times.dvtcolortheme",
-                "description": "A proportional coding theme. Times New Roman for code, Menlo for comments and the console."
-            },
-            {
-                "name": "ObsidianCode",
-                "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
-                "description": "A theme made by Ben Scheirman.",
-                "screenshot": "https://skitch-img.s3.amazonaws.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg"
-            },
-            {
-                "name": "Push Popcorn",
-                "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
-                "description": "A theme made by Andrea Gelati."
-            },
-            {
-                "name": "Railscasts",
-                "url": "https://raw.github.com/levey/Xcode4theme-Railscasts/master/Railscasts.dvtcolortheme",
-                "description": "Railscasts theme for Xcode 4.x"
-            },
-            {
-                "name": "RFDusk",
-                "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk.dvtcolortheme",
-                "description": "A theme base on dusk."
-            },
-            {
-                "name": "RFDusk Presentation",
-                "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk%20Presentation.dvtcolortheme",
-                "description": "Presentation version of RFDusk."
-            },
-            {
-                "name": "Sidetracked",
-                "url": "https://raw.github.com/drudge/Sidetracked/master/Sidetracked.dvtcolortheme",
-                "description": "Stylish, Railscast inspired color scheme for various text/code editors.",
-                "screenshot": "https://raw.github.com/drudge/Sidetracked/master/Preview.png"
-            },
-            {
-                "name": "Solarized Light",
-                "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Light.dvtcolortheme",
-                "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.",
-                "screenshot": "http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png"
-            },
-            {
-                "name": "Solarized Dark",
-                "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Dark.dvtcolortheme",
-                "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.",
-                "screenshot": "http://farm6.static.flickr.com/5062/5592270855_1b26fb726e_o.png"
-            },
-            {
-                "name": "Tomorrow",
-                "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
-                "description": "A bright theme with pastel colours and sensible syntax highlighting"
-            },
-            {
-                "name": "Tomorrow Night",
-                "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night.dvtcolortheme",
-                "description": "A bright theme with pastel colours and sensible syntax highlighting",
-                "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night.png"
-            },
-            {
-                "name": "Tomorrow Night (Bright)",
-                "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night%20Bright.dvtcolortheme",
-                "description": "A bright theme with pastel colours and sensible syntax highlighting",
-                "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Bright.png"
-            },
-            {
-                "name": "Vale",
-                "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
-                "description": "Satisfaction for you eyes, made by Chris Medina",
-                "screenshot": "https://raw.github.com/C4MS/Vale/master/Color-Scheme.jpg"
-            },
-            {
-                "name": "Zenburn",
-                "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
-                "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions.",
-                "screenshot": "https://skitch-img.s3.amazonaws.com/20110923-tudq2cm22x6bmmahqhtuh6f6qq.jpg"
-            }
-        ],
-        "project_templates": [
-            {
-                "name": "AFNetworking Templates",
-                "url": "https://github.com/AFNetworking/Xcode-Project-Templates",
-                "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
-            },
-            {
-                "name": "Xcode plugin",
-                "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
-                "description": "Project Template for creating a plugin for Xcode4"
-            },
-            {
-                "name": "iOSOpenDev Templates",
-                "url": "https://github.com/kokoabim/iOSOpenDev-Xcode-Templates",
-                "description": "http://www.iOSOpenDev.com"
-            },
-            {
-                "name": "Minimal",
-                "url": "https://github.com/omz/MinimalisticXcodeTemplates",
-                "description": "Minimalistic, nib-less templates for Xcode 4"
-            }
-        ],
-        "file_templates": [
-            {
-                "name": "Licensed",
-                "url": "https://github.com/mattt/Xcode-Licensed-Templates",
-                "description": "Minimal Xcode Templates for Open Source Developers"
-            },
-            {
-                "name": "TJXcodeTemplates",
-                "url": "https://github.com/thomasjoulin/TJXcodeTemplates",
-                "description": "A set of stripped-out Xcode 4 default templates."
-            },
-            {
-                "name": "Cappuccino",
-                "url": "https://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x",
-                "description": "A set of file templates for Xcode 4.x to create Cappuccino related classes & categories"
-            },
-            {
-                "name": "GHUnit Templates",
-                "url": "https://github.com/jessecurry/ghunit-xcode-templates",
-                "description": "A set of file templates for Xcode 4.x to create GHUnit test cases"
-            }
-        ]
-    }
+  "packages": {
+    "plugins": [
+      {
+        "name": "BBUncrustifyPlugin",
+        "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
+        "description": "Xcode plugin to uncrustify the source code opened in the editor"
+      },
+      {
+        "name": "SCXcodeMinimap",
+        "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
+        "description": "SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode."
+      },
+      {
+        "name": "DerivedData Exterminator",
+        "url": "https://github.com/kattrali/deriveddata-exterminator",
+        "description": "Button for quickly deleting derived data. Makes Xcode happy."
+      },
+      {
+        "name": "OMMiniXcode",
+        "url": "https://github.com/omz/MiniXcode",
+        "description": "Xcode plugin for working without the main toolbar"
+      },
+      {
+        "name": "OMColorSense",
+        "url": "https://github.com/omz/ColorSense-for-Xcode",
+        "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
+      },
+      {
+        "name": "OMQuickHelp",
+        "url": "https://github.com/omz/Dash-Plugin-for-Xcode",
+        "description": "Plugin for Xcode to integrate the Dash documentation viewer app"
+      },
+      {
+        "name": "KSImageNamed",
+        "url": "https://github.com/ksuther/KSImageNamed-Xcode",
+        "description": "Xcode plug-in that provides autocomplete for imageNamed: calls"
+      },
+      {
+        "name": "HOStringSense",
+        "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
+        "description": "Plugin for Xcode to make working with strings less \"escaped\""
+      },
+      {
+        "name": "XVim",
+        "url": "https://github.com/JugglerShu/XVim",
+        "description": "Xcode plugin for Vim keybindings"
+      },
+      {
+        "name": "XCode4_beginning_of_line",
+        "url": "https://github.com/insanehunter/XCode4_beginning_of_line",
+        "description": "XCode 4 plugin to make HOME key jump to the first non-whitespace line of code"
+      },
+      {
+        "name": "Lin",
+        "url": "https://github.com/questbeat/Lin",
+        "description": "Xcode4 plugin shows completion for NSLocalizedString"
+      },
+      {
+        "name": "XCFixin_CurrentLineHighlighter",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin highlights the line currently being edited in the source editor"
+      },
+      {
+        "name": "XCFixin_DisableAnimations",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin disables Xcode's various NSAnimation-based animations, such as the Show/Hide Debug Area, Show/Hide Navigator, and Show/Hide Utilities animations."
+      },
+      {
+        "name": "XCFixin_FindFix",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin makes Xcode show all find options (such as \"Ignore Case\") in the find bar when it opens."
+      },
+      {
+        "name": "XCFixin_HideDistractions",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": " This fixin adds a \"Hide Distractions\" menu item to the View menu, which focuses the current editor by hiding auxiliary views and maximizing the active window. This fixin works best when the XCFixin_DisableAnimations fixin is also installed."
+      },
+      {
+        "name": "XCFixin_InhibitTabNextPlaceholder",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "This fixin disables using the tab key to select between argument placeholders of a synthesized (by Xcode's code completion) method call."
+      },
+      {
+        "name": "XCFixin_TabAcceptsCompletions",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
+      },
+      {
+        "name": "XCFixin_UserScripts",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
+      },
+      {
+        "name": "ShowInGithub",
+        "url": "https://github.com/larsxschneider/ShowInGitHub",
+        "description": "Open the related Github page of a source file directly form the Xcode editor code window."
+      },
+      {
+        "name": "XcodeAutoCloseDebug",
+        "url": "https://github.com/larsxschneider/XcodeAutoCloseDebug",
+        "description": "Close the debug window automatically after the debug session has ended."
+      },
+      {
+        "name": "Xprop",
+        "url": "https://github.com/shpakovski/Xprop",
+        "description": "Exclude @property and @synthesize document items from the navigator menu."
+      },
+      {
+        "name": "DLAutoresizeMaskPlugin",
+        "url": "https://github.com/garnett/AutoresizeMask-for-Xcode",
+        "description": "Vizualize autoresizing masks in the code editor."
+      },
+      {
+        "name": "DocExpander",
+        "url": "https://github.com/bjtitus/XcodeDocExpander",
+        "description": "Intelligent comment expansion based on DocBlockr for Sublime Text."
+      },
+      {
+        "name": "PeepOpen",
+        "url": "https://github.com/enriquez/PeepOpen-Xcode-4-Plugin",
+        "description": "Plugin for PeepOpen. An alternative to Open Quickly..."
+      },
+      {
+        "name": "InstaCodesPlugin",
+        "url": "https://github.com/parametr/instacodes-for-xcode",
+        "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x."
+      }
+    ],
+    "color_schemes": [
+      {
+        "name": "Blues",
+        "url": "https://raw.github.com/HansPinckaers/blues-theme/master/Blues.dvtcolortheme",
+        "description": "A light theme (white background) based on Xcodes default template by Hans Pinckaers",
+        "screenshot": "http://f.cl.ly/items/3L0g3b3a3o420s1k1l31/blues.png"
+      },
+      {
+        "name": "Chocolate Box",
+        "url": "https://raw.github.com/tkemp/Colour-and-standards/master/Chocolate%20Cake.dvtcolortheme",
+        "description": "A useful and attractive dark brown and orange theme by Tim Kemp"
+      },
+      {
+        "name": "Ciapre",
+        "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre.dvtcolortheme",
+        "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. The original one.",
+        "screenshot": "https://f.cloud.github.com/assets/1097578/415654/3009f0ec-ac3a-11e2-9271-e2e681d05795.png"
+      },
+      {
+        "name": "Ciapre Blue",
+        "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre%20Blue.dvtcolortheme",
+        "description": "So I heard you like blue.",
+        "screenshot": "https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png"
+      },
+      {
+        "name": "Ciapre 2",
+        "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre%202.dvtcolortheme",
+        "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. Even simpler version.",
+        "screenshot": "https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png"
+      },
+      {
+        "name": "Cobalt",
+        "url": "https://raw.github.com/michaelmruta/Xcode-Cobalt-Theme/master/~:Library:Developer:Xcode:UserData:FontAndColorThemes/Cobalt%204.4.dvtcolortheme",
+        "description": "Cobalt color theme for Xcode"
+      },
+      {
+        "name": "EGO v2",
+        "url": "https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.dvtcolortheme",
+        "description": "EGO v2 theme, favorite theme for xCode 4.",
+        "screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
+      },
+      {
+        "name": "Humane",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
+        "description": "This theme was originally made for Xcode 3 by Damien Guard",
+        "screenshot": "http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png"
+      },
+      {
+        "name": "Monokai",
+        "url": "https://raw.github.com/mclaughj/Monokai-Xcode-Theme/master/Monokai.dvtcolortheme",
+        "description": "A simple port of the Monokai TextMate theme to Xcode"
+      },
+      {
+        "name": "New Roman Times",
+        "url": "https://gist.github.com/coryalder/811771/raw/4ef9e9007f3677df7d9e378c3fe1743c1383c74f/New+Roman+Times.dvtcolortheme",
+        "description": "A proportional coding theme. Times New Roman for code, Menlo for comments and the console."
+      },
+      {
+        "name": "ObsidianCode",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
+        "description": "A theme made by Ben Scheirman.",
+        "screenshot": "https://skitch-img.s3.amazonaws.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg"
+      },
+      {
+        "name": "Push Popcorn",
+        "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
+        "description": "A theme made by Andrea Gelati."
+      },
+      {
+        "name": "Railscasts",
+        "url": "https://raw.github.com/levey/Xcode4theme-Railscasts/master/Railscasts.dvtcolortheme",
+        "description": "Railscasts theme for Xcode 4.x"
+      },
+      {
+        "name": "RFDusk",
+        "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk.dvtcolortheme",
+        "description": "A theme base on dusk."
+      },
+      {
+        "name": "RFDusk Presentation",
+        "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk%20Presentation.dvtcolortheme",
+        "description": "Presentation version of RFDusk."
+      },
+      {
+        "name": "Sidetracked",
+        "url": "https://raw.github.com/drudge/Sidetracked/master/Sidetracked.dvtcolortheme",
+        "description": "Stylish, Railscast inspired color scheme for various text/code editors.",
+        "screenshot": "https://raw.github.com/drudge/Sidetracked/master/Preview.png"
+      },
+      {
+        "name": "Solarized Light",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Light.dvtcolortheme",
+        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.",
+        "screenshot": "http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png"
+      },
+      {
+        "name": "Solarized Dark",
+        "url": "https://raw.github.com/jbrennan/xcode4themes/master/Solarize%20Dark.dvtcolortheme",
+        "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.",
+        "screenshot": "http://farm6.static.flickr.com/5062/5592270855_1b26fb726e_o.png"
+      },
+      {
+        "name": "Tomorrow",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting"
+      },
+      {
+        "name": "Tomorrow Night",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting",
+        "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night.png"
+      },
+      {
+        "name": "Tomorrow Night (Bright)",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night%20Bright.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting",
+        "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Bright.png"
+      },
+      {
+        "name": "Vale",
+        "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
+        "description": "Satisfaction for you eyes, made by Chris Medina",
+        "screenshot": "https://raw.github.com/C4MS/Vale/master/Color-Scheme.jpg"
+      },
+      {
+        "name": "Zenburn",
+        "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
+        "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions.",
+        "screenshot": "https://skitch-img.s3.amazonaws.com/20110923-tudq2cm22x6bmmahqhtuh6f6qq.jpg"
+      }
+    ],
+    "project_templates": [
+      {
+        "name": "AFNetworking Templates",
+        "url": "https://github.com/AFNetworking/Xcode-Project-Templates",
+        "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
+      },
+      {
+        "name": "Xcode plugin",
+        "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode4"
+      },
+      {
+        "name": "iOSOpenDev Templates",
+        "url": "https://github.com/kokoabim/iOSOpenDev-Xcode-Templates",
+        "description": "http://www.iOSOpenDev.com"
+      },
+      {
+        "name": "Minimal",
+        "url": "https://github.com/omz/MinimalisticXcodeTemplates",
+        "description": "Minimalistic, nib-less templates for Xcode 4"
+      }
+    ],
+    "file_templates": [
+      {
+        "name": "Licensed",
+        "url": "https://github.com/mattt/Xcode-Licensed-Templates",
+        "description": "Minimal Xcode Templates for Open Source Developers"
+      },
+      {
+        "name": "TJXcodeTemplates",
+        "url": "https://github.com/thomasjoulin/TJXcodeTemplates",
+        "description": "A set of stripped-out Xcode 4 default templates."
+      },
+      {
+        "name": "Cappuccino",
+        "url": "https://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x",
+        "description": "A set of file templates for Xcode 4.x to create Cappuccino related classes & categories"
+      },
+      {
+        "name": "GHUnit Templates",
+        "url": "https://github.com/jessecurry/ghunit-xcode-templates",
+        "description": "A set of file templates for Xcode 4.x to create GHUnit test cases"
+      }
+    ]
+  }
 }
