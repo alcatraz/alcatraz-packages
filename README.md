@@ -38,7 +38,6 @@ The `url` should be a repository containing one or more templates
 {
   "name": "Magical",
   "url": "https://raw.github.com/me/xcode-magic-templates",
-  "description": "File templates for rainbow adventure coding",
-  "screenshot": "http://raw/github.com/me/awesome-screenshot.png"
+  "description": "File templates for rainbow adventure coding"
 }
 ```
