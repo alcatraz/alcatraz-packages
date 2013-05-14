@@ -15,7 +15,7 @@ The `url` should be a repository containing the Xcode project, and the `name` sh
   "name": "LifeChangingPlugin",
   "url": "https://github.com/me/xcode-life-changing-plugin",
   "description": "Makes Xcode stop, collaborate and listen.",
-  "screenshot": "http://raw/github.com/me/awesome-screenshot.png"
+  "screenshot": "http://raw.github.com/me/awesome-screenshot.png"
 }
 ```
 
@@ -27,7 +27,7 @@ Use link to raw color scheme file for `url`
   "name": "Most Amazing Theme Ever",
   "url": "https://raw.github.com/me/xcode-amazing-theme/master/ThemeFile.dvtcolortheme",
   "description": "Easy on the eyes, makes code sing",
-  "screenshot": "http://raw/github.com/me/awesome-screenshot.png"
+  "screenshot": "http://raw.github.com/me/awesome-screenshot.png"
 }
 ```
 
