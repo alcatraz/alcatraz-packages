@@ -306,6 +306,11 @@
         "name": "GHUnit Templates",
         "url": "https://github.com/jessecurry/ghunit-xcode-templates",
         "description": "A set of file templates for Xcode 4.x to create GHUnit test cases"
+      },
+      {
+        "name": "Kiwi Templates",
+        "url": "https://github.com/modocache/Kiwi-Xcode-File-Templates",
+        "description": "Xcode File Templates for the Kiwi BDD Framework."
       }
     ]
   }
