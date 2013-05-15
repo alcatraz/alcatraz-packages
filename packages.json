@@ -309,7 +309,7 @@
       },
       {
         "name": "Kiwi Templates",
-        "url": "https://github.com/modocache/Kiwi-Xcode-File-Templates",
+        "url": "https://github.com/allending/Kiwi",
         "description": "Xcode File Templates for the Kiwi BDD Framework."
       }
     ]
