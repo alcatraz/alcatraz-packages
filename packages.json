@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "PluginConsole",
+        "url": "https://github.com/AlexIzh/PluginConsole/tree/master/PluginConsole",
+        "description": "Extension for standard Xcode console. Use it for log debug information from your plugin to Xcode console.",
+	"screenshot": "https://a248.e.akamai.net/camo.github.com/46aacbd87581e7143482c7fbd827ff97b2987616/687474703a2f2f636c2e6c792f696d6167652f3047324d30523071343433592f53637265656e25323053686f74253230323031332d30352d31362532306174253230332e30362e32312e706e67"
+      },
+      {
         "name": "BBUncrustifyPlugin",
         "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
         "description": "Xcode plugin to uncrustify the source code opened in the editor"
