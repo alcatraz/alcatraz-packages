@@ -246,6 +246,12 @@
         "screenshot": "http://farm6.static.flickr.com/5062/5592270855_1b26fb726e_o.png"
       },
       {
+        "name": "Spacedust",
+        "url": "https://raw.github.com/mhallendal/spacedust-theme/master/Xcode4/Spacedust.dvtcolortheme",
+        "description": "A theme initially created for Xcode by Mikael Hallendal.",
+        "screenshot": "https://raw.github.com/mhallendal/spacedust-theme/master/Xcode4/spacedust-xcode-theme.png"
+      },
+      {
         "name": "Tomorrow",
         "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
         "description": "A bright theme with pastel colours and sensible syntax highlighting"
