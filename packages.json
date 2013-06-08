@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+        "name": "XCommentWrap",
+        "url": "https://github.com/ianyh/XCommentWrap",
+        "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
+      },
+      {
         "name": "PluginConsole",
         "url": "https://github.com/AlexIzh/PluginConsole",
         "description": "Extension for standard Xcode console. Use it for log debug information from your plugin to Xcode console.",
