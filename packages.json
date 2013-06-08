@@ -148,6 +148,11 @@
         "url": "https://github.com/edwardaux/XcodeExplorer",
         "description": "This is a plugin project that allows you, as a developer, to explore the various events and notifications that Xcode4 emits during normal operations."
       }
+      {
+        "name": "BTGisterPost",
+        "url": "https://github.com/LogikBlitz/BTGisterPost",
+        "description": "This plug-in allow developers to quicly post gist's to GitHub directly from XCode."
+      }
     ],
     "color_schemes": [
       {
