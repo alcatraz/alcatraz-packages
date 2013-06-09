@@ -156,6 +156,12 @@
     ],
     "color_schemes": [
       {
+        "name": "BiasedBit",
+        "url": "https://raw.github.com/brunodecarvalho/xcode-themes/master/BiasedBit.dvtcolortheme",
+        "description": "A light theme (white background) by Bruno de Carvalho",
+        "screenshot": "https://raw.github.com/brunodecarvalho/xcode-themes/master/BiasedBit.preview.png"
+      },
+      {
         "name": "Blues",
         "url": "https://raw.github.com/HansPinckaers/blues-theme/master/Blues.dvtcolortheme",
         "description": "A light theme (white background) based on Xcodes default template by Hans Pinckaers",
@@ -283,6 +289,12 @@
         "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night%20Bright.dvtcolortheme",
         "description": "A bright theme with pastel colours and sensible syntax highlighting",
         "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Bright.png"
+      },
+      {
+        "name": "Twilight",
+        "url": "https://raw.github.com/brunodecarvalho/xcode-themes/master/Twilight.dvtcolortheme",
+        "description": "The Twilight theme based on TextMate's Twilight theme by Bruno de Carvalho",
+        "screenshot": "https://raw.github.com/brunodecarvalho/xcode-themes/master/Twilight.preview.png"
       },
       {
         "name": "Vale",
