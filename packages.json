@@ -29,12 +29,6 @@
         "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/exterminator+minixcode.png"
       },
       {
-        "name": "OMMiniXcode",
-        "url": "https://github.com/omz/MiniXcode",
-        "description": "Xcode plugin for working without the main toolbar",
-        "screenshot": "https://github.com/omz/MiniXcode/raw/master/Screenshot.png"
-      },
-      {
         "name": "OMColorSense",
         "url": "https://github.com/omz/ColorSense-for-Xcode",
         "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
