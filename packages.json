@@ -89,7 +89,7 @@
       },
       {
         "name": "XCFixin_CustomizeWarningErrorHighlights",
-        "url": "https://github.com/armadillu/Xcode-4-Fixins",
+        "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Customize the inline error/warning message highlight color. Useful if you want to be able to read your code when using a dark background color."
       },
       {
