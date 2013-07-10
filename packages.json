@@ -2,13 +2,6 @@
   "packages": {
     "plugins": [
       {
-        "name": "Attica",
-        "url": "https://github.com/kattrali/attica",
-        "description": "Snippet editor and import manager",
-        "screenshot": "https://raw.github.com/kattrali/attica/master/attica.png",
-        "xcode_version":"5"
-      },
-      {
         "name": "XCommentWrap",
         "url": "https://github.com/ianyh/XCommentWrap",
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters.",
@@ -19,174 +12,174 @@
         "url": "https://github.com/AlexIzh/PluginConsole",
         "description": "Extension for standard Xcode console. Use it for log debug information from your plugin to Xcode console.",
 	      "screenshot": "http://f.cl.ly/items/39053K1L311z191G2v1z/Screen%20Shot%202013-05-16%20at%203.06.21.png",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "BBUncrustifyPlugin",
         "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
         "description": "Xcode plugin to uncrustify the source code opened in the editor",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "SCXcodeMinimap",
         "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
         "description": "SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
         "description": "Button for quickly deleting derived data. Makes Xcode happy.",
         "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/exterminator+minixcode.png",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "OMColorSense",
         "url": "https://github.com/omz/ColorSense-for-Xcode",
         "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "OMQuickHelp",
         "url": "https://github.com/omz/Dash-Plugin-for-Xcode",
         "description": "Plugin for Xcode to integrate the Dash documentation viewer app",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "KSImageNamed",
         "url": "https://github.com/ksuther/KSImageNamed-Xcode",
         "description": "Xcode plug-in that provides autocomplete for imageNamed: calls",
         "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
         "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XVim",
         "url": "https://github.com/JugglerShu/XVim",
         "description": "Xcode plugin for Vim keybindings",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCode4_beginning_of_line",
         "url": "https://github.com/insanehunter/XCode4_beginning_of_line",
         "description": "XCode 4 plugin to make HOME key jump to the first non-whitespace line of code",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "Lin",
         "url": "https://github.com/questbeat/Lin",
         "description": "Xcode4 plugin shows completion for NSLocalizedString",
         "screenshot": "http://maniacdev.com/wp-content/uploads/2013/03/lin.png",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_CurrentLineHighlighter",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "This fixin highlights the line currently being edited in the source editor",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_DisableAnimations",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "This fixin disables Xcode's various NSAnimation-based animations, such as the Show/Hide Debug Area, Show/Hide Navigator, and Show/Hide Utilities animations.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_FindFix",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "This fixin makes Xcode show all find options (such as \"Ignore Case\") in the find bar when it opens.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_HideDistractions",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": " This fixin adds a \"Hide Distractions\" menu item to the View menu, which focuses the current editor by hiding auxiliary views and maximizing the active window. This fixin works best when the XCFixin_DisableAnimations fixin is also installed.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_InhibitTabNextPlaceholder",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "This fixin disables using the tab key to select between argument placeholders of a synthesized (by Xcode's code completion) method call.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_TabAcceptsCompletions",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_CustomizeWarningErrorHighlights",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Customize the inline error/warning message highlight color. Useful if you want to be able to read your code when using a dark background color.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XCFixin_UserScripts",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "ShowInGithub",
         "url": "https://github.com/larsxschneider/ShowInGitHub",
         "description": "Open the related Github page of a source file directly form the Xcode editor code window.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XcodeAutoCloseDebug",
         "url": "https://github.com/larsxschneider/XcodeAutoCloseDebug",
         "description": "Close the debug window automatically after the debug session has ended.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "Xprop",
         "url": "https://github.com/shpakovski/Xprop",
         "description": "Exclude @property and @synthesize document items from the navigator menu.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "DLAutoresizeMaskPlugin",
         "url": "https://github.com/garnett/AutoresizeMask-for-Xcode",
         "description": "Vizualize autoresizing masks in the code editor.",
         "screenshot": "https://raw.github.com/garnett/AutoresizeMask-for-Xcode/master/example.png",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "DocExpander",
         "url": "https://github.com/bjtitus/XcodeDocExpander",
         "description": "Intelligent comment expansion based on DocBlockr for Sublime Text.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "PeepOpen",
         "url": "https://github.com/enriquez/PeepOpen-Xcode-4-Plugin",
         "description": "Plugin for PeepOpen. An alternative to Open Quickly...",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "InstaCodesPlugin",
         "url": "https://github.com/parametr/instacodes-for-xcode",
         "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "XcodeExplorer",
         "url": "https://github.com/edwardaux/XcodeExplorer",
         "description": "This is a plugin project that allows you, as a developer, to explore the various events and notifications that Xcode4 emits during normal operations.",
-"xcode_version":"4"
+        "xcode_version":"4"
       },
       {
         "name": "BTGisterPost",
         "url": "https://github.com/LogikBlitz/BTGisterPost",
         "description": "This plug-in allow developers to quicly post gist's to GitHub directly from XCode.It supports OS X 10.7 and higher (10.8 for notifications) + Xcode 4.x.",
-"xcode_version":"4"
+        "xcode_version":"4"
       }
     ],
     "color_schemes": [
