@@ -42,6 +42,13 @@ describe "Packages" do
     end
   end
 
+  it "should require an xcode compatibility version for every plugin" do
+    plugins = @packages['plugins']
+    plugins.each do |plugin|
+      plugin['xcode_version'].should_not be_nil
+    end
+  end
+
   it "should have valid URLs for screenshots if they are present" do
     valid_image_formats = %w(png jpg jpeg bmp gif)
     @packages.values.flatten.each do |package|
