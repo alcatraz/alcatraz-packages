@@ -328,6 +328,11 @@
         "name": "Minimal",
         "url": "https://github.com/omz/MinimalisticXcodeTemplates",
         "description": "Minimalistic, nib-less templates for Xcode 4"
+      },
+      {
+        "name": "Structured Templates",
+        "url": "https://github.com/smartlogic/xcode-templates",
+        "description": "Well organized project templates"
       }
     ],
     "file_templates": [
