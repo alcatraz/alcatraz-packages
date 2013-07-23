@@ -335,9 +335,9 @@
         "description": "Minimalistic, nib-less templates for Xcode 4"
       },
       {
-        "name": "Structured Templates",
+        "name": "SmartLogic Templates",
         "url": "https://github.com/smartlogic/xcode-templates",
-        "description": "Well organized project templates"
+        "description": "A collection of templates used at SmartLogic, including structured project templates and sparse file templates."
       }
     ],
     "file_templates": [
