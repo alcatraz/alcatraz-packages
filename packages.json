@@ -10,7 +10,7 @@
         "name": "PluginConsole",
         "url": "https://github.com/AlexIzh/PluginConsole",
         "description": "Extension for standard Xcode console. Use it for log debug information from your plugin to Xcode console.",
-	      "screenshot": "http://f.cl.ly/items/39053K1L311z191G2v1z/Screen%20Shot%202013-05-16%20at%203.06.21.png"
+        "screenshot": "http://f.cl.ly/items/39053K1L311z191G2v1z/Screen%20Shot%202013-05-16%20at%203.06.21.png"
       },
       {
         "name": "BBUncrustifyPlugin",
