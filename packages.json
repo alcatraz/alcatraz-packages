@@ -156,6 +156,11 @@
         "name": "VVDocumenter-Xcode",
         "url": "https://github.com/onevcat/VVDocumenter-Xcode",
         "description": "Xcode plug-in which helps you write Javadoc style documents easier."
+      }	,
+      {
+        "name": "VVDocumenter-Xcode (Spaces instead of tabs)",
+        "url": "https://github.com/scriptease/VVDocumenter-Xcode",
+        "description": "Xcode plug-in which helps you write Javadoc style documents easier. (Spaces instead of tabs)"
       }
     ],
     "color_schemes": [
