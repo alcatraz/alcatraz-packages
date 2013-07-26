@@ -155,7 +155,8 @@
       {
         "name": "VVDocumenter-Xcode",
         "url": "https://github.com/onevcat/VVDocumenter-Xcode",
-        "description": "Xcode plug-in which helps you write Javadoc style documents easier."
+        "description": "Xcode plug-in which helps you write Javadoc style documents easier.",
+        "screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
       }
     ],
     "color_schemes": [
