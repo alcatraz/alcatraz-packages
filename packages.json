@@ -157,6 +157,12 @@
         "url": "https://github.com/onevcat/VVDocumenter-Xcode",
         "description": "Xcode plug-in which helps you write Javadoc style documents easier.",
         "screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
+      },
+      {
+        "name": "XFunnyEditor",
+        "url": "https://github.com/STAR-ZERO/XFunnyEditor",
+        "description": "Xcode plugin to display an image on the background of the editor",
+        "screenshot": "https://raw.github.com/STAR-ZERO/XFunnyEditor/master/screenshot.png"
       }
     ],
     "color_schemes": [
