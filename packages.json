@@ -167,6 +167,18 @@
     ],
     "color_schemes": [
       {
+        "name": "Aqueducts 3.0 (Dawn)",
+        "url": "https://raw.github.com/brynbellomy/xcode-aqueducts/master/Aqueducts%203.0%20-%20Dawn.dvtcolortheme",
+        "description": "Non-drowsy aggressive underwater pastels for daytime by Bryn Austin Bellomy",
+        "screenshot": "https://raw.github.com/brynbellomy/xcode-aqueducts/master/Aqueducts%203.0%20-%20Dawn.png"
+      },
+      {
+        "name": "Aqueducts 3.0 (Night)",
+        "url": "https://raw.github.com/brynbellomy/xcode-aqueducts/master/Aqueducts%203.0%20-%20Night.dvtcolortheme",
+        "description": "Non-habit-forming sleepless underwater pastels by Bryn Austin Bellomy",
+        "screenshot": "https://raw.github.com/brynbellomy/xcode-aqueducts/master/Aqueducts%203.0%20-%20Night.png"
+      },
+      {
         "name": "BiasedBit",
         "url": "https://raw.github.com/brunodecarvalho/xcode-themes/master/BiasedBit.dvtcolortheme",
         "description": "A light theme (white background) by Bruno de Carvalho",
