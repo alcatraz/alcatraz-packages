@@ -163,6 +163,12 @@
         "url": "https://github.com/STAR-ZERO/XFunnyEditor",
         "description": "Xcode plugin to display an image on the background of the editor",
         "screenshot": "https://raw.github.com/STAR-ZERO/XFunnyEditor/master/screenshot.png"
+      },
+      {
+        "name": "AJKExtendedOpening",
+        "url": "https://github.com/inquisitiveSoft/AJKExtendedOpening",
+        "description": "Adds 'Show Project in Finder' and 'Open Project in Terminal' menu items and replaces the existing 'Open with External Editor' item.",
+        "screenshot": "https://raw.github.com/inquisitiveSoft/AJKExtendedOpening/master/Screenshot.jpg"
       }
     ],
     "color_schemes": [
