@@ -5,7 +5,7 @@
         "name": "JDPluginManager",
         "url": "https://github.com/jaydee3/JDPluginManager",
         "description": "This plugin makes it easy to install, update and remove them. It adds a new MenuItem Plugins in the Menu Bar of Xcode.",
-        "screenshot": "https://github.com/jaydee3/JDPluginManager/blob/master/assets/screenshot1.png"
+        "screenshot": "https://raw.github.com/jaydee3/JDPluginManager/master/assets/screenshot1.png"
       }, 
       {
         "name": "XcodeColors",
