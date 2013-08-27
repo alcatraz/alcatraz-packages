@@ -4,7 +4,8 @@
       {
         "name": "AJKExtendedOpening",
         "url": "https://github.com/inquisitiveSoft/AJKExtendedOpening",
-        "description": "Adds 'Show Project in Finder' and 'Open Project in Terminal' menu items and replaces the existing 'Open with External Editor' item."
+        "description": "Adds 'Show Project in Finder' and 'Open Project in Terminal' menu items and replaces the existing 'Open with External Editor' item.",
+        "project name": "Extended Opening"
       },
       {
         "name": "JDPluginManager",
