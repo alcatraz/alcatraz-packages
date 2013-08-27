@@ -2,6 +2,18 @@
   "packages": {
     "plugins": [
       {
+        "name": "AJKExtendedOpening",
+        "url": "https://github.com/inquisitiveSoft/AJKExtendedOpening",
+        "description": "Adds 'Show Project in Finder' and 'Open Project in Terminal' menu items and replaces the existing 'Open with External Editor' item.",
+        "project name": "Extended Opening"
+      },
+      {
+        "name": "JDPluginManager",
+        "url": "https://github.com/jaydee3/JDPluginManager",
+        "description": "This plugin makes it easy to install, update and remove them. It adds a new MenuItem Plugins in the Menu Bar of Xcode.",
+        "screenshot": "https://raw.github.com/jaydee3/JDPluginManager/master/assets/screenshot1.png"
+      },
+      {
         "name": "XCommentWrap",
         "url": "https://github.com/ianyh/XCommentWrap",
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
