@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+        "name": "XcodeColors",
+        "url": "https://github.com/robbiehanson/XcodeColors",
+        "description": "XcodeColors allows you to use colors in the Xcode debugging console."
+      }, 
+      {
         "name": "XCommentWrap",
         "url": "https://github.com/ianyh/XCommentWrap",
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
