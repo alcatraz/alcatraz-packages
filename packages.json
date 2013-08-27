@@ -169,6 +169,12 @@
         "url": "https://github.com/inquisitiveSoft/AJKExtendedOpening",
         "description": "Adds 'Show Project in Finder' and 'Open Project in Terminal' menu items and replaces the existing 'Open with External Editor' item.",
         "screenshot": "https://raw.github.com/inquisitiveSoft/AJKExtendedOpening/master/Screenshot.jpg"
+      },
+      {
+        "name": "JDPluginManager",
+        "url": "https://github.com/jaydee3/JDPluginManager",
+        "description": "This plugin makes it easy to install, update and remove them. It adds a new MenuItem Plugins in the Menu Bar of Xcode.",
+        "screenshot": "https://raw.github.com/jaydee3/JDPluginManager/master/assets/screenshot1.png"
       }
     ],
     "color_schemes": [
