@@ -178,8 +178,14 @@
       {
         "name": "BTGisterPost",
         "url": "https://github.com/LogikBlitz/BTGisterPost",
-        "description": "This plug-in allow developers to quicly post gist's to GitHub directly from XCode.It supports OS X 10.7 and higher (10.8 for notifications) + Xcode 4.x.",
+        "description": "Xcode 4. This plug-in allow developers to quicly post gist's to GitHub directly from XCode.It supports OS X 10.7 and higher (10.8 for notifications) + Xcode 4.x.",
         "xcode_version":"4"
+      },
+      {
+        "name": "BTGisterPost",
+        "url": "https://github.com/LogikBlitz/BTGisterPost_Xcode5",
+        "description": "Xcode 5. This plug-in allow developers to quicly post gist's to GitHub directly from XCode.It supports OS X 10.9 and higher Xcode 5",
+        "xcode_version":"5"
       }
     ],
     "color_schemes": [
