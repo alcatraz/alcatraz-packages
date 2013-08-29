@@ -175,6 +175,11 @@
         "url": "https://github.com/jaydee3/JDPluginManager",
         "description": "This plugin makes it easy to install, update and remove them. It adds a new MenuItem Plugins in the Menu Bar of Xcode.",
         "screenshot": "https://raw.github.com/jaydee3/JDPluginManager/master/assets/screenshot1.png"
+      },
+      {
+        "name": "QuickLocalization",
+        "url": "https://github.com/nanaimostudio/Xcode-Quick-Localization",
+        "description": "Xcode Plugin to Convert @\"content\" to NSLocalizedString(@\"content\", @\"content\")"
       }
     ],
     "color_schemes": [
