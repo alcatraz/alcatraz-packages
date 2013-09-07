@@ -320,6 +320,12 @@
         "screenshot": "https://raw.github.com/mhallendal/spacedust-theme/master/Xcode4/spacedust-xcode-theme.png"
       },
       {
+        "name": "Today",
+        "url": "https://raw.github.com/alenofx/today-xcode-theme/master/Today.dvtcolortheme",
+        "description": "Today is a light, colorful Xcode theme inspired by other great themes like Tomorrow.",
+        "screenshot": "https://raw.github.com/alenofx/today-xcode-theme/master/today-xcode-theme-preview.png"
+      },
+      {
         "name": "Tomorrow",
         "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow.dvtcolortheme",
         "description": "A bright theme with pastel colours and sensible syntax highlighting"
