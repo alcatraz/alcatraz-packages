@@ -277,12 +277,12 @@
       {
         "name": "Railscasts",
         "url": "https://raw.github.com/levey/Xcode4theme-Railscasts/master/Railscasts.dvtcolortheme",
-        "description": "Railscasts theme for Xcode 4.x"
+        "description": "Railscasts theme for Xcode"
       },
       {
-        "name": "Railscasts (Yet Another)",
+        "name": "Railscasts Inspired",
         "url": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/RailsCast_Inspired.dvtcolortheme",
-        "description": "Yet another Railscasts theme for Xcode 4.x",
+        "description": "Railscasts inspired pastel theme for Xcode",
         "screenshot": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/screenshot-2.png"
       },
       {
