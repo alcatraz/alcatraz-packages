@@ -280,6 +280,12 @@
         "description": "Railscasts theme for Xcode 4.x"
       },
       {
+        "name": "Railscasts (Yet Another)",
+        "url": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/RailsCast_Inspired.dvtcolortheme",
+        "description": "Yet another Railscasts theme for Xcode 4.x",
+        "screenshot": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/screenshot-2.png"
+      },
+      {
         "name": "RFDusk",
         "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk.dvtcolortheme",
         "description": "A theme base on dusk."
