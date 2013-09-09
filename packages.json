@@ -180,6 +180,12 @@
         "name": "QuickLocalization",
         "url": "https://github.com/nanaimostudio/Xcode-Quick-Localization",
         "description": "Xcode Plugin to Convert @\"content\" to NSLocalizedString(@\"content\", @\"content\")"
+      },
+      {
+        "name": "XcodePlus Delete Line",
+        "url": "https://github.com/payliu/XcodePlus",
+        "description": "Xcode plugin to plus extra feature － delete line, even mulit-lines",
+        "screenshot": "https://raw.github.com/payliu/XcodePlus/master/screenshot/deleteline.gif"
       }
     ],
     "color_schemes": [
