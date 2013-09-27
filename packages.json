@@ -187,6 +187,12 @@
         "description": "Xcode plugin to plus extra feature － delete line, even mulit-lines",
         "screenshot": "https://raw.github.com/payliu/XcodePlus/master/screenshot/deleteline.gif"
       }
+      {
+        "name": "Code Injection for Objective-C",
+        "url": "https://github.com/johnno1962/injectionforxcode",
+        "description": "Inject code changes directly into your running application.",
+        "screenshot": "http://johnholdsworth.com/injection/demo.png"
+      }
     ],
     "color_schemes": [
       {
