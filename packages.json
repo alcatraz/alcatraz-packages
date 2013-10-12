@@ -192,6 +192,11 @@
         "url": "https://github.com/johnno1962/injectionforxcode",
         "description": "Inject code changes directly into your running application.",
         "screenshot": "http://johnholdsworth.com/injection/demo.png"
+      },
+      {
+        "name": "XcodeColors",
+        "url": "https://github.com/robbiehanson/XcodeColors.git",
+        "description": "XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process."
       }
     ],
     "color_schemes": [
