@@ -203,6 +203,12 @@
         "url": "https://github.com/chendo/FuzzyAutocompletePlugin",
         "description": "Enables fuzzy matching in Xcode's autocomplete, using the 'Open Quickly' algorithm.",
         "screenshot": "https://raw.github.com/chendo/FuzzyAutocompletePlugin/master/demo.gif"
+      },
+      {
+        "name": "KFCocoaPodsPlugin",
+        "url": "https://github.com/ricobeck/KFCocoaPodsPlugin",
+        "description": "XcodePlugin for CocoaPods with pod commands/console output, user notifications & code completion.",
+        "screenshot": "https://raw.github.com/ricobeck/KFCocoaPodsPlugin/master/Screenshots/Animation-Completion.gif"
       }
     ],
     "color_schemes": [
