@@ -436,6 +436,11 @@
         "name": "Kiwi Templates",
         "url": "https://github.com/allending/Kiwi",
         "description": "Xcode File Templates for the Kiwi BDD Framework."
+      },
+      {
+        "name": "Kiwi Spec Template",
+        "url": "https://github.com/Inferis/kiwispec.xctemplate",
+        "description": "File template for Kiwi spec file by Tom Adriaenssen (Inferis)"
       }
     ]
   }
