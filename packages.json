@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "CocoaPods",
+        "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
+        "description": "CocoaPods integration right in Xcode",
+        "screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
+      },
+      {
         "name": "XCommentWrap",
         "url": "https://github.com/ianyh/XCommentWrap",
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
