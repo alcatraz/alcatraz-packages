@@ -209,6 +209,12 @@
         "url": "https://github.com/chendo/FuzzyAutocompletePlugin",
         "description": "Enables fuzzy matching in Xcode's autocomplete, using the 'Open Quickly' algorithm.",
         "screenshot": "https://raw.github.com/chendo/FuzzyAutocompletePlugin/master/demo.gif"
+      },
+      {
+        "name": "XAlign",
+        "url": "https://github.com/qfish/XAlign",
+        "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
+        "screenshot": "http://github.so/XAlign/images/equal.gif"
       }
     ],
     "color_schemes": [
