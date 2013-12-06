@@ -209,6 +209,12 @@
         "url": "https://github.com/chendo/FuzzyAutocompletePlugin",
         "description": "Enables fuzzy matching in Xcode's autocomplete, using the 'Open Quickly' algorithm.",
         "screenshot": "https://raw.github.com/chendo/FuzzyAutocompletePlugin/master/demo.gif"
+      },
+      {
+        "name": "XcAddedMarkup",
+        "url": "https://github.com/mikr/XcAddedMarkup",
+        "description": "XcAddedMarkup is an Xcode plugin that adds a custom markup for hyperlinks and images inside the Xcode console and the Xcode source editor",
+        "screenshot": "https://raw.github.com/mikr/XcAddedMarkup/master/images/sourcecode2.png"
       }
     ],
     "color_schemes": [
