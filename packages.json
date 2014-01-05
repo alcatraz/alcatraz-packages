@@ -211,6 +211,12 @@
         "screenshot": "https://raw.github.com/chendo/FuzzyAutocompletePlugin/master/demo.gif"
       },
       {
+        "name": "XcAddedMarkup",
+        "url": "https://github.com/mikr/XcAddedMarkup",
+        "description": "XcAddedMarkup is an Xcode plugin that adds a custom markup for hyperlinks and images inside the Xcode console and the Xcode source editor",
+        "screenshot": "https://raw.github.com/mikr/XcAddedMarkup/master/images/sourcecode2.png"
+      },
+      {
         "name": "XAlign",
         "url": "https://github.com/qfish/XAlign",
         "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
