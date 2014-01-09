@@ -8,6 +8,12 @@
         "screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
       },
       {
+        "name": "ClangFormat",
+        "url": "https://github.com/travisjeffery/ClangFormat-Xcode",
+        "description": "Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang",
+        "screenshot": "https://raw.github.com/travisjeffery/ClangFormat-Xcode/master/README/usage.png"
+      },
+      {
         "name": "XCommentWrap",
         "url": "https://github.com/ianyh/XCommentWrap",
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
