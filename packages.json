@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+        "name": "Jumper",
+        "url": "https://github.com/deszip/Jumper.git",
+        "description": "Allows to move cursor 10 lines up/down with alt + up/down arrows."
+      }
+      {
         "name": "CocoaPods",
         "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
         "description": "CocoaPods integration right in Xcode",
