@@ -5,6 +5,7 @@
         "name": "Jumper",
         "url": "https://github.com/deszip/Jumper.git",
         "description": "Allows to move cursor 10 lines up/down with alt + up/down arrows."
+        "screenshot": "https://raw.github.com/deszip/Jumper/blob/master/menu.png"
       }
       {
         "name": "CocoaPods",
