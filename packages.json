@@ -2,10 +2,22 @@
   "packages": {
     "plugins": [
       {
+        "name": "Jumper",
+        "url": "https://github.com/deszip/Jumper.git",
+        "description": "Allows to move cursor 10 lines up/down with alt + up/down arrows.",
+        "screenshot": "https://raw.github.com/deszip/Jumper/blob/master/menu.png"
+      }
+      {
         "name": "CocoaPods",
         "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
         "description": "CocoaPods integration right in Xcode",
         "screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
+      },
+      {
+        "name": "ClangFormat",
+        "url": "https://github.com/travisjeffery/ClangFormat-Xcode",
+        "description": "Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang",
+        "screenshot": "https://raw.github.com/travisjeffery/ClangFormat-Xcode/master/README/usage.png"
       },
       {
         "name": "XCommentWrap",

@@ -7,6 +7,8 @@ To contribute your own package, fork this project and edit packages.json to incl
 
 Every package requires a `name`, `url`, and `description`, in a format determined by the package type (detailed below). The `screenshot` field is optional, but recommended for any package with a user interface component and should be a direct URL to a single image. 
 
+After making your changes please run `rspec` from the console to check if everything is ok.
+
 ### Plugin Format
 The `url` should be a repository containing the Xcode project, and the `name` should be the same as the `.xcodeproj` file.
 
