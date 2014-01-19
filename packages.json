@@ -74,8 +74,8 @@
       },
       {
         "name": "Lin",
-        "url": "https://github.com/questbeat/Lin",
-        "description": "Xcode4 plugin shows completion for NSLocalizedString",
+        "url": "https://github.com/questbeat/Lin-Xcode5",
+        "description": "Shows completion for NSLocalizedString",
         "screenshot": "http://maniacdev.com/wp-content/uploads/2013/03/lin.png"
       },
       {
