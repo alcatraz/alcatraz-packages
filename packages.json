@@ -163,7 +163,9 @@
       {
         "name": "OROpenInAppCode",
         "url": "https://github.com/orta/OROpenInAppCode",
-        "description": "Opens the current xcworkspace / xcproject in AppCode."
+        "description": "Opens the current xcworkspace / xcproject in AppCode.",
+        "screenshot": "https://raw.github.com/orta/OROpenInAppCode/master/web/screenshot.png"
+
       },
       {
         "name": "InstaCodesPlugin",
