@@ -262,6 +262,11 @@
         "url": "https://github.com/deszip/Jumper.git",
         "description": "Allows to move cursor 10 lines up/down with alt + up/down arrows.",
         "screenshot": "https://raw.github.com/deszip/Jumper/master/menu.png"
+      },
+      {
+        "name": "Xcode_copy_line",
+        "url": "https://github.com/mthiesen/Xcode_copy_line",
+        "description": "Xcode plug-in to copy/cut the current line when there is no selected text"
       }
     ],
     "color_schemes": [
