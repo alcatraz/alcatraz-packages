@@ -217,11 +217,16 @@
         "description": "An Xcode plug-in that flashes your Philips Hue light bulbs different colours depending on the result of your build.",
         "screenshot": "https://raw.github.com/mitchellallison/WarningLights/master/WLMenu.png"
       },
-    {
+      {
         "name": "KFCocoaPodsPlugin",
         "url": "https://github.com/ricobeck/KFCocoaPodsPlugin",
         "description": "Xcode plugin for CocoaPods with pod commands/console output, user notifications & code completion.",
         "screenshot": "https://github.com/ricobeck/KFCocoaPodsPlugin/blob/master/Screenshots/Animation-Completion.gif"
+      },
+      {
+        "name": "Xcode_copy_line",
+        "url": "https://github.com/mthiesen/Xcode_copy_line",
+        "description": "Xcode plug-in to copy/cut the current line when there is no selected text"
       }
     ],
     "color_schemes": [
