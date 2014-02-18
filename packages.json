@@ -445,6 +445,11 @@
     ],
     "project_templates": [
       {
+        "name": "AeroGear Template",
+        "url": "https://github.com/aerogear/aerogear-ios-xcode-template",
+        "description": "Setup for your AeroGear projects, based on CocoaPods"
+      },
+      {
         "name": "AFNetworking Templates",
         "url": "https://github.com/AFNetworking/Xcode-Project-Templates",
         "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
