@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "ACCodeSnippetRepository",
+        "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
+        "description": "Synchronize code snippets with a git repository.",
+        "screenshot": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin/blob/master/Screenshots/screenshot02.png"
+      },
+      {
         "name": "BBUDebuggerTuckAway",
         "url": "https://github.com/neonichu/BBUDebuggerTuckAway",
         "description": " Auto-hide the debugger once you start typing in the source code editor."
