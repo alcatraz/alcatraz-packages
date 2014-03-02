@@ -178,11 +178,6 @@
         "description": "This is a plugin project that allows you, as a developer, to explore the various events and notifications that Xcode4 emits during normal operations."
       },
       {
-        "name": "BTGisterPost",
-        "url": "https://github.com/LogikBlitz/BTGisterPost",
-        "description": "Xcode 4 only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports OS X 10.7 and higher (10.8 for notifications) + Xcode 4.x."
-      },
-      {
         "name": "BTGisterPost-Xcode5",
         "url": "https://github.com/LogikBlitz/BTGisterPost_Xcode5",
         "description": "Xcode 5+ only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports Xcode 5.x."
