@@ -79,9 +79,9 @@
         "description": "Xcode plugin for Vim keybindings"
       },
       {
-        "name": "XCode4_beginning_of_line",
+        "name": "Xcode_beginning_of_line",
         "url": "https://github.com/insanehunter/XCode4_beginning_of_line",
-        "description": "XCode 4 plugin to make HOME key jump to the first non-whitespace line of code"
+        "description": "Xcode plugin to make HOME key jump to the first non-whitespace line of code"
       },
       {
         "name": "Lin",
