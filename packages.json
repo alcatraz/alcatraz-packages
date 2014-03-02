@@ -440,9 +440,14 @@
         "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
       },
       {
-        "name": "Xcode plugin",
+        "name": "Xcode 4 Plugin",
         "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
-        "description": "Project Template for creating a plugin for Xcode4"
+        "description": "Project Template for creating a plugin for Xcode 4"
+      },
+      {
+        "name": "Xcode 5 Plugin",
+        "url": "https://github.com/kattrali/Xcode5-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode 5"
       },
       {
         "name": "iOSOpenDev Templates",
