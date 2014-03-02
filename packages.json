@@ -19,12 +19,6 @@
         "screenshot": "https://raw.github.com/travisjeffery/ClangFormat-Xcode/master/README/usage.png"
       },
       {
-        "name": "CodePilot",
-        "url": "https://github.com/macoscope/CodePilot.git",
-        "description": "Fuzzy finder for quickly opening files",
-        "screenshot": "https://raw.github.com/macoscope/CodePilot/master/Screenshots/CodePilot_01.png"
-      },
-      {
         "name": "XCommentWrap",
         "url": "https://github.com/ianyh/XCommentWrap",
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
