@@ -460,6 +460,11 @@
         "name": "Kiwi Templates",
         "url": "https://github.com/allending/Kiwi",
         "description": "Xcode File Templates for the Kiwi BDD Framework."
+      },
+      {
+        "name": "Singleton",
+        "url": "https://github.com/ko2ic/Xcode-Singleton-Templates",
+        "description": "Xcode File Templates for singleton class and the testcase."
       }
     ]
   }
