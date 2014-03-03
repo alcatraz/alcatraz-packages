@@ -373,6 +373,12 @@
         "screenshot": "https://raw.github.com/mhallendal/spacedust-theme/master/Xcode4/spacedust-xcode-theme.png"
       },
       {
+        "name": "stevenf",
+        "url": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/stevenf.dvtcolortheme",
+        "description": "Dark theme created by Steven Frank.",
+        "screenshot": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/screenshot.png"
+      },
+      {
         "name": "Today",
         "url": "https://raw.github.com/alenofx/today-xcode-theme/master/Today.dvtcolortheme",
         "description": "Today is a light, colorful Xcode theme inspired by other great themes like Tomorrow.",
