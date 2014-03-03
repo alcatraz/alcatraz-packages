@@ -84,11 +84,6 @@
         "screenshot": "http://maniacdev.com/wp-content/uploads/2013/03/lin.png"
       },
       {
-        "name": "XCFixin_DisableAnimations",
-        "url": "https://github.com/davekeck/Xcode-4-Fixins",
-        "description": "This fixin disables Xcode's various NSAnimation-based animations, such as the Show/Hide Debug Area, Show/Hide Navigator, and Show/Hide Utilities animations."
-      },
-      {
         "name": "XCFixin_FindFix",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "This fixin makes Xcode show all find options (such as \"Ignore Case\") in the find bar when it opens."
