@@ -389,6 +389,12 @@
         "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
         "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions.",
         "screenshot": "https://skitch-img.s3.amazonaws.com/20110923-tudq2cm22x6bmmahqhtuh6f6qq.jpg"
+      },
+      {
+        "name": "DAS Theme",
+        "url": "https://raw.github.com/mps/XcodeThemes/master/DAS.dvtcolortheme",
+        "description": "this is a theme based on Gary Bernhardt's terminal used in Destory All Software Screencasts.",
+        "screenshot": "https://raw.github.com/mps/XcodeThemes/master/screenshots/das_screenshot.png"
       }
     ],
     "project_templates": [
