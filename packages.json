@@ -395,6 +395,12 @@
         "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
         "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions.",
         "screenshot": "https://skitch-img.s3.amazonaws.com/20110923-tudq2cm22x6bmmahqhtuh6f6qq.jpg"
+      },
+      {
+        "name": "Zenburn by colinta",
+        "url": "https://raw.github.com/colinta/zenburn/master/zenburn.dvtcolortheme",
+        "description": "Another Zenburn scheme. Ported from the original vim scheme by colinta.",
+        "screenshot": "http://colinta.com/static/image/zenburn/xcode.png"
       }
     ],
     "project_templates": [
