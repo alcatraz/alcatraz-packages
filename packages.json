@@ -284,6 +284,12 @@
         "screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
       },
       {
+        "name": "iOS 7",
+        "url": "https://raw.github.com/dpree/xcode-ios7-colors/master/iOS%207.dvtcolortheme",
+        "description": "Inspired by iOS 7 colors. Made for Xcode 5.",
+        "screenshot": "https://raw.github.com/dpree/xcode-ios7-colors/master/screenshot.png"
+      },
+      {
         "name": "Humane",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/Humane.dvtcolortheme",
         "description": "This theme was originally made for Xcode 3 by Damien Guard",
