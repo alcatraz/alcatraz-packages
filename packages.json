@@ -99,11 +99,6 @@
         "description": " This fixin adds a \"Hide Distractions\" menu item to the View menu, which focuses the current editor by hiding auxiliary views and maximizing the active window. This fixin works best when the XCFixin_DisableAnimations fixin is also installed."
       },
       {
-        "name": "XCFixin_InhibitTabNextPlaceholder",
-        "url": "https://github.com/davekeck/Xcode-4-Fixins",
-        "description": "This fixin disables using the tab key to select between argument placeholders of a synthesized (by Xcode's code completion) method call."
-      },
-      {
         "name": "XCFixin_TabAcceptsCompletions",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
