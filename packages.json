@@ -134,11 +134,6 @@
         "description": "Exclude @property and @synthesize document items from the navigator menu."
       },
       {
-        "name": "DocExpander",
-        "url": "https://github.com/bjtitus/XcodeDocExpander",
-        "description": "Intelligent comment expansion based on DocBlockr for Sublime Text."
-      },
-      {
         "name": "OROpenInAppCode",
         "url": "https://github.com/orta/OROpenInAppCode",
         "description": "Opens the current xcworkspace / xcproject in AppCode.",
