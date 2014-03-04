@@ -235,7 +235,7 @@
         "description": "Xcode plug-in to copy/cut the current line when there is no selected text"
       },
       {
-        "name": "Xcode-CComment",
+        "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
         "description": "Xcode plugin for C Style Comment(uncomment) /**/"
       }
