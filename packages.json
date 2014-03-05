@@ -504,6 +504,12 @@
         "name": "Singleton",
         "url": "https://github.com/ko2ic/Xcode-Singleton-Templates",
         "description": "Xcode File Templates for singleton class and the testcase."
+      },
+      {
+        "name": "Space Gray",
+        "url": "https://raw.github.com/zdne/spacegray-xcode/master/Space%20Gray.dvtcolortheme",
+        "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
+        "screenshot": "https://raw.github.com/zdne/spacegray-xcode/master/screenshots/space-gray-screen.png"
       }
     ]
   }
