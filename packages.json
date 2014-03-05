@@ -435,6 +435,12 @@
         "url": "https://raw.github.com/mps/XcodeThemes/master/DAS.dvtcolortheme",
         "description": "this is a theme based on Gary Bernhardt's terminal used in Destory All Software Screencasts.",
         "screenshot": "https://raw.github.com/mps/XcodeThemes/master/screenshots/das_screenshot.png"
+      },
+      {
+        "name": "Monokai Xcode Optimised Theme",
+        "url": "https://raw.github.com/ccarnino/MonokaiXcode/master/MonokaiXcodeOptimised.dvtcolortheme",
+        "description": "The best port of the Monokai theme for Xcode 5 and newer.",
+        "screenshot": "https://raw.github.com/ccarnino/MonokaiXcode/master/preview.png"
       }
     ],
     "project_templates": [
