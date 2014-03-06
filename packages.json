@@ -419,6 +419,12 @@
         "screenshot": "https://raw.github.com/brunodecarvalho/xcode-themes/master/Twilight.preview.png"
       },
       {
+        "name": "Urban",
+        "url": "http://raw.github.com/UrbanApps/Urban/blob/master/Urban.dvtcolortheme",
+        "description": "Urban is a popular theme that uses a soft dark background, with subtle blue, orange and yellow colors (formerly known as ǝɹɐǝqʎǝuoɔ)",
+        "screenshot": "https://raw.github.com/UrbanApps/Urban/master/Urban.png"
+      },
+      {
         "name": "Vale",
         "url": "https://raw.github.com/C4MS/Vale/master/Vale.dvtcolortheme",
         "description": "Satisfaction for you eyes, made by Chris Medina",
