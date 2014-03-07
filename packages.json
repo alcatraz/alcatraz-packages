@@ -318,11 +318,6 @@
         "screenshot": "http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png"
       },
       {
-        "name": "Monokai",
-        "url": "https://raw.github.com/mclaughj/Monokai-Xcode-Theme/master/Monokai.dvtcolortheme",
-        "description": "A simple port of the Monokai TextMate theme to Xcode"
-      },
-      {
         "name": "New Roman Times",
         "url": "https://gist.github.com/coryalder/811771/raw/4ef9e9007f3677df7d9e378c3fe1743c1383c74f/New+Roman+Times.dvtcolortheme",
         "description": "A proportional coding theme. Times New Roman for code, Menlo for comments and the console."
@@ -437,7 +432,7 @@
         "screenshot": "https://raw.github.com/mps/XcodeThemes/master/screenshots/das_screenshot.png"
       },
       {
-        "name": "Monokai Xcode Optimised Theme",
+        "name": "Monokai",
         "url": "https://raw.github.com/ccarnino/MonokaiXcode/master/MonokaiXcodeOptimised.dvtcolortheme",
         "description": "The best port of the Monokai theme for Xcode 5 and newer.",
         "screenshot": "https://raw.github.com/ccarnino/MonokaiXcode/master/preview.png"
