@@ -238,6 +238,12 @@
         "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
         "description": "Xcode plugin for C Style Comment(uncomment) /**/"
+      },
+      {
+        "name": "RRConstraintsPlugin",
+        "url": "https://github.com/RolandasRazma/RRConstraintsPlugin",
+        "description": "RRConstraintsPlugin is plugin for Xcode 5.1+ to improves workflow for constraints based layout by adding new features to Xcode Interface Builder.",
+        "screenshot": "https://raw.github.com/RolandasRazma/RRConstraintsPlugin/master/RRConstraintsPlugin/Resources/ChangeLog/Images/features.png"
       }
     ],
     "color_schemes": [
