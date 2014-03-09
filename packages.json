@@ -268,7 +268,8 @@
       {
         "name": "Chocolate Box",
         "url": "https://raw.github.com/tkemp/Colour-and-standards/master/Chocolate%20Cake.dvtcolortheme",
-        "description": "A useful and attractive dark brown and orange theme by Tim Kemp"
+        "description": "A useful and attractive dark brown and orange theme by Tim Kemp",
+        "screenshot" : "https://raw.github.com/tkemp/Colour-and-standards/master/ChocolateBoxScreenshot.png"
       },
       {
         "name": "Ciapre",
