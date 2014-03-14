@@ -203,7 +203,7 @@
         "name": "XAlign",
         "url": "https://github.com/qfish/XAlign",
         "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
-        "screenshot": "http://github.so/XAlign/images/equal.gif"
+        "screenshot": "https://raw.github.com/qfish/XAlign/gh-pages/images/equal.gif"
       },
       {
         "name": "XToDo",
