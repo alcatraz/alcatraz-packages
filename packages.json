@@ -244,6 +244,11 @@
         "url": "https://github.com/RolandasRazma/RRConstraintsPlugin",
         "description": "RRConstraintsPlugin is plugin for Xcode 5.1+ to improves workflow for constraints based layout by adding new features to Xcode Interface Builder.",
         "screenshot": "https://raw.github.com/RolandasRazma/RRConstraintsPlugin/master/RRConstraintsPlugin/Resources/ChangeLog/Images/features.png"
+      },
+      {
+        "name": "XcodeRefactoringPlus",
+        "url": "https://github.com/kinwahlai/XcodeRefactoringPlus",
+        "description": "Xcode plugin to extend the current refactoring function to the functionality similar in eclipse."
       }
     ],
     "color_schemes": [
