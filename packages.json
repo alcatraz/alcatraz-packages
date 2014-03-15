@@ -244,6 +244,12 @@
         "url": "https://github.com/RolandasRazma/RRConstraintsPlugin",
         "description": "RRConstraintsPlugin is plugin for Xcode 5.1+ to improves workflow for constraints based layout by adding new features to Xcode Interface Builder.",
         "screenshot": "https://raw.github.com/RolandasRazma/RRConstraintsPlugin/master/RRConstraintsPlugin/Resources/ChangeLog/Images/features.png"
+      },
+      {
+        "name": "WakaTime",
+        "url": "https://github.com/wakatime/xcode-wakatime",
+        "description": "Fully automatic time tracking.",
+        "screenshot": "https://www.wakatime.com/static/img/ScreenShots/Screen%20Shot%202013-10-26%20at%205.04.01%20PM.png"
       }
     ],
     "color_schemes": [
