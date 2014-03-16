@@ -250,6 +250,12 @@
         "url": "https://github.com/wakatime/xcode-wakatime",
         "description": "Fully automatic time tracking.",
         "screenshot": "https://www.wakatime.com/static/img/ScreenShots/Screen%20Shot%202013-10-26%20at%205.04.01%20PM.png"
+      },
+      {
+        "name": "Eero Xcode",
+        "url": "https://github.com/eerolanguage/eero-installer-for-alcatraz",
+        "description": "Eero programming language integration with Xcode",
+        "screenshot": "http://eerolanguage.org/images/HelloWorld.png"
       }
     ],
     "color_schemes": [
