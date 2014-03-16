@@ -536,6 +536,11 @@
         "url": "https://raw.github.com/zdne/spacegray-xcode/master/Space%20Gray.dvtcolortheme",
         "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
         "screenshot": "https://raw.github.com/zdne/spacegray-xcode/master/screenshots/space-gray-screen.png"
+      },
+      {
+        "name": "Eero Language Templates",
+        "url": "https://raw.github.com/eerolanguage/eero/master/xcodesupport/Xcode5/Templates/Eero",
+        "description": "Xcode File Templates for Eero Programming Language."
       }
     ]
   }
