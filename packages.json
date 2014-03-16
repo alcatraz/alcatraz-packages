@@ -254,7 +254,7 @@
       {
         "name": "Eero Xcode",
         "url": "https://github.com/eerolanguage/eero-installer-for-alcatraz",
-        "description": "Eero programming language integration with Xcode",
+        "description": "Eero Programming Language integration with Xcode",
         "screenshot": "http://eerolanguage.org/images/HelloWorld.png"
       }
     ],
@@ -538,9 +538,9 @@
         "screenshot": "https://raw.github.com/zdne/spacegray-xcode/master/screenshots/space-gray-screen.png"
       },
       {
-        "name": "Eero Language Templates",
-        "url": "https://raw.github.com/eerolanguage/eero/master/xcodesupport/Xcode5/Templates/Eero",
-        "description": "Xcode File Templates for Eero Programming Language."
+        "name": "Eero Templates",
+        "url": "https://github.com/eerolanguage/xcode-templates",
+        "description": "Xcode file templates for the Eero Programming Language."
       }
     ]
   }
