@@ -254,7 +254,7 @@
       {
         "name": "Eero Xcode",
         "url": "https://github.com/eerolanguage/eero-installer-for-alcatraz",
-        "description": "Eero Programming Language integration with Xcode",
+        "description": "Eero Programming Language integration with Xcode. Please restart Xcode after installing!",
         "screenshot": "http://eerolanguage.org/images/HelloWorld.png"
       }
     ],
