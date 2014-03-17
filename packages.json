@@ -250,6 +250,12 @@
         "url": "https://github.com/wakatime/xcode-wakatime",
         "description": "Fully automatic time tracking.",
         "screenshot": "https://www.wakatime.com/static/img/ScreenShots/Screen%20Shot%202013-10-26%20at%205.04.01%20PM.png"
+      },
+      {
+        "name": "Eero Xcode",
+        "url": "https://github.com/eerolanguage/eero-installer-for-alcatraz",
+        "description": "Eero Programming Language support. Please restart Xcode after installing!",
+        "screenshot": "http://eerolanguage.org/images/HelloWorld.png"
       }
     ],
     "color_schemes": [
@@ -530,6 +536,11 @@
         "url": "https://raw.github.com/zdne/spacegray-xcode/master/Space%20Gray.dvtcolortheme",
         "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
         "screenshot": "https://raw.github.com/zdne/spacegray-xcode/master/screenshots/space-gray-screen.png"
+      },
+      {
+        "name": "Eero Templates",
+        "url": "https://github.com/eerolanguage/xcode-templates",
+        "description": "Xcode file templates for the Eero Programming Language."
       }
     ]
   }
