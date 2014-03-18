@@ -432,6 +432,12 @@
         "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Bright.png"
       },
       {
+        "name": "Toy Chest",
+        "url": "https://raw.github.com/JacksonGariety/Toy-Chest-Theme/master/themes/Xcode/Toy%20Chest.dvtcolortheme",
+        "description": "Toy Chest is a 'Flat UI'-inspired color scheme that makes coding look as fun as it really is.",
+        "screenshot": "https://raw.github.com/JacksonGariety/Toy-Chest-Theme/master/example.jpg"
+      },
+      {
         "name": "Twilight",
         "url": "https://raw.github.com/brunodecarvalho/xcode-themes/master/Twilight.dvtcolortheme",
         "description": "The Twilight theme based on TextMate's Twilight theme by Bruno de Carvalho",
