@@ -261,6 +261,12 @@
         "name": "XcodeRefactoringPlus",
         "url": "https://github.com/kinwahlai/XcodeRefactoringPlus",
         "description": "Xcode plugin to extend the current refactoring function to the functionality similar in eclipse."
+      },
+      {
+        "name": "KPRunEverywhereXcodePlugin",
+        "url": "https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin",
+        "description": "Build and run apps across multiple iOS devices with one click.",
+        "screenshot": "https://raw.github.com/kitschpatrol/KPRunEverywhereXcodePlugin/master/screenshot.png"
       }
     ],
     "color_schemes": [
