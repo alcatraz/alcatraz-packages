@@ -558,6 +558,12 @@
         "name": "Eero Templates",
         "url": "https://github.com/eerolanguage/xcode-templates",
         "description": "Xcode file templates for the Eero Programming Language."
+      },
+      {
+        "name": "Specta Templates",
+        "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
+        "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
+        "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
       }
     ]
   }
