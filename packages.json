@@ -271,6 +271,12 @@
     ],
     "color_schemes": [
       {
+  		"name": "Anubis",
+  		"url": "https://raw.githubusercontent.com/gtranchedone/XcodeThemes/master/Anubis.dvtcolortheme",
+  		"description": "Easy on the eyes dark theme with pastel colours by Gianluca Tranchedone.",
+  		"screenshot": "https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Implementation%20Sample.png"
+	  },
+      {
         "name": "Aqueducts 3.0 (Dawn)",
         "url": "https://raw.github.com/brynbellomy/xcode-aqueducts/master/Aqueducts%203.0%20-%20Dawn.dvtcolortheme",
         "description": "Non-drowsy aggressive underwater pastels for daytime by Bryn Austin Bellomy",
