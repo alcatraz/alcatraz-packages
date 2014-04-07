@@ -272,6 +272,12 @@
         "url": "https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin",
         "description": "Build and run apps across multiple iOS devices with one click.",
         "screenshot": "https://raw.github.com/kitschpatrol/KPRunEverywhereXcodePlugin/master/screenshot.png"
+      },
+      {
+        "name": "Polychromatic",
+        "url": "https://github.com/kolinkrewinkel/Polychromatic",
+        "description": "Coloring with significance. Gives properties, ivars, and local variables each a unique, dynamic color in Xcode's source editor.",
+        "screenshot": "https://files.app.net/20wlfjgeI.png"
       }
     ],
     "color_schemes": [
