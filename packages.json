@@ -51,6 +51,12 @@
         "description": "Xcode plugin that enables switch cases autocompletion"
       },
       {
+        "name": "Polychromatic",
+        "url": "https://github.com/kolinkrewinkel/Polychromatic",
+        "description": "Polychromatic is an Xcode plugin that truly emphasizes content. By giving properties, ivars, and local variables each a unique, dynamic color, and stripping away color from types which do not neeed it, logic becomes clear and apparent.",
+        "screenshot": "https://camo.githubusercontent.com/98e8b99d6714373ff7bb4cf60746f1ad1ad9dd0e/68747470733a2f2f66696c65732e6170702e6e65742f3230776c76593430672e706e67"
+      },
+      {
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
         "description": "Button for quickly deleting derived data. Makes Xcode happy.",
