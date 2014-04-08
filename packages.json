@@ -282,13 +282,13 @@
       {
         "name": "SwipeGestureSwitcher",
         "url": "https://github.com/tyeen/SwipeGestureSwitcher",
-        "description:": "Simply turns the swipe-to-navigate-files gesture on/off in the source editor.",
+        "description": "Simply turns the swipe-to-navigate-files gesture on/off in the source editor.",
         "screenshot": "https://raw.github.com/tyeen/SwipeGestureSwitcher/master/screenshot.png"
       },
       {
         "name": "BlockJump",
         "url": "https://github.com/tyeen/BlockJump",
-        "description:": "A plug-in let you jump between methods, or other items in the source editor.",
+        "description": "A plug-in let you jump between methods, or other items in the source editor.",
         "screenshot": "https://raw.github.com/tyeen/BlockJump/master/screen_record.gif"
       }
     ],
