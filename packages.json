@@ -278,6 +278,18 @@
         "url": "https://github.com/kolinkrewinkel/Polychromatic",
         "description": "Coloring with significance. Gives properties, ivars, and local variables each a unique, dynamic color in Xcode's source editor.",
         "screenshot": "https://files.app.net/20wlfjgeI.png"
+      },
+      {
+        "name": "SwipeGestureSwitcher",
+        "url": "https://github.com/tyeen/SwipeGestureSwitcher",
+        "description:": "Simply turns the swipe-to-navigate-files gesture on/off in the source editor.",
+        "screenshot": "https://raw.github.com/tyeen/SwipeGestureSwitcher/master/screenshot.png"
+      },
+      {
+        "name": "BlockJump",
+        "url": "https://github.com/tyeen/BlockJump",
+        "description:": "A plug-in let you jump between methods, or other items in the source editor.",
+        "screenshot": "https://raw.github.com/tyeen/BlockJump/master/screen_record.gif"
       }
     ],
     "color_schemes": [
