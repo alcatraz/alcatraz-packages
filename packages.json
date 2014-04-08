@@ -267,6 +267,12 @@
         "url": "https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin",
         "description": "Build and run apps across multiple iOS devices with one click.",
         "screenshot": "https://raw.github.com/kitschpatrol/KPRunEverywhereXcodePlugin/master/screenshot.png"
+      },
+      {
+        "name": "RevealPlugin",
+        "url": "https://github.com/shjborage/Reveal-Plugin-for-XCode",
+        "description": "Plugin for Xcode to integrate the Reveal App to your project automatic.",
+        "screenshot": "https://github.com/shjborage/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
       }
     ],
     "color_schemes": [
