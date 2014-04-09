@@ -302,6 +302,12 @@
         "url": "https://github.com/shjborage/Reveal-Plugin-for-XCode",
         "description": "Plugin for Xcode to integrate the Reveal App to your project automatic.",
         "screenshot": "https://github.com/shjborage/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
+      },
+      {
+        "name": "RSImageOptimPlugin",
+        "url": "https://github.com/yeahdongcn/RSImageOptimPlugin",
+        "description": "Plugin for Xcode to optimize images using ImageOptim.",
+        "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
       }
     ],
     "color_schemes": [
