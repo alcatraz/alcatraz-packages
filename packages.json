@@ -160,6 +160,12 @@
         "description": "This is a plugin project that allows you, as a developer, to explore the various events and notifications that Xcode4 emits during normal operations."
       },
       {
+        "name": "XcodeBoost",
+        "url": "https://github.com/fortinmike/XcodeBoost",
+        "description": "An Xcode plugin that aims to make altering and inspecting code quick and easy.",
+        "screenshot": "https://raw.githubusercontent.com/fortinmike/XcodeBoost/master/Images/highlighting.gif"
+      },
+      {
         "name": "BTGisterPost-Xcode5",
         "url": "https://github.com/LogikBlitz/BTGisterPost_Xcode5",
         "description": "Xcode 5+ only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports Xcode 5.x."
@@ -314,15 +320,21 @@
         "url": "https://github.com/limejelly/Backlight-for-XCode",
         "description": "Highlights the current editing line in Xcode.",
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
+      },
+      {
+        "name": "RSImageOptimPlugin",
+        "url": "https://github.com/yeahdongcn/RSImageOptimPlugin",
+        "description": "Plugin for Xcode to optimize images using ImageOptim.",
+        "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
       }
     ],
     "color_schemes": [
       {
-  		"name": "Anubis",
-  		"url": "https://raw.githubusercontent.com/gtranchedone/XcodeThemes/master/Anubis.dvtcolortheme",
-  		"description": "Easy on the eyes dark theme with pastel colours by Gianluca Tranchedone.",
-  		"screenshot": "https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Implementation%20Sample.png"
-	  },
+        "name": "Anubis",
+        "url": "https://raw.githubusercontent.com/gtranchedone/XcodeThemes/master/Anubis.dvtcolortheme",
+        "description": "Easy on the eyes dark theme with pastel colours by Gianluca Tranchedone.",
+        "screenshot": "https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Implementation%20Sample.png"
+      },
       {
         "name": "Aqueducts 3.0 (Dawn)",
         "url": "https://raw.github.com/brynbellomy/xcode-aqueducts/master/Aqueducts%203.0%20-%20Dawn.dvtcolortheme",
