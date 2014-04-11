@@ -302,6 +302,12 @@
         "url": "https://github.com/shjborage/Reveal-Plugin-for-XCode",
         "description": "Plugin for Xcode to integrate the Reveal App to your project automatic.",
         "screenshot": "https://github.com/shjborage/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
+      },
+      {
+        "name": "Backlight",
+        "url": "https://github.com/limejelly/Backlight-for-XCode",
+        "description": "Highlights the current editing line in Xcode.",
+        "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       }
     ],
     "color_schemes": [
