@@ -611,7 +611,13 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
-      }
+      },
+      {
+        "name": "CocoaPodsManager",
+        "url": "https://github.com/andyzaharia/CocoaPodsManager",
+        "description": "CocoaPods GUI wrapper right in XCode",
+        "screenshot": "https://raw.github.com/andyzaharia/CocoaPodsManager/master/Resources/ScreenShots/CocoaPodsPluginScr1.png"
+      },
     ]
   }
 }
