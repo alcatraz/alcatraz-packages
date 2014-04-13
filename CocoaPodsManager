@@ -1,0 +1,5 @@
+{
+  "name": "CocoaPodsManager",
+  "url": "https://github.com/andyzaharia/CocoaPodsManager",
+  "description": "Makes it really simple to visualize and install Pods right within XCode. Its just a simple GUI wrapper of CocoaPods",
+}
