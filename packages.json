@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "BBUFullIssueNavigator",
+        "url": "https://github.com/neonichu/BBUFullIssueNavigator",
+        "description": "Show all issue content in the issue navigator.",
+        "screenshot": "https://github.com/neonichu/BBUFullIssueNavigator/raw/master/screenshot.png"
+      },
+      {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
         "description": "Synchronize code snippets with a git repository.",
