@@ -211,6 +211,12 @@
         "screenshot": "https://raw.github.com/chendo/FuzzyAutocompletePlugin/master/demo.gif"
       },
       {
+        "name": "LSLFuzzyAutocomplete",
+        "url": "https://github.com/slazyk/LSLFuzzyAutocomplete",
+        "description": "Code more by typing less. Enables fuzzy matching in autocompletion. A fork of FuzzyAutocomplete plugin with many fixes and improvements.",
+        "screenshot": "https://raw.github.com/slazyk/LSLFuzzyAutocomplete/master/examples.gif"
+      },
+      {
         "name": "XcAddedMarkup",
         "url": "https://github.com/mikr/XcAddedMarkup",
         "description": "XcAddedMarkup is an Xcode plugin that adds a custom markup for hyperlinks and images inside the Xcode console and the Xcode source editor",
