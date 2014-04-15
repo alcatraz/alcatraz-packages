@@ -206,9 +206,9 @@
       },
       {
         "name": "FuzzyAutocomplete",
-        "url": "https://github.com/chendo/FuzzyAutocompletePlugin",
+        "url": "https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin",
         "description": "Enables fuzzy matching in Xcode's autocomplete, using the 'Open Quickly' algorithm.",
-        "screenshot": "https://raw.github.com/chendo/FuzzyAutocompletePlugin/master/demo.gif"
+        "screenshot": "https://raw.github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin/master/demo.gif"
       },
       {
         "name": "XcAddedMarkup",
