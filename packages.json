@@ -20,6 +20,11 @@
         "screenshot": "https://raw.github.com/zats/AdjustFontSize-Xcode-Plugin/master/README/xcode.png"
       },
       {
+        "name": "AMMethod2Implement",
+        "url": "https://github.com/MellongLau/AMMethod2Implement",
+        "description": "A simple Xcode plugin to generate implement code for the selected method."
+      },
+      {
         "name": "BBUDebuggerTuckAway",
         "url": "https://github.com/neonichu/BBUDebuggerTuckAway",
         "description": " Auto-hide the debugger once you start typing in the source code editor."
@@ -611,11 +616,6 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
-      },
-      {
-        "name": "AMMethod2Implement",
-        "url": "https://github.com/MellongLau/AMMethod2Implement",
-        "description": "A simple Xcode plugin to generate implement code for the selected method."
       }
     ]
   }
