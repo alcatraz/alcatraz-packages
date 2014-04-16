@@ -585,6 +585,11 @@
         "name": "SmartLogic Templates",
         "url": "https://github.com/smartlogic/xcode-templates",
         "description": "A collection of templates used at SmartLogic, including structured project templates and sparse file templates."
+      },
+      {
+        "name": "Typo Templates",
+        "url": "https://github.com/TypoNU/XCode-Project-Templates",
+        "description": "A collection of templates used by TypoNU, including a fat framework template which will make a fat library framework for distribution"
       }
     ],
     "file_templates": [
