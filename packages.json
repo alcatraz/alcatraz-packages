@@ -320,6 +320,12 @@
         "url": "https://github.com/limejelly/Backlight-for-XCode",
         "description": "Highlights the current editing line in Xcode.",
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
+      },
+      {
+        "name": "CocoaPodsManager",
+        "url": "https://github.com/andyzaharia/CocoaPodsManager",
+        "description": "GUI wrapper for CocoaPods. Simple and easy to use.",
+        "screenshot": "http://andyzaharia.com/CocoaPodsManager/CocoaPodsPluginScr1.png"
       }
     ],
     "color_schemes": [
