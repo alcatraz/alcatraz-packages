@@ -22,7 +22,8 @@
       {
         "name": "AMMethod2Implement",
         "url": "https://github.com/MellongLau/AMMethod2Implement",
-        "description": "A simple Xcode plugin to generate implement code for the selected method."
+        "description": "A simple Xcode plugin to generate implement code for the selected method.",
+        "screenshot": "https://raw.github.com/MellongLau/AMMethod2Implement/master/Screenshots/usageScreenshot.gif"
       },
       {
         "name": "BBUDebuggerTuckAway",
