@@ -555,6 +555,12 @@
         "url": "https://raw.github.com/ccarnino/MonokaiXcode/master/MonokaiXcodeOptimised.dvtcolortheme",
         "description": "The best port of the Monokai theme for Xcode 5 and newer.",
         "screenshot": "https://raw.github.com/ccarnino/MonokaiXcode/master/preview.png"
+      },
+      {
+        "name": "Zenburn by colinta",
+        "url": "https://raw.github.com/colinta/zenburn/master/zenburn.dvtcolortheme",
+        "description": "Another Zenburn scheme. Ported from the original vim scheme by colinta.",
+        "screenshot": "http://colinta.com/static/image/zenburn/xcode.png"
       }
     ],
     "project_templates": [
