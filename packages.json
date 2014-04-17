@@ -160,6 +160,12 @@
         "description": "This is a plugin project that allows you, as a developer, to explore the various events and notifications that Xcode4 emits during normal operations."
       },
       {
+        "name": "XcodeBoost",
+        "url": "https://github.com/fortinmike/XcodeBoost",
+        "description": "An Xcode plugin that aims to make altering and inspecting code quick and easy.",
+        "screenshot": "https://raw.githubusercontent.com/fortinmike/XcodeBoost/master/Images/highlighting.gif"
+      },
+      {
         "name": "BTGisterPost-Xcode5",
         "url": "https://github.com/LogikBlitz/BTGisterPost_Xcode5",
         "description": "Xcode 5+ only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports Xcode 5.x."
