@@ -354,6 +354,12 @@
         "screenshot": "https://raw.github.com/brunodecarvalho/xcode-themes/master/BiasedBit.preview.png"
       },
       {
+        "name": "BladeRunner",
+        "url": "https://raw.github.com/Konrad77/xcode-themes/master/BladeRunner.dvtcolortheme",
+        "description": "Dark Theme inspired by the neon lights from the movie. By Mikael Konradsson",
+        "screenshot": "https://raw.github.com/Konrad77/xcode-themes/master/bladerunner.png"
+      },
+      {
         "name": "Blues",
         "url": "https://raw.github.com/HansPinckaers/blues-theme/master/Blues.dvtcolortheme",
         "description": "A light theme (white background) based on Xcodes default template by Hans Pinckaers",
@@ -411,6 +417,12 @@
         "url": "https://raw.github.com/dpree/xcode-ios7-colors/master/iOS%207.dvtcolortheme",
         "description": "Inspired by iOS 7 colors. Made for Xcode 5.",
         "screenshot": "https://raw.github.com/dpree/xcode-ios7-colors/master/screenshot.png"
+      },
+      {
+        "name": "Harry Potter",
+        "url": "https://raw.github.com/Konrad77/xcode-themes/master/HarryPotter.dvtcolortheme",
+        "description": "No muggler were hurt during the creation of this theme. By Mikael Konradsson",
+        "screenshot": "https://raw.github.com/Konrad77/xcode-themes/master/HarryPotter.png"
       },
       {
         "name": "Humane",
