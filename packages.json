@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+        "name": "BBUUtilitiesTuckAway",
+        "url": "https://github.com/neonichu/BBUUtilitiesTuckAway",
+        "description": "Auto-hide the utilities area once you start typing in the source code editor."
+      },
+      {
         "name": "BBUFullIssueNavigator",
         "url": "https://github.com/neonichu/BBUFullIssueNavigator",
         "description": "Show all issue content in the issue navigator.",
