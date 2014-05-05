@@ -583,7 +583,7 @@
         "name": "Zenburn by colinta",
         "url": "https://raw.github.com/colinta/zenburn/master/zenburn.dvtcolortheme",
         "description": "Another Zenburn scheme. Ported from the original vim scheme by colinta.",
-        "screenshot": "https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true"
+        "screenshot": "http://colinta.com/static/image/zenburn/xcode.png"
       },
       {
         "name": "Solarized Dark for Xcode",
