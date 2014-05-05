@@ -589,7 +589,7 @@
         "name": "Solarized Dark for Xcode",
         "url": "https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/Solarized%20Dark%20%40ArtSabintsev.dvtcolortheme",
         "description": "Solarized Dark Theme for Xcode 5.",
-        "screenshot": "https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true"
+        "screenshot": "https://raw.githubusercontent.com/ArtSabintsev/Solarized-Dark-for-Xcode/master/solarizedDark.png"
       }
     ],
     "project_templates": [
