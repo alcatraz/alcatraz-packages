@@ -331,7 +331,13 @@
         "url": "https://github.com/yeahdongcn/RSImageOptimPlugin",
         "description": "Plugin for Xcode to optimize images using ImageOptim.",
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
-      }
+      },
+	  {
+          "name": "WCGitTagsPlugin",
+          "url": "https://github.com/wczekalski/WCGitTagsPlugin",
+          "description": "Add tagging ability to Xcode Source Control",
+          "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
+	  }
     ],
     "color_schemes": [
       {
