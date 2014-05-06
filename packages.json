@@ -217,6 +217,12 @@
         "screenshot": "http://johnholdsworth.com/injection/demo.png"
       },
       {
+        "name": "ApportablePlugin",
+        "url": "https://github.com/johnno1962/ApportablePlugin",
+        "description": "Simple Plugin for work with Apportable supporting Live Coding.",
+        "screenshot": "http://johnholdsworth.com/injection/demoa.png"
+      },
+      {
         "name": "XcodeColors",
         "url": "https://github.com/robbiehanson/XcodeColors.git",
         "description": "XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process."
