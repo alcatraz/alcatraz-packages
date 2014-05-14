@@ -605,9 +605,9 @@
       },
       {
         "name" : "Atom Light",
-        "url" : "https://github.com/paulpilone/xcode-themes/blob/master/AtomLight.dvtcolortheme",
+        "url" : "https://raw.github.com/paulpilone/xcode-themes/master/AtomLight.dvtcolortheme",
         "description" : "A light theme based on the default theme from Atom.io.",
-        "screenshot" : "https://github.com/paulpilone/xcode-themes/blob/master/AtomLight.png"
+        "screenshot" : "https://raw.githubusercontent.com/paulpilone/xcode-themes/master/AtomLight.png"
       }
     ],
     "project_templates": [
