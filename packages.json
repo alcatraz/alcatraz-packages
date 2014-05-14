@@ -602,6 +602,12 @@
         "url": "https://raw.githubusercontent.com/ArtSabintsev/Solarized-Dark-for-Xcode/master/Solarized%20Dark%20@ArtSabintsev.dvtcolortheme",
         "description": "Solarized Dark Theme for Xcode 5.",
         "screenshot": "https://raw.githubusercontent.com/ArtSabintsev/Solarized-Dark-for-Xcode/master/solarizedDark.png"
+      },
+      {
+        "name" : "Atom Light",
+        "url" : "https://github.com/paulpilone/xcode-themes/blob/master/AtomLight.dvtcolortheme",
+        "description" : "A light theme based on the default theme from Atom.io.",
+        "screenshot" : "https://github.com/paulpilone/xcode-themes/blob/master/AtomLight.png"
       }
     ],
     "project_templates": [
