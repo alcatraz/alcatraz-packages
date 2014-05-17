@@ -693,6 +693,12 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
+      },
+      {
+        "name": "XLCXcodeAssist",
+        "url": "https://github.com/xlc/XLCXcodeAssist",
+        "description": "Xcode plug-in to provide suggestion implementation for missing Objective-C methods.",
+        "screenshot": "https://raw.githubusercontent.com/xlc/XLCXcodeAssist/master/screenshot.png"
       }
     ]
   }
