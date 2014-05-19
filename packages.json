@@ -96,6 +96,12 @@
         "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png"
       },
       {
+	"name": "OneSky Plugin",
+	"url": "https://github.com/onesky/plugin-xcode",
+	"description": "Sync translations with OneSky.",
+	"screenshot": "https://raw.githubusercontent.com/onesky/plugin-xcode/master/Images/sync_translations.png"
+      },
+      {
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
@@ -693,12 +699,6 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
-      },
-      {
-	"name": "OneSky Plugin",
-	"url": "https://github.com/onesky/plugin-xcode",
-	"description": "Sync translations with OneSky.",
-	"screenshot": "https://raw.githubusercontent.com/onesky/plugin-xcode/master/Images/sync_translations.png"
       }
     ]
   }
