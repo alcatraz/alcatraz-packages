@@ -13,6 +13,12 @@
         "screenshot": "https://raw.githubusercontent.com/neonichu/BBUToyUnboxing/master/Screenshots/contentful-playground.png"
       },
       {
+        "name": "CocoaPodUI",
+        "url": "https://github.com/Galeas/CocoaPodUI",
+        "description": "Xcode plugin that implements CocoaPods GUI.",
+        "screenshot": "https://github.com/Galeas/CocoaPodUI/blob/master/readme.png"
+      },
+      {
         "name": "BBUUtilitiesTuckAway",
         "url": "https://github.com/neonichu/BBUUtilitiesTuckAway",
         "description": "Auto-hide the utilities area once you start typing in the source code editor."
@@ -357,12 +363,6 @@
         "url": "https://github.com/limejelly/Backlight-for-XCode",
         "description": "Highlights the current editing line in Xcode.",
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
-      },
-      {
-        "name": "CocoaPodUI",
-        "url": "https://github.com/Galeas/CocoaPodUI",
-        "description": "Xcode plugin that implements CocoaPods GUI.",
-        "screenshot": "http://i1199.photobucket.com/albums/aa470/Akki-87/Fotor0320183341.png"
       },
       {
         "name": "RSImageOptimPlugin",
