@@ -693,6 +693,12 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
+      },
+      {
+	"name": "OneSky Plugin",
+	"url": "https://github.com/onesky/plugin-xcode",
+	"description": "Sync translations with OneSky.",
+	"screenshot": "https://raw.githubusercontent.com/onesky/plugin-xcode/master/Images/sync_translations.png"
       }
     ]
   }
