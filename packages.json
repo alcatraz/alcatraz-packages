@@ -343,7 +343,13 @@
           "url": "https://github.com/wczekalski/WCGitTagsPlugin",
           "description": "Add tagging ability to Xcode Source Control",
           "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
-	  }
+	  },
+      {
+        "name": "OpenInTerminal",
+        "url": "https://github.com/sathya-me/OpenInTerminal.git",
+        "description": "Xcode plugin to reveal files in Terminal.",
+        "screenshot": "https://raw.githubusercontent.com/sathya-me/OpenInTerminal/master/demo.png"
+      }
     ],
     "color_schemes": [
       {
