@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "CocoaPodUI",
+        "url": "https://github.com/Galeas/CocoaPodUI",
+        "description": "Xcode plugin that implements CocoaPods GUI.",
+        "screenshot": "https://github.com/Galeas/CocoaPodUI/blob/master/readme.png"
+      },
+      {
         "name": "BBUUtilitiesTuckAway",
         "url": "https://github.com/neonichu/BBUUtilitiesTuckAway",
         "description": "Auto-hide the utilities area once you start typing in the source code editor."
@@ -339,23 +345,17 @@
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       },
       {
-        "name": "CocoaPodUI",
-        "url": "https://github.com/Galeas/CocoaPodUI",
-        "description": "Xcode plugin that implements CocoaPods GUI.",
-        "screenshot": "http://i1199.photobucket.com/albums/aa470/Akki-87/Fotor0320183341.png"
-      },
-      {
         "name": "RSImageOptimPlugin",
         "url": "https://github.com/yeahdongcn/RSImageOptimPlugin",
         "description": "Plugin for Xcode to optimize images using ImageOptim.",
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
       },
-	  {
+    {
           "name": "WCGitTagsPlugin",
           "url": "https://github.com/wczekalski/WCGitTagsPlugin",
           "description": "Add tagging ability to Xcode Source Control",
           "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
-	  }
+    }
     ],
     "color_schemes": [
       {
@@ -705,7 +705,7 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
-      },
+      }
     ]
   }
 }
