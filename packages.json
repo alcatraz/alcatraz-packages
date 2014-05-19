@@ -339,6 +339,12 @@
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       },
       {
+        "name": "CocoaPodUI",
+        "url": "https://github.com/Galeas/CocoaPodUI",
+        "description": "Xcode plugin that implements CocoaPods GUI.",
+        "screenshot": "http://i1199.photobucket.com/albums/aa470/Akki-87/Fotor0320183341.png"
+      },
+      {
         "name": "RSImageOptimPlugin",
         "url": "https://github.com/yeahdongcn/RSImageOptimPlugin",
         "description": "Plugin for Xcode to optimize images using ImageOptim.",
@@ -699,7 +705,7 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
-      }
+      },
     ]
   }
 }
