@@ -223,6 +223,12 @@
         "screenshot": "http://johnholdsworth.com/injection/demoa.png"
       },
       {
+        "name": "XprobePlugin",
+        "url": "https://github.com/johnno1962/XprobePlugin",
+        "description": "Xcode extension for viewing an application's objects in real time.",
+        "screenshot": "http://johnholdsworth.com/injection/demob.png"
+      },
+      {
         "name": "XcodeColors",
         "url": "https://github.com/robbiehanson/XcodeColors.git",
         "description": "XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process."
