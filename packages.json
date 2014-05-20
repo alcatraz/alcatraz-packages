@@ -16,7 +16,7 @@
         "name": "CocoaPodUI",
         "url": "https://github.com/Galeas/CocoaPodUI",
         "description": "Xcode plugin that implements CocoaPods GUI.",
-        "screenshot": "https://github.com/Galeas/CocoaPodUI/blob/master/readme.png"
+        "screenshot": "https://raw.githubusercontent.com/Galeas/CocoaPodUI/master/readme.png"
       },
       {
         "name": "BBUUtilitiesTuckAway",
