@@ -344,12 +344,18 @@
         "description": "Plugin for Xcode to optimize images using ImageOptim.",
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
       },
-	  {
-          "name": "WCGitTagsPlugin",
-          "url": "https://github.com/wczekalski/WCGitTagsPlugin",
-          "description": "Add tagging ability to Xcode Source Control",
-          "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
-	  }
+      {
+        "name": "WCGitTagsPlugin",
+        "url": "https://github.com/wczekalski/WCGitTagsPlugin",
+        "description": "Add tagging ability to Xcode Source Control",
+        "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
+      },
+      {
+        "name": "IntelliPaste",
+        "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
+        "description": "IntelliPaste is an Xcode plugin that makes copy-pasting between header and method files easier.",
+        "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
+      }
     ],
     "color_schemes": [
       {
