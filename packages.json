@@ -351,7 +351,7 @@
         "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
       },
       {
-        "name": “IntelliPaste",
+        "name": "IntelliPaste",
         "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
         "description": "IntelliPaste is an Xcode plugin that makes copy-pasting between header and method files easier.",
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
