@@ -353,7 +353,7 @@
       {
         "name": "IntelliPaste",
         "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
-        "description": "IntelliPaste is an Xcode plugin that makes copy-pasting between header and method files easier.",
+        "description": "IntelliPaste is an Xcode plugin that makes copy-pasting methods and RGB colors easier.",
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
       }
     ],
