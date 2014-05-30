@@ -425,6 +425,12 @@
         "screenshot": "https://f.cloud.github.com/assets/1097578/415653/2ffff682-ac3a-11e2-8f35-ae1bec42c568.png"
       },
       {
+        "name": "Coal Graal",
+        "url": "https://github.com/fidgetfu/xcode-themes/blob/master/Coal%20Graal.dvtcolortheme",
+        "description": "Coal Graal theme for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/fidgetfu/xcode-themes/master/Coal%20Graal.png"
+      },
+      {
         "name": "Cobalt",
         "url": "https://raw.github.com/michaelmruta/Xcode-Cobalt-Theme/master/~:Library:Developer:Xcode:UserData:FontAndColorThemes/Cobalt%204.4.dvtcolortheme",
         "description": "Cobalt color theme for Xcode"
@@ -709,3 +715,4 @@
     ]
   }
 }
+
