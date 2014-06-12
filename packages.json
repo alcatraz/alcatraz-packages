@@ -723,6 +723,11 @@
         "url": "https://github.com/luiza-cicone/Specta-Templates-Xcode",
         "description": "Xcode spec templates for the Specta TDD/BDD Framework.",
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
+      },
+      {
+        "name": "Objective-C Class Category",
+        "url": "https://github.com/eliperkins/ObjCClassCategoryTemplate",
+        "description": "Objective-C Class Category template. Xcode 6 removed the Objective-C class category template, so here's Xcode 5's!"
       }
     ]
   }
