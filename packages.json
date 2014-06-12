@@ -345,16 +345,22 @@
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
       },
       {
-        "name": "WCGitTagsPlugin",
-        "url": "https://github.com/wczekalski/WCGitTagsPlugin",
-        "description": "Add tagging ability to Xcode Source Control",
-        "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
-      },
-      {
         "name": "IntelliPaste",
         "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
         "description": "IntelliPaste is an Xcode plugin that makes copy-pasting methods and RGB colors easier.",
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
+      },
+      {
+          "name": "WCGitTagsPlugin",
+          "url": "https://github.com/wczekalski/WCGitTagsPlugin",
+          "description": "Add tagging ability to Xcode Source Control",
+          "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
+      },
+      {
+       "name": "XLocation",
+       "url": "https://github.com/StefanLage/XLocation",
+       "description": "Xcode Plugin to add new location file (GPX file) to your current project from a Map or an address.",
+       "screenshot": "https://raw.githubusercontent.com/StefanLage/XLocation/master/Screens/main.png"
       }
     ],
     "color_schemes": [
