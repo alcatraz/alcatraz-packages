@@ -361,7 +361,13 @@
        "url": "https://github.com/StefanLage/XLocation",
        "description": "Xcode Plugin to add new location file (GPX file) to your current project from a Map or an address.",
        "screenshot": "https://raw.githubusercontent.com/StefanLage/XLocation/master/Screens/main.png"
-      }
+     },
+     {
+      "name": "xcfui",
+      "url": "https://github.com/jcavar/xcfui",
+      "description": "Xcode plugin for fui tool",
+      "screenshot": "https://raw.githubusercontent.com/jcavar/xcfui/master/preview.png"
+     }
     ],
     "color_schemes": [
       {
@@ -721,4 +727,3 @@
     ]
   }
 }
-
