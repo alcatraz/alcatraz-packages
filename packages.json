@@ -152,7 +152,11 @@
         "url": "https://github.com/orta/OROpenInAppCode",
         "description": "Opens the current xcworkspace / xcproject in AppCode.",
         "screenshot": "https://raw.github.com/orta/OROpenInAppCode/master/web/screenshot.png"
-
+      },
+      {
+        "name": "Snapshots",
+        "url": "https://github.com/orta/Snapshots",
+        "description": "An Xcode Plugin to show the state of FBSnapshot Tests."
       },
       {
         "name": "InstaCodesPlugin",
