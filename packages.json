@@ -371,6 +371,11 @@
       "url": "https://github.com/jcavar/xcfui",
       "description": "Xcode plugin for fui tool",
       "screenshot": "https://raw.githubusercontent.com/jcavar/xcfui/master/preview.png"
+     },
+     {
+      "name": "DebugSearch",
+      "url": "https://github.com/maranas/DebugSearch",
+      "description": "Xcode plugin to allow filtering of console messages"
      }
     ],
     "color_schemes": [
