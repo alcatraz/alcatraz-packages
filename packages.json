@@ -647,6 +647,12 @@
         "url" : "https://raw.github.com/paulpilone/xcode-themes/master/AtomLight.dvtcolortheme",
         "description" : "A light theme based on the default theme from Atom.io.",
         "screenshot" : "https://raw.githubusercontent.com/paulpilone/xcode-themes/master/AtomLight.png"
+      },
+      {
+        "name" : "RSBlackboard",
+        "url" : "https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/RSBlackboard.dvtcolortheme",
+        "description" : "Dark theme for xcode, elegant and easy of eyes",
+        "screenshot" : "https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/screenshot1.png"
       }
     ],
     "project_templates": [
