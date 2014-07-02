@@ -631,6 +631,12 @@
         "screenshot": "https://raw.github.com/ccarnino/MonokaiXcode/master/preview.png"
       },
       {
+        "name": "Monokai Revisited",
+        "url": "https://raw.githubusercontent.com/b0ti/xcode-monokai-revisited/master/Monokai%20Revisited.dvtcolortheme",
+        "description": "Another take on the Monokai theme for Xcode, with a couple of subtle changes like string, project function names and selection coloring.",
+        "screenshot": "http://f.cl.ly/items/0U0x2t0j281z2G233607/monokai_revisited_header.png"
+      },
+      {
         "name": "Zenburn by colinta",
         "url": "https://raw.github.com/colinta/zenburn/master/zenburn.dvtcolortheme",
         "description": "Another Zenburn scheme. Ported from the original vim scheme by colinta.",
