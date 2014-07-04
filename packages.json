@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "BBUToyUnboxing",
+        "url": "https://github.com/neonichu/BBUToyUnboxing",
+        "description": "Xcode 6 plugin which allows usage of custom frameworks inside Playgrounds.",
+        "screenshot": "https://raw.githubusercontent.com/neonichu/BBUToyUnboxing/master/Screenshots/contentful-playground.png"
+      },
+      {
         "name": "BBUUtilitiesTuckAway",
         "url": "https://github.com/neonichu/BBUUtilitiesTuckAway",
         "description": "Auto-hide the utilities area once you start typing in the source code editor."
