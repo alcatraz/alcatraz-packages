@@ -671,6 +671,12 @@
         "url" : "https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/RSBlackboard.dvtcolortheme",
         "description" : "Dark theme for xcode, elegant and easy of eyes",
         "screenshot" : "https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/screenshot1.png"
+      },
+      {
+        "name" : "Armadillu",
+        "url" : "https://raw.githubusercontent.com/armadillu/XcodeColorSchemes/master/Xcode5/armadillu.dvtcolortheme",
+        "description" : "Dark deep blue theme, with saturated highlights. Works best with pixel fonts.",
+        "screenshot" : "https://raw.githubusercontent.com/armadillu/XcodeColorSchemes/master/Xcode5/armadilluScreenshot.png"
       }
     ],
     "project_templates": [
