@@ -677,6 +677,12 @@
         "url" : "https://raw.githubusercontent.com/armadillu/XcodeColorSchemes/master/Xcode5/armadillu.dvtcolortheme",
         "description" : "Dark deep blue theme, with saturated highlights. Works best with pixel fonts.",
         "screenshot" : "https://raw.githubusercontent.com/armadillu/XcodeColorSchemes/master/Xcode5/armadilluScreenshot.png"
+      },
+      {
+        "name" : "base16",
+        "url" : "https://raw.githubusercontent.com/eliperkins/base16-Xcode-Theme/master/base16.dvtcolortheme",
+        "description" : "A spacegray/base16-inspired color scheme for Xcode.",
+        "screenshot" : "https://raw.githubusercontent.com/eliperkins/base16-Xcode-Theme/master/Preview.png"
       }
     ],
     "project_templates": [
