@@ -679,7 +679,7 @@
         "screenshot" : "https://raw.githubusercontent.com/armadillu/XcodeColorSchemes/master/Xcode5/armadilluScreenshot.png"
       },
       {
-        "name" : "base16 Ocean",
+        "name" : "Base16 Ocean",
         "url" : "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/base16-Ocean.dvtcolortheme",
         "description" : "A spacegray/base16 Ocean-inspired color scheme for Xcode.",
         "screenshot" : "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/Preview.png"
