@@ -388,6 +388,12 @@
       "url": "https://github.com/viniciusmo/extract-localizable-string-plugin-xcode",
       "description": "Enable extract localizable",
       "screenshot": "https://raw.githubusercontent.com/viniciusmo/extract-localizable-string-plugin-xcode/master/Resources/preview.png"
+     },
+     {
+      "name": "Peckham",
+      "url": "https://github.com/markohlebar/Peckham",
+      "description": "Add #import-s from anywhere in the code.",
+      "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/develop/Misc/Peckham.gif"
      }
     ],
     "color_schemes": [
