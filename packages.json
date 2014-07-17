@@ -394,6 +394,12 @@
       "url": "https://github.com/markohlebar/Peckham",
       "description": "Add #import-s from anywhere in the code.",
       "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/develop/Misc/Peckham.gif"
+     },
+     {
+      "name": "RealmPlugin",
+      "url": "https://github.com/realm/realm-cocoa",
+      "description": "File and class templates for Realm.",
+      "screenshot": "https://gist.githubusercontent.com/jpsim/68d6a7152350c24df80f/raw/9c7717a1a1c428bd902ce4779051723dc5143789/RealmPlugin.jpg"
      }
     ],
     "color_schemes": [
