@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+        "name": "ZKKeyBindingsTeacher",
+        "url": "https://github.com/zulkis/ZKKeyBindingsTeacher",
+        "description": "Xcode plugin for key bindings learning"
+      },
+      {
         "name": "BBUToyUnboxing",
         "url": "https://github.com/neonichu/BBUToyUnboxing",
         "description": "Xcode 6 plugin which allows usage of custom frameworks inside Playgrounds.",
