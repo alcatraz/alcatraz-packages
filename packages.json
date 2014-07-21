@@ -176,7 +176,7 @@
         "description": "An Xcode Plugin to show the state of FBSnapshot Tests."
       },
       {
-        "name": "Red Xcode",
+        "name": "RedXcode",
         "url": "https://github.com/orta/RedXcode",
         "description": "Visually differentiate Xcode instances being ran in a debugger."
       },
