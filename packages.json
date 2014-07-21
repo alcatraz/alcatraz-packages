@@ -176,6 +176,11 @@
         "description": "An Xcode Plugin to show the state of FBSnapshot Tests."
       },
       {
+        "name": "Red Xcode",
+        "url": "https://github.com/orta/RedXcode",
+        "description": "Visually differentiate Xcode instances being ran in a debugger."
+      },
+      {
         "name": "InstaCodesPlugin",
         "url": "https://github.com/parametr/instacodes-for-xcode",
         "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x."
