@@ -812,6 +812,12 @@
         "url": "https://github.com/modocache/Quick",
         "description": "Xcode file templates for the Quick testing framework.",
         "screenshot": "http://f.cl.ly/items/2l3P203C052Z3d2p0q0e/Screen%20Shot%202014-06-26%20at%204.20.47%20AM.png"
+      },
+      {
+        "name": "MiniXcode",
+        "url": "https://github.com/Daij-Djan/MiniXcode",
+        "description": "Plugin that makes it easier to run Xcode without the main toolbar.",
+        "screenshot": "https://raw.githubusercontent.com/Daij-Djan/MiniXcode/master/Screenshot.png"
       }
     ]
   }
