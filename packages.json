@@ -255,6 +255,12 @@
         "screenshot": "http://johnholdsworth.com/injection/demob.png"
       },
       {
+        "name": "GitDiff",
+        "url": "https://github.com/johnno1962/GitDiff",
+        "description": "Highlights differences against git repo in Xcode source editor.",
+        "screenshot": "http://injectionforxcode.johnholdsworth.com/gitdiff.png"
+      },
+      {
         "name": "XcodeColors",
         "url": "https://github.com/robbiehanson/XcodeColors.git",
         "description": "XcodeColors allows you to use colors in the Xcode debugging console. It's designed to aid in the debugging process."
