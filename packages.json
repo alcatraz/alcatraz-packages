@@ -767,6 +767,16 @@
       }
     ],
     "file_templates": [
+	  {
+		"name": "Core Data Unit Test Template",
+		"url": "https://github.com/quellish/XCTestCoreData",
+		"description": "XCTestCase template for testing Core Data"
+	  },
+	  {
+		"name": "NSAtomicStore Template",
+		"url": "https://github.com/quellish/NSAtomicStoreTemplate",
+		"description": "Template for creating a concrete NSAtomicStore"
+	  },
       {
         "name": "Licensed",
         "url": "https://github.com/mattt/Xcode-Licensed-Templates",
