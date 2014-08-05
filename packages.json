@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+       "name": "MCLog",
+       "url": "https://github.com/yuhua-chen/MCLog",
+       "description": "Xcode plugin for filtering the console area.",
+       "screenshot": "https://raw.githubusercontent.com/yuhua-chen/MCLog/master/MCLogScreenshot.gif"
+      },
+      {
         "name": "ZKKeyBindingsTeacher",
         "url": "https://github.com/zulkis/ZKKeyBindingsTeacher",
         "description": "Xcode plugin for key bindings learning"
