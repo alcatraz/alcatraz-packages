@@ -428,6 +428,12 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "File and class templates for Realm.",
       "screenshot": "https://gist.githubusercontent.com/jpsim/68d6a7152350c24df80f/raw/9c7717a1a1c428bd902ce4779051723dc5143789/RealmPlugin.jpg"
+     },
+     {
+      "name": "XQuit",
+      "url": "https://github.com/StefanLage/XQuit/",
+      "description": "Xcode plugin which ask to quit Xcode, useful if you quit clumsily.",
+      "screenshot": "https://raw.githubusercontent.com/StefanLage/XQuit/master/screenshots/main.png"
      }
     ],
     "color_schemes": [
