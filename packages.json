@@ -440,6 +440,12 @@
         "url": "https://github.com/sathya-m/penInTerminal.git",
         "description": "Xcode plugin to reveal files in Terminal.",
         "screenshot": "https://raw.githubusercontent.com/sathya-me/OpenInTerminal/master/demo.png"
+      },
+      {
+        "name": "XLCXcodeAssist",
+        "url": "https://github.com/xlc/XLCXcodeAssist",
+        "description": "Xcode plug-in to provide suggestion implementation for missing Objective-C methods.",
+        "screenshot": "https://raw.githubusercontent.com/xlc/XLCXcodeAssist/master/screenshot.png"
       }
     ],
     "color_schemes": [
