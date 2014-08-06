@@ -389,52 +389,58 @@
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
       },
       {
-          "name": "WCGitTagsPlugin",
-          "url": "https://github.com/wczekalski/WCGitTagsPlugin",
-          "description": "Add tagging ability to Xcode Source Control",
-          "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
+        "name": "WCGitTagsPlugin",
+        "url": "https://github.com/wczekalski/WCGitTagsPlugin",
+        "description": "Add tagging ability to Xcode Source Control",
+        "screenshot": "https://raw.githubusercontent.com/wczekalski/WCGitTagsPlugin/master/Resources/revealed.png"
       },
       {
-       "name": "XLocation",
-       "url": "https://github.com/StefanLage/XLocation",
-       "description": "Xcode Plugin to add new location file (GPX file) to your current project from a Map or an address.",
-       "screenshot": "https://raw.githubusercontent.com/StefanLage/XLocation/master/Screens/main.png"
-     },
-     {
-      "name": "xcfui",
-      "url": "https://github.com/jcavar/xcfui",
-      "description": "Xcode plugin for fui tool",
-      "screenshot": "https://raw.githubusercontent.com/jcavar/xcfui/master/preview.png"
-     },
-     {
-      "name": "DebugSearch",
-      "url": "https://github.com/maranas/DebugSearch",
-      "description": "Xcode plugin to allow filtering of console messages"
-     },
-     {
-      "name": "ExtractorLocalizableStrings",
-      "url": "https://github.com/viniciusmo/extract-localizable-string-plugin-xcode",
-      "description": "Enable extract localizable",
-      "screenshot": "https://raw.githubusercontent.com/viniciusmo/extract-localizable-string-plugin-xcode/master/Resources/preview.png"
-     },
-     {
-      "name": "Peckham",
-      "url": "https://github.com/markohlebar/Peckham",
-      "description": "Add #import-s from anywhere in the code.",
-      "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/develop/Misc/Peckham.gif"
-     },
-     {
-      "name": "RealmPlugin",
-      "url": "https://github.com/realm/realm-cocoa",
-      "description": "File and class templates for Realm.",
-      "screenshot": "https://gist.githubusercontent.com/jpsim/68d6a7152350c24df80f/raw/9c7717a1a1c428bd902ce4779051723dc5143789/RealmPlugin.jpg"
-     },
-     {
-      "name": "XQuit",
-      "url": "https://github.com/StefanLage/XQuit/",
-      "description": "Xcode plugin which ask to quit Xcode, useful if you quit clumsily.",
-      "screenshot": "https://raw.githubusercontent.com/StefanLage/XQuit/master/screenshots/main.png"
-     }
+        "name": "XLocation",
+        "url": "https://github.com/StefanLage/XLocation",
+        "description": "Xcode Plugin to add new location file (GPX file) to your current project from a Map or an address.",
+        "screenshot": "https://raw.githubusercontent.com/StefanLage/XLocation/master/Screens/main.png"
+      },
+      {
+        "name": "xcfui",
+        "url": "https://github.com/jcavar/xcfui",
+        "description": "Xcode plugin for fui tool",
+        "screenshot": "https://raw.githubusercontent.com/jcavar/xcfui/master/preview.png"
+      },
+      {
+        "name": "DebugSearch",
+        "url": "https://github.com/maranas/DebugSearch",
+        "description": "Xcode plugin to allow filtering of console messages"
+      },
+      {
+        "name": "ExtractorLocalizableStrings",
+        "url": "https://github.com/viniciusmo/extract-localizable-string-plugin-xcode",
+        "description": "Enable extract localizable",
+        "screenshot": "https://raw.githubusercontent.com/viniciusmo/extract-localizable-string-plugin-xcode/master/Resources/preview.png"
+      },
+      {
+        "name": "Peckham",
+        "url": "https://github.com/markohlebar/Peckham",
+        "description": "Add #import-s from anywhere in the code.",
+        "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/develop/Misc/Peckham.gif"
+      },
+      {
+        "name": "RealmPlugin",
+        "url": "https://github.com/realm/realm-cocoa",
+        "description": "File and class templates for Realm.",
+        "screenshot": "https://gist.githubusercontent.com/jpsim/68d6a7152350c24df80f/raw/9c7717a1a1c428bd902ce4779051723dc5143789/RealmPlugin.jpg"
+      },
+      {
+        "name": "XQuit",
+        "url": "https://github.com/StefanLage/XQuit/",
+        "description": "Xcode plugin which ask to quit Xcode, useful if you quit clumsily.",
+        "screenshot": "https://raw.githubusercontent.com/StefanLage/XQuit/master/screenshots/main.png"
+      },
+      {
+        "name": "OpenInTerminal",
+        "url": "https://github.com/sathya-m/penInTerminal.git",
+        "description": "Xcode plugin to reveal files in Terminal.",
+        "screenshot": "https://raw.githubusercontent.com/sathya-me/OpenInTerminal/master/demo.png"
+      }
     ],
     "color_schemes": [
       {
