@@ -1,6 +1,11 @@
 {
   "packages": {
     "plugins": [
+	 {
+       "name": "XCProfileCleaner",
+       "url": "https://github.com/lechium/ProvisioningProfileCleaner",
+       "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder.",
+      },
       {
        "name": "ProjectWindowName",
        "url": "https://github.com/sleifer/ProjectWindowName",
