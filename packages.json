@@ -437,7 +437,7 @@
       },
       {
         "name": "OpenInTerminal",
-        "url": "https://github.com/sathya-m/penInTerminal.git",
+        "url": "https://github.com/sathya-me/OpenInTerminal.git",
         "description": "Xcode plugin to reveal files in Terminal.",
         "screenshot": "https://raw.githubusercontent.com/sathya-me/OpenInTerminal/master/demo.png"
       },
