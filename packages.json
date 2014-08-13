@@ -446,6 +446,11 @@
         "url": "https://github.com/xlc/XLCXcodeAssist",
         "description": "Xcode plug-in to provide suggestion implementation for missing Objective-C methods.",
         "screenshot": "https://raw.githubusercontent.com/xlc/XLCXcodeAssist/master/screenshot.png"
+      },
+      {
+        "name": "OpenQuicklyCtrlNP",
+        "url": "https://github.com/tyeen/OpenQuicklyCtrlNP",
+        "description": "Give Xcode's Open Quickly the lost Control-N/P navigation."
       }
     ],
     "color_schemes": [
