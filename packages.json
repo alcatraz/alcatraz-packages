@@ -538,6 +538,12 @@
         "screenshot": "http://f.cl.ly/items/0p3R313p1X0y0D1C3s1Y/Screen%20Shot%202013-05-20%20at%209.45.04%20AM.png"
       },
       {
+        "name": "Dracula",
+        "url": "https://raw.github.com/jordanbrown/dracula-xcode-theme/master/Dracula.dvtcolortheme",
+        "description": "Do work",
+        "screenshot": "https://raw.githubusercontent.com/jordanbrown/dracula-xcode-theme/master/Screenshot.png"
+      },
+      {
         "name": "EGO v2",
         "url": "https://raw.github.com/lanvige/xCodeTheme/master/EGOv2.dvtcolortheme",
         "description": "EGO v2 theme, favorite theme for xCode 4.",
