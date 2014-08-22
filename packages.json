@@ -664,6 +664,12 @@
         "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Bright.png"
       },
       {
+        "name": "Tomorrow Night (Eighties)",
+        "url": "https://raw.github.com/chriskempson/tomorrow-theme/master/Xcode%204/Tomorrow%20Night%20Eighties.dvtcolortheme",
+        "description": "A bright theme with pastel colours and sensible syntax highlighting",
+        "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Eighties.png"
+      },
+      {
         "name": "Toy Chest",
         "url": "https://raw.github.com/JacksonGariety/Toy-Chest-Theme/master/themes/Xcode/Toy%20Chest.dvtcolortheme",
         "description": "Toy Chest is a 'Flat UI'-inspired color scheme that makes coding look as fun as it really is.",
