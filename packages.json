@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+       "name": "XcodeWay",
+       "url": "https://github.com/onmyway133/XcodeWay",
+       "description": "An Xcode plugin that makes navigating to many places easier.",
+       "screenshot": "http://i59.tinypic.com/bfmey9.png"
+      },
+      {
        "name": "MCLog",
        "url": "https://github.com/yuhua-chen/MCLog",
        "description": "Xcode plugin for filtering the console area.",
