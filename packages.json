@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+       "name": "GoToJiraIssue",
+       "url": "https://github.com/MarshalGeazipp/GoToJiraIssue",
+       "description": "A nice little Xcode plugin that opens the 1&1 JIRA issue website if click on an issue reference like 'MAMIOS-123' in the git history."
+      },
+      {
        "name": "XcodeWay",
        "url": "https://github.com/onmyway133/XcodeWay",
        "description": "An Xcode plugin that makes navigating to many places easier.",
