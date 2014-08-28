@@ -821,7 +821,7 @@
     "file_templates": [
       {
         "name": "Aerolitec Templates",
-        "url": "https://github.com/Aerolitec/aerolitec-templates/tree/master/Aerolitec-Templates",
+        "url": "https://github.com/Aerolitec/aerolitec-templates",
         "description": "File templates for Aerolitec Coding Standard"
       },
       {
