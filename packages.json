@@ -820,6 +820,11 @@
     ],
     "file_templates": [
       {
+        "name": "Aerolitec Templates",
+        "url": "https://github.com/Aerolitec/aerolitec-templates/tree/master/Aerolitec-Templates",
+        "description": "File templates for Aerolitec Coding Standard"
+      },
+      {
         "name": "Core Data Unit Test Template",
         "url": "https://github.com/quellish/XCTestCoreData",
         "description": "XCTestCase template for testing Core Data"
