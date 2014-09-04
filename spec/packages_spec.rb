@@ -2,6 +2,12 @@ require 'rspec'
 require 'json'
 require 'uri'
 
+RSpec.configure do |config|
+  config.expect_with :rspec do |c|
+    c.syntax = :should
+  end
+end
+
 describe "Packages" do
 
   before do
