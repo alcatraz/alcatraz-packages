@@ -5,7 +5,7 @@
        "name": "JKBlockCommenter",
        "url": "https://github.com/Johnykutty/JKBlockCommenter",
        "description": "Xcode plugin to comment selected code segment with /*...*/ by pressing `⌘⌥/` keys together",
-       "screenshot": "https://github.com/Johnykutty/JKBlockCommenter/blob/master/Demo.gif"
+       "screenshot": "https://raw.githubusercontent.com/Johnykutty/JKBlockCommenter/master/Demo.gif"
       },
       {
        "name": "GoToJiraIssue",
