@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+       "name": "PuncoverPlugin",
+       "url": "https://github.com/neonichu/PuncoverPlugin",
+       "description": "Xcode plugin for displaying information in the gutter."
+      },
+      {
        "name": "JKBlockCommenter",
        "url": "https://github.com/Johnykutty/JKBlockCommenter",
        "description": "Xcode plugin to comment selected code segment with /*...*/ by pressing `⌘⌥/` keys together",
