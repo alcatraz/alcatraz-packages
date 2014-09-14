@@ -13,7 +13,12 @@
        "screenshot": "https://raw.githubusercontent.com/Johnykutty/JKBlockCommenter/master/Demo.gif"
       },
       {
-       "name": "GoToJiraIssue",
+       "name": "BBUncrustifyPlugin",
+       "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
+       "description": "Xcode plugin to format your code with Uncrustify"
+       },
+      {
+       "name": "GoToJiraIssue", 
        "url": "https://github.com/MarshalGeazipp/GoToJiraIssue",
        "description": "A nice little Xcode plugin that opens the 1&1 JIRA issue website if click on an issue reference like 'MAMIOS-123' in the git history."
       },
