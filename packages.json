@@ -477,6 +477,12 @@
     ],
     "color_schemes": [
       {
+        "name": "Darcula",
+        "url": "https://github.com/jesseXu/xcode-theme-Darcula/blob/master/Darcula.dvtcolortheme",
+        "description": "Awesome dark theme from JetBraing AppCode IDE",
+        "screenshot": "https://camo.githubusercontent.com/4b8e30667f946c070f24eea45339cc896382fd3c/68747470733a2f2f7261772e6769746875622e636f6d2f6a6573736558752f78636f64652d7468656d652d44617263756c612f6d61737465722f73686f742e706e67"
+      },
+      {
         "name": "Anubis",
         "url": "https://raw.githubusercontent.com/gtranchedone/XcodeThemes/master/Anubis.dvtcolortheme",
         "description": "Easy on the eyes dark theme with pastel colours by Gianluca Tranchedone.",
