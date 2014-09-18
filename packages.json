@@ -473,6 +473,11 @@
         "name": "OpenQuicklyCtrlNP",
         "url": "https://github.com/tyeen/OpenQuicklyCtrlNP",
         "description": "Give Xcode's Open Quickly the lost Control-N/P navigation."
+      },
+      {
+        "name": "MarvinPlugin",
+        "url": "https://github.com/zenangst/MarvinXcode",
+        "description": "A collection of nifty commands for your everyday workflow in Xcode"
       }
     ],
     "color_schemes": [
