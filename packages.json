@@ -815,9 +815,9 @@
         "description": "Project Template for creating a plugin for Xcode 4"
       },
       {
-        "name": "Xcode 5 Plugin",
-        "url": "https://github.com/kattrali/Xcode5-Plugin-Template",
-        "description": "Project Template for creating a plugin for Xcode 5"
+        "name": "Xcode Plugin",
+        "url": "https://github.com/kattrali/Xcode-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode 5+"
       },
       {
         "name": "iOSOpenDev Templates",
