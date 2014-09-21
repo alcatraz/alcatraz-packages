@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+       "name": "NCSimulatorPlugin",
+       "url": "https://github.com/scinfu/NCSimulatorPlugin",
+       "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
+      },
+      {
        "name": "PuncoverPlugin",
        "url": "https://github.com/neonichu/PuncoverPlugin",
        "description": "Xcode plugin for displaying information in the gutter."
