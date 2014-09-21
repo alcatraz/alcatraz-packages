@@ -907,6 +907,12 @@
         "url": "https://github.com/Daij-Djan/MiniXcode",
         "description": "Plugin that makes it easier to run Xcode without the main toolbar.",
         "screenshot": "https://raw.githubusercontent.com/Daij-Djan/MiniXcode/master/Screenshot.png"
+      },
+      {
+        "name": "CocoaControls",
+        "url": "https://github.com/yeahdongcn/CocoaControlsPlugin/tree/master/CocoaControls",
+        "description": "Plugin for Xcode to browse, search, integrate, clone controls in http://cocoacontrols.com/.",
+        "screenshot": "https://raw.githubusercontent.com/yeahdongcn/CocoaControlsPlugin/master/app_screenshot.png"
       }
     ]
   }
