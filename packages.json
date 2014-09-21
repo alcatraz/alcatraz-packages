@@ -481,7 +481,7 @@
       },
       {
         "name": "CocoaControls",
-        "url": "https://github.com/yeahdongcn/CocoaControlsPlugin/tree/master/CocoaControls",
+        "url": "https://github.com/yeahdongcn/CocoaControlsPlugin",
         "description": "Plugin for Xcode to browse, search, integrate, clone controls in http://cocoacontrols.com/.",
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/CocoaControlsPlugin/master/app_screenshot.png"
       }
