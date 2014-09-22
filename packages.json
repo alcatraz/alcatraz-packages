@@ -482,7 +482,8 @@
       {
         "name": "MarvinPlugin",
         "url": "https://github.com/zenangst/MarvinXcode",
-        "description": "A collection of nifty commands for your everyday workflow in Xcode"
+        "description": "A collection of nifty selection and text commands for your everyday workflow in Xcode",
+        "screenshot": "https://raw.githubusercontent.com/zenangst/MarvinXcode/master/screenshot.png"
       },
       {
         "name": "CocoaControls",
