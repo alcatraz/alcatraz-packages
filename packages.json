@@ -477,7 +477,8 @@
       {
         "name": "MarvinPlugin",
         "url": "https://github.com/zenangst/MarvinXcode",
-        "description": "A collection of nifty commands for your everyday workflow in Xcode"
+        "description": "A collection of nifty selection and text commands for your everyday workflow in Xcode",
+        "screenshot": "https://github.com/zenangst/MarvinXcode/blob/master/Screenshot.png"
       }
     ],
     "color_schemes": [
