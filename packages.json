@@ -489,6 +489,12 @@
         "url": "https://github.com/yeahdongcn/CocoaControlsPlugin",
         "description": "Plugin for Xcode to browse, search, integrate, clone controls in http://cocoacontrols.com/.",
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/CocoaControlsPlugin/master/app_screenshot.png"
+      },
+      {
+        "name": "OpenInSublimeText",
+        "url": "https://github.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text",
+        "description": "A plugin to quickly open source files in Sublime Text",
+        "screenshot": "https://raw.githubusercontent.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text/master/Misc/OpenInSublimeTextMenu.png"
       }
     ],
     "color_schemes": [
