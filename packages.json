@@ -247,10 +247,10 @@
         "screenshot": "https://raw.github.com/STAR-ZERO/XFunnyEditor/master/screenshot.png"
       },
       {
-        "name": "AJKExtendedOpening",
-        "url": "https://github.com/inquisitiveSoft/AJKExtendedOpening",
-        "description": "Adds 'Show Project in Finder' and 'Open Project in Terminal' menu items and replaces the existing 'Open with External Editor' item.",
-        "screenshot": "https://raw.github.com/inquisitiveSoft/AJKExtendedOpening/master/Screenshot.jpg"
+        "name": "Open With Application",
+        "url": "https://github.com/inquisitiveSoft/Open-with-Application",
+        "description": "An Xcode plugin to open the current document or project in the finder, the terminal or your external editor or source control app of choice",
+        "screenshot": "https://raw.githubusercontent.com/inquisitiveSoft/Open-with-Application/master/Menu-screenshot.jpg"
       },
       {
         "name": "JDPluginManager",
