@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+       "name": "NCSimulatorPlugin",
+       "url": "https://github.com/scinfu/NCSimulatorPlugin",
+       "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
+      },
+      {
        "name": "PuncoverPlugin",
        "url": "https://github.com/neonichu/PuncoverPlugin",
        "description": "Xcode plugin for displaying information in the gutter."
@@ -479,6 +484,12 @@
         "url": "https://github.com/zenangst/MarvinXcode",
         "description": "A collection of nifty selection and text commands for your everyday workflow in Xcode",
         "screenshot": "https://raw.githubusercontent.com/zenangst/MarvinXcode/master/screenshot.png"
+      },
+      {
+        "name": "CocoaControls",
+        "url": "https://github.com/yeahdongcn/CocoaControlsPlugin",
+        "description": "Plugin for Xcode to browse, search, integrate, clone controls in http://cocoacontrols.com/.",
+        "screenshot": "https://raw.githubusercontent.com/yeahdongcn/CocoaControlsPlugin/master/app_screenshot.png"
       }
     ],
     "color_schemes": [
@@ -805,9 +816,9 @@
         "description": "Project Template for creating a plugin for Xcode 4"
       },
       {
-        "name": "Xcode 5 Plugin",
-        "url": "https://github.com/kattrali/Xcode5-Plugin-Template",
-        "description": "Project Template for creating a plugin for Xcode 5"
+        "name": "Xcode Plugin",
+        "url": "https://github.com/kattrali/Xcode-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode 5+"
       },
       {
         "name": "iOSOpenDev Templates",
