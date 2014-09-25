@@ -507,7 +507,7 @@
     "color_schemes": [
       {
         "name": "Darcula",
-        "url": "https://github.com/jesseXu/xcode-theme-Darcula/blob/master/Darcula.dvtcolortheme",
+        "url": "https://raw.githubusercontent.com/jesseXu/xcode-theme-Darcula/master/Darcula.dvtcolortheme",
         "description": "Awesome dark theme from JetBrains AppCode IDE"
       },
       {
