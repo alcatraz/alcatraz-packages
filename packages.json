@@ -478,8 +478,9 @@
     "color_schemes": [
       {
         "name": "Darcula",
-        "url": "https://raw.githubusercontent.com/jesseXu/xcode-theme-Darcula/master/Darcula.dvtcolortheme",
-        "description": "Awesome dark theme from JetBrains AppCode IDE"
+        "url": "https://raw.githubusercontent.com/sacred0x01/xcode-theme-Darcula/master/Darcula.dvtcolortheme",
+        "description": "Awesome dark theme from JetBrains AppCode IDE",
+        "screenshot": "https://raw.githubusercontent.com/sacred0x01/xcode-theme-Darcula/master/shot.png"
       },
       {
         "name": "Anubis",
