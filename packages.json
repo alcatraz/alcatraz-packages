@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+       "name": "Aviator",
+       "url": "https://github.com/marksands/Aviator",
+       "description": "Adds the AppCode shortcut shift+command+T to toggle between a source file and its test file counterpart."
+      },
+      {
        "name": "NCSimulatorPlugin",
        "url": "https://github.com/scinfu/NCSimulatorPlugin",
        "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
