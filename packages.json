@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+       "name": "Myth",
+        "url": "https://raw.githubusercontent.com/mysteriouss/XcodeThemes/master/Myth.dvtcolortheme",
+        "description": "Easy on the eyes gray theme by mysteriouss.",
+        "screenshot": "https://raw.github.com/mysteriouss/XcodeThemes/master/sample2.png"
+      },
+      {
        "name": "Aviator",
        "url": "https://github.com/marksands/Aviator",
        "description": "Adds the AppCode shortcut shift+command+T to toggle between a source file and its test file counterpart."
