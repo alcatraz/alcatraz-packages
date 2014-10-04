@@ -7,6 +7,11 @@
        "description": "Adds the AppCode shortcut shift+command+T to toggle between a source file and its test file counterpart."
       },
       {
+       "name": "Helmet",
+       "url": "https://github.com/brianmichel/Helmet",
+       "description": "Prevents editing of Apple provided header files."
+      },
+      {
        "name": "NCSimulatorPlugin",
        "url": "https://github.com/scinfu/NCSimulatorPlugin",
        "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
