@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
       {
+       "name": "ProjectWindowName",
+       "url": "https://github.com/sleifer/ProjectWindowName",
+       "description": "Prepend project name to window title for Xcode Project and Workspace windows."
+      },
+      {
        "name": "Aviator",
        "url": "https://github.com/marksands/Aviator",
        "description": "Adds the AppCode shortcut shift+command+T to toggle between a source file and its test file counterpart."
