@@ -513,7 +513,7 @@
         "url": "https://github.com/lucholaf/Auto-Importer-for-Xcode",
         "description": "A plugin to quickly import your headers on the fly",
         "screenshot": "https://raw.githubusercontent.com/lucholaf/Auto-Importer-for-Xcode/master/demo.gif"
-      },
+      }
     ],
     "color_schemes": [
       {
