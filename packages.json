@@ -850,11 +850,6 @@
         "description": "Setup for your AeroGear projects, based on CocoaPods"
       },
       {
-        "name": "AFNetworking Templates",
-        "url": "https://github.com/AFNetworking/Xcode-Project-Templates",
-        "description": "Start Your Project Off Right, with CocoaPods & AFNetworking"
-      },
-      {
         "name": "Xcode 4 Plugin",
         "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
         "description": "Project Template for creating a plugin for Xcode 4"
