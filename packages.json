@@ -511,6 +511,12 @@
     ],
     "color_schemes": [
       {
+       "name": "Myth",
+        "url": "https://raw.githubusercontent.com/mysteriouss/XcodeThemes/master/Myth.dvtcolortheme",
+        "description": "Easy on the eyes gray theme by mysteriouss.",
+        "screenshot": "https://raw.github.com/mysteriouss/XcodeThemes/master/sample2.png"
+      },
+      {
         "name": "Darcula",
         "url": "https://github.com/jesseXu/xcode-theme-Darcula/blob/master/Darcula.dvtcolortheme",
         "description": "Awesome dark theme from JetBrains AppCode IDE"
