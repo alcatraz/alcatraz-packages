@@ -944,7 +944,7 @@
       },
       {
         "name": "Slack Templates",
-        "url": "https://github.com/slackhq/SlackTextViewController/tree/master/Template",
+        "url": "https://github.com/slackhq/SlackTextViewController",
         "description": "A set of useful templates to quickly start using SlackTextViewController.",
         "screenshot": "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_template.png"
       }
