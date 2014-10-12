@@ -847,6 +847,12 @@
         "url" : "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/base16-Ocean.dvtcolortheme",
         "description" : "A spacegray/base16 Ocean-inspired color scheme for Xcode.",
         "screenshot" : "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/Preview.png"
+      },
+      {
+        "name" : "Espresso Tribute",
+        "url" : "https://raw.githubusercontent.com/zenangst/xcode-espresso-tribute-theme/master/Espresso.dvtcolortheme",
+        "description" : "A light theme inspired by the Espresso - The Web Editor",
+        "screenshot" : "https://raw.githubusercontent.com/zenangst/xcode-espresso-tribute-theme/master/screenshot.png"
       }
     ],
     "project_templates": [
