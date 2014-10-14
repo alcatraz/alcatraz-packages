@@ -621,6 +621,12 @@
         "description": "Cobalt color theme for Xcode"
       },
       {
+        "name": "Colorswift",
+        "url": "https://github.com/ferologics/Colorswift/blob/master/Colorswift.dvtcolortheme",
+        "description": "Eye saving colours, looking flawless with swift",
+        "screenshot": "https://raw.githubusercontent.com/ferologics/Colorswift/master/colorswiftDemo.png"
+      },
+      {
         "name": "CSSEdit Tribute",
         "url": "https://raw.github.com/tonyarnold/XcodeThemes/master/CSSEdit%20Tribute.dvtcolortheme",
         "description": "CSSEdit Tribute color theme for Xcode",
