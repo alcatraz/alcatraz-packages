@@ -853,6 +853,12 @@
         "url" : "https://raw.githubusercontent.com/zenangst/xcode-espresso-tribute-theme/master/Espresso.dvtcolortheme",
         "description" : "A light theme inspired by the Espresso - The Web Editor",
         "screenshot" : "https://raw.githubusercontent.com/zenangst/xcode-espresso-tribute-theme/master/screenshot.png"
+      },
+      {
+        "name" : "zenangst",
+        "url" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/zenangst.dvtcolortheme",
+        "description" : "A theme that really whips the llama's ass!",
+        "screenshot" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/screenshot.png"
       }
     ],
     "project_templates": [
