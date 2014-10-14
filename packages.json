@@ -856,7 +856,7 @@
       },
       {
         "name" : "zenangst",
-        "url" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/Zenangst.dvtcolortheme",
+        "url" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/zenangst.dvtcolortheme",
         "description" : "A theme that really whips the llama's ass!",
         "screenshot" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/screenshot.png"
       }
