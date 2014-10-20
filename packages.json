@@ -528,6 +528,12 @@
         "url": "https://github.com/lucholaf/Auto-Importer-for-Xcode",
         "description": "A plugin to quickly import your headers on the fly",
         "screenshot": "https://raw.githubusercontent.com/lucholaf/Auto-Importer-for-Xcode/master/demo.gif"
+      },
+      {
+        "name": "DBSmartPanels",
+        "url": "https://github.com/chaingarden/DBSmartPanels/",
+        "description": "Optimizes screen real estate by auto-hiding panels (debug window, utilities, Assistant Editor) when you don't need them",
+        "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
       }
     ],
     "color_schemes": [
