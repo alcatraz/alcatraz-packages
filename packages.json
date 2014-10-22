@@ -534,6 +534,12 @@
         "url": "https://github.com/chaingarden/DBSmartPanels/",
         "description": "Optimizes screen real estate by auto-hiding panels (debug window, utilities, Assistant Editor) when you don't need them",
         "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
+      },
+      {
+        "name": "SuggestedColors",
+        "url": "https://github.com/jwaitzel/SuggestedColors/",
+        "description": "Customize the drop-down menu for suggested colors in the Interface Builder",
+        "screenshot": "https://raw.githubusercontent.com/jwaitzel/SuggestedColors/master/SuggestedColors.png"
       }
     ],
     "color_schemes": [
