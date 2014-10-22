@@ -536,6 +536,12 @@
         "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
       },
       {
+        "name": "RegX",
+        "url": "https://github.com/kzaher/RegX",
+        "description": "Prettifies source code by aligning elements in a visually pleasing way.",
+        "screenshot": "https://raw.githubusercontent.com/kzaher/RegX/content/images/demo.gif"
+      },
+      {
         "name": "SuggestedColors",
         "url": "https://github.com/jwaitzel/SuggestedColors/",
         "description": "Customize the drop-down menu for suggested colors in the Interface Builder",
@@ -877,6 +883,18 @@
         "url" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/zenangst.dvtcolortheme",
         "description" : "A theme that really whips the llama's ass!",
         "screenshot" : "https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/screenshot.png"
+      },
+      {
+        "name": "Flat Theme Xcode(Dark)",
+        "url": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Flat%20Theme%20Dark.dvtcolortheme",
+        "description": "Xcode Theme built by Flat colors",
+        "screenshot": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Dark.png"
+      },
+      {
+        "name": "Flat Theme Xcode(Light)",
+        "url": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Flat%20Theme%20Light.dvtcolortheme",
+        "description": "Xcode Theme built by Flat colors",
+        "screenshot": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Light.png"
       }
     ],
     "project_templates": [
@@ -1007,7 +1025,6 @@
         "description": "Useful templates for some best-practice implementing common patterns in iOS. Supports Swift.",
         "screenshot": "https://raw.githubusercontent.com/haaakon/Scaffolding/master/screenshot.png"
       }
-
     ]
   }
 }
