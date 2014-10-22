@@ -534,6 +534,12 @@
         "url": "https://github.com/chaingarden/DBSmartPanels/",
         "description": "Optimizes screen real estate by auto-hiding panels (debug window, utilities, Assistant Editor) when you don't need them",
         "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
+      },
+      {
+        "name": "RegX",
+        "url": "https://github.com/kzaher/RegX",
+        "description": "Prettifies source code by aligning elements in a visually pleasing way.",
+        "screenshot": "https://raw.githubusercontent.com/kzaher/RegX/content/images/demo.gif"
       }
     ],
     "color_schemes": [
