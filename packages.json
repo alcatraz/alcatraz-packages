@@ -540,6 +540,12 @@
         "url": "https://github.com/kzaher/RegX",
         "description": "Prettifies source code by aligning elements in a visually pleasing way.",
         "screenshot": "https://raw.githubusercontent.com/kzaher/RegX/content/images/demo.gif"
+      },
+      {
+        "name": "SuggestedColors",
+        "url": "https://github.com/jwaitzel/SuggestedColors/",
+        "description": "Customize the drop-down menu for suggested colors in the Interface Builder",
+        "screenshot": "https://raw.githubusercontent.com/jwaitzel/SuggestedColors/master/SuggestedColors.png"
       }
     ],
     "color_schemes": [
