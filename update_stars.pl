@@ -15,7 +15,7 @@ my $limited;
 open JSON, "packages.json" or die "Could not open packages file";
 my $json = <JSON>;
 
-$json =~ s@((\n\s+)"url": "https://github.com/(\w+/\w+)")(,\n\s+"stars": "?(\d+)"?)*@
+$json =~ s@((\n\s+)"url": "https://github.com/(\w+/[^"]+)")(,\n\s+"stars": "?(\d+)"?)*@
     my ($url, $indent, $repo, $stars) = ($1, $2, $3, $5);
     if ( (!$stars || $update) && !$limited ) {
         warn "Fetching $repo\n";

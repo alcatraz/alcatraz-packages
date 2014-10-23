@@ -66,6 +66,7 @@
       {
        "name": "MCLog",
        "url": "https://github.com/yuhua-chen/MCLog",
+       "stars": 242,
        "description": "Xcode plugin for filtering the console area.",
        "screenshot": "https://raw.githubusercontent.com/yuhua-chen/MCLog/master/MCLogScreenshot.gif"
       },
@@ -112,6 +113,7 @@
       {
         "name": "AdjustFontSize",
         "url": "https://github.com/zats/AdjustFontSize-Xcode-Plugin",
+        "stars": 54,
         "description": "Adjust font size with ⌘ + / ⌘ -",
         "screenshot": "https://raw.github.com/zats/AdjustFontSize-Xcode-Plugin/master/README/xcode.png"
       },
@@ -131,12 +133,14 @@
       {
         "name": "CocoaPods",
         "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
+        "stars": 1310,
         "description": "CocoaPods integration right in Xcode",
         "screenshot": "https://raw.github.com/kattrali/cocoapods-xcode-plugin/master/menu.png"
       },
       {
         "name": "ClangFormat",
         "url": "https://github.com/travisjeffery/ClangFormat-Xcode",
+        "stars": 1045,
         "description": "Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang",
         "screenshot": "https://raw.github.com/travisjeffery/ClangFormat-Xcode/master/README/usage.png"
       },
@@ -156,6 +160,7 @@
       {
         "name": "BBUncrustifyPlugin",
         "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
+        "stars": 670,
         "description": "Xcode plugin to uncrustify the source code opened in the editor"
       },
       {
@@ -173,28 +178,33 @@
       {
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
+        "stars": 215,
         "description": "Button for quickly deleting derived data. Makes Xcode happy.",
         "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/exterminator+minixcode.png"
       },
       {
         "name": "OMColorSense",
         "url": "https://github.com/omz/ColorSense-for-Xcode",
+        "stars": 1920,
         "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
       },
       {
         "name": "OMQuickHelp",
         "url": "https://github.com/omz/Dash-Plugin-for-Xcode",
+        "stars": 768,
         "description": "Plugin for Xcode to integrate the Dash documentation viewer app"
       },
       {
         "name": "KSImageNamed",
         "url": "https://github.com/ksuther/KSImageNamed-Xcode",
+        "stars": 2284,
         "description": "Xcode plug-in that provides autocomplete for imageNamed: calls",
         "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png"
       },
       {
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
+        "stars": 365,
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
         "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
       },
@@ -212,27 +222,32 @@
       {
         "name": "Lin",
         "url": "https://github.com/questbeat/Lin-Xcode5",
+        "stars": 901,
         "description": "Shows completion for NSLocalizedString",
         "screenshot": "http://maniacdev.com/wp-content/uploads/2013/03/lin.png"
       },
       {
         "name": "XCFixin_FindFix",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "stars": 394,
         "description": "This fixin makes Xcode show all find options (such as \"Ignore Case\") in the find bar when it opens."
       },
       {
         "name": "XCFixin_TabAcceptsCompletions",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "stars": 394,
         "description": "Upon pressing tab, this fixin makes Xcode accept the currently-highlighted completion suggestion in the popup list."
       },
       {
         "name": "XCFixin_CustomizeWarningErrorHighlights",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "stars": 394,
         "description": "Customize the inline error/warning message highlight color. Useful if you want to be able to read your code when using a dark background color."
       },
       {
         "name": "XCFixin_UserScripts",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
+        "stars": 394,
         "description": "Reinstates some semblance of the Xcode 3.x User Scripts menu. See documentation in the XCFixin_UserScripts directory."
       },
       {
@@ -269,6 +284,7 @@
       {
         "name": "InstaCodesPlugin",
         "url": "https://github.com/parametr/instacodes-for-xcode",
+        "stars": 8,
         "description": "This plug-in allows developers to post code fragments directly from Xcode IDE to Instacode - an Instagram for your code. It supports OS X 10.7 and higher + Xcode 4.x."
       },
       {
@@ -293,18 +309,21 @@
       {
         "name": "VVDocumenter-Xcode",
         "url": "https://github.com/onevcat/VVDocumenter-Xcode",
+        "stars": 2769,
         "description": "Xcode plug-in which helps you write Javadoc style documents easier.",
         "screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
       },
       {
         "name": "XFunnyEditor",
         "url": "https://github.com/STAR-ZERO/XFunnyEditor",
+        "stars": 17,
         "description": "Xcode plugin to display an image on the background of the editor",
         "screenshot": "https://raw.github.com/STAR-ZERO/XFunnyEditor/master/screenshot.png"
       },
       {
         "name": "Open With Application",
         "url": "https://github.com/inquisitiveSoft/Open-with-Application",
+        "stars": 4,
         "description": "An Xcode plugin to open the current document or project in the finder, the terminal or your external editor or source control app of choice",
         "screenshot": "https://raw.githubusercontent.com/inquisitiveSoft/Open-with-Application/master/Menu-screenshot.jpg"
       },
@@ -318,6 +337,7 @@
       {
         "name": "QuickLocalization",
         "url": "https://github.com/nanaimostudio/Xcode-Quick-Localization",
+        "stars": 50,
         "description": "Xcode Plugin to Convert @\"content\" to NSLocalizedString(@\"content\", @\"content\")"
       },
       {
@@ -409,6 +429,7 @@
       {
         "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
+        "stars": 12,
         "description": "Xcode plugin for C Style Comment(uncomment) /**/"
       },
       {
@@ -421,12 +442,14 @@
       {
         "name": "WakaTime",
         "url": "https://github.com/wakatime/xcode-wakatime",
+        "stars": 22,
         "description": "Fully automatic time tracking.",
         "screenshot": "https://www.wakatime.com/static/img/ScreenShots/Screen%20Shot%202013-10-26%20at%205.04.01%20PM.png"
       },
       {
         "name": "Eero Xcode",
         "url": "https://github.com/eerolanguage/eero-installer-for-alcatraz",
+        "stars": 1,
         "description": "Eero Programming Language support. Please restart Xcode after installing!",
         "screenshot": "http://eerolanguage.org/images/HelloWorld.png"
       },
@@ -467,12 +490,14 @@
       {
         "name": "RevealPlugin",
         "url": "https://github.com/shjborage/Reveal-Plugin-for-XCode",
+        "stars": 112,
         "description": "Plugin for Xcode to integrate the Reveal App to your project automatic.",
         "screenshot": "https://github.com/shjborage/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
       },
       {
         "name": "Backlight",
         "url": "https://github.com/limejelly/Backlight-for-XCode",
+        "stars": 72,
         "description": "Highlights the current editing line in Xcode.",
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       },
@@ -486,6 +511,7 @@
       {
         "name": "IntelliPaste",
         "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
+        "stars": 16,
         "description": "IntelliPaste is an Xcode plugin that makes copy-pasting methods and RGB colors easier.",
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
       },
@@ -519,6 +545,7 @@
       {
         "name": "ExtractorLocalizableStrings",
         "url": "https://github.com/viniciusmo/extract-localizable-string-plugin-xcode",
+        "stars": 94,
         "description": "Enable extract localizable",
         "screenshot": "https://raw.githubusercontent.com/viniciusmo/extract-localizable-string-plugin-xcode/master/Resources/preview.png"
       },
@@ -532,6 +559,7 @@
       {
         "name": "RealmPlugin",
         "url": "https://github.com/realm/realm-cocoa",
+        "stars": 2175,
         "description": "File and class templates for Realm.",
         "screenshot": "https://gist.githubusercontent.com/jpsim/68d6a7152350c24df80f/raw/9c7717a1a1c428bd902ce4779051723dc5143789/RealmPlugin.jpg"
       },
@@ -577,12 +605,14 @@
       {
         "name": "OpenInSublimeText",
         "url": "https://github.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text",
+        "stars": 1,
         "description": "A plugin to quickly open source files in Sublime Text",
         "screenshot": "https://raw.githubusercontent.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text/master/Misc/OpenInSublimeTextMenu.png"
       },
       {
         "name": "Auto-Importer",
         "url": "https://github.com/lucholaf/Auto-Importer-for-Xcode",
+        "stars": 84,
         "description": "A plugin to quickly import your headers on the fly",
         "screenshot": "https://raw.githubusercontent.com/lucholaf/Auto-Importer-for-Xcode/master/demo.gif"
       },
@@ -959,21 +989,25 @@
       {
         "name": "AeroGear Template",
         "url": "https://github.com/aerogear/aerogear-ios-xcode-template",
+        "stars": 0,
         "description": "Setup for your AeroGear projects, based on CocoaPods"
       },
       {
         "name": "Xcode 4 Plugin",
         "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
+        "stars": 85,
         "description": "Project Template for creating a plugin for Xcode 4"
       },
       {
         "name": "Xcode Plugin",
         "url": "https://github.com/kattrali/Xcode-Plugin-Template",
+        "stars": 461,
         "description": "Project Template for creating a plugin for Xcode 5+"
       },
       {
         "name": "iOSOpenDev Templates",
         "url": "https://github.com/kokoabim/iOSOpenDev-Xcode-Templates",
+        "stars": 31,
         "description": "http://www.iOSOpenDev.com"
       },
       {
@@ -985,16 +1019,19 @@
       {
         "name": "SmartLogic Templates",
         "url": "https://github.com/smartlogic/xcode-templates",
+        "stars": 0,
         "description": "A collection of templates used at SmartLogic, including structured project templates and sparse file templates."
       },
       {
         "name": "Typo Templates",
         "url": "https://github.com/TypoNU/XCode-Project-Templates",
+        "stars": 0,
         "description": "A collection of templates used by TypoNU, including a fat framework template which will make a fat library framework for distribution"
       },
       {
         "name": "21st digital Templates",
         "url": "https://github.com/21stdigital/Xcode-Templates",
+        "stars": 9,
         "description": "A starting point for stripped down, structured and nib-less iOS applications including support for CocoaPods and Uncrustify."
       }
     ],
@@ -1002,6 +1039,7 @@
       {
         "name": "Aerolitec Templates",
         "url": "https://github.com/Aerolitec/aerolitec-templates",
+        "stars": 1,
         "description": "File templates for Aerolitec Coding Standard"
       },
       {
@@ -1019,6 +1057,7 @@
       {
         "name": "Licensed",
         "url": "https://github.com/mattt/Xcode-Licensed-Templates",
+        "stars": 198,
         "description": "Minimal Xcode Templates for Open Source Developers"
       },
       {
@@ -1035,6 +1074,7 @@
       {
         "name": "GHUnit Templates",
         "url": "https://github.com/jessecurry/ghunit-xcode-templates",
+        "stars": 0,
         "description": "A set of file templates for Xcode 4.x to create GHUnit test cases"
       },
       {
@@ -1046,11 +1086,13 @@
       {
         "name": "Singleton",
         "url": "https://github.com/ko2ic/Xcode-Singleton-Templates",
+        "stars": 8,
         "description": "Xcode File Templates for singleton class and the testcase."
       },
       {
         "name": "Eero Templates",
         "url": "https://github.com/eerolanguage/xcode-templates",
+        "stars": 0,
         "description": "Xcode file templates for the Eero Programming Language."
       },
       {
