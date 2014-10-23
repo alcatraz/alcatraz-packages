@@ -876,13 +876,13 @@
         "name": "Flat Theme Xcode(Dark)",
         "url": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Flat%20Theme%20Dark.dvtcolortheme",
         "description": "Xcode Theme built by Flat colors",
-        "screenshot": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Dark.png"
+        "screenshot": "https://raw.githubusercontent.com/etsushisa/Flat-Theme-Xcode/master/Screen%20Shot%20Dark.png"
       },
       {
         "name": "Flat Theme Xcode(Light)",
         "url": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Flat%20Theme%20Light.dvtcolortheme",
         "description": "Xcode Theme built by Flat colors",
-        "screenshot": "https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Light.png"
+        "screenshot": "https://raw.githubusercontent.com/etsushisa/Flat-Theme-Xcode/master/Screen%20Shot%20Light.png"
       }
     ],
     "project_templates": [
