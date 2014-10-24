@@ -153,7 +153,7 @@
         "name": "DerivedData Exterminator",
         "url": "https://github.com/kattrali/deriveddata-exterminator",
         "description": "Button for quickly deleting derived data. Makes Xcode happy.",
-        "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/exterminator+minixcode.png"
+        "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/menu.png"
       },
       {
         "name": "OMColorSense",
