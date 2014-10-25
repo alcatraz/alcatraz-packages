@@ -754,6 +754,12 @@
         "screenshot": "https://raw.github.com/zdne/spacegray-xcode/master/screenshots/space-gray-screen.png"
       },
       {
+        "name": "Silver",
+        "url": "https://raw.github.com/zdne/spacegray-xcode/master/Silver.dvtcolortheme",
+        "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
+        "screenshot": "https://raw.githubusercontent.com/zdne/spacegray-xcode/master/screenshots/silver-screen.png"
+      },      
+      {
         "name": "stevenf",
         "url": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/stevenf.dvtcolortheme",
         "description": "Dark theme created by Steven Frank.",
