@@ -550,6 +550,12 @@
     ],
     "color_schemes": [
       {
+        "name": "Earthbound",
+        "url": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Earthbound/master/Earthbound.dvtcolortheme",
+        "description": "A pleasant looking theme created with Swift syntax in mind.",
+        "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Earthbound/master/example1.png"
+      },
+      {
        "name": "Myth",
         "url": "https://raw.githubusercontent.com/mysteriouss/XcodeThemes/master/Myth.dvtcolortheme",
         "description": "Easy on the eyes gray theme by mysteriouss.",
