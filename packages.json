@@ -546,6 +546,12 @@
         "url": "https://github.com/jwaitzel/SuggestedColors/",
         "description": "Customize the drop-down menu for suggested colors in the Interface Builder",
         "screenshot": "https://raw.githubusercontent.com/jwaitzel/SuggestedColors/master/SuggestedColors.png"
+      },
+      {
+        "name": "WindowFlex",
+        "url": "https://github.com/zenangst/WindowFlex",
+        "description": "Helps you flex your Xcode window muscles",
+        "screenshot": "https://raw.githubusercontent.com/zenangst/WindowFlex/master/screenshot.png"
       }
     ],
     "color_schemes": [
@@ -764,7 +770,7 @@
         "url": "https://raw.github.com/zdne/spacegray-xcode/master/Silver.dvtcolortheme",
         "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
         "screenshot": "https://raw.githubusercontent.com/zdne/spacegray-xcode/master/screenshots/silver-screen.png"
-      },      
+      },
       {
         "name": "stevenf",
         "url": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/stevenf.dvtcolortheme",
