@@ -552,6 +552,11 @@
         "url": "https://github.com/zenangst/WindowFlex",
         "description": "Helps you flex your Xcode window muscles",
         "screenshot": "https://raw.githubusercontent.com/zenangst/WindowFlex/master/screenshot.png"
+      },
+      {
+        "name": "seguecodePlugin",
+        "url": "https://github.com/yoiang/seguecode",
+        "description": "Integrates seguecode, the Storyboard assistance tool, with Xcode by automatically detecting and running whenever you save a Storyboard."
       }
     ],
     "color_schemes": [
