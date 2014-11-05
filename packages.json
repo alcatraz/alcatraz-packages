@@ -552,6 +552,12 @@
         "url": "https://github.com/zenangst/WindowFlex",
         "description": "Helps you flex your Xcode window muscles",
         "screenshot": "https://raw.githubusercontent.com/zenangst/WindowFlex/master/screenshot.png"
+      },
+      {
+      	"name" : "XcodeAutoBasher",
+      	"url" : "https://github.com/vokalinteractive/XcodeAutoBasher", 
+      	"description" : "Run a given script any time a given folder or its children have changes.",
+      	"screenshot" : "https://raw.githubusercontent.com/vokalinteractive/XcodeAutoBasher/master/screenshot.png"
       }
     ],
     "color_schemes": [
@@ -1042,12 +1048,6 @@
         "url": "https://github.com/haaakon/Scaffolding",
         "description": "Useful templates for some best-practice implementing common patterns in iOS. Supports Swift.",
         "screenshot": "https://raw.githubusercontent.com/haaakon/Scaffolding/master/screenshot.png"
-      },
-      {
-      	"name" : "XcodeAutoBasher",
-      	"url" : "https://github.com/vokalinteractive/XcodeAutoBasher", 
-      	"description" : "Run a given script any time a given folder or its children have changes.",
-      	"screenshot" : "https://raw.githubusercontent.com/vokalinteractive/XcodeAutoBasher/master/screenshot.png"
       }
     ]
   }
