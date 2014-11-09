@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+       "name": "KKHighlightRecentPlugin",
+       "url": "https://github.com/karolkozub/KKHighlightRecentPlugin",
+       "description": "Highlights recently selected files",
+       "screenshot": "https://raw.githubusercontent.com/karolkozub/KKHighlightRecentPlugin/master/screenshot.png"
+      },
+      {
        "name": "XCProfileCleaner",
        "url": "https://github.com/lechium/ProvisioningProfileCleaner",
        "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder."
