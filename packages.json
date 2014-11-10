@@ -560,6 +560,12 @@
         "screenshot": "https://raw.githubusercontent.com/zenangst/WindowFlex/master/screenshot.png"
       },
       {
+        "name" : "XcodeAutoBasher",
+        "url" : "https://github.com/vokalinteractive/XcodeAutoBasher", 
+        "description" : "Run a given script any time a given folder or its children have changes.",
+        "screenshot" : "https://raw.githubusercontent.com/vokalinteractive/XcodeAutoBasher/master/screenshot.png"
+      },
+      {
         "name": "seguecodePlugin",
         "url": "https://github.com/yoiang/seguecode",
         "description": "Integrates seguecode, the Storyboard assistance tool, with Xcode by automatically detecting and running whenever you save a Storyboard."
