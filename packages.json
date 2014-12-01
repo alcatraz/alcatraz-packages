@@ -574,6 +574,12 @@
         "name": "DXXcodeConsoleUnicodePlugin",
         "url": "https://github.com/dhcdht/DXXcodeConsoleUnicodePlugin",
         "description": "Convert unicode string to Human-readable in xcode 5+ console."
+      },
+      {
+        "name": "QuickFind",
+        "url": "https://github.com/qiaoxueshi/QuickFind",
+        "description": "A plugin that helps you find/search something more quickly and more conveniently",
+        "screenshot": "https://raw.githubusercontent.com/qiaoxueshi/QuickFind/master/images/QuickFind.gif"
       }
     ],
     "color_schemes": [
