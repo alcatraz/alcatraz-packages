@@ -574,6 +574,12 @@
         "name": "DXXcodeConsoleUnicodePlugin",
         "url": "https://github.com/dhcdht/DXXcodeConsoleUnicodePlugin",
         "description": "Convert unicode string to Human-readable in xcode 5+ console."
+      },
+      {
+        "name": "QuickFind",
+        "url": "https://github.com/qiaoxueshi/QuickFind",
+        "description": "A plugin that helps you find/search something more quickly and more conveniently",
+        "screenshot": "https://raw.githubusercontent.com/qiaoxueshi/QuickFind/master/images/QuickFind.gif"
       }
     ],
     "color_schemes": [
@@ -1064,12 +1070,6 @@
         "url": "https://github.com/haaakon/Scaffolding",
         "description": "Useful templates for some best-practice implementing common patterns in iOS. Supports Swift.",
         "screenshot": "https://raw.githubusercontent.com/haaakon/Scaffolding/master/screenshot.png"
-      },
-      {
-        "name": "QuickFind",
-        "url": "https://github.com/qiaoxueshi/QuickFind",
-        "description": "A plugin that helps you find/search something more quickly and more conveniently",
-        "screenshot": "https://raw.githubusercontent.com/qiaoxueshi/QuickFind/master/images/QuickFind.gif"
       }
     ]
   }
