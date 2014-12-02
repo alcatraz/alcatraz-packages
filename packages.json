@@ -1070,6 +1070,18 @@
         "url": "https://github.com/haaakon/Scaffolding",
         "description": "Useful templates for some best-practice implementing common patterns in iOS. Supports Swift.",
         "screenshot": "https://raw.githubusercontent.com/haaakon/Scaffolding/master/screenshot.png"
+      },
+      {
+        "name": "Solarized Light (Tweaked by Stackia, Xcode 5+)",
+        "url": "https://raw.githubusercontent.com/stackia/solarized-xcode/master/Solarized%20Light.dvtcolortheme",
+        "description": "Enjoy the world's most-popular theme for programming on Xcode. (Tested on Xcode 5+)",
+        "screenshot": "https://raw.githubusercontent.com/stackia/solarized-xcode/master/Screenshot_Light.png"
+      },
+      {
+        "name": "Solarized Dark (Tweaked by Stackia, Xcode 5+)",
+        "url": "https://raw.githubusercontent.com/stackia/solarized-xcode/master/Solarized%20Dark.dvtcolortheme",
+        "description": "Enjoy the world's most-popular theme for programming on Xcode. (Tested on Xcode 5+)",
+        "screenshot": "https://raw.githubusercontent.com/stackia/solarized-xcode/master/Screenshot_Dark.png"
       }
     ]
   }
