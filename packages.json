@@ -1070,6 +1070,12 @@
         "name": "TJXcodeTemplates",
         "url": "https://github.com/thomasjoulin/TJXcodeTemplates",
         "description": "A set of stripped-out Xcode 4 default templates."
+      },
+      {
+        "name": "MLAutoReplace",
+        "url": "https://github.com/molon/MLAutoReplace",
+        "description": "Re-intent,write getters quickly, and custom your own regex replacer",
+        "screenshot": "https://raw.githubusercontent.com/molon/MLAutoReplace/master/replaceGetter.gif"
       }
     ]
   }
