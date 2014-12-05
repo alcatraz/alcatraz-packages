@@ -586,6 +586,12 @@
         "name": "ZKKeyBindingsTeacher",
         "url": "https://github.com/zulkis/ZKKeyBindingsTeacher",
         "description": "Xcode plugin for key bindings learning"
+      },
+      {
+        "name": "MLAutoReplace",
+        "url": "https://github.com/molon/MLAutoReplace",
+        "description": "Re-intent,write getters quickly, and custom your own regex replacer",
+        "screenshot": "https://raw.githubusercontent.com/molon/MLAutoReplace/master/replaceGetter.gif"
       }
     ],
     "color_schemes": [
