@@ -532,6 +532,11 @@
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
       },
       {
+        "name": "XContract",
+        "url": "https://github.com/lechium/XContract",
+        "description": "Keep track / export contracting hours for a project."
+      },
+      {
         "name": "XCProfileCleaner",
         "url": "https://github.com/lechium/ProvisioningProfileCleaner",
         "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder."
