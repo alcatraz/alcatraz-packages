@@ -373,6 +373,12 @@
         "screenshot": "https://raw.githubusercontent.com/yeahdongcn/RSImageOptimPlugin/master/ImageOptim-screenshot@2x.png"
       },
       {
+        "name": "RTImageAssets",
+        "url": "https://github.com/rickytan/RTImageAssets",
+        "description": "A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, or upscale to @3x from @2x",
+        "screenshot": "https://github.com/rickytan/RTImageAssets/blob/master/ScreenCap/usage.gif"
+      },
+      {
         "name": "SCXcodeMinimap",
         "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
         "description": "SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode."
