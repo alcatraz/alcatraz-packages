@@ -2,24 +2,6 @@
   "packages": {
     "plugins": [
       {
-<<<<<<< HEAD
-       "name": "XCProfileCleaner",
-       "url": "https://github.com/lechium/ProvisioningProfileCleaner",
-       "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder."
-      },
-      {
-       "name": "MCLog",
-       "url": "https://github.com/yuhua-chen/MCLog",
-       "description": "Xcode plugin for filtering the console area.",
-       "screenshot": "https://raw.githubusercontent.com/yuhua-chen/MCLog/master/MCLogScreenshot.gif"
-=======
-        "name": "ACCodeSnippetRepository",
-        "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
-        "description": "Synchronize code snippets with a git repository.",
-        "screenshot": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin/raw/master/Screenshots/screenshot02.png"
->>>>>>> 1f7605a9645a1b6f1c526c67ffff68c145029125
-      },
-      {
         "name": "AdjustFontSize",
         "url": "https://github.com/zats/AdjustFontSize-Xcode-Plugin",
         "description": "Adjust font size with ⌘ + / ⌘ -",
