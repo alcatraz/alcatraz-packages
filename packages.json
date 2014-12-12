@@ -583,6 +583,12 @@
         "screenshot": "http://i.imgur.com/BZk2tSo.png"
       },
       {
+        "name": "XTrello",
+        "url": "https://github.com/lechium/XTrello",
+        "description": "Xcode plugin that is an native implementation of trello",
+        "screenshot": "https://raw.githubusercontent.com/lechium/XTrello/master/add_labels.png"
+      },
+      {
         "name": "XVim",
         "url": "https://github.com/JugglerShu/XVim",
         "description": "Xcode plugin for Vim keybindings"
