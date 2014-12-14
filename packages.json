@@ -1,7 +1,7 @@
 {
   "packages": {
     "plugins": [
-      {
+    {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
         "description": "Synchronize code snippets with a git repository.",
@@ -538,6 +538,11 @@
         "description": "XCommentWrap is a plugin for wrapping comments at 80 characters."
       },
       {
+        "name": "XContract",
+        "url": "https://github.com/lechium/XContract",
+        "description": "Keep track / export contracting hours for a project."
+      },
+      {
         "name": "XCProfileCleaner",
         "url": "https://github.com/lechium/ProvisioningProfileCleaner",
         "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder."
@@ -582,6 +587,12 @@
         "url": "https://github.com/trawor/XToDo",
         "description": "Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`",
         "screenshot": "http://i.imgur.com/BZk2tSo.png"
+      },
+      {
+        "name": "XTrello",
+        "url": "https://github.com/lechium/XTrello",
+        "description": "Xcode plugin that is an native implementation of trello",
+        "screenshot": "https://raw.githubusercontent.com/lechium/XTrello/master/add_labels.png"
       },
       {
         "name": "XVim",
