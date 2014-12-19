@@ -1093,6 +1093,11 @@
         "name": "TJXcodeTemplates",
         "url": "https://github.com/thomasjoulin/TJXcodeTemplates",
         "description": "A set of stripped-out Xcode 4 default templates."
+      },
+      {
+        "name": "Swift Singleton",
+        "url": "https://github.com/icylydia/SwiftSingleton",
+        "description": "Xcode File Templates for singleton class in Swift."
       }
     ]
   }
