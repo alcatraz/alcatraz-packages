@@ -750,6 +750,12 @@
         "screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
       },
       {
+        "name": "Eppz",
+        "url": "https://github.com/eppz/eppz.xCode/blob/master/eppz!.dvtcolortheme",
+        "description", "Eppz!, Xcode color scheme with a sense",
+        "screenshot": "https://camo.githubusercontent.com/0f9020516895a4547dc0b2058592ac27f55b1320/68747470733a2f2f7261772e6769746875622e636f6d2f6570707a2f6570707a2d78436f64652f64657369676e2f6570707a2178436f64655f636f6c6f725f736368656d655f707265766965772e706e67"
+      },
+      {
         "name": "Espresso Tribute",
         "url": "https://raw.githubusercontent.com/zenangst/xcode-espresso-tribute-theme/master/Espresso.dvtcolortheme",
         "description": "A light theme inspired by the Espresso - The Web Editor",
