@@ -1018,6 +1018,12 @@
         "name": "Xcode Plugin",
         "url": "https://github.com/kattrali/Xcode-Plugin-Template",
         "description": "Project Template for creating a plugin for Xcode 5+"
+      },
+      {
+        "name": "Xcode Empty Application",
+        "url": "https://github.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template",
+        "description": "Bringing the Empty Application template back to Xcode",
+        "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template/master/screenshot.png"
       }
     ],
     "file_templates": [
