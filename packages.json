@@ -1110,6 +1110,7 @@
         "url": "https://github.com/johnno1962/Remote",
         "description": "Control your iDevice from inside Xcode for end-to-end testing.",
         "screenshot": "http://injectionforxcode.johnholdsworth.com/remote.png"
+      }
     ]
   }
 }
