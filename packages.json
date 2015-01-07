@@ -611,7 +611,7 @@
         "screenshot": "https://raw.githubusercontent.com/molon/MLAutoReplace/master/replaceGetter.gif"
       },
       {
-        "name": "iPhone Remote",
+        "name": "Remote",
         "url": "https://github.com/johnno1962/Remote",
         "description": "Control your iDevice from inside Xcode for end-to-end testing.",
         "screenshot": "http://injectionforxcode.johnholdsworth.com/remote.png"
