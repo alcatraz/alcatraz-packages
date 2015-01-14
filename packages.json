@@ -501,9 +501,9 @@
       },
       {
         "name": "XcodeAutoBasher",
-        "url": "https://github.com/vokalinteractive/XcodeAutoBasher",
+        "url": "https://github.com/vokal/XcodeAutoBasher",
         "description": "Run a given script any time a given folder or its children have changes.",
-        "screenshot": "https://raw.githubusercontent.com/vokalinteractive/XcodeAutoBasher/master/screenshot.png"
+        "screenshot": "https://raw.githubusercontent.com/vokal/XcodeAutoBasher/master/screenshot.png"
       },
       {
         "name": "XcodeBoost",
