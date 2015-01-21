@@ -871,6 +871,12 @@
         "screenshot": "https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/screenshot1.png"
       },
       {
+        "name": "Seti",
+        "url": "https://raw.githubusercontent.com/alenofx/seti-xcode-theme/master/Seti.dvtcolortheme",
+        "description": "Seti is a dark, colorful Xcode theme inspired by the Seti Syntax theme for the Atom editor.",
+        "screenshot": "https://raw.githubusercontent.com/alenofx/seti-xcode-theme/master/seti-xcode-theme-preview.png"
+      },
+      {
         "name": "Sidetracked",
         "url": "https://raw.github.com/drudge/Sidetracked/master/Sidetracked.dvtcolortheme",
         "description": "Stylish, Railscast inspired color scheme for various text/code editors.",
@@ -920,9 +926,9 @@
       },
       {
         "name": "Today",
-        "url": "https://raw.github.com/alenofx/today-xcode-theme/master/Today.dvtcolortheme",
+        "url": "https://raw.githubusercontent.com/alenofx/today-xcode-theme/master/Today.dvtcolortheme",
         "description": "Today is a light, colorful Xcode theme inspired by other great themes like Tomorrow.",
-        "screenshot": "https://raw.github.com/alenofx/today-xcode-theme/master/today-xcode-theme-preview.png"
+        "screenshot": "https://raw.githubusercontent.com/alenofx/today-xcode-theme/master/today-xcode-theme-preview.png"
       },
       {
         "name": "Tomorrow",
