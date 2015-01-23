@@ -786,6 +786,12 @@
         "screenshot": "https://raw.githubusercontent.com/etsushisa/Flat-Theme-Xcode/master/Screen%20Shot%20Light.png"
       },
       {
+        "name" : "fruits",
+        "url" : "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/fruits.dvtcolortheme",
+        "description" : "Fruits Colors.",
+        "screenshot" : "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/sample0.png"
+      },
+      {
         "name": "Harry Potter",
         "url": "https://raw.github.com/Konrad77/xcode-themes/master/HarryPotter.dvtcolortheme",
         "description": "No muggler were hurt during the creation of this theme. By Mikael Konradsson",
