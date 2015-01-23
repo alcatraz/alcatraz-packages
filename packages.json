@@ -787,7 +787,7 @@
       },
       {
         "name" : "fruits",
-        "url" : "https://github.com/muukii0803/xcode-fruits",
+        "url" : "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/fruits.dvtcolortheme",
         "description" : "Fruits Colors.",
         "screenshot" : "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/sample0.png"
       },
