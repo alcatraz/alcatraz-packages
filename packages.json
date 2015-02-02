@@ -172,6 +172,12 @@
         "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
       },
       {
+        "name": "HTYCopyIssue",
+        "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
+        "description": "Makes Copy Xcode Issue Description Easily.",
+        "screenshot": "https://github.com/hanton/CopyIssue-Xcode-Plugin/blob/master/ScreenShot.png"
+      },
+      {
         "name": "InjectionPlugin",
         "url": "https://github.com/johnno1962/injectionforxcode",
         "description": "Inject code changes directly into your running application.",
