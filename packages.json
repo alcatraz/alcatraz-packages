@@ -1137,6 +1137,12 @@
         "description": "A set of stripped-out Xcode 4 default templates."
       },
       {
+        "name": "Swift Templates",
+        "url": "https://github.com/khoogheem/SwiftXcodeFileTemplates",
+        "description": "The Missing Xcode Files Templates for Swift.  Singleton, Protocol, Struct, Extension.  Continues to grow",
+        "screenshot": "https://raw.githubusercontent.com/khoogheem/SwiftXcodeFileTemplates/master/SwiftTemplates.png"
+      },
+      {
         "name": "Swift Singleton",
         "url": "https://github.com/icylydia/SwiftSingleton",
         "description": "Xcode File Templates for singleton class in Swift."
