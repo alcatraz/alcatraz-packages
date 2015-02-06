@@ -1058,7 +1058,7 @@
       {
         "name": "PIXNETTemplate",
         "url": "https://github.com/pixnet/PIXNETTemplate",
-        "description": "File Template for PIXNET coding",
+        "description": "File Template for PIXNET coding"
       },
     ],
     "file_templates": [
