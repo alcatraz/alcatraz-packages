@@ -1139,7 +1139,7 @@
       {
         "name": "Swift Templates",
         "url": "https://github.com/khoogheem/SwiftXcodeFileTemplates",
-        "description": "The Missing Xcode Files Templates for Swift.  Singleto, Protocol, Struct, Extension.  Continues to grow"
+        "description": "The Missing Xcode Files Templates for Swift.  Singleton, Protocol, Struct, Extension.  Continues to grow"
       },
       {
         "name": "Swift Singleton",
