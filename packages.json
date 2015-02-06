@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
     {
+        "name": "PIXNETTemplate",
+        "url": "https://github.com/pixnet/PIXNETTemplate",
+        "description": "File Template for PIXNET coding",
+      },
+    {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
         "description": "Synchronize code snippets with a git repository.",
