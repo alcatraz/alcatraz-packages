@@ -39,7 +39,7 @@
       {
         "name": "Backlight",
         "url": "https://github.com/limejelly/Backlight-for-XCode",
-        "description": "Highlights the current editing line in Xcode.",
+        "description": "Highlights the current editing line in Xcode.",	
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       },
       {
@@ -1054,7 +1054,7 @@
         "url": "https://github.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template",
         "description": "Bringing the Empty Application template back to Xcode",
         "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template/master/screenshot.png"
-      }
+      },
       {
         "name": "PIXNETTemplate",
         "url": "https://github.com/pixnet/PIXNETTemplate",
