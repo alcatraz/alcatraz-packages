@@ -232,9 +232,9 @@
       },
       {
         "name": "Lin",
-        "url": "https://github.com/questbeat/Lin-Xcode5",
+        "url": "https://github.com/questbeat/Lin",
         "description": "Shows completion for NSLocalizedString",
-        "screenshot": "http://maniacdev.com/wp-content/uploads/2013/03/lin.png"
+        "screenshot": "https://raw.github.com/questbeat/Lin/master/screenshot.gif"
       },
       {
         "name": "MarvinPlugin",
