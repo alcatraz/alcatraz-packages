@@ -840,6 +840,12 @@
         "screenshot": "https://raw.github.com/mysteriouss/XcodeThemes/master/sample2.png"
       },
       {
+        "name": "Nakafurano",
+        "url": "https://raw.githubusercontent.com/tflhyl/nakafurano/master/xcode/Nakafurano.dvtcolortheme",
+        "description": "Dark color scheme with material design flat color palette.",
+        "screenshot": "https://raw.githubusercontent.com/tflhyl/nakafurano/master/xcode/nakafurano-xcode.png"
+      },
+      {
         "name": "New Roman Times",
         "url": "https://gist.github.com/coryalder/811771/raw/4ef9e9007f3677df7d9e378c3fe1743c1383c74f/New+Roman+Times.dvtcolortheme",
         "description": "A proportional coding theme. Times New Roman for code, Menlo for comments and the console."
