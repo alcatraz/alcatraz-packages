@@ -534,6 +534,11 @@
         "description": "This is a plugin project that allows you, as a developer, to explore the various events and notifications that Xcode4 emits during normal operations."
       },
       {
+        "name": "XcodePerforcePlugin",
+        "url": "https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/files/xcodeperforceplugin",
+        "description": "Native Xcode Plugin that integrates with Perforce source control system."
+      },
+      {
         "name": "XcodePlus Delete Line",
         "url": "https://github.com/payliu/XcodePlus",
         "description": "Xcode plugin to plus extra feature － delete line, even mulit-lines",
