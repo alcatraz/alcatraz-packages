@@ -240,7 +240,7 @@
 		"name": "LinkedLog",
 		"url": "https://github.com/julian-weinert/LinkedLog",
 		"description": "LinkedLog is a Xcode plugin that includes a Xcode PCH header file template that adds the macros `LLog` and `LLogF` and parses their output to link from the console to the corresponding file and line.",
-		"screenshot": "https://raw.git.com/julian-weinert/LinkedLog/master/Screenshot/LinkedLog.png"
+		"screenshot": "https://raw.githubusercontent.com/julian-weinert/LinkedLog/master/Screenshots/LinkedLog.png"
 	  },
       {
         "name": "MarvinPlugin",
