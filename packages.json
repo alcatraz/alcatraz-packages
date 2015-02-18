@@ -536,7 +536,8 @@
       {
         "name": "XcodePerforcePlugin",
         "url": "https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/files/xcodeperforceplugin",
-        "description": "Native Xcode Plugin that integrates with Perforce source control system."
+        "description": "Native Xcode Plugin that integrates with Perforce source control system.",
+        "screenshot": "https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/files/xcodeperforceplugin/screenshot_xcodeperforceplugin.png"
       },
       {
         "name": "XcodePlus Delete Line",
