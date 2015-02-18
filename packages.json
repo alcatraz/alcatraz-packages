@@ -231,6 +231,12 @@
         "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.png"
       },
       {
+        "name": "KSHObjcUML",
+        "url": "https://github.com/kimsungwhee/KSHObjcUML",
+        "description": "Xcode plug-in that provides show oriented graph of dependencies between classes in your project.",
+        "screenshot": "https://raw.githubusercontent.com/kimsungwhee/KSHObjcUML/master/ScreenShot.png"
+      },
+      {
         "name": "Lin",
         "url": "https://github.com/questbeat/Lin",
         "description": "Shows completion for NSLocalizedString",
