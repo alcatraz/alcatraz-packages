@@ -440,10 +440,10 @@
         "screenshot": "https://raw.github.com/tyeen/SwipeGestureSwitcher/master/screenshot.png"
       },
       {
-	    "name": "URBNlin",
-		"url": "https://github.com/jgrandelli/URBNLin",
-		"description": "Xcode plugin that acts like Lin for URBNStr"
-	  },
+        "name": "URBNLin",
+        "url": "https://github.com/jgrandelli/URBNLin",
+        "description": "Xcode plugin that acts like Lin for URBNStr"
+      },
       {
         "name": "VVDocumenter-Xcode",
         "url": "https://github.com/onevcat/VVDocumenter-Xcode",
