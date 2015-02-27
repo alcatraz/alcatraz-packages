@@ -405,12 +405,14 @@
       {
         "name": "SCXcodeMinimap",
         "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
-        "description": "SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode."
+        "description": "Xcode plugin that adds a source editor Minimap to Xcode.",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeMiniMap/v2.0/SCXcodeMinimap%20v2.0-02.png"
       },
       {
         "name": "SCXcodeSwitchExpander",
         "url": "https://github.com/stefanceriu/SCXcodeSwitchExpander",
-        "description": "Xcode plugin that enables switch cases autocompletion"
+        "description": "Xcode plugin that enables switch cases autocompletion",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeSwitchExpander/SCXcodeSwitchExpander.gif"
       },
       {
         "name": "seguecodePlugin",
