@@ -734,6 +734,12 @@
         "screenshot": "https://github.com/danielb5/chroma-theme/raw/master/images/code.png"
       },
       {
+        "name": "Chroma Light",
+        "url": "https://github.com/danielb5/chroma-theme/blob/master/Chroma%20Light.dvtcolortheme",
+        "description": "A charming Xcode theme that makes sense, now light. Great for Swift!",
+        "screenshot": "https://github.com/danielb5/chroma-theme/raw/master/images/light.png"
+      },
+      {
         "name": "Ciapre",
         "url": "https://raw.github.com/vinhnx/Ciapre-Xcode-theme/master/Ciapre.dvtcolortheme",
         "description": "Easy on the eyes, port of Ciapre theme from Sublime Text to Xcode. The original one.",
