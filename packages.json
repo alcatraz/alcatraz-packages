@@ -1206,7 +1206,13 @@
         "name": "PIXNETTemplate",
         "url": "https://github.com/pixnet/PIXNETTemplate",
         "description": "File Template for PIXNET coding"
-      }
+      },
+      {
+        "name": "AllTargets",
+        "url": "https://github.com/poboke/AllTargets",
+        "description": "The plugin will auto select all targets when you add files to the project.",
+        "screenshot": "https://github.com/poboke/AllTargets/raw/master/Images/about.png"
+      },
     ]
   }
 }
