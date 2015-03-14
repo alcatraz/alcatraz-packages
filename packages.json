@@ -43,6 +43,12 @@
         "screenshot": "https://raw.github.com/MellongLau/AMMethod2Implement/master/Screenshots/usageScreenshot.gif"
       },
       {
+       "name": "NCSimulatorPlugin",
+       "url": "https://github.com/scinfu/NCSimulatorPlugin",
+       "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
+       "screenshot": "https://raw.githubusercontent.com/scinfu/NCSimulatorPlugin/master/01.png"
+      },
+      {
         "name": "ApportablePlugin",
         "url": "https://github.com/johnno1962/ApportablePlugin",
         "description": "Simple Plugin for work with Apportable supporting Live Coding.",
