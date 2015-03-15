@@ -454,6 +454,12 @@
         "screenshot": "https://raw.github.com/tyeen/SwipeGestureSwitcher/master/screenshot.png"
       },
       {
+        "name": "Tuna",
+        "url": "https://github.com/dealforest/Tuna",
+        "description": "Xcode plugin that provides easy set breakpoint with action.",
+        "screenshot": "https://raw.githubusercontent.com/dealforest/Tuna/master/images/capture.png"
+      },
+      {
         "name": "URBNLin",
         "url": "https://github.com/jgrandelli/URBNLin",
         "description": "Xcode plugin that acts like Lin for URBNStr"
