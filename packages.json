@@ -508,6 +508,12 @@
         "screenshot": "https://raw.github.com/mikr/XcAddedMarkup/master/images/sourcecode2.png"
       },
       {
+        "name": "XCActionBar",
+        "url": "https://github.com/pdcgomes/XCActionBar",
+        "description": "XCActionBar is a multipurpose Xcode productivity tool. Think of it like like Alfred for Xcode - it allows you perform all sorts of actions just by typing commands.",
+        "screenshot": "https://raw.githubusercontent.com/pdcgomes/XCActionBar/master/demo.gif"
+      },
+      {
         "name": "XCFixin_CustomizeWarningErrorHighlights",
         "url": "https://github.com/davekeck/Xcode-4-Fixins",
         "description": "Customize the inline error/warning message highlight color. Useful if you want to be able to read your code when using a dark background color."
