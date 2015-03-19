@@ -179,6 +179,12 @@
         "description": "Prevents editing of Apple provided header files."
       },
       {
+        "name": "HighlightSelectedString",
+        "url": "https://github.com/keepyounger/HighlightSelectedString",
+        "description": "Highlight The String which is same to Selected String.",
+        "screenshot": "https://raw.githubusercontent.com/keepyounger/HighlightSelectedString/master/demo.png"
+      },
+      {
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
