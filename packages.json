@@ -1,7 +1,7 @@
 {
   "packages": {
     "plugins": [
-    {
+      {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
         "description": "Synchronize code snippets with a git repository.",
@@ -47,6 +47,12 @@
         "name": "Aviator",
         "url": "https://github.com/marksands/Aviator",
         "description": "Adds the AppCode shortcut shift+command+T to toggle between a source file and its test file counterpart."
+      },
+      {
+        "name": "AxeMode",
+        "url": "https://github.com/alloy/AxeMode",
+        "description": "This Xcode plugin provides monkey-patches that ‘fix’ issues with Xcode.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/2320/6247886/38795892-b77a-11e4-9390-f8d817e0e151.gif"
       },
       {
         "name": "Backlight",
