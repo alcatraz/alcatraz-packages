@@ -1173,6 +1173,12 @@
         "description": "Minimal Xcode Templates for Open Source Developers"
       },
       {
+        "name": "MMJiOSTemplates",
+        "url": "https://github.com/mihaelamj/mmjiostemplates",
+        "description": "Universal App iOS templates without Storyboard or XIBs, with Launchscreen in all sizes. For Xcode 6.x.",
+        "screenshot": "http://raw.github.com//mihaelamj/mmjiostemplates/master/Images/Templates.png"
+      },
+      {
         "name": "NSAtomicStore Template",
         "url": "https://github.com/quellish/NSAtomicStoreTemplate",
         "description": "Template for creating a concrete NSAtomicStore"
