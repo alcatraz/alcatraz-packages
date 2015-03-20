@@ -292,12 +292,6 @@
         "screenshot": "https://raw.githubusercontent.com/Daij-Djan/MiniXcode/master/Screenshot.png"
       },
       {
-        "name": "MMJiOSTemplates",
-        "url": "https://github.com/mihaelamj/mmjiostemplates",
-        "description": "Universal App iOS templates without Storyboard or XIBs, with Launchscreen in all sizes. For Xcode 6.x.",
-        "screenshot": "http://raw.github.com//mihaelamj/mmjiostemplates/master/Images/Templates.png"
-      },
-      {
         "name": "NCSimulatorPlugin",
         "url": "https://github.com/scinfu/NCSimulatorPlugin",
         "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
@@ -1177,6 +1171,12 @@
         "name": "Licensed",
         "url": "https://github.com/mattt/Xcode-Licensed-Templates",
         "description": "Minimal Xcode Templates for Open Source Developers"
+      },
+      {
+        "name": "MMJiOSTemplates",
+        "url": "https://github.com/mihaelamj/mmjiostemplates",
+        "description": "Universal App iOS templates without Storyboard or XIBs, with Launchscreen in all sizes. For Xcode 6.x.",
+        "screenshot": "http://raw.github.com//mihaelamj/mmjiostemplates/master/Images/Templates.png"
       },
       {
         "name": "NSAtomicStore Template",
