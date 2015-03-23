@@ -536,7 +536,7 @@
       {
         "name": "XcodePerforcePlugin",
         "url": "https://guest@git.workshop.perforce.com/jaime-rios-xcodeperforceplugin",
-        "description": "Native Xcode Plugin that integrates with Perforce source control system.",
+        "description": "Native Xcode Plugin that integrates with Perforce source control system. For more information about this plugin and how to use it, you can view the project's README page at https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/ .",
         "screenshot": "https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/view/xcodeperforceplugin/screenshot_xcodeperforceplugin.png"
       },
       {
