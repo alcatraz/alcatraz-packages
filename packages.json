@@ -747,6 +747,12 @@
         "screenshot": "http://f.cl.ly/items/3L0g3b3a3o420s1k1l31/blues.png"
       },
       {
+        "name": "CATweakerSense",
+        "url": "https://github.com/keefo/CATweaker",
+        "description": "Xcode plugin that makes working with CAMediaTimingFunction more visual.",
+        "screenshot": "https://raw.githubusercontent.com/keefo/CATweaker/master/plugin1.png"
+      },
+      {
         "name": "Chalkboard",
         "url": "https://raw.github.com/alobi/Chalkboard-Xcode-Theme/master/Chalkboard.dvtcolortheme",
         "description": "A darkened version of the default Xcode theme. Very easy on the eyes.",
@@ -1237,12 +1243,6 @@
         "name": "PIXNETTemplate",
         "url": "https://github.com/pixnet/PIXNETTemplate",
         "description": "File Template for PIXNET coding"
-      },
-      {
-        "name": "CATweakerSense",
-        "url": "https://github.com/keefo/CATweaker",
-        "description": "Xcode plugin that makes working with CAMediaTimingFunction more visual.",
-        "screenshot": "https://raw.githubusercontent.com/keefo/CATweaker/master/plugin1.png"
       }
     ]
   }
