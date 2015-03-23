@@ -100,6 +100,12 @@
         "description": "Xcode 5+ only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports Xcode 5.x."
       },
       {
+        "name": "CATweakerSense",
+        "url": "https://github.com/keefo/CATweaker",
+        "description": "Xcode plugin that makes working with CAMediaTimingFunction more visual.",
+        "screenshot": "https://raw.githubusercontent.com/keefo/CATweaker/master/plugin1.png"
+      },
+      {
         "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
         "description": "Xcode plugin for C Style Comment(uncomment) /**/"
