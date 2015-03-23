@@ -760,13 +760,13 @@
       },
       {
         "name": "Chroma Dark",
-        "url": "https://github.com/danielb5/chroma-theme/blob/master/Chroma%20Dark.dvtcolortheme",
+        "url": "https://raw.github.com/danielb5/chroma-theme/master/Chroma%20Dark.dvtcolortheme",
         "description": "A charming Xcode theme that makes sense. Inspired in Tomorrow Night. Great for Swift!",
         "screenshot": "https://github.com/danielb5/chroma-theme/raw/master/images/code.png"
       },
       {
         "name": "Chroma Light",
-        "url": "https://github.com/danielb5/chroma-theme/blob/master/Chroma%20Light.dvtcolortheme",
+        "url": "https://raw.github.com/danielb5/chroma-theme/master/Chroma%20Light.dvtcolortheme",
         "description": "A charming Xcode theme that makes sense, now light. Great for Swift!",
         "screenshot": "https://github.com/danielb5/chroma-theme/raw/master/images/light.png"
       },
