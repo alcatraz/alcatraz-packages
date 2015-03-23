@@ -1244,6 +1244,7 @@
         "description": "Xcode plugin that makes working with CAMediaTimingFunction more visual.",
         "screenshot": "https://raw.githubusercontent.com/keefo/CATweaker/master/plugin1.png"
       }
+      
     ]
   }
 }
