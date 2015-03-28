@@ -1244,6 +1244,12 @@
         "url": "https://github.com/pixnet/PIXNETTemplate",
         "description": "File Template for PIXNET coding"
       }
+      {
+        "name": "ZLGotoSandboxPlugin",
+        "url": "https://github.com/MakeZL/ZLGotoSandboxPlugin",
+        "description": "You can quickly enter the iOS simulator Xcode plugin!",
+        "screenshot": "https://github.com/MakeZL/ZLGotoSandboxPlugin/blob/master/screenshot.png
+      },
     ]
   }
 }
