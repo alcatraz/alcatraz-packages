@@ -691,6 +691,12 @@
         "description": "Xcode plugin for key bindings learning"
       },
       {
+  	"name": "ZMDocItemInspector",
+  	"url": "https://github.com/zolomatok/ZMDocItemInspector",
+  	"description": "Converts the Quick Help inspector into an always visible Document Items inspector.",
+  	"screenshot": "http://i.stack.imgur.com/x4SCO.png"
+	},
+      {
         "name": "MLAutoReplace",
         "url": "https://github.com/molon/MLAutoReplace",
         "description": "Re-intent,write getters quickly, and custom your own regex replacer",
