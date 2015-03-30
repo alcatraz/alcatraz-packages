@@ -1255,6 +1255,11 @@
         "name": "PIXNETTemplate",
         "url": "https://github.com/pixnet/PIXNETTemplate",
         "description": "File Template for PIXNET coding"
+      },
+      {
+        "name": "OpenFrameworks Classes",
+        "url": "https://github.com/armadillu/Xcode-OpenFrameworks-Templates.git",
+        "description": "OpenFrameworks C++ File Templates"
       }
     ]
   }
