@@ -137,7 +137,7 @@
       {
       	"name": "CodePilot",
       	"url": "https://github.com/macoscope/CodePilot",
-      	"description": "Code Pilot is a plugin for Xcode 5 that allows you to quickly find files, methods and symbols within your project without the need for your mouse.",
+      	"description": "Code Pilot is a plugin for Xcode 5 & 6 that allows you to quickly find files, methods and symbols within your project without the need for your mouse.",
       	"screenshot": "https://github.com/macoscope/CodePilot/raw/master/Screenshots/CodePilot_01.png"
       },
       {
