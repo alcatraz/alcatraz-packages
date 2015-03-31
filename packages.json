@@ -1240,7 +1240,7 @@
         "description": "Xcode File Templates for singleton class in Swift."
       },
       {
-        "name": "ZLGotoSandboxPlugin",
+        "name": "ZLGotoSandbox",
         "url": "https://github.com/MakeZL/ZLGotoSandboxPlugin",
         "description": "You can quickly enter the iOS simulator Xcode plugin!",
         "screenshot": "https://github.com/MakeZL/ZLGotoSandboxPlugin/blob/master/screenshot.png"
