@@ -1029,6 +1029,12 @@
         "screenshot": "https://raw.github.com/mhallendal/spacedust-theme/master/Xcode4/spacedust-xcode-theme.png"
       },
       {
+        "name": "Specials Board",
+        "url": "https://raw.github.com/jbergantine/Specials-Board-for-Xcode/master/Specials%20Board.dvtcolortheme",
+        "description": "Light on dark theme based on Specials Board for Coda created by Joe Bergantine.",
+        "screenshot": "http://kinsa-static-assets.s3.amazonaws.com/xcode_specials_board.png"
+      },
+      {
         "name": "stevenf",
         "url": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/stevenf.dvtcolortheme",
         "description": "Dark theme created by Steven Frank.",
