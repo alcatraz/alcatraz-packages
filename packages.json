@@ -695,6 +695,12 @@
         "url": "https://github.com/johnno1962/Remote",
         "description": "Control your iDevice from inside Xcode for end-to-end testing.",
         "screenshot": "http://injectionforxcode.johnholdsworth.com/remote.png"
+      },
+      {
+        "name": "ZLGotoSandbox",
+        "url": "https://github.com/MakeZL/ZLGotoSandboxPlugin",
+        "description": "You can quickly enter the iOS simulator Xcode plugin!",
+        "screenshot": "https://github.com/MakeZL/ZLGotoSandboxPlugin/blob/master/screenshot.png"
       }
     ],
     "color_schemes": [
@@ -1238,12 +1244,6 @@
         "name": "Swift Singleton",
         "url": "https://github.com/icylydia/SwiftSingleton",
         "description": "Xcode File Templates for singleton class in Swift."
-      },
-      {
-        "name": "ZLGotoSandbox",
-        "url": "https://github.com/MakeZL/ZLGotoSandboxPlugin",
-        "description": "You can quickly enter the iOS simulator Xcode plugin!",
-        "screenshot": "https://github.com/MakeZL/ZLGotoSandboxPlugin/blob/master/screenshot.png"
       },
       {
         "name": "PIXNETTemplate",
