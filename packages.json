@@ -719,6 +719,12 @@
         "url": "https://github.com/MakeZL/ZLGotoSandboxPlugin",
         "description": "You can quickly enter the iOS simulator Xcode plugin!",
         "screenshot": "https://github.com/MakeZL/ZLGotoSandboxPlugin/blob/master/screenshot.png"
+      },
+      {
+        "name": "ZLCheckFile",
+        "url": "https://github.com/MakeZL/ZLCheckFilePlugin-Xcode",
+        "description": "This is redundant files a lookup project (not the referenced file). Xcode - plugin.",
+        "screenshot": "https://github.com/MakeZL/ZLCheckFilePlugin-Xcode/raw/master/screenhost2.png"
       }
     ],
     "color_schemes": [
