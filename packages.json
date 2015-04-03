@@ -1053,6 +1053,18 @@
         "screenshot": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/screenshot.png"
       },
       {
+        "name": "Taskworld",
+        "url": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/Taskworld.dvtcolortheme",
+        "description": "Dark theme inspired by Sublime's monokai",
+        "screenshot": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/ScreenShots/taskworldtheme.png"
+      },
+      {
+        "name": "Taskworld Light",
+        "url": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/TaskworldLight.dvtcolortheme",
+        "description": "Light and vivid theme inspired by Sublime's monokai(light)",
+        "screenshot": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/ScreenShots/twlighttheme.png"
+      },
+      {
         "name": "Today",
         "url": "https://raw.githubusercontent.com/alenofx/today-xcode-theme/master/Today.dvtcolortheme",
         "description": "Today is a light, colorful Xcode theme inspired by other great themes like Tomorrow.",
