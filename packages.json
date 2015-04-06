@@ -635,6 +635,12 @@
         "description": "Keep track / export contracting hours for a project."
       },
       {
+        "name": "XCoverage",
+        "url": "https://github.com/dropbox/XCoverage",
+        "description": "Displays test coverage data in the text editor. If you don't currently generate gcov data, see github page for info on setting it up.",
+        "screenshot": "https://github.com/dropbox/XCoverage/raw/master/docs/example.png"
+      },
+      {
         "name": "XCProfileCleaner",
         "url": "https://github.com/lechium/ProvisioningProfileCleaner",
         "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder."
