@@ -106,6 +106,12 @@
         "screenshot": "https://raw.githubusercontent.com/keefo/CATweaker/master/plugin1.png"
       },
       {
+        "name": "ChangeMarks",
+        "url": "https://github.com/zenangst/ChangeMarks",
+        "description": "Change Marks helps you to keep track of your most recent changes by giving them a different background color.",
+        "screenshot": "https://raw.githubusercontent.com/zenangst/ChangeMarks/master/screenshot.png"
+      },
+      {
         "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
         "description": "Xcode plugin for C Style Comment(uncomment) /**/"
