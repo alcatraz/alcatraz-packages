@@ -737,6 +737,11 @@
         "url": "https://github.com/MakeZL/ZLCheckFilePlugin-Xcode",
         "description": "This is redundant files a lookup project (not the referenced file). Xcode - plugin.",
         "screenshot": "https://github.com/MakeZL/ZLCheckFilePlugin-Xcode/raw/master/screenhost2.png"
+      },
+      {
+        "name": "ZLXCodeLine",
+        "url": "https://github.com/MakeZL/ZLXCodeLine",
+        "description": "This is a record of the number of lines of code - XcodePlugin."
       }
     ],
     "color_schemes": [
