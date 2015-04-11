@@ -1076,6 +1076,12 @@
         "screenshot": "https://raw.github.com/panicsteve/stevenf-xcode-theme/master/screenshot.png"
       },
       {
+        "name": "Stout",
+        "url": "https://raw.github.com/86/Xcode-themes/master/Stout.dvtcolortheme",
+        "description": "Dark color theme inspired by one of the dark beer style Stout.",
+        "screenshot": "https://raw.github.com/86/Xcode-themes/master/Stout.png"
+      },
+      {
         "name": "Taskworld",
         "url": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/Taskworld.dvtcolortheme",
         "description": "Dark theme inspired by Sublime's monokai",
