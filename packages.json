@@ -474,6 +474,12 @@
         "description": "Open the related Github page of a source file directly form the Xcode editor code window."
       },
       {
+        "name": "SimpleXcodeIcon",
+        "url": "https://github.com/b3ll/SimpleXcodeIcon",
+        "description": "Removes the build number from the Xcode dock icon.",
+        "screenshot": "https://raw.githubusercontent.com/b3ll/SimpleXcodeIcon/master/SimpleXcodeIconPreview.png"
+      },
+      {
         "name": "Snapshots",
         "url": "https://github.com/orta/Snapshots",
         "description": "An Xcode Plugin to show the state of FBSnapshot Tests."
