@@ -14,6 +14,11 @@
         "screenshot": "https://raw.github.com/zats/AdjustFontSize-Xcode-Plugin/master/README/xcode.png"
       },
       {
+        "name": "XcodeWarpaint",
+        "url": "https://github.com/zats/BetaWarpaint.git",
+        "description": "Never confuse Xcode-beta with a regular build again"
+      },
+      {
         "name": "AllTargets",
         "url": "https://github.com/poboke/AllTargets",
         "description": "The plugin will auto select all targets when you add files to the project.",
