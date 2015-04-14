@@ -14,7 +14,7 @@
         "screenshot": "https://raw.github.com/zats/AdjustFontSize-Xcode-Plugin/master/README/xcode.png"
       },
       {
-        "name": "XcodeWarpaint",
+        "name": "BetaWarpaint",
         "url": "https://github.com/zats/BetaWarpaint.git",
         "description": "Never confuse Xcode-beta with a regular build again"
       },
