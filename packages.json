@@ -261,6 +261,11 @@
         "screenshot": "https://raw.github.com/deszip/Jumper/master/menu.png"
       },
       {
+        "name": "JumpMarks",
+        "url": "https://github.com/merrickp/JumpMarks",
+        "description": "Xcode plugin for numbered bookmarks"
+      },
+      {
         "name": "KKHighlightRecentPlugin",
         "url": "https://github.com/karolkozub/KKHighlightRecentPlugin",
         "description": "Highlights recently selected files",
