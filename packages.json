@@ -1,6 +1,18 @@
 {
   "packages": {
     "plugins": [
+        {
+          "name": "PluginPanel",
+          "url": "https://github.com/AlexIzh/PluginPanel",
+          "description": "Plugin panel for XCode. It needed for other plugins.",
+          "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.14.56%20AM.png"
+        },
+        {
+          "name": "TimePlugin",
+          "url": "https://github.com/AlexIzh/TimePlugin",
+          "description": "Simple time tracker. Need `PluginPanel` plugin for uses.",
+          "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.43.04%20AM.png"
+        },
       {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
