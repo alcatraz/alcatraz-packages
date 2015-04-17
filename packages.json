@@ -555,7 +555,7 @@
       },
       {
         "name": "seguecodePlugin",
-        "url": "https://github.com/yoiang/seguecode",
+        "url": "https://github.com/Adorkable/seguecode",
         "description": "Integrates seguecode, the Storyboard assistance tool, with Xcode by automatically detecting and running whenever you save a Storyboard."
       }
     ],
