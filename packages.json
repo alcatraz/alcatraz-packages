@@ -616,6 +616,11 @@
         "screenshot": "https://raw.githubusercontent.com/vokal/XcodeAutoBasher/master/screenshot.png"
       },
       {
+        "name": "XcodeBookmark",
+        "url": "https://github.com/nicoster/XcodeBookmark",
+        "description": "The bookmark plugin for Xcode."
+      },
+      {
         "name": "XcodeBoost",
         "url": "https://github.com/fortinmike/XcodeBoost",
         "description": "An Xcode plugin that aims to make altering and inspecting code quick and easy.",
