@@ -777,6 +777,13 @@
         "name": "ZLXCodeLine",
         "url": "https://github.com/MakeZL/ZLXCodeLine",
         "description": "This is a record of the number of lines of code - XcodePlugin."
+      },
+      {
+        "name": "IceBuilder",
+        "url": "https://github.com/zeroc-ice/ice-builder-xcode",
+        "branch": "alcatraz",
+        "description": "Ice Builder to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
+        "screenshot": "https://raw.githubusercontent.com/zeroc-ice/ice-builder-xcode/master/screenshot.png"
       }
     ],
     "color_schemes": [
