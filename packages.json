@@ -333,6 +333,12 @@
         "screenshot": "https://raw.githubusercontent.com/Daij-Djan/MiniXcode/master/Screenshot.png"
       },
       {
+        "name": "NJHMultiTheme",
+        "url": "https://github.com/nathanhosselton/NJHMultiTheme",
+        "description": "Set separate Xcode themes for Swift and Objective-C source files.",
+        "screenshot": "https://raw.githubusercontent.com/nathanhosselton/NJHMultiTheme/master/Screenshot.png"
+      },
+      {
         "name": "ObjectGraph-Xcode",
         "url": "https://github.com/vampirewalk/ObjectGraph-Xcode",
         "description": "Plugin for showing oriented graph of dependencies between classes.",
