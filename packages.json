@@ -779,7 +779,7 @@
         "description": "This is a record of the number of lines of code - XcodePlugin."
       },
       {
-        "name": "Ice Builder",
+        "name": "IceBuilder",
         "url": "https://github.com/zeroc-ice/ice-builder-xcode",
         "branch": "alcatraz",
         "description": "Ice Builder to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
