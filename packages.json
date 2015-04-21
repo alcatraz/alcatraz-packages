@@ -1361,6 +1361,12 @@
         "name": "OpenFrameworks Classes",
         "url": "https://github.com/armadillu/Xcode-OpenFrameworks-Templates.git",
         "description": "OpenFrameworks C++ File Templates"
+      },
+      {
+      	"name": "Lua Template for Wax",
+      	"url": "https://github.com/croath/wax_xctemplate",
+      	"description": "Create Lua File Template for Wax",
+      	"scrrenshot": "http://i.imgur.com/Q2nWGEf.png"
       }
     ]
   }}
