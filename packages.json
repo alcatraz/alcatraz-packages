@@ -943,9 +943,9 @@
         "screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
       },
       {
-        "name": "Eppz",
-        "url": "https://github.com/eppz/eppz.xCode/blob/master/eppz!.dvtcolortheme",
-        "description": "Eppz!, Xcode color scheme with a sense",
+        "name": "eppz!",
+        "url": "https://raw.githubusercontent.com/eppz/iOS.Library.eppz_xCode/master/eppz!.dvtcolortheme",
+        "description": "Xcode color scheme with a sense (more at j.mp/eppz_xCode) - version 1.2.1 by @_eppz",
         "screenshot": "https://raw.github.com/eppz/eppz-xCode/design/eppz!xCode_color_scheme_preview.png"
       },
       {
