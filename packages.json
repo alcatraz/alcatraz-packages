@@ -364,7 +364,7 @@
         "name": "Open With Application",
         "url": "https://github.com/inquisitiveSoft/Open-with-Application",
         "description": "An Xcode plugin to open the current document or project in the finder, the terminal or your external editor or source control app of choice",
-        "screenshot": "https://raw.githubusercontent.com/inquisitiveSoft/Open-with-Application/master/Menu-screenshot.jpg"
+        "screenshot": "https://raw.githubusercontent.com/inquisitiveSoft/Open-with-Application/master/Screenshots/Menu-screenshot.jpg"
       },
       {
         "name": "OpenInSublimeText",
