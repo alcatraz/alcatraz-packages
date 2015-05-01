@@ -784,6 +784,12 @@
         "branch": "alcatraz",
         "description": "Ice Builder to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
         "screenshot": "https://raw.githubusercontent.com/zeroc-ice/ice-builder-xcode/master/screenshot.png"
+      },
+      {
+        "name": "IconMaker",
+        "url": "https://github.com/kaphacius/IconMaker",
+        "description": "Create an app icon from Xcode",
+        "screenshot": "https://raw.githubusercontent.com/kaphacius/IconMaker/master/Screenshot.png"
       }
     ],
     "color_schemes": [
