@@ -1349,6 +1349,12 @@
         "screenshot": "https://raw.github.com/luiza-cicone/Specta-Templates-Xcode/master/screenshots/screenshot.png"
       },
       {
+        "name": "StencilPlugin",
+        "url": "https://github.com/samdods/Stencil",
+        "description": "Create your own custom templates on a per-project basis, and share with other project collaborators",
+        "screenshot": "https://raw.githubusercontent.com/samdods/Stencil/master/create-new-template.jpg"
+      },
+      {
         "name": "TJXcodeTemplates",
         "url": "https://github.com/thomasjoulin/TJXcodeTemplates",
         "description": "A set of stripped-out Xcode 4 default templates."
