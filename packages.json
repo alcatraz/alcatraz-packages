@@ -1351,7 +1351,7 @@
       {
         "name": "StencilPlugin",
         "url": "https://github.com/samdods/Stencil",
-        "description": "Create your own custom templates on a per-project basis, and share with other project collaborators",
+        "description": "Create your own custom templates on a per-project basis, and share with other project collaborators. See http://stencil.dods.co for more info.",
         "screenshot": "https://raw.githubusercontent.com/samdods/Stencil/master/create-new-template.jpg"
       },
       {
