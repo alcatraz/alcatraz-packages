@@ -796,6 +796,11 @@
         "url": "https://github.com/kaphacius/IconMaker",
         "description": "Create an app icon from Xcode",
         "screenshot": "https://raw.githubusercontent.com/kaphacius/IconMaker/master/Screenshot.png"
+      },
+      {
+        "name": "PrettyPrintJSON",
+        "url": "https://github.com/psobko/PrettyPrintJSON",
+        "description": "Pretty print JSON from the console."
       }
     ],
     "color_schemes": [
