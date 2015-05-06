@@ -3,7 +3,7 @@
     "plugins": [
         {
           "name": "PluginPanel",
-          "url": "https://github.com/AlexIzh/PluginPanel",
+          "url": "https://github.com/AlexIzh/PluginPainel",
           "description": "Plugin panel for XCode. It needed for other plugins.",
           "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.14.56%20AM.png"
         },
@@ -796,6 +796,11 @@
         "url": "https://github.com/kaphacius/IconMaker",
         "description": "Create an app icon from Xcode",
         "screenshot": "https://raw.githubusercontent.com/kaphacius/IconMaker/master/Screenshot.png"
+      },
+      {
+        "name": "PrettyPrintJSON",
+        "url": "https://github.com/psobko/PrettyPrintJSON",
+        "description": "Pretty print JSON from the console."
       }
     ],
     "color_schemes": [
