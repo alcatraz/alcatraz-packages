@@ -3,7 +3,7 @@
     "plugins": [
         {
           "name": "PluginPanel",
-          "url": "https://github.com/AlexIzh/PluginPainel",
+          "url": "https://github.com/AlexIzh/PluginPanel",
           "description": "Plugin panel for XCode. It needed for other plugins.",
           "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.14.56%20AM.png"
         },
