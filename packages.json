@@ -339,6 +339,11 @@
         "screenshot": "https://raw.githubusercontent.com/nathanhosselton/NJHMultiTheme/master/Screenshot.png"
       },
       {
+        "name": "NOXcodeEnumDebug",
+        "url": "https://github.com/memega/NOXcodeEnumDebug",
+        "description": "Plugin creates functions which convert NS_ENUM values to descriptive strings."
+      },
+      {
         "name": "ObjectGraph-Xcode",
         "url": "https://github.com/vampirewalk/ObjectGraph-Xcode",
         "description": "Plugin for showing oriented graph of dependencies between classes.",
