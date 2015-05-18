@@ -526,6 +526,12 @@
         "screenshot": "https://raw.github.com/tyeen/SwipeGestureSwitcher/master/screenshot.png"
       },
       {
+        "name": "TOCAssetCatalogBackground",
+        "url": "https://github.com/toco/TOCAssetCatalogBackground",
+        "description": "Xcode plugin to switch between white and dark background color in the asset catalog viewer.",
+        "screenshot": "https://raw.githubusercontent.com/toco/TOCAssetCatalogBackground/master/Screenshot.png"
+      },
+      {
         "name": "Tuna",
         "url": "https://github.com/dealforest/Tuna",
         "description": "Xcode plugin that provides easy set breakpoint with action.",
