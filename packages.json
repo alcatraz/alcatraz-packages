@@ -1078,6 +1078,12 @@
         "screenshot": "https://skitch-img.s3.amazonaws.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg"
       },
       {
+        "name": "Oceanic Next",
+        "url": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Oceanic%20Next.dvtcolortheme",
+        "description": "A colorful and vibrant Xcode theme, ported from the excellent Oceanic Next Theme.",
+        "screenshot": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Screenshots/Objective-C.png"
+      },
+      {
         "name": "Push Popcorn",
         "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
         "description": "A theme made by Andrea Gelati."
