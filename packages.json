@@ -918,6 +918,18 @@
         "screenshot": "https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png"
       },
       {
+        "name": "Ciaprer",
+        "url": "https://raw.github.com/raspu/Ciaprer-Xcode-theme/master/Ciaprer.dvtcolortheme",
+        "description": "Ciapre alternative version, depends on Inconsolata regular and bold (https://github.com/google/fonts/tree/master/ofl/inconsolata).",
+        "screenshot": "https://cdn.rawgit.com/raspu/Ciaprer-Xcode-theme/master/screenshot/XcodeEditor.png"
+      },
+      {
+        "name": "Ciaprer 16",
+        "url": "https://raw.github.com/raspu/Ciaprer-Xcode-theme/master/Ciaprer%2016.dvtcolortheme",
+        "description": "Bigger font by default (16 pt). Ciapre alternative version, depends on Inconsolata regular and bold (https://github.com/google/fonts/tree/master/ofl/inconsolata).",
+        "screenshot": "https://cdn.rawgit.com/raspu/Ciaprer-Xcode-theme/master/screenshot/XcodeEditor.png"
+      },
+      {
         "name": "Coal Graal",
         "url": "https://github.com/fidgetfu/xcode-themes/blob/master/Coal%20Graal.dvtcolortheme",
         "description": "Coal Graal theme for Xcode",
