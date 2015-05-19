@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
         {
+        "name": "XcodeMediaLibraryTweak",
+        "url": "https://github.com/igiu1988/XcodeMediaLibraryTweak",
+        "description": "Show image size. Let the Xcode eedia library more useful",
+        "scrrenshot": "https://raw.githubusercontent.com/igiu1988/XcodeMediaLibraryTweak/master/helpImage.png"
+        },
+        {
           "name": "PluginPanel",
           "url": "https://github.com/AlexIzh/PluginPanel",
           "description": "Plugin panel for XCode. It needed for other plugins.",
