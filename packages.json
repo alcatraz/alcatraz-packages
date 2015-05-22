@@ -7,6 +7,11 @@
   	"description": "AutoDownload Swift Code Snippets",
   	"screenshot":"https://raw.githubusercontent.com/burczyk/XcodeSwiftSnippets/master/assets/xcode-use-code-snippet-2.gif"
     	},
+    	{
+    	"name": "AutoUpdateDVTPlugInCompatibilityUUID",
+  	"url": "https://github.com/CodeEagle/AutoUpdateDVTPlugInCompatibilityUUID",
+  	"description": "A Plugin to Update Xcode Plug-ins DVTPlugInCompatibilityUUIDs to current Xcode Version"
+    	},
         {
         "name": "XcodeMediaLibraryTweak",
         "url": "https://github.com/igiu1988/XcodeMediaLibraryTweak",
