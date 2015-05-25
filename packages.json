@@ -1269,6 +1269,12 @@
         "url": "https://raw.github.com/colinta/zenburn/master/zenburn.dvtcolortheme",
         "description": "Another Zenburn scheme. Ported from the original vim scheme by colinta.",
         "screenshot": "http://colinta.com/static/image/zenburn/xcode.png"
+      },
+      {
+        "name": "Sunburst",
+        "url": "https://raw.githubusercontent.com/kjunggithub/xcode-sunburst/master/Sunburst.dvtcolortheme",
+        "description": "Sunburst theme for xcode. Ported from a xcode 4 version originally created by Aleksandar Palic.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/2159304/4535584/7f399928-4db6-11e4-8c25-d361a803d757.png"
       }
     ],
     "project_templates": [
