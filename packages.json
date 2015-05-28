@@ -49,6 +49,12 @@
         "screenshot": "https://github.com/poboke/AllTargets/raw/master/Images/about.png"
       },
       {
+      	"name": "ATProperty",
+      	"url": "https://github.com/Draveness/ATProperty",
+      	"description": "Convenient and fast approach to create property",
+      	"screenshot": "http://deltax.qiniudn.com/Demo.gif?attname=&e=1432885383&token=YJb_IPQrTSw1ox9LenQDH1HRcgHii9w_bp9ddmcz:uUgA3pSEDWDRRAtPf53q36v4v6c"
+      },
+      {
         "name": "AMMethod2Implement",
         "url": "https://github.com/MellongLau/AMMethod2Implement",
         "description": "A simple Xcode plugin to generate implement code for the selected method.",
