@@ -493,16 +493,22 @@
         "screenshot": "https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif"
       },
       {
+        "name": "SCXcodeEditorInset",
+        "url": "https://github.com/stefanceriu/SCXcodeEditorInset",
+        "description": "Adds an empty (configurable) space to the end of the editor text view",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeEditorInset/SCXcodeEditorInset.png"
+      },
+      {
         "name": "SCXcodeMinimap",
         "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
-        "description": "Xcode plugin that adds a source editor Minimap to Xcode.",
-        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeMiniMap/v2.0/SCXcodeMinimap%20v2.0-02.png"
+        "description": "Sublime Text like Minimap for Xcode",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeMinimap/v2.2/SCXcodeMinimap%20v2.0-01.png"
       },
       {
         "name": "SCXcodeSwitchExpander",
         "url": "https://github.com/stefanceriu/SCXcodeSwitchExpander",
-        "description": "Xcode plugin that enables switch cases autocompletion",
-        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeSwitchExpander/SCXcodeSwitchExpander.gif"
+        "description": "Autocomplete your switch cases",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeSwitchExpander/SCXcodeSwitchExpanderExample.png"
       },
       {
         "name": "seguecodePlugin",
