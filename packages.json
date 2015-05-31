@@ -830,6 +830,12 @@
         "name": "PrettyPrintJSON",
         "url": "https://github.com/psobko/PrettyPrintJSON",
         "description": "Pretty print JSON from the console."
+      },
+      {
+        "name": "SketchExporter",
+        "url": "https://github.com/gliyao/SketchExporter",
+        "description": "Export AppIcon and icons to your Images.xassets (require sketchtool - cli tool for Sektch)",
+        "screenshot": "https://raw.githubusercontent.com/gliyao/SketchExporter/master/SketchExporter.png"
       }
     ],
     "color_schemes": [
