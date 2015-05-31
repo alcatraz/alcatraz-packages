@@ -511,6 +511,12 @@
         "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeSwitchExpander/SCXcodeSwitchExpanderExample.png"
       },
       {
+        "name": "SCXcodeTabSwitcher",
+        "url": "https://github.com/stefanceriu/SCXcodeTabSwitcher",
+        "description": "Switch tabs using the ⌘cmd + [1..9] keys",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeTabSwitcher/SCXcodeTabSwitcherScreenshot.jpg"
+      },
+      {
         "name": "seguecodePlugin",
         "url": "https://github.com/Adorkable/seguecode",
         "description": "Integrates seguecode, the Storyboard assistance tool, with Xcode by automatically detecting and running whenever you save a Storyboard."
