@@ -834,7 +834,7 @@
       {
         "name": "SketchExporter",
         "url": "https://github.com/gliyao/SketchExporter",
-        "description": "Export AppIcon and icons to your Images.xassets (require sketchtool - cli tool for Sektch)",
+        "description": "Export your Sketch AppIcon and icons to your Images.xassets (require sketchtool - cli tool for Sektch)",
         "screenshot": "https://raw.githubusercontent.com/gliyao/SketchExporter/master/SketchExporter.png"
       }
     ],
