@@ -1,6 +1,11 @@
 {
   "packages": {
     "plugins": [
+          {
+        "name": "ApplicationSupport",
+        "url": "https://github.com/knutigro/Xcode-Plugin-Application-Support",
+        "description": "Adds a new MenuItem for opening Application Support Folder."
+		},
     	{
     	"name": "SwiftCodeSnippets",
   	"url": "https://github.com/CodeEagle/SwiftCodeSnippets",
