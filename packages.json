@@ -1229,6 +1229,12 @@
         "screenshot": "https://raw.githubusercontent.com/kindraywind/xcode-themes/master/ScreenShots/twlighttheme.png"
       },
       {
+        "name": "Throwback",
+        "url": "https://dl.dropboxusercontent.com/u/3760183/Throwback.dvtcolortheme",
+        "description": "The Throwback theme is inspired by 80-column Apple 2 text on a green phospor Monitor ///. Requires font \"PR Number 3\" from http://www.kreativekorp.com/software/fonts/apple2.shtml",
+        "screenshot": "https://dl.dropboxusercontent.com/u/3760183/Throwback%20screenshot.png"
+      },
+      {
         "name": "Today",
         "url": "https://raw.githubusercontent.com/alenofx/today-xcode-theme/master/Today.dvtcolortheme",
         "description": "Today is a light, colorful Xcode theme inspired by other great themes like Tomorrow.",
