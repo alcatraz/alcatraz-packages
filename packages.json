@@ -870,6 +870,12 @@
         "name": "EditorConfig",
         "url": "https://github.com/MarcoSero/EditorConfig-Xcode",
         "description": "Plugin to add EditorConfig support to Xcode"
+      },
+      {
+        "name": "QuickJump",
+        "url": "https://github.com/wiruzx/QuickJump",
+        "description": "Quick code navigation for Xcode",
+        "screenshot": "http://i.imgur.com/XGKiTGm.png"
       }
     ],
     "color_schemes": [
