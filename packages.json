@@ -193,6 +193,12 @@
       	"screenshot": "https://github.com/macoscope/CodePilot/raw/master/Screenshots/CodePilot_01.png"
       },
       {
+      	"name": "ColorSenseRainbow".
+      	"url": "https://github.com/NorthernRealities/ColorSenseRainbow",
+      	"description": "A plugin for Xcode that shows colours and allows you to modify them.  It works for both UIColor and NSColor in Swift and Objective-C.",
+      	"screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
+      }
+      {
         "name": "DBSmartPanels",
         "url": "https://github.com/chaingarden/DBSmartPanels/",
         "description": "Optimizes screen real estate by auto-hiding panels (debug window, utilities, Assistant Editor) when you don't need them",
