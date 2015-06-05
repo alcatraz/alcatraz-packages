@@ -197,7 +197,7 @@
       	"url": "https://github.com/NorthernRealities/ColorSenseRainbow",
       	"description": "A plugin for Xcode that shows colours and allows you to modify them.  It works for both UIColor and NSColor in Swift and Objective-C.",
       	"screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
-      }
+      },
       {
         "name": "DBSmartPanels",
         "url": "https://github.com/chaingarden/DBSmartPanels/",
