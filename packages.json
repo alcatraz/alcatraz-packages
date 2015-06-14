@@ -876,6 +876,12 @@
         "url": "https://github.com/wiruzx/QuickJump",
         "description": "Quick code navigation for Xcode",
         "screenshot": "http://i.imgur.com/XGKiTGm.png"
+      },
+      {
+        "name": "JSFormatter",
+        "url": "https://github.com/bumaociyuan/JSFormatter-Xcode",
+        "description": "Xcode plug to format js html css files",
+        "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/screenshot.gif"
       }
     ],
     "color_schemes": [
@@ -1488,7 +1494,7 @@
       	"name": "Lua Template for Wax",
       	"url": "https://github.com/croath/wax_xctemplate",
       	"description": "Create Lua File Template for Wax",
-      	"scrrenshot": "http://i.imgur.com/Q2nWGEf.png"
+      	"screenshot": "http://i.imgur.com/Q2nWGEf.png"
       },
       {
         "name": "Mantle",
