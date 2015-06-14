@@ -1,14 +1,14 @@
 {
   "packages": {
     "plugins": [
-          {
+      {
         "name": "ApplicationSupport",
         "url": "https://github.com/knutigro/Xcode-Plugin-Application-Support",
         "description": "Adds a new MenuItem for opening Application Support Folder."
-		},
+		  },
     	{
-    	"name": "SwiftCodeSnippets",
-  	"url": "https://github.com/CodeEagle/SwiftCodeSnippets",
+        "name": "SwiftCodeSnippets",
+        "url": "https://github.com/CodeEagle/SwiftCodeSnippets",
   	"description": "AutoDownload Swift Code Snippets",
   	"screenshot":"https://raw.githubusercontent.com/burczyk/XcodeSwiftSnippets/master/assets/xcode-use-code-snippet-2.gif"
     	},
@@ -882,7 +882,14 @@
         "url": "https://github.com/bumaociyuan/JSFormatter-Xcode",
         "description": "Xcode plug to format js html css files",
         "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/screenshot.gif"
+      },
+      {
+        "name": "XcodeKit",
+        "url": "https://github.com/ptfly/XcodeKit",
+        "description": "Adds support for duplicating / removing current lines or selections in Xcode, just as we know it from Eclipse.",
+        "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/XcodeKit_screenshot.png"
       }
+      
     ],
     "color_schemes": [
       {
