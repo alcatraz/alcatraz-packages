@@ -840,7 +840,7 @@
         "name": "IceBuilder",
         "url": "https://github.com/zeroc-ice/ice-builder-xcode",
         "branch": "alcatraz",
-        "description": "Ice Builder to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
+        "description": "Automate the compilation of Slice files to C++ or Objective-C. Please restart Xcode after installing!",
         "screenshot": "https://raw.githubusercontent.com/zeroc-ice/ice-builder-xcode/master/screenshot.png"
       },
       {
@@ -889,7 +889,7 @@
         "description": "Adds support for duplicating / removing current lines or selections in Xcode, just as we know it from Eclipse.",
         "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/XcodeKit_screenshot.png"
       }
-      
+
     ],
     "color_schemes": [
       {
