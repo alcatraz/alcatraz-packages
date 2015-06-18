@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+      "name": "SymbolicationPlugin",
+      "url": "https://github.com/MaheshRS/symbolication-plugin",
+      "description": "Plugin for symbolicating crashes, fetching details of the application binary.",
+      "screenshot": "https://raw.githubusercontent.com/MaheshRS/symbolication-plugin/master/screenshots/Symbolicate_screen.png"
+      },
+      {
         "name": "ApplicationSupport",
         "url": "https://github.com/knutigro/Xcode-Plugin-Application-Support",
         "description": "Adds a new MenuItem for opening Application Support Folder."
