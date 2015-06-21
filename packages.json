@@ -757,6 +757,12 @@
         "screenshot": "https://raw.github.com/STAR-ZERO/XFunnyEditor/master/screenshot.png"
       },
       {
+        "name": "XInfer",
+        "url": "https://github.com/markohlebar/XInfer",
+        "description": "Facebook Infer plugin for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/markohlebar/XInfer/master/Misc/Infer.png"
+      },
+      {
         "name": "XLCXcodeAssist",
         "url": "https://github.com/xlc/XLCXcodeAssist",
         "description": "Xcode plug-in to provide suggestion implementation for missing Objective-C methods.",
