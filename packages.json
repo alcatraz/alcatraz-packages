@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+      "name": "RealmBrowser",
+      "url": "https://github.com/kittinunf/RealmBrowser-Plugin",
+      "description": "Open Realm Browser for your simulator without pain",
+      "screenshot": "https://raw.githubusercontent.com/kittinunf/RealmBrowser-Plugin/master/art/ss.png"
+      },
+      {
       "name": "SymbolicationPlugin",
       "url": "https://github.com/MaheshRS/symbolication-plugin",
       "description": "Plugin for symbolicating crashes, fetching details of the application binary.",
