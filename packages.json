@@ -1398,6 +1398,11 @@
     ],
     "file_templates": [
       {
+        "name": "PZCustomView",
+        "url": "https://github.com/zubco/PZCustomView",
+        "description": "Custom UIView file templates, wich creates for you a XIB - loadable UIView subclass with it .XIB file configurated respectively."
+      },
+      {
         "name": "Licensed Swift Templates",
         "url": "https://github.com/leonardosul/LicensedSwiftTemplates",
         "description": "Swift file templates with choice of open source license placed in the header"
