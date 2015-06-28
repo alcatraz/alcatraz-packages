@@ -900,8 +900,13 @@
         "url": "https://github.com/ptfly/XcodeKit",
         "description": "Adds support for duplicating / removing current lines or selections in Xcode, just as we know it from Eclipse.",
         "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/XcodeKit_screenshot.png"
+      },
+      {
+        "name": "ESJsonFormat",
+        "url": "https://github.com/EnjoySR/ESJsonFormat",
+        "description": "Xcode plug-in which helps you generate model properties with json easier.",
+        "screenshot": "https://github.com/EnjoySR/ESJsonFormat-Xcode/blob/master/ScreenShot/ScreenShot2.gif"
       }
-
     ],
     "color_schemes": [
       {
