@@ -902,7 +902,7 @@
         "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/XcodeKit_screenshot.png"
       },
       {
-        "name": "ESJsonFormat-Xcode",
+        "name": "ESJsonFormat",
         "url": "https://github.com/EnjoySR/ESJsonFormat-Xcode",
         "description": "Xcode plug-in which helps you generate model properties with json easier.",
         "screenshot": "https://raw.githubusercontent.com/EnjoySR/ESJsonFormat-Xcode/master/ScreenShot/ScreenShot3.gif"
