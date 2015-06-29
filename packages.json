@@ -905,7 +905,7 @@
         "name": "ESJsonFormat",
         "url": "https://github.com/EnjoySR/ESJsonFormat",
         "description": "Xcode plug-in which helps you generate model properties with json easier.",
-        "screenshot": "https://github.com/EnjoySR/ESJsonFormat-Xcode/blob/master/ScreenShot/ScreenShot2.gif"
+        "screenshot": "https://raw.githubusercontent.com/EnjoySR/ESJsonFormat/master/ScreenShot/ScreenShot3.gif"
       }
     ],
     "color_schemes": [
