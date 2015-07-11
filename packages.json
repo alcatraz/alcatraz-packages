@@ -1188,6 +1188,18 @@
         "screenshot": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/screenshot-2.png"
       },
       {
+        "name": "Retro",
+        "url": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/Retro.dvtcolortheme",
+        "description": "An oldschool DOS inspired theme for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/screenshots/retro.png"
+      },
+      {
+        "name": "Retro Borland TurboC++",
+        "url": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/Retro%20Borland%20C%2B%2B.dvtcolortheme",
+        "description": "An oldschool Borland TurboC++ inspired theme for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/screenshots/retroborlandcpp.png"
+      },
+      {
         "name": "RFDusk",
         "url": "https://raw.github.com/BB9z/xcode-config/master/UserData/FontAndColorThemes/RFDusk.dvtcolortheme",
         "description": "A theme base on dusk."
