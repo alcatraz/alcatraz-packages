@@ -264,7 +264,7 @@
         "name": "JumpMarks",
         "url": "https://github.com/merrickp/JumpMarks",
         "description": "Xcode plugin for numbered bookmarks",
-        "screenshot": "https://github.com/merrickp/alcatraz-packages.git"
+        "screenshot": "https://raw.githubusercontent.com/merrickp/JumpMarks/assets/screenshot.jpg"
       },
       {
         "name": "KKHighlightRecentPlugin",
