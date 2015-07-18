@@ -328,7 +328,7 @@
       {
         "name": "JumpMarks",
         "url": "https://github.com/merrickp/JumpMarks",
-        "description": "Xcode plugin for numbered bookmarks. Set a bookmark in the file with ⇧ ⌥ [#]. Return to that bookmark with that number anywhere in the file editor of the same project with ⌥ [#].",
+        "description": "Xcode plugin for numbered bookmarks. Set bookmarks with ⇧⌥[#], and jump back with ⌥[#] with the respective number.",
         "screenshot": "https://raw.githubusercontent.com/merrickp/JumpMarks/assets/screenshot.jpg"
       },
       {
