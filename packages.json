@@ -2,6 +2,53 @@
   "packages": {
     "plugins": [
       {
+      "name": "RealmBrowser",
+      "url": "https://github.com/kittinunf/RealmBrowser-Plugin",
+      "description": "Open Realm Browser for your simulator without pain",
+      "screenshot": "https://raw.githubusercontent.com/kittinunf/RealmBrowser-Plugin/master/art/ss.png"
+      },
+      {
+      "name": "SymbolicationPlugin",
+      "url": "https://github.com/MaheshRS/symbolication-plugin",
+      "description": "Plugin for symbolicating crashes, fetching details of the application binary.",
+      "screenshot": "https://raw.githubusercontent.com/MaheshRS/symbolication-plugin/master/screenshots/Symbolicate_screen.png"
+      },
+      {
+        "name": "ApplicationSupport",
+        "url": "https://github.com/knutigro/Xcode-Plugin-Application-Support",
+        "description": "Adds a new MenuItem for opening Application Support Folder."
+		  },
+    	{
+        "name": "SwiftCodeSnippets",
+        "url": "https://github.com/CodeEagle/SwiftCodeSnippets",
+  	"description": "AutoDownload Swift Code Snippets",
+  	"screenshot":"https://raw.githubusercontent.com/burczyk/XcodeSwiftSnippets/master/assets/xcode-use-code-snippet-2.gif"
+    	},
+      {
+      "name": "CoPilot",
+      "url": "https://github.com/feinstruktur/CoPilot",
+      "description": "Plugin for collaborative editing",
+      "screenshot": "https://raw.githubusercontent.com/feinstruktur/CoPilot/master/Misc/screenshot.png"
+      },
+        {
+        "name": "XcodeMediaLibraryTweak",
+        "url": "https://github.com/igiu1988/XcodeMediaLibraryTweak",
+        "description": "Show image size. Let the Xcode eedia library more useful",
+        "screenshot": "https://raw.githubusercontent.com/igiu1988/XcodeMediaLibraryTweak/master/helpImage.png"
+        },
+        {
+          "name": "PluginPanel",
+          "url": "https://github.com/AlexIzh/PluginPanel",
+          "description": "Plugin panel for XCode. It needed for other plugins.",
+          "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.14.56%20AM.png"
+        },
+        {
+          "name": "TimePlugin",
+          "url": "https://github.com/AlexIzh/TimePlugin",
+          "description": "Simple time tracker. Need `PluginPanel` plugin for uses.",
+          "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.43.04%20AM.png"
+        },
+      {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
         "description": "Synchronize code snippets with a git repository.",
@@ -25,10 +72,22 @@
         "screenshot": "https://github.com/poboke/AllTargets/raw/master/Images/about.png"
       },
       {
+      	"name": "ATProperty",
+      	"url": "https://github.com/Draveness/ATProperty",
+      	"description": "Convenient and fast approach to create property",
+      	"screenshot": "http://i.imgur.com/fQmXMvF.gif"
+      },
+      {
         "name": "AMMethod2Implement",
         "url": "https://github.com/MellongLau/AMMethod2Implement",
         "description": "A simple Xcode plugin to generate implement code for the selected method.",
         "screenshot": "https://raw.github.com/MellongLau/AMMethod2Implement/master/Screenshots/usageScreenshot.gif"
+      },
+      {
+       "name": "NCSimulatorPlugin",
+       "url": "https://github.com/scinfu/NCSimulatorPlugin",
+       "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected.",
+       "screenshot": "https://raw.githubusercontent.com/scinfu/NCSimulatorPlugin/master/01.png"
       },
       {
         "name": "ApportablePlugin",
@@ -80,7 +139,7 @@
         "name": "BBUncrustifyPlugin",
         "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
         "description": "Xcode plugin to format source code using ClangFormat or Uncrustify.",
-		"screenshot": "http://f.cl.ly/items/1p3U2o1K1v361v0b1o1l/BBUncrustifyPlugin.png"
+        "screenshot": "http://f.cl.ly/items/1p3U2o1K1v361v0b1o1l/BBUncrustifyPlugin.png"
       },
       {
         "name": "BBUToyUnboxing",
@@ -150,6 +209,12 @@
       	"url": "https://github.com/macoscope/CodePilot",
       	"description": "Code Pilot is a plugin for Xcode 5 & 6 that allows you to quickly find files, methods and symbols within your project without the need for your mouse.",
       	"screenshot": "https://github.com/macoscope/CodePilot/raw/master/Screenshots/CodePilot_01.png"
+      },
+      {
+      	"name": "ColorSenseRainbow",
+      	"url": "https://github.com/NorthernRealities/ColorSenseRainbow",
+      	"description": "A plugin for Xcode that shows colours and allows you to modify them.  It works for both UIColor and NSColor in Swift and Objective-C.",
+      	"screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
       },
       {
         "name": "DBSmartPanels",
@@ -222,7 +287,7 @@
       {
         "name": "HTYCopyIssue",
         "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
-        "description": "Makes Copy Xcode Issue Description Easily.",
+        "description": "Makes Copy Xcode Issue Description Easily, Support Finding Answers in Google or StackOverflow Directly.",
         "screenshot": "https://github.com/hanton/CopyIssue-Xcode-Plugin/blob/master/ScreenShot.png"
       },
       {
@@ -296,12 +361,12 @@
         "description": "Shows completion for NSLocalizedString",
         "screenshot": "https://raw.github.com/questbeat/Lin/master/screenshot.gif"
       },
-	  {
-		"name": "LinkedLog",
-		"url": "https://github.com/julian-weinert/LinkedLog",
-		"description": "LinkedLog is a Xcode plugin that includes a Xcode PCH header file template that adds the macros `LLog` and `LLogF` and parses their output to link from the console to the corresponding file and line.",
-		"screenshot": "https://raw.githubusercontent.com/julian-weinert/LinkedLog/master/Screenshots/LinkedLog.png"
-	  },
+      {
+        "name": "LinkedLog",
+        "url": "https://github.com/julian-weinert/LinkedLog",
+        "description": "LinkedLog is a Xcode plugin that includes a Xcode PCH header file template that adds the macros `LLog` and `LLogF` and parses their output to link from the console to the corresponding file and line.",
+        "screenshot": "https://raw.githubusercontent.com/julian-weinert/LinkedLog/master/Screenshots/LinkedLog.png"
+      },
       {
         "name": "MarvinPlugin",
         "url": "https://github.com/zenangst/MarvinXcode",
@@ -315,15 +380,15 @@
         "screenshot": "https://raw.githubusercontent.com/yuhua-chen/MCLog/master/MCLogScreenshot.gif"
       },
       {
-        "name": "MiniXcode",
-        "url": "https://github.com/Daij-Djan/MiniXcode",
-        "description": "Plugin that makes it easier to run Xcode without the main toolbar.",
-        "screenshot": "https://raw.githubusercontent.com/Daij-Djan/MiniXcode/master/Screenshot.png"
+        "name": "NJHMultiTheme",
+        "url": "https://github.com/nathanhosselton/NJHMultiTheme",
+        "description": "Set separate Xcode themes for Swift and Objective-C source files.",
+        "screenshot": "https://raw.githubusercontent.com/nathanhosselton/NJHMultiTheme/master/Screenshot.png"
       },
       {
-        "name": "NCSimulatorPlugin",
-        "url": "https://github.com/scinfu/NCSimulatorPlugin",
-        "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected."
+        "name": "NOXcodeEnumDebug",
+        "url": "https://github.com/memega/NOXcodeEnumDebug",
+        "description": "Plugin creates functions which convert NS_ENUM values to descriptive strings."
       },
       {
         "name": "ObjectGraph-Xcode",
@@ -351,7 +416,7 @@
         "name": "Open With Application",
         "url": "https://github.com/inquisitiveSoft/Open-with-Application",
         "description": "An Xcode plugin to open the current document or project in the finder, the terminal or your external editor or source control app of choice",
-        "screenshot": "https://raw.githubusercontent.com/inquisitiveSoft/Open-with-Application/master/Menu-screenshot.jpg"
+        "screenshot": "https://raw.githubusercontent.com/inquisitiveSoft/Open-with-Application/master/Screenshots/Menu-screenshot.jpg"
       },
       {
         "name": "OpenInSublimeText",
@@ -457,20 +522,32 @@
         "screenshot": "https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif"
       },
       {
+        "name": "SCXcodeEditorInset",
+        "url": "https://github.com/stefanceriu/SCXcodeEditorInset",
+        "description": "Adds an empty (configurable) space to the end of the editor text view",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeEditorInset/SCXcodeEditorInset.png"
+      },
+      {
         "name": "SCXcodeMinimap",
         "url": "https://github.com/stefanceriu/SCXcodeMiniMap",
-        "description": "Xcode plugin that adds a source editor Minimap to Xcode.",
-        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeMiniMap/v2.0/SCXcodeMinimap%20v2.0-02.png"
+        "description": "Sublime Text like Minimap for Xcode",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeMinimap/v2.2/SCXcodeMinimap%20v2.0-01.png"
       },
       {
         "name": "SCXcodeSwitchExpander",
         "url": "https://github.com/stefanceriu/SCXcodeSwitchExpander",
-        "description": "Xcode plugin that enables switch cases autocompletion",
-        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/SCXcodeSwitchExpander/SCXcodeSwitchExpander.gif"
+        "description": "Autocomplete your switch cases",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeSwitchExpander/SCXcodeSwitchExpanderExample.png"
+      },
+      {
+        "name": "SCXcodeTabSwitcher",
+        "url": "https://github.com/stefanceriu/SCXcodeTabSwitcher",
+        "description": "Switch tabs using the ⌘cmd + [1..9] keys",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeTabSwitcher/SCXcodeTabSwitcherScreenshot.jpg"
       },
       {
         "name": "seguecodePlugin",
-        "url": "https://github.com/yoiang/seguecode",
+        "url": "https://github.com/Adorkable/seguecode",
         "description": "Integrates seguecode, the Storyboard assistance tool, with Xcode by automatically detecting and running whenever you save a Storyboard."
       },
       {
@@ -506,6 +583,12 @@
         "url": "https://github.com/tyeen/SwipeGestureSwitcher",
         "description": "Simply turns the swipe-to-navigate-files gesture on/off in the source editor.",
         "screenshot": "https://raw.github.com/tyeen/SwipeGestureSwitcher/master/screenshot.png"
+      },
+      {
+        "name": "TOCAssetCatalogBackground",
+        "url": "https://github.com/toco/TOCAssetCatalogBackground",
+        "description": "Xcode plugin to switch between white and dark background color in the asset catalog viewer.",
+        "screenshot": "https://raw.githubusercontent.com/toco/TOCAssetCatalogBackground/master/Screenshot.png"
       },
       {
         "name": "Tuna",
@@ -609,6 +692,11 @@
         "screenshot": "https://raw.githubusercontent.com/vokal/XcodeAutoBasher/master/screenshot.png"
       },
       {
+        "name": "XcodeBookmark",
+        "url": "https://github.com/nicoster/XcodeBookmark",
+        "description": "The bookmark plugin for Xcode."
+      },
+      {
         "name": "XcodeBoost",
         "url": "https://github.com/fortinmike/XcodeBoost",
         "description": "An Xcode plugin that aims to make altering and inspecting code quick and easy.",
@@ -664,7 +752,7 @@
         "screenshot": "https://github.com/dropbox/XCoverage/raw/master/docs/example.png"
       },
       {
-        "name": "XCProfileCleaner",
+        "name": "ProvisioningProfileCleaner",
         "url": "https://github.com/lechium/ProvisioningProfileCleaner",
         "description": "Clean (move) expired and duplicate profiles out your Xcode Provisioning profile folder."
       },
@@ -759,6 +847,65 @@
         "name": "ZLXCodeLine",
         "url": "https://github.com/MakeZL/ZLXCodeLine",
         "description": "This is a record of the number of lines of code - XcodePlugin."
+      },
+      {
+        "name": "IceBuilder",
+        "url": "https://github.com/zeroc-ice/ice-builder-xcode",
+        "branch": "alcatraz",
+        "description": "Automate the compilation of Slice files to C++ or Objective-C. Please restart Xcode after installing!",
+        "screenshot": "https://raw.githubusercontent.com/zeroc-ice/ice-builder-xcode/master/screenshot.png"
+      },
+      {
+        "name": "StencilPlugin",
+        "url": "https://github.com/samdods/Stencil",
+        "description": "Create your own custom templates on a per-project basis, and share with other project collaborators. See http://sam.dods.co/stencil-xcode-plugin/ for more info.",
+        "screenshot": "https://raw.githubusercontent.com/samdods/Stencil/master/create-new-template.jpg"
+      },
+      {
+        "name": "IconMaker",
+        "url": "https://github.com/kaphacius/IconMaker",
+        "description": "Create an app icon from Xcode",
+        "screenshot": "https://raw.githubusercontent.com/kaphacius/IconMaker/master/Screenshot.png"
+      },
+      {
+        "name": "PrettyPrintJSON",
+        "url": "https://github.com/psobko/PrettyPrintJSON",
+        "description": "Pretty print JSON from the console."
+      },
+      {
+        "name": "SketchExporter",
+        "url": "https://github.com/gliyao/SketchExporter",
+        "description": "Export your Sketch AppIcon and icons to your Images.xassets (require sketchtool - cli tool for Sektch)",
+        "screenshot": "https://raw.githubusercontent.com/gliyao/SketchExporter/master/SketchExporter.png"
+      },
+      {
+        "name": "EditorConfig",
+        "url": "https://github.com/MarcoSero/EditorConfig-Xcode",
+        "description": "Plugin to add EditorConfig support to Xcode"
+      },
+      {
+        "name": "QuickJump",
+        "url": "https://github.com/wiruzx/QuickJump",
+        "description": "Quick code navigation for Xcode",
+        "screenshot": "http://i.imgur.com/XGKiTGm.png"
+      },
+      {
+        "name": "JSFormatter",
+        "url": "https://github.com/bumaociyuan/JSFormatter-Xcode",
+        "description": "Xcode plug to format js html css files",
+        "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/screenshot.gif"
+      },
+      {
+        "name": "XcodeKit",
+        "url": "https://github.com/ptfly/XcodeKit",
+        "description": "Adds support for duplicating / removing current lines or selections in Xcode, just as we know it from Eclipse.",
+        "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/XcodeKit_screenshot.png"
+      },
+      {
+        "name": "ESJsonFormat",
+        "url": "https://github.com/EnjoySR/ESJsonFormat-Xcode",
+        "description": "Xcode plug-in which helps you generate model properties with json easier.",
+        "screenshot": "https://raw.githubusercontent.com/EnjoySR/ESJsonFormat-Xcode/master/ScreenShot/ScreenShot3.gif"
       }
     ],
     "color_schemes": [
@@ -767,6 +914,12 @@
         "url": "https://raw.githubusercontent.com/gtranchedone/XcodeThemes/master/Anubis.dvtcolortheme",
         "description": "Easy on the eyes dark theme with pastel colours by Gianluca Tranchedone.",
         "screenshot": "https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Implementation%20Sample.png"
+      },
+      {
+        "name": "Amoyly",
+        "url": "https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly.dvtcolortheme",
+        "description": "A sexy, elegant, and comfortable-reading theme.",
+        "screenshot": "https://raw.githubusercontent.com/Br1an6/Amoyly-Xcode-Themes/master/Amoyly_Class_Interface_Sample.png"
       },
       {
         "name": "Aqueducts 3.0 (Dawn)",
@@ -859,6 +1012,18 @@
         "screenshot": "https://f.cloud.github.com/assets/1097578/415696/ae26d15c-ac3a-11e2-8fc7-56a3641993e1.png"
       },
       {
+        "name": "Ciaprer",
+        "url": "https://raw.github.com/raspu/Ciaprer-Xcode-theme/master/Ciaprer.dvtcolortheme",
+        "description": "Ciapre alternative version, depends on Inconsolata regular and bold (https://github.com/google/fonts/tree/master/ofl/inconsolata).",
+        "screenshot": "https://cdn.rawgit.com/raspu/Ciaprer-Xcode-theme/master/screenshot/XcodeEditor.png"
+      },
+      {
+        "name": "Ciaprer 16",
+        "url": "https://raw.github.com/raspu/Ciaprer-Xcode-theme/master/Ciaprer%2016.dvtcolortheme",
+        "description": "Bigger font by default (16 pt). Ciapre alternative version, depends on Inconsolata regular and bold (https://github.com/google/fonts/tree/master/ofl/inconsolata).",
+        "screenshot": "https://cdn.rawgit.com/raspu/Ciaprer-Xcode-theme/master/screenshot/XcodeEditor.png"
+      },
+      {
         "name": "Coal Graal",
         "url": "https://github.com/fidgetfu/xcode-themes/blob/master/Coal%20Graal.dvtcolortheme",
         "description": "Coal Graal theme for Xcode",
@@ -912,9 +1077,9 @@
         "screenshot": "https://raw.github.com/lanvige/xCodeTheme/master/Images/EGOv2.png"
       },
       {
-        "name": "Eppz",
-        "url": "https://github.com/eppz/eppz.xCode/blob/master/eppz!.dvtcolortheme",
-        "description": "Eppz!, Xcode color scheme with a sense",
+        "name": "eppz!",
+        "url": "https://raw.githubusercontent.com/eppz/iOS.Library.eppz_xCode/master/eppz!.dvtcolortheme",
+        "description": "Xcode color scheme with a sense (more at j.mp/eppz_xCode) - version 1.2.1 by @_eppz",
         "screenshot": "https://raw.github.com/eppz/eppz-xCode/design/eppz!xCode_color_scheme_preview.png"
       },
       {
@@ -1001,6 +1166,12 @@
         "screenshot": "https://skitch-img.s3.amazonaws.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg"
       },
       {
+        "name": "Oceanic Next",
+        "url": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Oceanic%20Next.dvtcolortheme",
+        "description": "A colorful and vibrant Xcode theme, ported from the excellent Oceanic Next Theme.",
+        "screenshot": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Screenshots/Objective-C.png"
+      },
+      {
         "name": "Push Popcorn",
         "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
         "description": "A theme made by Andrea Gelati."
@@ -1015,6 +1186,18 @@
         "url": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/RailsCast_Inspired.dvtcolortheme",
         "description": "Railscasts inspired pastel theme for Xcode",
         "screenshot": "https://raw.github.com/akinsella/xcode-railscasts-theme/master/screenshot-2.png"
+      },
+      {
+        "name": "Retro",
+        "url": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/Retro.dvtcolortheme",
+        "description": "An oldschool DOS inspired theme for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/screenshots/retro.png"
+      },
+      {
+        "name": "Retro Borland TurboC++",
+        "url": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/Retro%20Borland%20C%2B%2B.dvtcolortheme",
+        "description": "An oldschool Borland TurboC++ inspired theme for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/SwiftBlogDe/retro-xcode-theme/master/screenshots/retroborlandcpp.png"
       },
       {
         "name": "RFDusk",
@@ -1180,6 +1363,12 @@
         "url": "https://raw.github.com/colinta/zenburn/master/zenburn.dvtcolortheme",
         "description": "Another Zenburn scheme. Ported from the original vim scheme by colinta.",
         "screenshot": "http://colinta.com/static/image/zenburn/xcode.png"
+      },
+      {
+        "name": "Sunburst",
+        "url": "https://raw.githubusercontent.com/kjunggithub/xcode-sunburst/master/Sunburst.dvtcolortheme",
+        "description": "Sunburst theme for xcode. Ported from a xcode 4 version originally created by Aleksandar Palic.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/2159304/4535584/7f399928-4db6-11e4-8c25-d361a803d757.png"
       }
     ],
     "project_templates": [
@@ -1231,6 +1420,16 @@
       }
     ],
     "file_templates": [
+      {
+        "name": "PZCustomView",
+        "url": "https://github.com/zubco/PZCustomView",
+        "description": "Custom UIView file templates, wich creates for you a XIB - loadable UIView subclass with it .XIB file configurated respectively."
+      },
+      {
+        "name": "Licensed Swift Templates",
+        "url": "https://github.com/leonardosul/LicensedSwiftTemplates",
+        "description": "Swift file templates with choice of open source license placed in the header"
+      },
       {
         "name": "Aerolitec Templates",
         "url": "https://github.com/Aerolitec/aerolitec-templates",
@@ -1336,6 +1535,17 @@
         "name": "OpenFrameworks Classes",
         "url": "https://github.com/armadillu/Xcode-OpenFrameworks-Templates.git",
         "description": "OpenFrameworks C++ File Templates"
+      },
+      {
+      	"name": "Lua Template for Wax",
+      	"url": "https://github.com/croath/wax_xctemplate",
+      	"description": "Create Lua File Template for Wax",
+      	"screenshot": "http://i.imgur.com/Q2nWGEf.png"
+      },
+      {
+        "name": "Mantle",
+        "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
+        "description": "File Templates for Models using the Mantle framework"
       }
     ]
   }}
