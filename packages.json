@@ -900,6 +900,12 @@
         "url": "https://github.com/EnjoySR/ESJsonFormat-Xcode",
         "description": "Xcode plug-in which helps you generate model properties with json easier.",
         "screenshot": "https://raw.githubusercontent.com/EnjoySR/ESJsonFormat-Xcode/master/ScreenShot/ScreenShot3.gif"
+      },
+      {
+        "name": "XCSnippetr",
+        "url": "https://github.com/dzenbot/XCSnippetr",
+        "description": "An XCode Plugin to upload code snippets directly into Slack and Gist",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCSnippetr/master/Documentation/Screenshots/screenshot_login_slack.png"
       }
     ],
     "color_schemes": [
