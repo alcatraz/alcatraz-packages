@@ -69,7 +69,7 @@
         "name": "AllTargets",
         "url": "https://github.com/poboke/AllTargets",
         "description": "The plugin will auto select all targets when you add files to the project.",
-        "screenshot": "https://github.com/poboke/AllTargets/raw/master/Images/about.png"
+        "screenshot": "https://github.com/poboke/AllTargets/raw/master/Screenshots/about.png"
       },
       {
       	"name": "ATProperty",
