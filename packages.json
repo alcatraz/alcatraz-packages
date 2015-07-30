@@ -912,6 +912,12 @@
         "url": "https://github.com/dzenbot/XCSnippetr",
         "description": "An XCode Plugin to upload code snippets directly into Slack and Gist",
         "screenshot": "https://raw.githubusercontent.com/dzenbot/XCSnippetr/master/Documentation/Screenshots/screenshot_login_slack.png"
+      },
+      {
+        "name": "XReset",
+        "url": "https://github.com/chroman/XReset",
+        "description": "Xcode Plugin to Reset iOS Simulators Content and Settings.",
+        "screenshot": "http://chroman.me/wp-content/uploads/2015/07/XReset.png"
       }
     ],
     "color_schemes": [
