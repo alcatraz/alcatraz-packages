@@ -918,6 +918,12 @@
         "url": "https://github.com/chroman/XReset",
         "description": "Xcode Plugin to Reset iOS Simulators Content and Settings.",
         "screenshot": "http://chroman.me/wp-content/uploads/2015/07/XReset.png"
+      },
+      {
+        "name": "XWJsonToCode",
+        "url": "https://github.com/boyXiong/XWJsonToCode",
+        "description": "Xcode plug-in which helps you generate model properties and single class create file with json easier.",
+        "screenshot": "http://img.blog.csdn.net/20150731002154042"
       }
     ],
     "color_schemes": [
