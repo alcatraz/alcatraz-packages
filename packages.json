@@ -6,7 +6,7 @@
   		"url": "https://github.com/muthuselvamlms/UnTrashed-Files",
   		"description": "This Xcode Plugin Will Identify the untrashed Files in Currently opened Project. And Display the list of Path in Xcode console. Thanks to KFCocoaPodsPlugin for Console Logs. To use this Goto Edit/Identify Unused Files. Now Xcode Console Print the UnTrashes files from Your Current Project. "
   		"screenshot": "https://github.com/muthuselvamlms/UnTrashed-Files/blob/master/unwanted_file_remover/Screen%20Shot%202015-08-11%20at%202.23.56%20PM.png?raw=true"
-	},
+        },
       {
       "name": "RealmBrowser",
       "url": "https://github.com/kittinunf/RealmBrowser-Plugin",
