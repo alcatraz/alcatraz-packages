@@ -1469,6 +1469,12 @@
         "description": "A set of file templates for Xcode 4.x to create Cappuccino related classes & categories"
       },
       {
+        "name": "Cedar",
+        "url": "https://github.com/pivotal/cedar",
+        "description": "A template for a BDD-style spec file using Cedar",
+        "screenshot": "https://raw.githubusercontent.com/pivotal/cedar/master/images/CedarTemplate.png"
+      },
+      {
         "name": "Core Data Unit Test Template",
         "url": "https://github.com/quellish/XCTestCoreData",
         "description": "XCTestCase template for testing Core Data"
