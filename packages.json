@@ -930,6 +930,12 @@
         "url": "https://github.com/chroman/XReset",
         "description": "Xcode Plugin to Reset iOS Simulators Content and Settings.",
         "screenshot": "http://chroman.me/wp-content/uploads/2015/07/XReset.png"
+      },
+      {
+        "name": "VariablesViewFullCopy",
+        "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
+        "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
+        "screenshot": "https://raw.githubusercontent.com/Sephiroth87/VariablesViewFullCopy-Xcode/master/screenshot.png"
       }
     ],
     "color_schemes": [
