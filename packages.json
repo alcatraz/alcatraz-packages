@@ -431,6 +431,12 @@
         "screenshot": "https://raw.githubusercontent.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text/master/Misc/OpenInSublimeTextMenu.png"
       },
       {
+        "name": "OpenInITerm",
+        "url": "https://github.com/sathya-me/OpenInITerm.git",
+        "description": "Xcode plugin to reveal files in iTerm.",
+        "screenshot": "https://raw.githubusercontent.com/sathya-me/OpenInITerm/master/demo.png"
+      },
+      {
         "name": "OpenInTerminal",
         "url": "https://github.com/sathya-me/OpenInTerminal.git",
         "description": "Xcode plugin to reveal files in Terminal.",
