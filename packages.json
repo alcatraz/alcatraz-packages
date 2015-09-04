@@ -1264,6 +1264,12 @@
         "screenshot": "https://raw.github.com/drudge/Sidetracked/master/Preview.png"
       },
       {
+        "name": "SilentNight",
+        "url": "https://raw.githubusercontent.com/potterjuan/SilentNight-Xcode-Theme/master/SilentNight.dvtcolortheme",
+        "description": "SilentNight is a dimmed variation of the Midnight Xcode theme.",
+        "screenshot": "https://raw.githubusercontent.com/potterjuan/SilentNight-Xcode-Theme/master/SilentNight-Screen-Shot.png"
+      },
+      {
         "name": "Silver",
         "url": "https://raw.github.com/zdne/spacegray-xcode/master/Silver.dvtcolortheme",
         "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
