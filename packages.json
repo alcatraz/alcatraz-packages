@@ -1415,12 +1415,14 @@
       {
         "name": "Dusk Presentation",
         "url": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Dusk%20Presentation.dvtcolortheme",
-        "description": "The original Dusk theme for presentation."
+        "description": "The original Dusk theme for presentation.",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Screenshots/screenshot-dusk-presentation@2x.png"
       },
       {
         "name": "Dusk Presentation Large",
         "url": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Dusk%20Presentation%20Large.dvtcolortheme",
-        "description": "The original Dusk theme for presentation (larger)."
+        "description": "The original Dusk theme for presentation (larger).",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Screenshots/screenshot-dusk-presentation-large@2x.png"
       }
     ],
     "project_templates": [
