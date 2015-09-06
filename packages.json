@@ -184,7 +184,7 @@
       {
         "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
-        "description": "Xcode plugin for C Style Comment(uncomment) /**/"
+        "description": "Xcode plugin for C Style Comment(uncomment) /**/ Shortcuts"
       },
       {
         "name": "ClangFormat",
