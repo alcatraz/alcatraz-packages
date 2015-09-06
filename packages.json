@@ -293,7 +293,8 @@
         {
           "name": "HTCAutoFolding",
           "url": "hhttps://github.com/ThilinaHewagama/HCTAutoFolding",
-          "description": "xCode plugin which fold all methods of a source file when opening.."
+          "description": "xCode plugin which fold all methods of a source file when opening..",
+          "screenshot": "https://github.com/ThilinaHewagama/HCTAutoFolding/blob/master/HCTAutoFolding/hctautofolding_screen_shot.jpg"
         },
         {
           "name": "HTYCopyIssue",
