@@ -297,6 +297,12 @@
           "screenshot": "https://github.com/ThilinaHewagama/HCTAutoFolding/blob/master/HCTAutoFolding/hctautofolding_screen_shot.jpg"
       },
       {
+  	"name": "AutoIndentWithSave",
+  	"url": "https://github.com/ThilinaHewagama/AutoIndentWithSave",
+  	"description": "xCode plugin to indent source code when save.",
+  	"screenshot": "https://github.com/ThilinaHewagama/AutoIndentWithSave/blob/master/auto_indent_screen_shot.jpg"
+	},
+      {
         "name": "HTYCopyIssue",
         "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
         "description": "Makes Copy Xcode Issue Description Easily, Support Finding Answers in Google or StackOverflow Directly.",
