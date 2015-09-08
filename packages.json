@@ -229,6 +229,12 @@
         "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
       },
       {
+      	"name": "DCLazyInstantiate",
+  	"url": "https://github.com/Tengag/DCLazyInstantiate",
+  	"description": "Generates lazy instantiation for you!",
+  	"screenshot": "https://raw.githubusercontent.com/Tengag/DCLazyInstantiate/master/screenshot.gif"
+      },
+      {
         "name": "DebugSearch",
         "url": "https://github.com/maranas/DebugSearch",
         "description": "Xcode plugin to allow filtering of console messages"
