@@ -232,7 +232,7 @@
       	"name": "DCLazyInstantiate",
   	"url": "https://github.com/Tengag/DCLazyInstantiate",
   	"description": "Generates lazy instantiation for you!",
-  	"screenshot": ""
+  	"screenshot": "https://raw.githubusercontent.com/Tengag/DCLazyInstantiate/master/screenshot.gif"
       },
       {
         "name": "DebugSearch",
