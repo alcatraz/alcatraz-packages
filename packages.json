@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+      "name": "Distraction free mode - ZEN",
+      "url": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin",
+      "description": "Distraction free mode, whenever you want to focus code.",
+      "screenshot": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin/blob/master/ZEN.png"
+      },
+      {
       "name": "UnTrashed-Files",
       "url": "https://github.com/muthuselvamlms/UnTrashed-Files",
       "description": "This Xcode Plugin Will Identify the untrashed Files in Currently opened Project.",
