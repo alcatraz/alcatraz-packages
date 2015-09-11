@@ -966,6 +966,11 @@
         "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
         "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
         "screenshot": "https://raw.githubusercontent.com/Sephiroth87/VariablesViewFullCopy-Xcode/master/screenshot.png"
+      },
+      {
+        "name": "Insert-Lines",
+        "url": "https://github.com/matrinox/InsertLineXcodePlugin",
+        "description": "Covenient inserting lines like in Sublime/Atom. Use command+enter or command+shift+enter to insert and jump to the next or previous line, respectively."
       }
     ],
     "color_schemes": [
@@ -1636,11 +1641,6 @@
         "url": "https://github.com/dvkch/SYConfigurableVariable",
         "description": "Create build variables that you will be able to edit easily via the Edit menu in Xcode",
         "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
-      },
-      {
-        "name": "Insert-Lines",
-        "url": "https://github.com/matrinox/InsertLineXcodePlugin",
-        "description": "Covenient inserting lines like in Sublime/Atom. Use command+enter or command+shift+enter to insert and jump to the next or previous line, respectively."
       }
     ]
   }}
