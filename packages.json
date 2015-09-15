@@ -968,7 +968,7 @@
         "screenshot": "https://raw.githubusercontent.com/Sephiroth87/VariablesViewFullCopy-Xcode/master/screenshot.png"
       },
       {
-        "name": "Insert-Lines",
+        "name": "SublimeShortcuts-ObjC",
         "url": "https://github.com/matrinox/InsertLineXcodePlugin",
         "description": "Covenient inserting lines like in Sublime/Atom. Use command+enter or command+shift+enter to insert and jump to the next or previous line, respectively."
       }
