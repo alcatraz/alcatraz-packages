@@ -535,9 +535,9 @@
       },
       {
         "name": "RevealPlugin",
-        "url": "https://github.com/shjborage/Reveal-Plugin-for-XCode",
+        "url": "https://github.com/honghaoz/Reveal-Plugin-for-XCode",
         "description": "Plugin for Xcode to integrate the Reveal App to your project automatic.",
-        "screenshot": "https://github.com/shjborage/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
+        "screenshot": "https://github.com/honghaoz/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
       },
       {
         "name": "RRConstraintsPlugin",
