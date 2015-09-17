@@ -2,6 +2,24 @@
   "packages": {
     "plugins": [
       {
+      "name": "LigatureXcodePlugin",
+      "url": "https://github.com/robertvojta/LigatureXcodePlugin",
+      "description": "Enable default or all ligatures.",
+      "screenshot": "https://cloud.githubusercontent.com/assets/1084172/9930947/961becfe-5d37-11e5-8261-3fa90cb0851f.png"
+      },
+      {
+      "name": "Distraction free mode - ZEN",
+      "url": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin",
+      "description": "Distraction free mode, whenever you want to focus code.",
+      "screenshot": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin/blob/master/ZEN.png"
+      },
+      {
+      "name": "UnTrashed-Files",
+      "url": "https://github.com/muthuselvamlms/UnTrashed-Files",
+      "description": "This Xcode Plugin Will Identify the untrashed Files in Currently opened Project.",
+      "screenshot": "https://raw.githubusercontent.com/muthuselvamlms/UnTrashed-Files/master/unwanted_file_remover/ss.png"
+      },
+      {
       "name": "RealmBrowser",
       "url": "https://github.com/kittinunf/RealmBrowser-Plugin",
       "description": "Open Realm Browser for your simulator without pain",
@@ -178,7 +196,7 @@
       {
         "name": "CComment",
         "url": "https://github.com/flexih/Xcode-CComment",
-        "description": "Xcode plugin for C Style Comment(uncomment) /**/"
+        "description": "Xcode plugin for C Style Comment(uncomment) /**/ Shortcuts"
       },
       {
         "name": "ClangFormat",
@@ -221,6 +239,12 @@
         "url": "https://github.com/chaingarden/DBSmartPanels/",
         "description": "Optimizes screen real estate by auto-hiding panels (debug window, utilities, Assistant Editor) when you don't need them",
         "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
+      },
+      {
+      	"name": "DCLazyInstantiate",
+  	"url": "https://github.com/Tengag/DCLazyInstantiate",
+  	"description": "Generates lazy instantiation for you!",
+  	"screenshot": "https://raw.githubusercontent.com/Tengag/DCLazyInstantiate/master/screenshot.gif"
       },
       {
         "name": "DebugSearch",
@@ -284,6 +308,18 @@
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
         "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
       },
+      {
+          "name": "HCTAutoFolding",
+          "url": "https://github.com/ThilinaHewagama/HCTAutoFolding",
+          "description": "xCode plugin which fold all methods of a source file when opening..",
+          "screenshot": "https://github.com/ThilinaHewagama/HCTAutoFolding/blob/master/HCTAutoFolding/hctautofolding_screen_shot.jpg"
+      },
+      {
+  	"name": "AutoIndentWithSave",
+  	"url": "https://github.com/ThilinaHewagama/AutoIndentWithSave",
+  	"description": "xCode plugin to indent source code when save.",
+  	"screenshot": "https://github.com/ThilinaHewagama/AutoIndentWithSave/blob/master/auto_indent_screen_shot.jpg"
+	},
       {
         "name": "HTYCopyIssue",
         "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
@@ -425,6 +461,12 @@
         "screenshot": "https://raw.githubusercontent.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text/master/Misc/OpenInSublimeTextMenu.png"
       },
       {
+        "name": "OpenInITerm",
+        "url": "https://github.com/sathya-me/OpenInITerm.git",
+        "description": "Xcode plugin to reveal files in iTerm.",
+        "screenshot": "https://raw.githubusercontent.com/sathya-me/OpenInITerm/master/demo.png"
+      },
+      {
         "name": "OpenInTerminal",
         "url": "https://github.com/sathya-me/OpenInTerminal.git",
         "description": "Xcode plugin to reveal files in Terminal.",
@@ -548,7 +590,7 @@
       {
         "name": "seguecodePlugin",
         "url": "https://github.com/Adorkable/seguecode",
-        "description": "Integrates seguecode, the Storyboard assistance tool, with Xcode by automatically detecting and running whenever you save a Storyboard."
+        "description": "seguecode is the missing support tool for building safe UIStoryboard code. This plugin detects and runs seguecode whenever you save a Storyboard automatically updating your generated code."
       },
       {
         "name": "SFJumpToLine",
@@ -763,6 +805,12 @@
         "screenshot": "https://raw.github.com/STAR-ZERO/XFunnyEditor/master/screenshot.png"
       },
       {
+        "name": "XInfer",
+        "url": "https://github.com/markohlebar/XInfer",
+        "description": "Facebook Infer plugin for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/markohlebar/XInfer/master/Misc/Infer.png"
+      },
+      {
         "name": "XLCXcodeAssist",
         "url": "https://github.com/xlc/XLCXcodeAssist",
         "description": "Xcode plug-in to provide suggestion implementation for missing Objective-C methods.",
@@ -920,10 +968,22 @@
         "screenshot": "http://chroman.me/wp-content/uploads/2015/07/XReset.png"
       },
       {
+<<<<<<< HEAD
         "name": "XWJsonToCode",
         "url": "https://github.com/boyXiong/XWJsonToCode",
         "description": "Xcode plug-in which helps you generate model properties and single class create file with json easier.",
         "screenshot": "https://camo.githubusercontent.com/eecdbb902060ecb7dae7315dfdc90c5a64521460/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530373331303032313534303432"
+=======
+        "name": "VariablesViewFullCopy",
+        "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
+        "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
+        "screenshot": "https://raw.githubusercontent.com/Sephiroth87/VariablesViewFullCopy-Xcode/master/screenshot.png"
+      },
+      {
+        "name": "SublimeShortcuts-ObjC",
+        "url": "https://github.com/matrinox/InsertLineXcodePlugin",
+        "description": "Covenient inserting lines like in Sublime/Atom. Use command+enter or command+shift+enter to insert and jump to the next or previous line, respectively."
+>>>>>>> supermarin/master
       }
     ],
     "color_schemes": [
@@ -1246,6 +1306,12 @@
         "screenshot": "https://raw.github.com/drudge/Sidetracked/master/Preview.png"
       },
       {
+        "name": "SilentNight",
+        "url": "https://raw.githubusercontent.com/potterjuan/SilentNight-Xcode-Theme/master/SilentNight.dvtcolortheme",
+        "description": "SilentNight is a dimmed variation of the Midnight Xcode theme.",
+        "screenshot": "https://raw.githubusercontent.com/potterjuan/SilentNight-Xcode-Theme/master/SilentNight-Screen-Shot.png"
+      },
+      {
         "name": "Silver",
         "url": "https://raw.github.com/zdne/spacegray-xcode/master/Silver.dvtcolortheme",
         "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
@@ -1387,6 +1453,18 @@
         "url": "https://raw.githubusercontent.com/kjunggithub/xcode-sunburst/master/Sunburst.dvtcolortheme",
         "description": "Sunburst theme for xcode. Ported from a xcode 4 version originally created by Aleksandar Palic.",
         "screenshot": "https://cloud.githubusercontent.com/assets/2159304/4535584/7f399928-4db6-11e4-8c25-d361a803d757.png"
+      },
+      {
+        "name": "Dusk Presentation",
+        "url": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Dusk%20Presentation.dvtcolortheme",
+        "description": "The original Dusk theme for presentation.",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Screenshots/screenshot-dusk-presentation@2x.png"
+      },
+      {
+        "name": "Dusk Presentation Large",
+        "url": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Dusk%20Presentation%20Large.dvtcolortheme",
+        "description": "The original Dusk theme for presentation (larger).",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Screenshots/screenshot-dusk-presentation-large@2x.png"
       }
     ],
     "project_templates": [
@@ -1457,6 +1535,12 @@
         "name": "Cappuccino",
         "url": "https://github.com/phranck/Cappuccino-Templates-for-Xcode-4.x",
         "description": "A set of file templates for Xcode 4.x to create Cappuccino related classes & categories"
+      },
+      {
+        "name": "Cedar",
+        "url": "https://github.com/pivotal/cedar",
+        "description": "A template for a BDD-style spec file using Cedar",
+        "screenshot": "https://raw.githubusercontent.com/pivotal/cedar/master/images/CedarTemplate.png"
       },
       {
         "name": "Core Data Unit Test Template",
@@ -1564,6 +1648,12 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "ConfigurableVariable",
+        "url": "https://github.com/dvkch/SYConfigurableVariable",
+        "description": "Create build variables that you will be able to edit easily via the Edit menu in Xcode",
+        "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
       }
     ]
   }}
