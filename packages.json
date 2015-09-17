@@ -968,12 +968,12 @@
         "screenshot": "http://chroman.me/wp-content/uploads/2015/07/XReset.png"
       },
       {
-<<<<<<< HEAD
         "name": "XWJsonToCode",
         "url": "https://github.com/boyXiong/XWJsonToCode",
         "description": "Xcode plug-in which helps you generate model properties and single class create file with json easier.",
         "screenshot": "https://camo.githubusercontent.com/eecdbb902060ecb7dae7315dfdc90c5a64521460/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530373331303032313534303432"
-=======
+      },
+      {
         "name": "VariablesViewFullCopy",
         "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
         "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
@@ -983,7 +983,6 @@
         "name": "SublimeShortcuts-ObjC",
         "url": "https://github.com/matrinox/InsertLineXcodePlugin",
         "description": "Covenient inserting lines like in Sublime/Atom. Use command+enter or command+shift+enter to insert and jump to the next or previous line, respectively."
->>>>>>> supermarin/master
       }
     ],
     "color_schemes": [
