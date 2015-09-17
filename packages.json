@@ -2,11 +2,17 @@
   "packages": {
     "plugins": [
       {
+      "name": "ROTools",
+      "url": "https://github.com/rongl/ROTools",
+      "description": "ROTools For Xcode 7 Plugin ( AppIcon Maker, Import Icons, New Group ) ",
+      "screenshot": "https://raw.githubusercontent.com/rongl/ROTools/master/use.gif"
+      },
+       {
       "name": "LigatureXcodePlugin",
       "url": "https://github.com/robertvojta/LigatureXcodePlugin",
       "description": "Enable default or all ligatures.",
       "screenshot": "https://cloud.githubusercontent.com/assets/1084172/9930947/961becfe-5d37-11e5-8261-3fa90cb0851f.png"
-      },
+      }, 
       {
       "name": "Distraction free mode - ZEN",
       "url": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin",
