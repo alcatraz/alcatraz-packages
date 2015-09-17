@@ -968,6 +968,12 @@
         "screenshot": "http://chroman.me/wp-content/uploads/2015/07/XReset.png"
       },
       {
+        "name": "XWJsonToCode",
+        "url": "https://github.com/boyXiong/XWJsonToCode",
+        "description": "Xcode plug-in which helps you generate model properties and single class create file with json easier.",
+        "screenshot": "https://raw.githubusercontent.com/boyXiong/raw/master/picture/howToUse.png"
+      },
+      {
         "name": "VariablesViewFullCopy",
         "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
         "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
