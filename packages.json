@@ -1655,7 +1655,7 @@
         "description": "File Templates for Models using the Mantle framework"
       },
       {
-        "name": "ConfigurableVariable",
+        "name": "SYConfigurableVariable",
         "url": "https://github.com/dvkch/SYConfigurableVariable",
         "description": "Create build variables that you will be able to edit easily via the Edit menu in Xcode",
         "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
