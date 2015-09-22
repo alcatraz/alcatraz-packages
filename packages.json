@@ -989,6 +989,12 @@
         "name": "SublimeShortcuts-ObjC",
         "url": "https://github.com/matrinox/InsertLineXcodePlugin",
         "description": "Covenient inserting lines like in Sublime/Atom. Use command+enter or command+shift+enter to insert and jump to the next or previous line, respectively."
+      },
+      {
+        "name": "SYConfigurableVariable",
+        "url": "https://github.com/dvkch/SYConfigurableVariable",
+        "description": "Create build variables that you will be able to edit easily via the Edit menu in Xcode",
+        "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
       }
     ],
     "color_schemes": [
@@ -1659,12 +1665,6 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
-      },
-      {
-        "name": "SYConfigurableVariable",
-        "url": "https://github.com/dvkch/SYConfigurableVariable",
-        "description": "Create build variables that you will be able to edit easily via the Edit menu in Xcode",
-        "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
       }
     ]
   }}
