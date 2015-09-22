@@ -1470,6 +1470,12 @@
         "url": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Dusk%20Presentation%20Large.dvtcolortheme",
         "description": "The original Dusk theme for presentation (larger).",
         "screenshot": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Screenshots/screenshot-dusk-presentation-large@2x.png"
+      },
+      {
+      	"name": "The Colourful Midnight",
+      	"url": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight.dvtcolortheme",
+      	"description": "Adapted from Xcode's Midnight theme, this version contains a lot more playful colour differentiation between the available types",
+      	"screenshot": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight%20screenshot.png"
       }
     ],
     "project_templates": [
