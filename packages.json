@@ -439,10 +439,10 @@
         "screenshot": "https://raw.githubusercontent.com/vampirewalk/ObjectGraph-Xcode/master/ObjectGraph.png"
       },
       {
-        "name": "OFPlugin",
-        "url": "https://github.com/admsyn/OFPlugin.git",
+        "name": "OFXcodeMenu",
+        "url": "https://github.com/openframeworks/OFXcodeMenu.git",
         "description": "Plugin for adding OpenFrameworks addons to projects",
-        "screenshot": "https://raw.githubusercontent.com/admsyn/OFPlugin/master/screenshot.jpg"
+        "screenshot": "https://raw.githubusercontent.com/openframeworks/OFXcodeMenu/master/screenshot.jpg"
       },
       {
         "name": "OMColorSense",
