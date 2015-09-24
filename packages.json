@@ -590,8 +590,8 @@
       {
         "name": "MLAutoReplace",
         "url": "https://github.com/molon/MLAutoReplace",
-        "description": "Re-intent,write getters quickly, and custom your own regex replacer",
-        "screenshot": "https://raw.githubusercontent.com/molon/MLAutoReplace/master/replaceGetter.gif"
+        "description": "Re-Intent, make you write code more quickly.",
+        "screenshot": "https://raw.githubusercontent.com/molon/MLAutoReplace/master/replaceTS.gif"
       }
     ],
     "color_schemes": [
