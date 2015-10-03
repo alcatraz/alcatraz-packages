@@ -1261,6 +1261,12 @@
         "screenshot": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Screenshots/Objective-C.png"
       },
       {
+      	"name": "Prism",
+      	"url": "https://raw.github.com/xcorlett/prismtheme-xcode/master/Prism.dvtcolortheme",
+      	"description": "A theme that attempts to mimic the default color scheme from Lea Verou's excellent Prism.js syntax highlighter. Uses Consolas as the default font.",
+      	"screenshot": "https://raw.github.com/xcorlett/prismtheme-xcode/master/xcode-prism-screenshot.png"
+      },
+      {
         "name": "Push Popcorn",
         "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
         "description": "A theme made by Andrea Gelati."
