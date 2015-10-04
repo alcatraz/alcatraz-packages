@@ -2,76 +2,76 @@
   "packages": {
     "plugins": [
       {
-      "name": "ROTools",
-      "url": "https://github.com/rongl/ROTools",
-      "description": "ROTools For Xcode 7 Plugin ( AppIcon Maker, Import Icons, New Group ) ",
-      "screenshot": "https://raw.githubusercontent.com/rongl/ROTools/master/use.gif"
-      },
-       {
-      "name": "LigatureXcodePlugin",
-      "url": "https://github.com/robertvojta/LigatureXcodePlugin",
-      "description": "Enable default or all ligatures.",
-      "screenshot": "https://cloud.githubusercontent.com/assets/1084172/9930947/961becfe-5d37-11e5-8261-3fa90cb0851f.png"
-      }, 
-      {
-      "name": "Distraction free mode - ZEN",
-      "url": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin",
-      "description": "Distraction free mode, whenever you want to focus code.",
-      "screenshot": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin/blob/master/ZEN.png"
+        "name": "ROTools",
+        "url": "https://github.com/rongl/ROTools",
+        "description": "ROTools For Xcode 7 Plugin ( AppIcon Maker, Import Icons, New Group ) ",
+        "screenshot": "https://raw.githubusercontent.com/rongl/ROTools/master/use.gif"
       },
       {
-      "name": "UnTrashed-Files",
-      "url": "https://github.com/muthuselvamlms/UnTrashed-Files",
-      "description": "This Xcode Plugin Will Identify the untrashed Files in Currently opened Project.",
-      "screenshot": "https://raw.githubusercontent.com/muthuselvamlms/UnTrashed-Files/master/unwanted_file_remover/ss.png"
+        "name": "LigatureXcodePlugin",
+        "url": "https://github.com/robertvojta/LigatureXcodePlugin",
+        "description": "Enable default or all ligatures.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/1084172/9930947/961becfe-5d37-11e5-8261-3fa90cb0851f.png"
       },
       {
-      "name": "RealmBrowser",
-      "url": "https://github.com/kittinunf/RealmBrowser-Plugin",
-      "description": "Open Realm Browser for your simulator without pain",
-      "screenshot": "https://raw.githubusercontent.com/kittinunf/RealmBrowser-Plugin/master/art/ss.png"
+        "name": "Distraction free mode - ZEN",
+        "url": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin",
+        "description": "Distraction free mode, whenever you want to focus code.",
+        "screenshot": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin/blob/master/ZEN.png"
       },
       {
-      "name": "SymbolicationPlugin",
-      "url": "https://github.com/MaheshRS/symbolication-plugin",
-      "description": "Plugin for symbolicating crashes, fetching details of the application binary.",
-      "screenshot": "https://raw.githubusercontent.com/MaheshRS/symbolication-plugin/master/screenshots/Symbolicate_screen.png"
+        "name": "UnTrashed-Files",
+        "url": "https://github.com/muthuselvamlms/UnTrashed-Files",
+        "description": "This Xcode Plugin Will Identify the untrashed Files in Currently opened Project.",
+        "screenshot": "https://raw.githubusercontent.com/muthuselvamlms/UnTrashed-Files/master/unwanted_file_remover/ss.png"
+      },
+      {
+        "name": "RealmBrowser",
+        "url": "https://github.com/kittinunf/RealmBrowser-Plugin",
+        "description": "Open Realm Browser for your simulator without pain",
+        "screenshot": "https://raw.githubusercontent.com/kittinunf/RealmBrowser-Plugin/master/art/ss.png"
+      },
+      {
+        "name": "SymbolicationPlugin",
+        "url": "https://github.com/MaheshRS/symbolication-plugin",
+        "description": "Plugin for symbolicating crashes, fetching details of the application binary.",
+        "screenshot": "https://raw.githubusercontent.com/MaheshRS/symbolication-plugin/master/screenshots/Symbolicate_screen.png"
       },
       {
         "name": "ApplicationSupport",
         "url": "https://github.com/knutigro/Xcode-Plugin-Application-Support",
         "description": "Adds a new MenuItem for opening Application Support Folder."
-		  },
-    	{
+      },
+      {
         "name": "SwiftCodeSnippets",
         "url": "https://github.com/CodeEagle/SwiftCodeSnippets",
-  	"description": "AutoDownload Swift Code Snippets",
-  	"screenshot":"https://raw.githubusercontent.com/burczyk/XcodeSwiftSnippets/master/assets/xcode-use-code-snippet-2.gif"
-    	},
-      {
-      "name": "CoPilot",
-      "url": "https://github.com/feinstruktur/CoPilot",
-      "description": "Plugin for collaborative editing",
-      "screenshot": "https://raw.githubusercontent.com/feinstruktur/CoPilot/master/Misc/screenshot.png"
+        "description": "AutoDownload Swift Code Snippets",
+        "screenshot": "https://raw.githubusercontent.com/burczyk/XcodeSwiftSnippets/master/assets/xcode-use-code-snippet-2.gif"
       },
-        {
+      {
+        "name": "CoPilot",
+        "url": "https://github.com/feinstruktur/CoPilot",
+        "description": "Plugin for collaborative editing",
+        "screenshot": "https://raw.githubusercontent.com/feinstruktur/CoPilot/master/Misc/screenshot.png"
+      },
+      {
         "name": "XcodeMediaLibraryTweak",
         "url": "https://github.com/igiu1988/XcodeMediaLibraryTweak",
         "description": "Show image size. Let the Xcode eedia library more useful",
         "screenshot": "https://raw.githubusercontent.com/igiu1988/XcodeMediaLibraryTweak/master/helpImage.png"
-        },
-        {
-          "name": "PluginPanel",
-          "url": "https://github.com/AlexIzh/PluginPanel",
-          "description": "Plugin panel for XCode. It needed for other plugins.",
-          "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.14.56%20AM.png"
-        },
-        {
-          "name": "TimePlugin",
-          "url": "https://github.com/AlexIzh/TimePlugin",
-          "description": "Simple time tracker. Need `PluginPanel` plugin for uses.",
-          "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.43.04%20AM.png"
-        },
+      },
+      {
+        "name": "PluginPanel",
+        "url": "https://github.com/AlexIzh/PluginPanel",
+        "description": "Plugin panel for XCode. It needed for other plugins.",
+        "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.14.56%20AM.png"
+      },
+      {
+        "name": "TimePlugin",
+        "url": "https://github.com/AlexIzh/TimePlugin",
+        "description": "Simple time tracker. Need `PluginPanel` plugin for uses.",
+        "screenshot": "https://dl.dropboxusercontent.com/u/52596119/Screen%20Shot%202015-04-14%20at%202.43.04%20AM.png"
+      },
       {
         "name": "ACCodeSnippetRepository",
         "url": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin",
@@ -96,10 +96,10 @@
         "screenshot": "https://github.com/poboke/AllTargets/raw/master/Screenshots/about.png"
       },
       {
-      	"name": "ATProperty",
-      	"url": "https://github.com/Draveness/ATProperty",
-      	"description": "Convenient and fast approach to create property",
-      	"screenshot": "http://i.imgur.com/fQmXMvF.gif"
+        "name": "ATProperty",
+        "url": "https://github.com/Draveness/ATProperty",
+        "description": "Convenient and fast approach to create property",
+        "screenshot": "http://i.imgur.com/fQmXMvF.gif"
       },
       {
         "name": "AMMethod2Implement",
@@ -108,10 +108,10 @@
         "screenshot": "https://raw.github.com/MellongLau/AMMethod2Implement/master/Screenshots/usageScreenshot.gif"
       },
       {
-       "name": "NCSimulatorPlugin",
-       "url": "https://github.com/scinfu/NCSimulatorPlugin",
-       "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected.",
-       "screenshot": "https://raw.githubusercontent.com/scinfu/NCSimulatorPlugin/master/01.png"
+        "name": "NCSimulatorPlugin",
+        "url": "https://github.com/scinfu/NCSimulatorPlugin",
+        "description": "Xcode 6+ Plugin that enable shortcuts to Documents apps for Simulator selected.",
+        "screenshot": "https://raw.githubusercontent.com/scinfu/NCSimulatorPlugin/master/01.png"
       },
       {
         "name": "ApportablePlugin",
@@ -229,16 +229,16 @@
         "screenshot": "https://raw.githubusercontent.com/Galeas/CocoaPodUI/master/readme.png"
       },
       {
-      	"name": "CodePilot",
-      	"url": "https://github.com/macoscope/CodePilot",
-      	"description": "Code Pilot is a plugin for Xcode 5 & 6 that allows you to quickly find files, methods and symbols within your project without the need for your mouse.",
-      	"screenshot": "https://github.com/macoscope/CodePilot/raw/master/Screenshots/CodePilot_01.png"
+        "name": "CodePilot",
+        "url": "https://github.com/macoscope/CodePilot",
+        "description": "Code Pilot is a plugin for Xcode 5 & 6 that allows you to quickly find files, methods and symbols within your project without the need for your mouse.",
+        "screenshot": "https://github.com/macoscope/CodePilot/raw/master/Screenshots/CodePilot_01.png"
       },
       {
-      	"name": "ColorSenseRainbow",
-      	"url": "https://github.com/NorthernRealities/ColorSenseRainbow",
-      	"description": "A plugin for Xcode that shows colours and allows you to modify them.  It works for both UIColor and NSColor in Swift and Objective-C.",
-      	"screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
+        "name": "ColorSenseRainbow",
+        "url": "https://github.com/NorthernRealities/ColorSenseRainbow",
+        "description": "A plugin for Xcode that shows colours and allows you to modify them.  It works for both UIColor and NSColor in Swift and Objective-C.",
+        "screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
       },
       {
         "name": "DBSmartPanels",
@@ -247,10 +247,10 @@
         "screenshot": "https://raw.githubusercontent.com/chaingarden/DBSmartPanels/master/Screenshots/DemoScreenshot.png"
       },
       {
-      	"name": "DCLazyInstantiate",
-  	"url": "https://github.com/Tengag/DCLazyInstantiate",
-  	"description": "Generates lazy instantiation for you!",
-  	"screenshot": "https://raw.githubusercontent.com/Tengag/DCLazyInstantiate/master/screenshot.gif"
+        "name": "DCLazyInstantiate",
+        "url": "https://github.com/Tengag/DCLazyInstantiate",
+        "description": "Generates lazy instantiation for you!",
+        "screenshot": "https://raw.githubusercontent.com/Tengag/DCLazyInstantiate/master/screenshot.gif"
       },
       {
         "name": "DebugSearch",
@@ -315,17 +315,17 @@
         "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
       },
       {
-          "name": "HCTAutoFolding",
-          "url": "https://github.com/ThilinaHewagama/HCTAutoFolding",
-          "description": "xCode plugin which fold all methods of a source file when opening..",
-          "screenshot": "https://github.com/ThilinaHewagama/HCTAutoFolding/blob/master/HCTAutoFolding/hctautofolding_screen_shot.jpg"
+        "name": "HCTAutoFolding",
+        "url": "https://github.com/ThilinaHewagama/HCTAutoFolding",
+        "description": "xCode plugin which fold all methods of a source file when opening..",
+        "screenshot": "https://github.com/ThilinaHewagama/HCTAutoFolding/blob/master/HCTAutoFolding/hctautofolding_screen_shot.jpg"
       },
       {
-  	"name": "AutoIndentWithSave",
-  	"url": "https://github.com/ThilinaHewagama/AutoIndentWithSave",
-  	"description": "xCode plugin to indent source code when save.",
-  	"screenshot": "https://github.com/ThilinaHewagama/AutoIndentWithSave/blob/master/auto_indent_screen_shot.jpg"
-	},
+        "name": "AutoIndentWithSave",
+        "url": "https://github.com/ThilinaHewagama/AutoIndentWithSave",
+        "description": "xCode plugin to indent source code when save.",
+        "screenshot": "https://github.com/ThilinaHewagama/AutoIndentWithSave/blob/master/auto_indent_screen_shot.jpg"
+      },
       {
         "name": "HTYCopyIssue",
         "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
@@ -868,11 +868,11 @@
         "description": "Xcode plugin for key bindings learning"
       },
       {
-  	"name": "ZMDocItemInspector",
-  	"url": "https://github.com/zolomatok/ZMDocItemInspector",
-  	"description": "Converts the Quick Help inspector into an always visible Document Items inspector.",
-  	"screenshot": "http://i.stack.imgur.com/x4SCO.png"
-	},
+        "name": "ZMDocItemInspector",
+        "url": "https://github.com/zolomatok/ZMDocItemInspector",
+        "description": "Converts the Quick Help inspector into an always visible Document Items inspector.",
+        "screenshot": "http://i.stack.imgur.com/x4SCO.png"
+      },
       {
         "name": "MLAutoReplace",
         "url": "https://github.com/molon/MLAutoReplace",
@@ -1190,10 +1190,10 @@
         "screenshot": "https://raw.githubusercontent.com/etsushisa/Flat-Theme-Xcode/master/Screen%20Shot%20Light.png"
       },
       {
-        "name" : "fruits",
-        "url" : "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/fruits.dvtcolortheme",
-        "description" : "Fruits Colors.",
-        "screenshot" : "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/sample0.png"
+        "name": "fruits",
+        "url": "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/fruits.dvtcolortheme",
+        "description": "Fruits Colors.",
+        "screenshot": "https://raw.githubusercontent.com/muukii0803/xcode-fruits/master/sample0.png"
       },
       {
         "name": "Harry Potter",
@@ -1261,10 +1261,10 @@
         "screenshot": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Screenshots/Objective-C.png"
       },
       {
-      	"name": "Prism",
-      	"url": "https://raw.github.com/xcorlett/prismtheme-xcode/master/Prism.dvtcolortheme",
-      	"description": "A theme that attempts to mimic the default color scheme from Lea Verou's excellent Prism.js syntax highlighter. Uses Consolas as the default font.",
-      	"screenshot": "https://raw.github.com/xcorlett/prismtheme-xcode/master/xcode-prism-screenshot.png"
+        "name": "Prism",
+        "url": "https://raw.github.com/xcorlett/prismtheme-xcode/master/Prism.dvtcolortheme",
+        "description": "A theme that attempts to mimic the default color scheme from Lea Verou's excellent Prism.js syntax highlighter. Uses Consolas as the default font.",
+        "screenshot": "https://raw.github.com/xcorlett/prismtheme-xcode/master/xcode-prism-screenshot.png"
       },
       {
         "name": "Push Popcorn",
@@ -1484,10 +1484,10 @@
         "screenshot": "https://raw.githubusercontent.com/dzenbot/XCColorThemes/master/Screenshots/screenshot-dusk-presentation-large@2x.png"
       },
       {
-      	"name": "The Colourful Midnight",
-      	"url": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight.dvtcolortheme",
-      	"description": "Adapted from Xcode's Midnight theme, this version contains a lot more playful colour differentiation between the available types",
-      	"screenshot": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight%20screenshot.png"
+        "name": "The Colourful Midnight",
+        "url": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight.dvtcolortheme",
+        "description": "Adapted from Xcode's Midnight theme, this version contains a lot more playful colour differentiation between the available types",
+        "screenshot": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight%20screenshot.png"
       }
     ],
     "project_templates": [
@@ -1662,10 +1662,10 @@
         "description": "OpenFrameworks C++ File Templates"
       },
       {
-      	"name": "Lua Template for Wax",
-      	"url": "https://github.com/croath/wax_xctemplate",
-      	"description": "Create Lua File Template for Wax",
-      	"screenshot": "http://i.imgur.com/Q2nWGEf.png"
+        "name": "Lua Template for Wax",
+        "url": "https://github.com/croath/wax_xctemplate",
+        "description": "Create Lua File Template for Wax",
+        "screenshot": "http://i.imgur.com/Q2nWGEf.png"
       },
       {
         "name": "Mantle",
@@ -1673,4 +1673,5 @@
         "description": "File Templates for Models using the Mantle framework"
       }
     ]
-  }}
+  }
+}
