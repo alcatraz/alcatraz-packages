@@ -1488,6 +1488,12 @@
         "url": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight.dvtcolortheme",
         "description": "Adapted from Xcode's Midnight theme, this version contains a lot more playful colour differentiation between the available types",
         "screenshot": "https://raw.githubusercontent.com/matrinox/The-Colourful-Midnight/master/The%20Colourful%20Midnight%20screenshot.png"
+      },
+      {
+        "name": "One Dark for Xcode",
+        "url": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark.dvtcolortheme",
+        "description": "A port of the Atom One Dark theme for Xcode.",
+        "screenshot": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark%20Screenshot.png"
       }
     ],
     "project_templates": [
