@@ -995,6 +995,12 @@
         "url": "https://github.com/dvkch/SYConfigurableVariable",
         "description": "Create build variables that you will be able to edit easily via the Edit menu in Xcode",
         "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
+      },
+      {
+        "name": "XBookmark",
+        "url": "https://github.com/everettjf/XBookmark",
+        "description": "Bookmark Plugin (Toggle/Next/Prev Bookmark,Show Bookmarks)",
+        "screenshot": "http://everettjf.github.io/images/extern/xbookmark2.png"
       }
     ],
     "color_schemes": [
