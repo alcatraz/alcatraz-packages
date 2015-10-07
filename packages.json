@@ -241,6 +241,12 @@
         "screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
       },
       {
+        "name": "DANOpenInMacVim",
+        "url": "https://github.com/DanielTomlinson/DANOpenInMacVim",
+        "description": "Opens the current file in MacVim.",
+        "screenshot": "https://raw.githubusercontent.com/DanielTomlinson/DANOpenInMacVim/master/screenshot.png"
+      },
+      {
         "name": "DBSmartPanels",
         "url": "https://github.com/chaingarden/DBSmartPanels/",
         "description": "Optimizes screen real estate by auto-hiding panels (debug window, utilities, Assistant Editor) when you don't need them",
