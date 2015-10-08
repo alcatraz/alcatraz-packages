@@ -1007,6 +1007,12 @@
         "url": "https://github.com/everettjf/XBookmark",
         "description": "Bookmark Plugin (Toggle/Next/Prev Bookmark,Show Bookmarks)",
         "screenshot": "http://everettjf.github.io/images/extern/xbookmark3.png"
+      },
+      {
+        "name": "CleanHeaders",
+        "url": "https://github.com/insanoid/CleanHeaders-Xcode",
+        "description": "A simple iSort like header sorting and duplicate removal plugin for Xcode ",
+        "screenshot": "https://raw.githubusercontent.com/insanoid/CleanHeaders-Xcode/master/diff_image.png"
       }
     ],
     "color_schemes": [
