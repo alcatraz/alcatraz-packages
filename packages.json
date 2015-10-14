@@ -1013,6 +1013,11 @@
         "url": "https://github.com/insanoid/CleanHeaders-Xcode",
         "description": "A simple iSort like header sorting and duplicate removal plugin for Xcode ",
         "screenshot": "https://raw.githubusercontent.com/insanoid/CleanHeaders-Xcode/master/diff_image.png"
+      },
+      {
+        "name": "SuperFixer",
+        "url": "https://github.com/johankj/SuperFixer-Xcode",
+        "description": "A plug-in for Swift projects, which adds calls to super in certains methods like viewDidLoad etc."
       }
     ],
     "color_schemes": [
