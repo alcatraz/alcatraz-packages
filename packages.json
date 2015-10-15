@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "AutoHighlightSymbol",
+        "url": "https://github.com/chiahsien/AutoHighlightSymbol",
+        "description": "Add highlight to those instances of selected symbol.",
+        "screenshot": "https://raw.githubusercontent.com/chiahsien/AutoHighlightSymbol/master/screenshot.png"
+      },
+      {
         "name": "ROTools",
         "url": "https://github.com/rongl/ROTools",
         "description": "ROTools For Xcode 7 Plugin ( AppIcon Maker, Import Icons, New Group ) ",
