@@ -1,6 +1,12 @@
 {
   "packages": {
     "plugins": [
+        {
+      "name": "Xcode Multi Edit",
+      "url": "https://github.com/timwredwards/Xcode-Multi-Edit-Plugin",
+      "description": "Allows developers to quickly edit a selected term in a source document. This is a feature borrowed from many text editors, such as Sublime Text.",
+      "screenshot": "https://github.com/timwredwards/Xcode-Multi-Edit-Plugin/raw/master/img/two.gif"
+    },
       {
         "name": "ROTools",
         "url": "https://github.com/rongl/ROTools",
