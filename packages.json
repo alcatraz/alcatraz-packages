@@ -428,6 +428,11 @@
         "screenshot": "https://raw.githubusercontent.com/julian-weinert/LinkedLog/master/Screenshots/LinkedLog.png"
       },
       {
+        "name": "Lokaligo",
+        "url": "https://github.com/lokaligo/lokaligo-xcode-plugin",
+        "description": "Automatically import & export strings, translated via lokaligo.com. To use, select `Edit > Lokaligo import/export` in the menu."
+      },
+      {
         "name": "MarvinPlugin",
         "url": "https://github.com/zenangst/MarvinXcode",
         "description": "A collection of nifty selection and text commands for your everyday workflow in Xcode",
