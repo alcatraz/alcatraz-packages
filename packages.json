@@ -430,7 +430,7 @@
       {
         "name": "Lokaligo",
         "url": "https://github.com/lokaligo/lokaligo-xcode-plugin",
-        "description": "Automatically import & export strings, translated via lokaligo.com. To use, select `Edit > Lokaligo import/export` in the menu.",
+        "description": "Automatically import & export strings, translated via lokaligo.com. To use, select `Edit > Lokaligo import/export` in the menu."
       },
       {
         "name": "MarvinPlugin",
