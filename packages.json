@@ -1035,6 +1035,11 @@
         "name": "SuperFixer",
         "url": "https://github.com/johankj/SuperFixer-Xcode",
         "description": "A plug-in for Swift projects, which adds calls to super in certains methods like viewDidLoad etc."
+      },
+      {
+        "name": "DOSNewLine",
+        "url": "https://github.com/dolphinsue319/DOSNewLine",
+        "description": "This plug-in can generate semicolon in the end of current line, and move cursor to there, by press command + shift + enter."
       }
     ],
     "color_schemes": [
