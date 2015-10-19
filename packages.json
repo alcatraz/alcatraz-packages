@@ -619,7 +619,8 @@
       {
         "name": "seguecodePlugin",
         "url": "https://github.com/Adorkable/seguecode",
-        "description": "seguecode is the missing support tool for building safe UIStoryboard code. This plugin detects and runs seguecode whenever you save a Storyboard automatically updating your generated code."
+        "description": "seguecode is the missing support tool for building safe UIStoryboard code. This plugin detects and runs seguecode whenever you save a Storyboard automatically updating your generated code.",
+        "screenshot": "https://raw.githubusercontent.com/Adorkable/seguecode/master/README/Edit_and_Menubar.png"
       },
       {
         "name": "SFJumpToLine",
