@@ -1041,6 +1041,12 @@
         "name": "DOSNewLine",
         "url": "https://github.com/dolphinsue319/DOSNewLine",
         "description": "This plug-in can generate semicolon in the end of current line, and move cursor to there, by press command + shift + enter."
+      },
+      {
+        "name": "HHEnumeration-Xcode",
+        "url": "https://github.com/bugEnding/HHEnumeration-Xcode",
+        "description": "Autocompletion prefix of enum members for Objective-C",
+        "screenshot": "https://raw.githubusercontent.com/bugEnding/HHEnumeration-xcode/master/after.gif"
       }
     ],
     "color_schemes": [
