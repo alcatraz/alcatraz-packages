@@ -1047,6 +1047,12 @@
         "url": "https://github.com/bugEnding/HHEnumeration-Xcode",
         "description": "Autocompletion prefix of enum members for Objective-C",
         "screenshot": "https://raw.githubusercontent.com/bugEnding/HHEnumeration-xcode/master/after.gif"
+      },
+      {
+        "name": "Multiplex",
+        "url": "https://github.com/kolinkrewinkel/Multiplex",
+        "description": "Simultaneous editing inspired by Sublime Text, for Xcode.",
+        "screenshot": "https://raw.githubusercontent.com/kolinkrewinkel/Multiplex/develop/Meta/Demo.gif"
       }
     ],
     "color_schemes": [
