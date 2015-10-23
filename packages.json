@@ -1053,11 +1053,12 @@
         "url": "https://github.com/kolinkrewinkel/Multiplex",
         "description": "Simultaneous editing inspired by Sublime Text, for Xcode.",
         "screenshot": "https://raw.githubusercontent.com/kolinkrewinkel/Multiplex/develop/Meta/Demo.gif"
-      }
+      },
       {
         "name": "FRMBreakFast",
         "url": "https://github.com/fzwo/FRMBreakFast",
-        "description": "Makes it obvious whether a breakpoint has actions, and whether it stops or continues execution, and faster creation of logging breakpoints."
+        "description": "Makes it obvious whether a breakpoint has actions, and whether it stops or continues execution, and faster creation of logging breakpoints.",
+        "screenshot": "https://raw.githubusercontent.com/fzwo/FRMBreakFast/master/screenshot.png"
       }
     ],
     "color_schemes": [
