@@ -1054,6 +1054,11 @@
         "description": "Simultaneous editing inspired by Sublime Text, for Xcode.",
         "screenshot": "https://raw.githubusercontent.com/kolinkrewinkel/Multiplex/develop/Meta/Demo.gif"
       }
+      {
+        "name": "FRMBreakFast",
+        "url": "https://github.com/fzwo/FRMBreakFast",
+        "description": "Makes it obvious whether a breakpoint has actions, and whether it stops or continues execution, and faster creation of logging breakpoints."
+      }
     ],
     "color_schemes": [
       {
@@ -1552,11 +1557,6 @@
         "url": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark.dvtcolortheme",
         "description": "A port of the Atom One Dark theme for Xcode.",
         "screenshot": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark%20Screenshot.png"
-      }
-      {
-        "name": "FRMBreakFast",
-        "url": "https://github.com/fzwo/FRMBreakFast",
-        "description": "Makes it obvious whether a breakpoint has actions, and whether it stops or continues execution, and faster creation of logging breakpoints."
       }
     ],
     "project_templates": [
