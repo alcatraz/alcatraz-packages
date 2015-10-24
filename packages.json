@@ -1051,7 +1051,8 @@
       {
         "name": "Multiplex",
         "url": "https://github.com/kolinkrewinkel/Multiplex",
-        "description": "Simultaneous editing inspired by Sublime Text, for Xcode.",
+        "branch": "develop",
+        "description": "Simultaneous editing for Xcode, inspired by Sublime Text.",
         "screenshot": "https://raw.githubusercontent.com/kolinkrewinkel/Multiplex/develop/Meta/Demo.gif"
       },
       {
