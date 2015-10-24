@@ -1620,6 +1620,12 @@
         "description": "Swift file templates with choice of open source license placed in the header"
       },
       {
+        "name": "Tof Templates",
+        "url": "https://github.com/TofPlay/Tof-Templates",
+        "description": "Xcode templates for Swift and Objective-C"
+        "screenshot": "https://raw.githubusercontent.com/TofPlay/Tof-Templates/master/Images/Tof-Templates.png"
+      },
+      {
         "name": "Aerolitec Templates",
         "url": "https://github.com/Aerolitec/aerolitec-templates",
         "description": "File templates for Aerolitec Coding Standard"
