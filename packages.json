@@ -1622,7 +1622,7 @@
       {
         "name": "Tof Templates",
         "url": "https://github.com/TofPlay/Tof-Templates",
-        "description": "Xcode templates for Swift and Objective-C"
+        "description": "Xcode templates for Swift and Objective-C",
         "screenshot": "https://raw.githubusercontent.com/TofPlay/Tof-Templates/master/Images/Tof-Templates.png"
       },
       {
