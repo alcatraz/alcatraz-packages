@@ -206,6 +206,11 @@
         "screenshot": "https://raw.githubusercontent.com/keefo/CATweaker/master/plugin1.png"
       },
       {
+        "name": "CedarShortcuts",
+        "url": "https://github.com/cppforlife/CedarShortcuts",
+        "description": "CedarShortcuts is an Xcode plugin that adds handy shortcuts for Cedar or Quick."
+      },
+      {
         "name": "ChangeMarks",
         "url": "https://github.com/zenangst/ChangeMarks",
         "description": "Change Marks helps you to keep track of your most recent changes by giving them a different background color.",
