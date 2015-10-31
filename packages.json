@@ -580,6 +580,12 @@
         "screenshot": "https://github.com/shjborage/Reveal-Plugin-for-XCode/raw/master/Product-InspectWithReveal.png"
       },
       {
+        "name": "Reveal-In-Github",
+        "url": "https://github.com/lzwjava/Reveal-In-Github",
+        "description": "Let you jump to Github History, Blame, PRs, Issues, Notifications of current repo in one second.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/5022872/10864851/a9124530-8035-11e5-8d67-ea73c9156d71.png"
+      },
+      {
         "name": "RRConstraintsPlugin",
         "url": "https://github.com/RolandasRazma/RRConstraintsPlugin",
         "description": "RRConstraintsPlugin is plugin for Xcode 5.1+ to improves workflow for constraints based layout by adding new features to Xcode Interface Builder.",
