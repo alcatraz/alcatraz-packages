@@ -258,6 +258,12 @@
         "screenshot": "https://raw.githubusercontent.com/NorthernRealities/ColorSenseRainbow/master/CSR_Demo.png"
       },
       {
+        "name": "CrashSymbal",
+        "url": "https://github.com/julian-weinert/CrashSymbal",
+        "description": "CrashSymbal is a Xcode plugin that brings manual crash symbolication back to Xcode! Simply select a crash report, that you might have received via mail or so, in the file system and withing seconds you'r provided with a symbolicated version.",
+        "screenshot": "https://raw.githubusercontent.com/julian-weinert/CrashSymbal/master/Screenshots/CrashSymbal.png"
+      },
+      {
         "name": "DANOpenInMacVim",
         "url": "https://github.com/DanielTomlinson/DANOpenInMacVim",
         "description": "Opens the current file in MacVim.",
