@@ -1,6 +1,12 @@
 {
   "packages": {
     "plugins": [
+      {
+      "name": "FixCode",
+      "url": "https://github.com/fastlane/FixCode",
+      "description": "Fixing the 'Fix Issues' button.",
+      "screenshot": "https://raw.githubusercontent.com/fastlane/FixCode/master/FixIssueButton.jpg"
+      },
         {
       "name": "Xcode Multi Edit",
       "url": "https://github.com/timwredwards/Xcode-Multi-Edit-Plugin",
