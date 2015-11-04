@@ -1770,6 +1770,11 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "IBUnfuck",
+        "url": "https://github.com/Reflejo/IBUnfuck",
+        "description": "Prevents Interface Builder to store half pixels on XIBs and Storyboards"
       }
     ]
   }
