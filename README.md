@@ -1,7 +1,7 @@
 alcatraz-packages
 =================
 [![Build Status](https://travis-ci.org/supermarin/alcatraz-packages.svg?branch=master)](https://travis-ci.org/supermarin/alcatraz-packages)
-Package list repository for [Alcatraz](https://github.com/mneorr/Alcatraz), the Xcode Package Manager.
+Package list repository for [Alcatraz](https://github.com/alcatraz/Alcatraz), the Xcode Package Manager.
 
 To contribute your own package, fork this project and edit packages.json to include your submission in the correct section (plugins, color schemes, or templates), and submit a pull request.
 
