@@ -28,7 +28,7 @@
       {
         "name": "LigatureXcodePlugin",
         "url": "https://github.com/robertvojta/LigatureXcodePlugin",
-        "description": "Enable default or all ligatures.",
+        "description": "Enable default or all ligatures. IMPORTANT - Default Xcode font (Menlo) doesn't support ligatures. You have to download and install font with ligatures support like PragmataPro, Hasklig, ...",
         "screenshot": "https://cloud.githubusercontent.com/assets/1084172/9930947/961becfe-5d37-11e5-8261-3fa90cb0851f.png"
       },
       {
