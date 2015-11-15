@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+      "name": "Luft",
+      "url": "https://github.com/k0nserv/luft",
+      "description": "Helps you write lighter view controllers by warning you when they get long",
+      "screenshot": "https://raw.githubusercontent.com/k0nserv/luft/master/Screenshots/screenshot.png"
+      },
+      {
       "name": "FixCode",
       "url": "https://github.com/fastlane/FixCode",
       "description": "Fixing the 'Fix Issues' button.",
