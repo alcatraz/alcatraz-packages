@@ -1792,6 +1792,12 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "xTransCodelation",
+        "url": "https://github.com/804145113/xTransCodelation",
+        "description": "XCODE in English translation, the use of the word SDK translation and Baidu web translation.",
+        "screenshot": "http://chuantu.biz/t2/19/1447661089x1822611363.png"
       }
     ]
   }
