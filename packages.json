@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "Swimat",
+        "url": "https://github.com/Jintin/Swimat",
+        "description": "Swimat code formatter.",
+        "screenshot": "https://raw.githubusercontent.com/Jintin/Swimat/master/README/preview.gif"
+      },
+      {
         "name": "xTransCodelation",
         "url": "https://github.com/804145113/xTransCodelation",
         "description": "XCODE in English translation, the use of the word SDK translation and Baidu web translation.",
