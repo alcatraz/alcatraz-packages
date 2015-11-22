@@ -1613,6 +1613,12 @@
     ],
     "project_templates": [
       {
+        "name": "Swift Command Line Application",
+        "url": "https://github.com/Zewo/Swift-Command-Line-Application-Template",
+        "description": "Swift Command Line Application that supports Swift Frameworks",
+        "screenshot": "https://raw.githubusercontent.com/Zewo/Swift-Command-Line-Application-Template/master/Screenshot1.png"
+      },
+      {
         "name": "21st digital Templates",
         "url": "https://github.com/21stdigital/Xcode-Templates",
         "description": "A starting point for stripped down, structured and nib-less iOS applications including support for CocoaPods and Uncrustify."
