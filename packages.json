@@ -1116,7 +1116,13 @@
         "url": "https://github.com/LevinYan/EditLocationNavigatorXCodePlugin",
         "description": "A simple plugin to go back or forward to all the historical edited location easily",
         "screenshot": "https://raw.github.com/LevinYan/EditLocationNavigatorXCodePlugin/master/demo.gif"
-	    }
+      },
+      {
+        "name": "XcodeCanvasColor",
+        "url": "https://github.com/rpendleton/xcode-canvas-color",
+        "description": "A simple Xcode IDE Plugin that changes the background color of the storyboard editor.",
+        "screenshot": "https://raw.githubusercontent.com/rpendleton/xcode-canvas-color/gh-pages/screenshot-small.png"
+      }
     ],
     "color_schemes": [
       {
