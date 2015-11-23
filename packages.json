@@ -403,6 +403,12 @@
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
       },
       {
+        "name": "IpaExporter",
+        "url": "https://github.com/poboke/IpaExporter",
+        "description": "The plugin can export the IPA file from the archive in the Orgnaizer window.",
+        "screenshot": "https://github.com/poboke/IpaExporter/raw/master/Screenshots/about.png"
+      },
+      {
         "name": "JDPluginManager",
         "url": "https://github.com/jaydee3/JDPluginManager",
         "description": "This plugin makes it easy to install, update and remove them. It adds a new MenuItem Plugins in the Menu Bar of Xcode.",
