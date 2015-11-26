@@ -469,6 +469,11 @@
         "screenshot": "https://raw.githubusercontent.com/julian-weinert/LinkedLog/master/Screenshots/LinkedLog.png"
       },
       {
+        "name": "LLDB, Is It Not?",
+        "url": "https://github.com/alloy/LLDB-Is-It-Not",
+        "description": "This Xcode plugin will look in the project root (where you keep your `xcworkspace` or `xcodeproj`) for a `.lldbinit` file and load it."
+      },
+      {
         "name": "Lokaligo",
         "url": "https://github.com/lokaligo/lokaligo-xcode-plugin",
         "description": "Automatically import & export strings, translated via lokaligo.com. To use, select `Edit > Lokaligo import/export` in the menu."
