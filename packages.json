@@ -121,6 +121,11 @@
         "screenshot": "https://github.com/acoomans/ACCodeSnippetRepositoryPlugin/raw/master/Screenshots/screenshot02.png"
       },
       {
+        "name": "ActivatePowerMode",
+        "url": "https://github.com/poboke/ActivatePowerMode",
+        "description": "ActivatePowerMode is a plugin for Xcode. This plugin will make your code powerful.",
+      },
+      {
         "name": "AdjustFontSize",
         "url": "https://github.com/zats/AdjustFontSize-Xcode-Plugin",
         "description": "Adjust font size with ⌘ + / ⌘ -",
