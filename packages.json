@@ -123,7 +123,8 @@
       {
         "name": "ActivatePowerMode",
         "url": "https://github.com/poboke/ActivatePowerMode",
-        "description": "ActivatePowerMode is a plugin for Xcode. This plugin will make your code powerful."
+        "description": "ActivatePowerMode is a plugin for Xcode. This plugin will make your code powerful.",
+        "screenshot": "https://github.com/poboke/ActivatePowerMode/raw/master/Screenshots/about.gif"
       },
       {
         "name": "AdjustFontSize",
