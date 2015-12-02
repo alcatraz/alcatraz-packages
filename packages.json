@@ -123,7 +123,7 @@
       {
         "name": "ActivatePowerMode",
         "url": "https://github.com/poboke/ActivatePowerMode",
-        "description": "ActivatePowerMode is a plugin for Xcode. This plugin will make your code powerful.",
+        "description": "ActivatePowerMode is a plugin for Xcode. This plugin will make your code powerful."
       },
       {
         "name": "AdjustFontSize",
@@ -777,6 +777,12 @@
         "url": "https://github.com/qfish/XAlign",
         "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
         "screenshot": "https://raw.github.com/qfish/XAlign/gh-pages/images/equal.gif"
+      },
+      {
+        "name": "XActivatePowerMode",
+        "url": "https://github.com/qfish/XActivatePowerMode",
+        "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode.",
+        "screenshot": "https://camo.githubusercontent.com/a25916ccc96abf4f949ae55a3fc8b0108ac578a8/687474703a2f2f3764396f30782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f584163746976617465506f7765724d6f6465707265766965772e676966"
       },
       {
         "name": "XcAddedMarkup",
