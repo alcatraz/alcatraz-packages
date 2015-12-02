@@ -1655,6 +1655,12 @@
         "url": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark.dvtcolortheme",
         "description": "A port of the Atom One Dark theme for Xcode.",
         "screenshot": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark%20Screenshot.png"
+      },
+      {
+        "name": "veslam",
+        "url": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam.dvtcolortheme",
+        "description": "Code with vivid colors, with enthusiasm.",
+        "screenshot": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam-screenshot.png"
       }
     ],
     "project_templates": [
