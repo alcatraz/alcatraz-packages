@@ -1163,6 +1163,12 @@
         "url": "https://github.com/Sephiroth87/Crayons",
         "description": "An Xcode plugin to improve dealing with colors in your project, share palettes of colors from code to IB and more",
         "screenshot": "https://raw.githubusercontent.com/Sephiroth87/Crayons/master/Images/CodePalettes.png"
+      },
+      {
+        "name": "MMNavigatorFont",
+        "url": "https://github.com/adad184/MMNavigatorFont",
+        "description": "Change the font of XCode Navigator Area. For someone who like everything in monospace.",
+        "screenshot": "https://github.com/adad184/MMNavigatorFont/raw/6c8ef968b93bb05edcaeac4d286dfad95850e6f0/demo.gif"
       }
     ],
     "color_schemes": [
