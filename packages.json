@@ -1863,6 +1863,11 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "MMNavigatorFont",
+        "url": "https://github.com/adad184/MMNavigatorFont",
+        "description": "Change the font of XCode Navigator Area. For someone who like everything in monospace."
       }
     ]
   }
