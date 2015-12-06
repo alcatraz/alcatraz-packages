@@ -974,6 +974,12 @@
         "screenshot": "https://raw.githubusercontent.com/boyXiong/raw/master/picture/howToUse.png"
       },
       {
+        "name": "XWHighPlugin",
+        "url": "https://github.com/boyXiong/XWHighPlugin",
+        "description": "Xcode plugin add cool effects to Xcode.",
+        "screenshot": "https://raw.githubusercontent.com/boyXiong/raw/master/picture/XWHighPlugin/HightPlugin.gif"
+      },
+      {
         "name": "VariablesViewFullCopy",
         "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
         "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
