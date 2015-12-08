@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "KZLinkedConsole",
+        "url": "https://github.com/krzysztofzablocki/KZLinkedConsole",
+        "description": "Convert console logs containing fileName.extension:XX into clickable links, so you never have to wonder which class logged that message.",
+        "screenshot": "https://raw.githubusercontent.com/krzysztofzablocki/KZLinkedConsole/master/logs.gif"
+      },
+      {
         "name": "PreciseCoverage",
         "url": "https://github.com/zats/PreciseCoverage",
         "description": "Make Xcode code coverage more informative.",
