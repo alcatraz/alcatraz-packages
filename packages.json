@@ -404,6 +404,12 @@
         "screenshot": "https://github.com/hanton/CopyIssue-Xcode-Plugin/blob/master/ScreenShot.png"
       },
       {
+        "name": "IndentComments",
+        "url": "https://github.com/poboke/IndentComments",
+        "description": "This plugin will let your comments indent.",
+        "screenshot": "https://github.com/poboke/IndentComments/raw/master/Screenshots/about.png"
+      },
+      {
         "name": "InjectionPlugin",
         "url": "https://github.com/johnno1962/injectionforxcode",
         "description": "Inject code changes directly into your running application.",
