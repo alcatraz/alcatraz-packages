@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "KZLinkedConsole",
+        "url": "https://github.com/krzysztofzablocki/KZLinkedConsole",
+        "description": "Convert console logs containing fileName.extension:XX into clickable links, so you never have to wonder which class logged that message.",
+        "screenshot": "https://raw.githubusercontent.com/krzysztofzablocki/KZLinkedConsole/master/logs.gif"
+      },
+      {
         "name": "PreciseCoverage",
         "url": "https://github.com/zats/PreciseCoverage",
         "description": "Make Xcode code coverage more informative.",
@@ -1080,6 +1086,12 @@
         "screenshot": "https://raw.githubusercontent.com/boyXiong/raw/master/picture/howToUse.png"
       },
       {
+        "name": "XWHighPlugin",
+        "url": "https://github.com/boyXiong/XWHighPlugin",
+        "description": "Xcode plugin add cool effects to Xcode.",
+        "screenshot": "https://raw.githubusercontent.com/boyXiong/raw/master/picture/XWHighPlugin/HightPlugin.gif"
+      },
+      {
         "name": "VariablesViewFullCopy",
         "url": "https://github.com/Sephiroth87/VariablesViewFullCopy-Xcode",
         "description": "An Xcode plugin to copy the full tree description of an object from the Variables View",
@@ -1163,6 +1175,12 @@
         "url": "https://github.com/Sephiroth87/Crayons",
         "description": "An Xcode plugin to improve dealing with colors in your project, share palettes of colors from code to IB and more",
         "screenshot": "https://raw.githubusercontent.com/Sephiroth87/Crayons/master/Images/CodePalettes.png"
+      },
+      {
+        "name": "MMNavigatorFont",
+        "url": "https://github.com/adad184/MMNavigatorFont",
+        "description": "Change the font of XCode Navigator Area. For someone who like everything in monospace.",
+        "screenshot": "https://github.com/adad184/MMNavigatorFont/raw/6c8ef968b93bb05edcaeac4d286dfad95850e6f0/demo.gif"
       }
     ],
     "color_schemes": [
@@ -1310,6 +1328,12 @@
         "screenshot": "https://raw.githubusercontent.com/sacred0x01/xcode-theme-Darcula/master/shot.png"
       },
       {
+        "name": "Dark Flatten Theme",
+        "url": "https://raw.github.com/lkmfz/xcode-flatten-themes/master/FlattenDark.dvtcolortheme",
+        "description": "Dark theme based on flat colors",
+        "screenshot": "http://raw.github.com/lkmfz/xcode-flatten-themes/master/flatten-dark.png"
+      },
+      {
         "name": "DAS Theme",
         "url": "https://raw.github.com/mps/XcodeThemes/master/DAS.dvtcolortheme",
         "description": "this is a theme based on Gary Bernhardt's terminal used in Destory All Software Screencasts.",
@@ -1386,6 +1410,12 @@
         "url": "https://github.com/fortinmike/irradiated-xcode-theme/raw/master/Irradiated.dvtcolortheme",
         "description": "A dark, beautifully coloured theme for Xcode.",
         "screenshot": "https://github.com/fortinmike/irradiated-xcode-theme/raw/master/preview.png"
+      },
+      {
+       "name": "Light Flatten Theme",
+       "url": "https://raw.github.com/lkmfz/xcode-flatten-themes/master/FlattenLight.dvtcolortheme",
+       "description": "Light theme based on flat colors",
+       "screenshot": "http://raw.github.com/lkmfz/xcode-flatten-themes/master/flatten-light.png"
       },
       {
         "name": "Monokai",
