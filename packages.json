@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "DVTPlugInCompatibilityUUIDifier",
+        "url": "https://github.com/mralexgray/DVTPlugInCompatibilityUUIDifier",
+        "description": "Permanent, automatic, and hassle-free Xcode/Alcatraz \"compatibility\" upgrades",
+        "screenshot": "https://github.com/mralexgray/DVTPlugInCompatibilityUUIDifier/raw/master/Screenshots/alcatraz.art.png"
+      },
+      {
         "name": "KZLinkedConsole",
         "url": "https://github.com/krzysztofzablocki/KZLinkedConsole",
         "description": "Convert console logs containing fileName.extension:XX into clickable links, so you never have to wonder which class logged that message.",
