@@ -1205,6 +1205,12 @@
         "url": "https://github.com/adad184/MMNavigatorFont",
         "description": "Change the font of XCode Navigator Area. For someone who like everything in monospace.",
         "screenshot": "https://github.com/adad184/MMNavigatorFont/raw/6c8ef968b93bb05edcaeac4d286dfad95850e6f0/demo.gif"
+      },
+      {
+        "name": "BodyBuilder",
+        "url": "https://github.com/materik/bodybuilder",
+        "description": "Creates initial versions of method bodies",
+        "screenshot": "https://raw.githubusercontent.com/materik/bodybuilder/master/screenshot.gif"
       }
     ],
     "color_schemes": [
