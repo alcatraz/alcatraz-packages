@@ -1166,6 +1166,12 @@
         "description": "Prevents Interface Builder to store half pixels on XIBs and Storyboards"
       },
       {
+        "name": "EditLocationNavigatorXCodePlugin",
+        "url": "https://github.com/LevinYan/EditLocationNavigatorXCodePlugin",
+        "description": "A simple plugin to go back or forward to all the historical edited location easily",
+        "screenshot": "https://raw.github.com/LevinYan/EditLocationNavigatorXCodePlugin/master/demo.gif"
+	},
+      {
         "name": "ExtraBuildPhase",
         "url": "https://github.com/norio-nomura/ExtraBuildPhase",
         "description": "Runs SwiftLint on every build without adding Run Script to projects"
