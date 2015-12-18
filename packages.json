@@ -2,7 +2,7 @@
   "packages": {
     "plugins": [
       {
-        "name": "@AutoCompletion",
+        "name": "AtAutoCompletion",
         "url": "https://github.com/wzqcongcong/AtAutoCompletion",
         "description": "Enable [@ auto completion] in Xcode 6 & 7 (Xcode 5 already has this feature)",
         "screenshot": "https://raw.githubusercontent.com/wzqcongcong/AtAutoCompletion/master/screenshot/screenshot.png"
