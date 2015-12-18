@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "AtAutoCompletion",
+        "url": "https://github.com/wzqcongcong/AtAutoCompletion",
+        "description": "Enable [@ auto completion] in Xcode 6 & 7 (Xcode 5 already has this feature)",
+        "screenshot": "https://raw.githubusercontent.com/wzqcongcong/AtAutoCompletion/master/screenshot/screenshot.png"
+      },
+      {
         "name": "DVTPlugInCompatibilityUUIDifier",
         "url": "https://github.com/mralexgray/DVTPlugInCompatibilityUUIDifier",
         "description": "Permanent, automatic, and hassle-free Xcode/Alcatraz \"compatibility\" upgrades",
