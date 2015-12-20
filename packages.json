@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "Xmas",
+        "url": "https://github.com/onmyway133/Xmas",
+        "description": "It's beginning to look a lot like Christmas",
+        "screenshot": "https://github.com/onmyway133/Xmas/raw/master/Screenshots/xmas.png"
+      },
+      {
         "name": "AtAutoCompletion",
         "url": "https://github.com/wzqcongcong/AtAutoCompletion",
         "description": "Enable [@ auto completion] in Xcode 6 & 7 (Xcode 5 already has this feature)",
