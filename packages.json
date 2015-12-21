@@ -1223,6 +1223,12 @@
         "url": "https://github.com/materik/bodybuilder",
         "description": "Creates initial versions of method bodies",
         "screenshot": "https://raw.githubusercontent.com/materik/bodybuilder/master/screenshot.gif"
+      },
+      {
+        "name": "LSLog-XCode",
+        "url": "https://github.com/tinymind/LSLog-XCode",
+        "description": "An XCode plugin to filter and colorize the XCode debugging console.",
+        "screenshot": "https://github.com/tinymind/LSLog-XCode/raw/master/LSLog-XCode.gif"
       }
     ],
     "color_schemes": [
