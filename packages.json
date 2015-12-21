@@ -8,6 +8,12 @@
         "screenshot": "https://github.com/onmyway133/Xmas/raw/master/Screenshots/xmas.png"
       },
       {
+        "name": "Time1970Convertor",
+        "url": "https://github.com/gshe/Time1970Convertor",
+        "description": "Convert time between millisecond from 1970-01-01 00-00-00 and standard time format. Please restart Xcode after installing!",
+        "screenshot": "https://github.com/gshe/Time1970Convertor/blob/master/Screenshots/Screenshot2.png"
+      },
+      {
         "name": "AtAutoCompletion",
         "url": "https://github.com/wzqcongcong/AtAutoCompletion",
         "description": "Enable [@ auto completion] in Xcode 6 & 7 (Xcode 5 already has this feature)",
@@ -1929,12 +1935,6 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
-      },
-      {
-        "name": "Time1970Convertor",
-        "url": "https://github.com/gshe/Time1970Convertor",
-        "description": "Convert time between millisecond from 1970-01-01 00-00-00 and standard time format. Please restart Xcode after installing!",
-        "screenshot": "https://github.com/gshe/Time1970Convertor/blob/master/Screenshots/Screenshot2.png"
       }
     ]
   }
