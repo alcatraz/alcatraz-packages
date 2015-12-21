@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "SwiftJsonToObj",
+        "url": "https://github.com/aotian16/SwiftJsonToObj",
+        "description": "json to object plugin",
+        "https://github.com/aotian16/SwiftJsonToObj/raw/master/screenshot/SwiftJsonToObj.png"
+      },
+      {
         "name": "Xmas",
         "url": "https://github.com/onmyway133/Xmas",
         "description": "It's beginning to look a lot like Christmas",
