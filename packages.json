@@ -394,6 +394,12 @@
         "screenshot": "http://injectionforxcode.johnholdsworth.com/gitdiff.png"
       },
       {
+        "name": "Swift Refactorator",
+        "url": "https://github.com/johnno1962/Refactorator",
+        "description": "Refactor names of functions, vars, methods enums etc. inside Xcode Editor.",
+        "screenshot": "http://injectionforxcode.johnholdsworth.com/refactorator.png"
+      },
+      {
         "name": "GoToJiraIssue",
         "url": "https://github.com/MarshalGeazipp/GoToJiraIssue",
         "description": "A nice little Xcode plugin that opens the 1&1 JIRA issue website if click on an issue reference like 'MAMIOS-123' in the git history."
