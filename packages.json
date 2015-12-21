@@ -831,7 +831,7 @@
         "name": "XActivatePowerMode",
         "url": "https://github.com/qfish/XActivatePowerMode",
         "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode.",
-        "screenshot": "https://camo.githubusercontent.com/a25916ccc96abf4f949ae55a3fc8b0108ac578a8/687474703a2f2f3764396f30782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f584163746976617465506f7765724d6f6465707265766965772e676966"
+        "screenshot": "http://7d9o0x.com1.z0.glb.clouddn.com/XActivatePowerModepreview.gif"
       },
       {
         "name": "XcAddedMarkup",
@@ -1195,12 +1195,6 @@
         "url": "https://github.com/Reflejo/IBUnfuck",
         "description": "Prevents Interface Builder to store half pixels on XIBs and Storyboards"
       },
-      {
-        "name": "EditLocationNavigatorXCodePlugin",
-        "url": "https://github.com/LevinYan/EditLocationNavigatorXCodePlugin",
-        "description": "A simple plugin to go back or forward to all the historical edited location easily",
-        "screenshot": "https://raw.github.com/LevinYan/EditLocationNavigatorXCodePlugin/master/demo.gif"
-	},
       {
         "name": "ExtraBuildPhase",
         "url": "https://github.com/norio-nomura/ExtraBuildPhase",
