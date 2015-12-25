@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "XYZHappyCoding",
+        "url": "https://github.com/nvkiet/XYZHappyCoding",
+         "description": "Every time a build succeeds, a happy face comes.",
+         "screenshot": "https://github.com/nvkiet/XYZHappyCoding/blob/master/Resources/example.png"
+      },
+      {
         "name": "SwiftJsonToObj",
         "url": "https://github.com/aotian16/SwiftJsonToObj",
         "description": "json to object plugin",
