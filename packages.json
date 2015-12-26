@@ -5,7 +5,7 @@
         "name": "XYZHappyCoding",
         "url": "https://github.com/nvkiet/XYZHappyCoding",
          "description": "Every time a build succeeds, a happy face comes.",
-         "screenshot": "https://github.com/nvkiet/XYZHappyCoding/blob/master/Resources/example.png"
+         "screenshot": "https://raw.githubusercontent.com/nvkiet/XYZHappyCoding/master/Resources/example.png"
       },
       {
         "name": "SwiftJsonToObj",
