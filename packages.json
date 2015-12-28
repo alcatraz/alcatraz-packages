@@ -769,8 +769,8 @@
         "screenshot": "https://raw.githubusercontent.com/jwaitzel/SuggestedColors/master/SuggestedColors.png"
       },
       {
-        "name": "Swifactor",
-        "url": "https://github.com/johnno1962/Swifactor",
+        "name": "Swift Refactorator",
+        "url": "https://github.com/johnno1962/Refactorator",
         "description": "Refactor names of functions, vars, methods enums etc. inside Xcode Editor.",
         "screenshot": "http://injectionforxcode.johnholdsworth.com/refactorator.png"
       },
