@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "VWInstantRun",
+        "url": "https://github.com/wangshengjia/VWInstantRun",
+         "description": "This plugin let you build & run your selected lines of code in Xcode without run the whole project, you'll have the output instantly in your Xcode console.",
+         "screenshot": "https://raw.githubusercontent.com/wangshengjia/VWInstantRun/master/run_swift_code_1.gif"
+      },
+      {
         "name": "XYZHappyCoding",
         "url": "https://github.com/nvkiet/XYZHappyCoding",
          "description": "Every time a build succeeds, a happy face comes.",
