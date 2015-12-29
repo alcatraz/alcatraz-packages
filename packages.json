@@ -1247,7 +1247,14 @@
         "url": "https://github.com/tinymind/LSLog-XCode",
         "description": "An XCode plugin to filter and colorize the XCode debugging console.",
         "screenshot": "https://github.com/tinymind/LSLog-XCode/raw/master/LSLog-XCode.gif"
+      },
+      {
+        "name": "TTPasteHistory",
+        "url": "https://github.com/tutumagi/TTPasteHistory",
+        "description": "Recording you copy-and-paste history easier to write the code",
+        "screenshot": "https://raw.githubusercontent.com/tutumagi/TTPasteHistory/master/Screenshot/screenshot.png"
       }
+
     ],
     "color_schemes": [
       {
@@ -1959,14 +1966,7 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
-      },
-      {
-        "name": "TTPasteHistory",
-        "url": "https://github.com/tutumagi/TTPasteHistory",
-        "description": "Recording you copy-and-paste history easier to write the code",
-        "screenshot": "https://raw.githubusercontent.com/tutumagi/TTPasteHistory/master/Screenshot/screenshot.png"
       }
-
     ]
   }
 }
