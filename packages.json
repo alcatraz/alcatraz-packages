@@ -1259,6 +1259,12 @@
         "url": "https://github.com/tutumagi/TTPasteHistory",
         "description": "Recording you copy-and-paste history easier to write the code",
         "screenshot": "https://raw.githubusercontent.com/tutumagi/TTPasteHistory/master/Screenshot/screenshot.png"
+      },
+      {
+        "name": "DefaultMarginDisabler",
+        "url": "https://github.com/mshibanami/DefaultMarginDisabler",
+        "description": " Xcode Plugin sets a default value of 'Constrain to margins' to disabled.",
+        "screenshot": "https://raw.githubusercontent.com/mshibanami/DefaultMarginDisabler/master/screenshot.png"
       }
 
     ],
