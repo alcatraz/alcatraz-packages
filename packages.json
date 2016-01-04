@@ -1,6 +1,12 @@
 {
   "packages": {
     "plugins": [
+	{
+        "name": "ExtComments",
+        "url": "https://github.com/WolfgangDomroese/ExtComments",
+         "description": "Ext(ract) Comments and Documentation including source code from your project. View or save to file.",
+         "screenshot": "http://www.domroese.berlin/images/SetupDialog.png"
+	},
       {
         "name": "VWInstantRun",
         "url": "https://github.com/wangshengjia/VWInstantRun",
