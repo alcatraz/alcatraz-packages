@@ -1978,6 +1978,12 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "QuickShowInFinder",
+        "url": "https://github.com/lhhuai/QuickShowInFinder",
+        "description": "A Xcode Plugin to quick show in finder with using shortcut key（alt+f）.",
+        "screenshot": "https://github.com/lhhuai/QuickShowInFinder/tree/master/QuickShowInFinder/Resource/quickshowinfinder.png"
       }
     ]
   }
