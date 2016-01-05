@@ -1265,6 +1265,12 @@
         "url": "https://github.com/mshibanami/DefaultMarginDisabler",
         "description": " Xcode Plugin sets a default value of 'Constrain to margins' to disabled.",
         "screenshot": "https://raw.githubusercontent.com/mshibanami/DefaultMarginDisabler/master/screenshot.png"
+      },
+      {
+        "name": "QuickShowInFinder",
+        "url": "https://github.com/lhhuai/QuickShowInFinder",
+        "description": "A Xcode Plugin to quick show in finder with using shortcut key（alt+f）.",
+        "screenshot": "https://github.com/lhhuai/QuickShowInFinder/tree/master/QuickShowInFinder/Resource/quickshowinfinder.png"
       }
 
     ],
