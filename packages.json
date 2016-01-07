@@ -1984,6 +1984,12 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "Swift MVVM",
+        "url": "https://github.com/freesuraj/SwiftTemplate",
+        "description": "Generates swift templates using MVVM (model view view model) design pattern",
+        "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
       }
     ]
   }
