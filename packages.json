@@ -563,6 +563,12 @@
         "screenshot": "https://raw.githubusercontent.com/yuhua-chen/MCLog/master/MCLogScreenshot.gif"
       },
       {
+        "name": "Miku",
+        "url": "https://github.com/poboke/Miku",
+        "description": "Miku is a plugin for Xcode. A copy of atom-miku.",
+        "screenshot": "https://github.com/poboke/Miku/raw/master/Screenshots/about.png"
+      },
+      {
         "name": "NJHMultiTheme",
         "url": "https://github.com/nathanhosselton/NJHMultiTheme",
         "description": "Set separate Xcode themes for Swift and Objective-C source files.",
