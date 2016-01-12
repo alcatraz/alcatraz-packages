@@ -1,6 +1,54 @@
 {
   "packages": {
     "plugins": [
+	{
+        "name": "ExtComments",
+        "url": "https://github.com/WolfgangDomroese/ExtComments",
+         "description": "Ext(ract) Comments and Documentation including source code from your project. View or save to file.",
+         "screenshot": "http://www.domroese.berlin/images/SetupDialog.png"
+	},
+      {
+        "name": "VWInstantRun",
+        "url": "https://github.com/wangshengjia/VWInstantRun",
+         "description": "This plugin let you build & run your selected lines of code in Xcode without run the whole project, you'll have the output instantly in your Xcode console.",
+         "screenshot": "https://raw.githubusercontent.com/wangshengjia/VWInstantRun/master/run_swift_code_1.gif"
+      },
+      {
+        "name": "XYZHappyCoding",
+        "url": "https://github.com/nvkiet/XYZHappyCoding",
+         "description": "Every time a build succeeds, a happy face comes.",
+         "screenshot": "https://raw.githubusercontent.com/nvkiet/XYZHappyCoding/master/Resources/example.png"
+      },
+      {
+        "name": "SwiftJsonToObj",
+        "url": "https://github.com/aotian16/SwiftJsonToObj",
+        "description": "json to object plugin",
+        "screenshot": "https://github.com/aotian16/SwiftJsonToObj/raw/master/screenshot/SwiftJsonToObj.png"
+      },
+      {
+        "name": "Xmas",
+        "url": "https://github.com/onmyway133/Xmas",
+        "description": "It's beginning to look a lot like Christmas",
+        "screenshot": "https://github.com/onmyway133/Xmas/raw/master/Screenshots/xmas.png"
+      },
+      {
+        "name": "Time1970Convertor",
+        "url": "https://github.com/gshe/Time1970Convertor",
+        "description": "Convert time between millisecond from 1970-01-01 00-00-00 and standard time format. Please restart Xcode after installing!",
+        "screenshot": "https://github.com/gshe/Time1970Convertor/raw/master/Screenshots/Screenshot2.png"
+      },
+      {
+        "name": "AtAutoCompletion",
+        "url": "https://github.com/wzqcongcong/AtAutoCompletion",
+        "description": "Enable [@ auto completion] in Xcode 6 & 7 (Xcode 5 already has this feature)",
+        "screenshot": "https://raw.githubusercontent.com/wzqcongcong/AtAutoCompletion/master/screenshot/screenshot.png"
+      },
+      {
+        "name": "DVTPlugInCompatibilityUUIDifier",
+        "url": "https://github.com/mralexgray/DVTPlugInCompatibilityUUIDifier",
+        "description": "Permanent, automatic, and hassle-free Xcode/Alcatraz \"compatibility\" upgrades",
+        "screenshot": "https://github.com/mralexgray/DVTPlugInCompatibilityUUIDifier/raw/master/Screenshots/alcatraz.art.png"
+      },
       {
         "name": "KZLinkedConsole",
         "url": "https://github.com/krzysztofzablocki/KZLinkedConsole",
@@ -733,6 +781,12 @@
         "screenshot": "https://raw.githubusercontent.com/jwaitzel/SuggestedColors/master/SuggestedColors.png"
       },
       {
+        "name": "Swift Refactorator",
+        "url": "https://github.com/johnno1962/Refactorator",
+        "description": "Refactor names of functions, vars, methods enums etc. inside Xcode Editor.",
+        "screenshot": "http://injectionforxcode.johnholdsworth.com/refactorator.png"
+      },
+      {
         "name": "SwipeGestureSwitcher",
         "url": "https://github.com/tyeen/SwipeGestureSwitcher",
         "description": "Simply turns the swipe-to-navigate-files gesture on/off in the source editor.",
@@ -795,7 +849,7 @@
         "name": "XActivatePowerMode",
         "url": "https://github.com/qfish/XActivatePowerMode",
         "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode.",
-        "screenshot": "https://camo.githubusercontent.com/a25916ccc96abf4f949ae55a3fc8b0108ac578a8/687474703a2f2f3764396f30782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f584163746976617465506f7765724d6f6465707265766965772e676966"
+        "screenshot": "http://7d9o0x.com1.z0.glb.clouddn.com/XActivatePowerModepreview.gif"
       },
       {
         "name": "XcAddedMarkup",
@@ -1187,7 +1241,38 @@
         "url": "https://github.com/adad184/MMNavigatorFont",
         "description": "Change the font of XCode Navigator Area. For someone who like everything in monospace.",
         "screenshot": "https://github.com/adad184/MMNavigatorFont/raw/6c8ef968b93bb05edcaeac4d286dfad95850e6f0/demo.gif"
+      },
+      {
+        "name": "BodyBuilder",
+        "url": "https://github.com/materik/bodybuilder",
+        "description": "Creates initial versions of method bodies",
+        "screenshot": "https://raw.githubusercontent.com/materik/bodybuilder/master/screenshot.gif"
+      },
+      {
+        "name": "LSLog-XCode",
+        "url": "https://github.com/tinymind/LSLog-XCode",
+        "description": "An XCode plugin to filter and colorize the XCode debugging console.",
+        "screenshot": "https://github.com/tinymind/LSLog-XCode/raw/master/LSLog-XCode.gif"
+      },
+      {
+        "name": "TTPasteHistory",
+        "url": "https://github.com/tutumagi/TTPasteHistory",
+        "description": "Recording you copy-and-paste history easier to write the code",
+        "screenshot": "https://raw.githubusercontent.com/tutumagi/TTPasteHistory/master/Screenshot/screenshot.png"
+      },
+      {
+        "name": "DefaultMarginDisabler",
+        "url": "https://github.com/mshibanami/DefaultMarginDisabler",
+        "description": " Xcode Plugin sets a default value of 'Constrain to margins' to disabled.",
+        "screenshot": "https://raw.githubusercontent.com/mshibanami/DefaultMarginDisabler/master/screenshot.png"
+      },
+      {
+        "name": "QuickShowInFinder",
+        "url": "https://github.com/lhhuai/QuickShowInFinder",
+        "description": "A Xcode Plugin to quick show in finder with using shortcut key（alt+f）.",
+        "screenshot": "https://github.com/lhhuai/QuickShowInFinder/tree/master/QuickShowInFinder/Resource/quickshowinfinder.png"
       }
+
     ],
     "color_schemes": [
       {
@@ -1899,6 +1984,12 @@
         "name": "Mantle",
         "url": "https://github.com/Ashton-W/Mantle-Xcode-Templates",
         "description": "File Templates for Models using the Mantle framework"
+      },
+      {
+        "name": "Swift MVVM",
+        "url": "https://github.com/freesuraj/SwiftTemplate",
+        "description": "Generates swift templates using MVVM (model view view model) design pattern",
+        "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
       }
     ]
   }
