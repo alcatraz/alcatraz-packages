@@ -265,7 +265,7 @@
         "name": "BBUncrustifyPlugin",
         "url": "https://github.com/benoitsan/BBUncrustifyPlugin-Xcode",
         "description": "Xcode plugin to format source code using ClangFormat or Uncrustify.",
-        "screenshot": "http://f.cl.ly/items/1p3U2o1K1v361v0b1o1l/BBUncrustifyPlugin.png"
+        "screenshot": "https://raw.githubusercontent.com/benoitsan/BBUncrustifyPlugin-Xcode/master/images/menu.png"
       },
       {
         "name": "BBUToyUnboxing",
@@ -431,7 +431,7 @@
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
-        "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
+        "screenshot": "https://raw.githubusercontent.com/holtwick/HOStringSense-for-Xcode/master/StringDemoAnimation.gif"
       },
       {
         "name": "HCTAutoFolding",
@@ -449,7 +449,7 @@
         "name": "HTYCopyIssue",
         "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
         "description": "Makes Copy Xcode Issue Description Easily, Support Finding Answers in Google or StackOverflow Directly.",
-        "screenshot": "https://github.com/hanton/CopyIssue-Xcode-Plugin/blob/master/ScreenShot.png"
+        "screenshot": "https://raw.githubusercontent.com/hanton/CopyIssue-Xcode-Plugin/master/screenshots/ScreenShot.png"
       },
       {
         "name": "IndentComments",
@@ -646,7 +646,7 @@
         "name": "PluginConsole",
         "url": "https://github.com/AlexIzh/PluginConsole",
         "description": "Extension for standard Xcode console. Use it for log debug information from your plugin to Xcode console.",
-        "screenshot": "http://f.cl.ly/items/39053K1L311z191G2v1z/Screen%20Shot%202013-05-16%20at%203.06.21.png"
+        "screenshot": "http://cl.ly/image/1D000H1D3t2j/Screen%20Shot%202013-09-24%20at%2023.37.27.png"
       },
       {
         "name": "Polychromatic",
@@ -808,7 +808,7 @@
         "name": "Tuna",
         "url": "https://github.com/dealforest/Tuna",
         "description": "Xcode plugin that provides easy set breakpoint with action.",
-        "screenshot": "https://raw.githubusercontent.com/dealforest/Tuna/master/images/capture.png"
+        "screenshot": "https://raw.githubusercontent.com/dealforest/Tuna/master/images/capture_backtrace.png"
       },
       {
         "name": "URBNLin",
@@ -1061,7 +1061,7 @@
         "name": "ZLGotoSandbox",
         "url": "https://github.com/MakeZL/ZLGotoSandboxPlugin",
         "description": "You can quickly enter the iOS simulator Xcode plugin!",
-        "screenshot": "https://github.com/MakeZL/ZLGotoSandboxPlugin/blob/master/screenshot.png"
+        "screenshot": "https://raw.githubusercontent.com/MakeZL/ZLGotoSandboxPlugin/master/screenshot1.png"
       },
       {
         "name": "ZLCheckFile",
@@ -1124,8 +1124,7 @@
       {
         "name": "XcodeKit",
         "url": "https://github.com/ptfly/XcodeKit",
-        "description": "Adds support for duplicating / removing current lines or selections in Xcode, just as we know it from Eclipse.",
-        "screenshot": "https://raw.githubusercontent.com/bumaociyuan/JSFormatter-Xcode/master/XcodeKit_screenshot.png"
+        "description": "Adds support for duplicating / removing current lines or selections in Xcode, just as we know it from Eclipse."
       },
       {
         "name": "ESJsonFormat",
@@ -1200,7 +1199,7 @@
         "name": "HHEnumeration-Xcode",
         "url": "https://github.com/bugEnding/HHEnumeration-Xcode",
         "description": "Autocompletion prefix of enum members for Objective-C",
-        "screenshot": "https://raw.githubusercontent.com/bugEnding/HHEnumeration-xcode/master/after.gif"
+        "screenshot": "https://raw.githubusercontent.com/bugEnding/HHEnumeration-xcode/master/img/after-new.gif"
       },
       {
         "name": "Multiplex",
@@ -1434,7 +1433,7 @@
         "name": "DAS Theme",
         "url": "https://raw.github.com/mps/XcodeThemes/master/DAS.dvtcolortheme",
         "description": "this is a theme based on Gary Bernhardt's terminal used in Destory All Software Screencasts.",
-        "screenshot": "https://raw.github.com/mps/XcodeThemes/master/screenshots/das_screenshot.png"
+        "screenshot": "https://raw.githubusercontent.com/mps/XcodeThemes/master/screenshots/das-screenshot.png"
       },
       {
         "name": "Dracula",
@@ -1546,8 +1545,7 @@
       {
         "name": "ObsidianCode",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
-        "description": "A theme made by Ben Scheirman.",
-        "screenshot": "https://skitch-img.s3.amazonaws.com/20110220-qhusp5yejyp6t3k9kkajddi14x.jpg"
+        "description": "A theme made by Ben Scheirman."
       },
       {
         "name": "Oceanic Next",
@@ -1751,8 +1749,7 @@
       {
         "name": "Zenburn",
         "url": "https://raw.github.com/an0/Zenburn-for-Xcode/master/Zenburn.dvtcolortheme",
-        "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions.",
-        "screenshot": "https://skitch-img.s3.amazonaws.com/20110923-tudq2cm22x6bmmahqhtuh6f6qq.jpg"
+        "description": "Zenburn is a low-contrast dark color scheme. It’s easy for your eyes and designed to keep you in the zone for long programming sessions."
       },
       {
         "name": "Zenburn by colinta",
@@ -1913,7 +1910,7 @@
         "name": "MMJiOSTemplates",
         "url": "https://github.com/mihaelamj/mmjiostemplates",
         "description": "Universal App iOS templates without Storyboard or XIBs, with Launchscreen in all sizes. For Xcode 6.x.",
-        "screenshot": "http://raw.github.com//mihaelamj/mmjiostemplates/master/Images/Templates.png"
+        "screenshot": "https://raw.githubusercontent.com/mihaelamj/mmjiostemplates/master/Images/Templates.png"
       },
       {
         "name": "NSAtomicStore Template",
