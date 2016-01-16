@@ -1556,6 +1556,12 @@
         "screenshot": "https://raw.githubusercontent.com/dmcrodrigues/Oceanic-Next-Xcode-Theme/master/Screenshots/Objective-C.png"
       },
       {
+        "name": "Ochin",
+        "url": "https://github.com/ebaker355/Ochin-Xcode-Theme/raw/master/Ochin.dvtcolortheme",
+        "description": "A theme for Xcode based on the Ochin theme from Slack.",
+        "screenshot": "https://github.com/ebaker355/Ochin-Xcode-Theme/blob/master/Preview.png"
+      },
+      {
         "name": "Prism",
         "url": "https://raw.github.com/xcorlett/prismtheme-xcode/master/Prism.dvtcolortheme",
         "description": "A theme that attempts to mimic the default color scheme from Lea Verou's excellent Prism.js syntax highlighter. Uses Consolas as the default font.",
