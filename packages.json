@@ -1560,8 +1560,13 @@
         "screenshot": "https://raw.github.com/xcorlett/prismtheme-xcode/master/xcode-prism-screenshot.png"
       },
       {
-        "name": "Push Popcorn",
-        "url": "https://raw.github.com/andreagelati/Push-Popcorn/master/Push%20Popcorn.dvtcolortheme",
+        "name": "Push Popcorn 2014",
+        "url": "https://raw.githubusercontent.com/andreagelati/Push-Popcorn/master/Push%20Popcorn%202014.dvtcolortheme",
+        "description": "A theme made by Andrea Gelati."
+      },
+      {
+        "name": "Push Popcorn 2015",
+        "url": "https://raw.githubusercontent.com/andreagelati/Push-Popcorn/master/Push%20Popcorn%202015.dvtcolortheme",
         "description": "A theme made by Andrea Gelati."
       },
       {
@@ -1817,11 +1822,6 @@
         "description": "http://www.iOSOpenDev.com"
       },
       {
-        "name": "Minimal",
-        "url": "https://github.com/omz/MinimalisticXcodeTemplates",
-        "description": "Minimalistic, nib-less templates for Xcode 4"
-      },
-      {
         "name": "SmartLogic Templates",
         "url": "https://github.com/smartlogic/xcode-templates",
         "description": "A collection of templates used at SmartLogic, including structured project templates and sparse file templates."
@@ -1830,11 +1830,6 @@
         "name": "Typo Templates",
         "url": "https://github.com/TypoNU/XCode-Project-Templates",
         "description": "A collection of templates used by TypoNU, including a fat framework template which will make a fat library framework for distribution"
-      },
-      {
-        "name": "Xcode 4 Plugin",
-        "url": "https://github.com/kattrali/Xcode4-Plugin-Template",
-        "description": "Project Template for creating a plugin for Xcode 4"
       },
       {
         "name": "Xcode Plugin",
