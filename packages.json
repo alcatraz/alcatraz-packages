@@ -1277,8 +1277,13 @@
         "url": "https://github.com/lhhuai/QuickShowInFinder",
         "description": "A Xcode Plugin to quick show in finder with using shortcut key（alt+f）.",
         "screenshot": "https://github.com/lhhuai/QuickShowInFinder/tree/master/QuickShowInFinder/Resource/quickshowinfinder.png"
+      },
+      {
+       "name": "FKConsole",
+       "url": "https://github.com/Forkong/FKConsole",
+       "description": "FKConsole is a plugin for Xcode to adjust console display(about Chinese).",
+       "screenshot": "https://raw.githubusercontent.com/Forkong/FKConsole/master/Screenshots/demo.gif"
       }
-
     ],
     "color_schemes": [
       {
@@ -2002,12 +2007,6 @@
         "url": "https://github.com/freesuraj/SwiftTemplate",
         "description": "Generates swift templates using MVVM (model view view model) design pattern",
         "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
-      },
-      {
-        "name": "FKConsole",
-        "url": "https://github.com/Forkong/FKConsole",
-        "description": "FKConsole is a plugin for Xcode to adjust console display(about Chinese).",
-        "screenshot": "https://raw.githubusercontent.com/Forkong/FKConsole/master/Screenshots/demo.gif"
       }
     ]
   }
