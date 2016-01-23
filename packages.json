@@ -1323,6 +1323,12 @@
         "screenshot": "https://raw.githubusercontent.com/paulpilone/xcode-themes/master/AtomLight.png"
       },
       {
+        "name": "Aytharn",
+        "url": "https://raw.githubusercontent.com/Aytharn/XcodeColourTheme/master/Aytharn.dvtcolortheme",
+        "description": "An eye relaxing theme to ease programming and please the retina",
+        "screenshot": "https://github.com/Aytharn/XcodeColourTheme/blob/master/Swift-Sample.jpg"
+      },
+      {
         "name": "Base16 Ocean",
         "url": "https://raw.githubusercontent.com/eliperkins/base16-Ocean-Xcode-Theme/master/base16-Ocean.dvtcolortheme",
         "description": "A spacegray/base16 Ocean-inspired color scheme for Xcode.",
