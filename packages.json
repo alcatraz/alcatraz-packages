@@ -2005,6 +2005,12 @@
         "url": "https://github.com/freesuraj/SwiftTemplate",
         "description": "Generates swift templates using MVVM (model view view model) design pattern",
         "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
+      },
+      {
+        "name": "DRL-Theme-Manager",
+        "url": "https://github.com/durul/DRL-Theme-Manager.git",
+        "description": "Xcode template to generate swift theme manager.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/1297785/12564269/53fa8a64-c37c-11e5-8a75-49def6d174e8.png"
       }
     ]
   }
