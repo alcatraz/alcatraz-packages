@@ -2005,6 +2005,12 @@
         "url": "https://github.com/freesuraj/SwiftTemplate",
         "description": "Generates swift templates using MVVM (model view view model) design pattern",
         "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
+      },
+      {
+        "name": "Milky Way",
+        "url": "https://raw.githubusercontent.com/mikedcode/Milky-Way-Xcode-Theme/master/Milky%20Way.dvtcolortheme",
+        "description": "Beautiful dark Xcode theme :)",
+        "screenshot": "https://raw.githubusercontent.com/mikedcode/Milky-Way-Xcode-Theme/master/Screenshot/screenshot.png"
       }
     ]
   }
