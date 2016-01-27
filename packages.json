@@ -1,6 +1,12 @@
 {
   "packages": {
     "plugins": [
+    {
+        "name": "StringManage",
+        "url": "https://github.com/Loongwoo/StringManage",
+        "description": "Manage all the strings in localizable.strings, including adding,removing,searching and checking whether it used or not.",
+        "screenshot": "https://github.com/Loongwoo/StringManage/blob/master/screenshots/1.png"
+      },
 	{
         "name": "ExtComments",
         "url": "https://github.com/WolfgangDomroese/ExtComments",
