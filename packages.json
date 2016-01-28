@@ -1905,6 +1905,11 @@
         "description": "XCTestCase template for testing Core Data"
       },
       {
+        "name": "NSOperation Test Case Template",
+        "url": "https://github.com/quellish/NSOperationTestCaseTemplate",
+        "description": "An Xcode template for tests that verify the correct behavior of any NSOperation subclass in Objective-C or Swift."
+      },
+      {
         "name": "Eero Templates",
         "url": "https://github.com/eerolanguage/xcode-templates",
         "description": "Xcode file templates for the Eero Programming Language."
