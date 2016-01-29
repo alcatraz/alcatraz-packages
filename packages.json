@@ -1180,6 +1180,12 @@
         "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
       },
       {
+        "name": "SYXcodeIconVersion",
+        "url": "https://github.com/dvkch/SYXcodeIconVersion",
+        "description": "Tired of this Xcode icon always showing multiple times in your App Switch with no help watshoever as to which version you are currently using? Well, no more!",
+        "screenshot": "https://raw.githubusercontent.com/dvkch/SYXcodeIconVersion/master/image_icon.png"
+      },
+      {
         "name": "XBookmark",
         "url": "https://github.com/everettjf/XBookmark",
         "description": "Bookmark Plugin (Toggle/Next/Prev Bookmark,Show Bookmarks)",
