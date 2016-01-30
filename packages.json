@@ -1294,6 +1294,12 @@
        "url": "https://github.com/Forkong/FKConsole",
        "description": "FKConsole is a plugin for Xcode to adjust console display(about Chinese).",
        "screenshot": "https://raw.githubusercontent.com/Forkong/FKConsole/master/Screenshots/demo.gif"
+      },
+      {
+        "name": "IBOutlint",
+        "url": "https://github.com/marcelofabri/IBOutlint",
+        "description": "Xcode plugin to change the order of the attributes when creating an IBOutlet in Xcode",
+        "screenshot": "https://raw.githubusercontent.com/marcelofabri/IBOutlint/master/IBOutlint.gif"
       }
     ],
     "color_schemes": [
