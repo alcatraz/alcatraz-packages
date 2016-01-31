@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "Phoenix",
+        "url": "https://github.com/Pearapps/InitializeMe",
+        "description": "Turns a selected list of properties into a dependency injected initializer and copies it to your pasteboard. For Objective-C and Swift.",
+        "screenshot": "https://raw.githubusercontent.com/Pearapps/InitializeMe/master/Phoenix/Phoenix.png"
+    },
+    {
         "name": "StringManage",
         "url": "https://github.com/Loongwoo/StringManage",
         "description": "Manage all the strings in localizable.strings, including adding,removing,searching and checking whether it used or not.",
