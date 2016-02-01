@@ -1,6 +1,18 @@
 {
   "packages": {
     "plugins": [
+    {
+        "name": "Phoenix",
+        "url": "https://github.com/Pearapps/InitializeMe",
+        "description": "Turns a selected list of properties into a dependency injected initializer and copies it to your pasteboard. For Objective-C and Swift.",
+        "screenshot": "https://raw.githubusercontent.com/Pearapps/InitializeMe/master/Phoenix/Phoenix.png"
+    },
+    {
+        "name": "StringManage",
+        "url": "https://github.com/Loongwoo/StringManage",
+        "description": "Manage all the strings in localizable.strings, including adding,removing,searching and checking whether it used or not.",
+        "screenshot": "https://raw.githubusercontent.com/Loongwoo/StringManage/master/screenshots/1.png"
+      },
 	{
         "name": "ExtComments",
         "url": "https://github.com/WolfgangDomroese/ExtComments",
@@ -1174,6 +1186,12 @@
         "screenshot": "https://raw.githubusercontent.com/dvkch/SYConfigurableVariable/master/Sample%20screenshot%202.png"
       },
       {
+        "name": "SYXcodeIconVersion",
+        "url": "https://github.com/dvkch/SYXcodeIconVersion",
+        "description": "Tired of this Xcode icon always showing multiple times in your App Switch with no help watshoever as to which version you are currently using? Well, no more!",
+        "screenshot": "https://raw.githubusercontent.com/dvkch/SYXcodeIconVersion/master/image_icon.png"
+      },
+      {
         "name": "XBookmark",
         "url": "https://github.com/everettjf/XBookmark",
         "description": "Bookmark Plugin (Toggle/Next/Prev Bookmark,Show Bookmarks)",
@@ -1282,6 +1300,12 @@
        "url": "https://github.com/Forkong/FKConsole",
        "description": "FKConsole is a plugin for Xcode to adjust console display(about Chinese).",
        "screenshot": "https://raw.githubusercontent.com/Forkong/FKConsole/master/Screenshots/demo.gif"
+      },
+      {
+        "name": "IBOutlint",
+        "url": "https://github.com/marcelofabri/IBOutlint",
+        "description": "Xcode plugin to change the order of the attributes when creating an IBOutlet in Xcode",
+        "screenshot": "https://raw.githubusercontent.com/marcelofabri/IBOutlint/master/IBOutlint.gif"
       }
     ],
     "color_schemes": [
@@ -1897,6 +1921,11 @@
         "name": "Core Data Unit Test Template",
         "url": "https://github.com/quellish/XCTestCoreData",
         "description": "XCTestCase template for testing Core Data"
+      },
+      {
+        "name": "NSOperation Test Case Template",
+        "url": "https://github.com/quellish/NSOperationTestCaseTemplate",
+        "description": "An Xcode template for tests that verify the correct behavior of any NSOperation subclass in Objective-C or Swift."
       },
       {
         "name": "Eero Templates",
