@@ -1306,6 +1306,12 @@
         "url": "https://github.com/marcelofabri/IBOutlint",
         "description": "Xcode plugin to change the order of the attributes when creating an IBOutlet in Xcode",
         "screenshot": "https://raw.githubusercontent.com/marcelofabri/IBOutlint/master/IBOutlint.gif"
+      },
+      {
+       "name": "FKRealGroup",
+       "url": "https://github.com/Forkong/FKRealGroup",
+       "description": "A plugin for Xcode to enhance create and delete groups.",
+       "screenshot": "https://raw.githubusercontent.com/Forkong/FKRealGroup/master/ScreenShots/fkrealgroup_1.jpg"
       }
     ],
     "color_schemes": [
