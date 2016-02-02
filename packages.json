@@ -805,6 +805,11 @@
         "screenshot": "http://injectionforxcode.johnholdsworth.com/refactorator.png"
       },
       {
+        "name": "SwiftyJSON",
+        "url": "https://github.com/SwiftyJSON/SwiftyJSON",
+        "description": "SwiftyJSON makes it easy to deal with JSON data in Swift."
+      },
+      {
         "name": "SwipeGestureSwitcher",
         "url": "https://github.com/tyeen/SwipeGestureSwitcher",
         "description": "Simply turns the swipe-to-navigate-files gesture on/off in the source editor.",
