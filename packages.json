@@ -1786,6 +1786,12 @@
         "screenshot": "https://raw.github.com/ChrisKempson/Tomorrow-Theme/master/Images/Tomorrow-Night-Eighties.png"
       },
       {
+        "name": "Toothpaste",
+        "url": "https://raw.githubusercontent.com/imcatnoone/toothpaste/master/toothpaste.dvtcolortheme",
+        "description": "A custom theme with flavorful colors that pop and are muted where necessary",
+        "screenshot": "https://raw.githubusercontent.com/imcatnoone/toothpaste/master/Screen%20Shot%202016-02-05%20at%2008.33.27.png"
+      },
+      {
         "name": "Toy Chest",
         "url": "https://raw.github.com/JacksonGariety/Toy-Chest-Theme/master/themes/Xcode/Toy%20Chest.dvtcolortheme",
         "description": "Toy Chest is a 'Flat UI'-inspired color scheme that makes coding look as fun as it really is.",
