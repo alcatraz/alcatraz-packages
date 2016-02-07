@@ -2059,6 +2059,12 @@
         "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
       },
       {
+        "name": "ImportSorter",
+        "url": "https://github.com/manji602/ImportSorter",
+        "description": "Sorting import declarations for Xcode",
+        "screenshot": "https://cloud.githubusercontent.com/assets/531477/12872322/e7b4f520-cde3-11e5-8814-8337b7aeb781.png"
+      },
+      {
         "name": "DRL-Theme-Manager",
         "url": "https://github.com/durul/DRL-Theme-Manager.git",
         "description": "Xcode template to generate swift theme manager.",
