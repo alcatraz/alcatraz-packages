@@ -8,6 +8,12 @@
         "screenshot": "https://raw.githubusercontent.com/Pearapps/InitializeMe/master/Phoenix/Phoenix.png"
     },
     {
+        "name": "ImportSorter",
+        "url": "https://github.com/manji602/ImportSorter",
+        "description": "Sorting import declarations for Xcode",
+        "screenshot": "https://cloud.githubusercontent.com/assets/531477/12872322/e7b4f520-cde3-11e5-8814-8337b7aeb781.png"
+    },
+    {
         "name": "ThinStrokes",
         "url": "https://github.com/liscio/ThinStrokes",
         "description": "Use a light-on-dark color scheme in Xcode, and frustrated by Xcode's too-heavy font rendering? Get sharper text using ThinStrokes!",
@@ -2057,12 +2063,6 @@
         "url": "https://github.com/freesuraj/SwiftTemplate",
         "description": "Generates swift templates using MVVM (model view view model) design pattern",
         "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
-      },
-      {
-        "name": "ImportSorter",
-        "url": "https://github.com/manji602/ImportSorter",
-        "description": "Sorting import declarations for Xcode",
-        "screenshot": "https://cloud.githubusercontent.com/assets/531477/12872322/e7b4f520-cde3-11e5-8814-8337b7aeb781.png"
       },
       {
         "name": "DRL-Theme-Manager",
