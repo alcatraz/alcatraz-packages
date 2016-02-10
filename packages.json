@@ -2075,6 +2075,18 @@
         "url": "https://github.com/durul/DRL-Theme-Manager.git",
         "description": "Xcode template to generate swift theme manager.",
         "screenshot": "https://cloud.githubusercontent.com/assets/1297785/12564269/53fa8a64-c37c-11e5-8a75-49def6d174e8.png"
+      },
+      {
+  	"name": "One Dusk Theme",
+  	"url": "https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/One%20Dusk.dvtcolortheme",
+  	"description": "One Dark Theme + Dusk Theme = One Dark Colors with Dusk idea of a distinguished color for custom code.",
+  	"screenshot": "https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/Screenshots/OneDuskCode.png"
+      },
+      {
+  	"name": "One Dusk v2 Theme",
+  	"url": "https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/One%20Dusk%20v2.dvtcolortheme",
+  	"description": "One Dark Theme + Dusk Theme = One Dark Colors with Dusk idea of a distinguished color only for custom code.",
+  	"screenshot": "https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/Screenshots/OneDuskCodeV2.png"
       }
     ]
   }
