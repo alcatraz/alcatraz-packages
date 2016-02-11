@@ -1869,9 +1869,9 @@
         "screenshot": "https://raw.githubusercontent.com/bojan/xcode-one-dark/master/One%20Dark%20Screenshot.png"
       },
       {
-  	"name": "One Dusk Theme",
+  	"name": "One Dusk",
   	"url": "https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/One%20Dusk.dvtcolortheme",
-  	"description": "One Dark Theme + Dusk Theme = One Dark Colors with Dusk idea of a distinguished color for custom code.",
+  	"description": "One Dark Theme + Dusk Theme = One Dark Colors with Dusk idea of separating iOS code from Custom code.",
   	"screenshot": "https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/Screenshots/OneDuskCode.png"
       },
       {
