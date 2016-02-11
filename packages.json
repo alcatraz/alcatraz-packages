@@ -2081,6 +2081,11 @@
         "url": "https://github.com/durul/DRL-Theme-Manager.git",
         "description": "Xcode template to generate swift theme manager.",
         "screenshot": "https://cloud.githubusercontent.com/assets/1297785/12564269/53fa8a64-c37c-11e5-8a75-49def6d174e8.png"
+      },
+      {
+        "name": "YCode-Base-Application",
+        "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
+        "description": "Xcode template to quick start for a commercial development"
       }
     ]
   }
