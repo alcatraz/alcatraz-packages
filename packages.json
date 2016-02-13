@@ -1405,6 +1405,12 @@
         "screenshot": "http://f.cl.ly/items/3L0g3b3a3o420s1k1l31/blues.png"
       },
       {
+        "name": "California",
+        "url": "https://raw.github.com/joltguy/california-xcode/master/California.dvtcolortheme",
+        "description": "A warm and inviting Xcode theme for creating beautiful Swift code.",
+        "screenshot": "https://raw.github.com/joltguy/california-xcode/master/xcode-california.png"
+      },
+      {
         "name": "Chalkboard",
         "url": "https://raw.github.com/alobi/Chalkboard-Xcode-Theme/master/Chalkboard.dvtcolortheme",
         "description": "A darkened version of the default Xcode theme. Very easy on the eyes.",
