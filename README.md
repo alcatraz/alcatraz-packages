@@ -7,6 +7,8 @@ To contribute your own package, fork this project and edit packages.json to incl
 
 Every package requires a `name`, `url`, and `description`, in a format determined by the package type (detailed below). The `screenshot` field is optional, but recommended for any package with a user interface component and should be a direct URL to a single image. 
 
+The JSON file is split up into 4 different parts: `plugins`, `file_templates`,`color_schemes` and `project_templates`. Make sure to add your package to the right category or it won't install.
+
 After making your changes please run `rspec` from the console to check if everything is ok.
 
 ### Plugin Format
