@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "HKSnippet",
+        "url": "https://github.com/hunk3000/HKSnippet",
+        "description": "HKSnippet is a xcode plug-in for typing code snippet with triggers strings. It can minimize input for often used code snippet.",
+        "screenshot": "https://raw.githubusercontent.com/hunk3000/HKSnippet/master/Images/demo.gif"
+    },
+    {
         "name": "Phoenix",
         "url": "https://github.com/Pearapps/InitializeMe",
         "description": "Turns a selected list of properties into a dependency injected initializer and copies it to your pasteboard. For Objective-C and Swift.",
