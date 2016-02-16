@@ -234,6 +234,12 @@
         "screenshot": "http://i.imgur.com/fQmXMvF.gif"
       },
       {
+        "name": "AMAppExportToIPA",
+        "url": "https://github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin",
+        "description": "AMAppExportToIPA-Xcode-Plugin is simple Xcode plugin to export .app to .ipa file.",
+        "screenshot": "https://raw.github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin/master/Screenshots/screenshot.gif"
+      },
+      {
         "name": "AMMethod2Implement",
         "url": "https://github.com/MellongLau/AMMethod2Implement",
         "description": "A simple Xcode plugin to generate implement code for the selected method.",
