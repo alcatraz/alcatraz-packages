@@ -759,6 +759,12 @@
         "screenshot": "https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif"
       },
       {
+        "name": "RTTinyPNGWebAPIPlugin",
+        "url": "https://github.com/rickytan/RTTinyPNGWebAPIPlugin",
+        "description": "A Xcode plugin which calls http://tinypng.com api to minimize image assets",
+        "screenshot": "https://github.com/rickytan/RTTinyPNGWebAPIPlugin/raw/master/ScreenShots/s0.png"
+      },
+      {
         "name": "SCXcodeEditorInset",
         "url": "https://github.com/stefanceriu/SCXcodeEditorInset",
         "description": "Adds an empty (configurable) space to the end of the editor text view",
