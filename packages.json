@@ -5,7 +5,7 @@
         "name": "Fastlane-Plugin",
         "url": "https://github.com/RishabhTayal/Fastlane-Plugin",
         "description": "Fastlane-Plugin is a xcode plugin for easily running Fastlane commands from xcode.",
-        "screenshot": ""
+        "screenshot": "https://raw.githubusercontent.com/RishabhTayal/Fastlane-Plugin/master/screenshot.png"
     },
     {
         "name": "HKSnippet",
