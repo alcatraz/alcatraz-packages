@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "SortXcodeSelection-Plugin",
+        "url": "https://github.com/dayitv89/SortXcodeSelection",
+        "description": "SortXcodeSelection-Plugin is a xcode plugin for sort xcode editor selected area alphabetic.",
+        "screenshot": "https://raw.githubusercontent.com/dayitv89/SortXcodeSelection/master/screenshot.gif"
+    },
+    {
         "name": "Fastlane-Plugin",
         "url": "https://github.com/RishabhTayal/Fastlane-Plugin",
         "description": "Fastlane-Plugin is a xcode plugin for easily running Fastlane commands from xcode.",
