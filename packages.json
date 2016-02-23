@@ -2,6 +2,30 @@
   "packages": {
     "plugins": [
     {
+        "name": "SimulatorBuild",
+        "url": "https://github.com/Minal91/SimulatorBuild",
+        "description": "Create simulator build application for Facebook approval etc.",
+        "screenshot": "https://github.com/Minal91/SimulatorBuild/blob/master/CreateSimulatorBuild.gif"
+    },
+    {
+        "name": "SortXcodeSelection-Plugin",
+        "url": "https://github.com/dayitv89/SortXcodeSelection",
+        "description": "SortXcodeSelection-Plugin is a xcode plugin for sort xcode editor selected area alphabetic.",
+        "screenshot": "https://raw.githubusercontent.com/dayitv89/SortXcodeSelection/master/screenshot.gif"
+    },
+    {
+        "name": "Fastlane-Plugin",
+        "url": "https://github.com/RishabhTayal/Fastlane-Plugin",
+        "description": "Fastlane-Plugin is a xcode plugin for easily running Fastlane commands from xcode.",
+        "screenshot": "https://raw.githubusercontent.com/RishabhTayal/Fastlane-Plugin/master/screenshot.png"
+    },
+    {
+        "name": "HKSnippet",
+        "url": "https://github.com/hunk3000/HKSnippet",
+        "description": "HKSnippet is a xcode plug-in for typing code snippet with triggers strings. It can minimize input for often used code snippet.",
+        "screenshot": "https://raw.githubusercontent.com/hunk3000/HKSnippet/master/Images/demo.gif"
+    },
+    {
         "name": "Phoenix",
         "url": "https://github.com/Pearapps/InitializeMe",
         "description": "Turns a selected list of properties into a dependency injected initializer and copies it to your pasteboard. For Objective-C and Swift.",
@@ -226,6 +250,12 @@
         "url": "https://github.com/Draveness/ATProperty",
         "description": "Convenient and fast approach to create property",
         "screenshot": "http://i.imgur.com/fQmXMvF.gif"
+      },
+      {
+        "name": "AMAppExportToIPA",
+        "url": "https://github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin",
+        "description": "AMAppExportToIPA-Xcode-Plugin is simple Xcode plugin to export .app to .ipa file.",
+        "screenshot": "https://raw.github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin/master/Screenshots/screenshot.gif"
       },
       {
         "name": "AMMethod2Implement",
@@ -751,6 +781,12 @@
         "url": "https://github.com/rickytan/RTImageAssets",
         "description": "A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, or upscale to @3x from @2x",
         "screenshot": "https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif"
+      },
+      {
+        "name": "RTTinyPNGWebAPIPlugin",
+        "url": "https://github.com/rickytan/RTTinyPNGWebAPIPlugin",
+        "description": "A Xcode plugin which calls http://tinypng.com api to minimize image assets",
+        "screenshot": "https://github.com/rickytan/RTTinyPNGWebAPIPlugin/raw/master/ScreenShots/s0.png"
       },
       {
         "name": "SCXcodeEditorInset",
