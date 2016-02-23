@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "SimulatorBuild",
+        "url": "https://github.com/Minal91/SimulatorBuild",
+        "description": "Create simulator build application for Facebook approval etc.",
+        "screenshot": "https://github.com/Minal91/SimulatorBuild/blob/master/CreateSimulatorBuild.gif"
+    },
+    {
         "name": "SortXcodeSelection-Plugin",
         "url": "https://github.com/dayitv89/SortXcodeSelection",
         "description": "SortXcodeSelection-Plugin is a xcode plugin for sort xcode editor selected area alphabetic.",
