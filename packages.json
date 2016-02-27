@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "LogDisabler",
+        "url": "https://github.com/mavris/LogDisabler.git",
+        "description": "Disable/Enable all console log messages",
+        "screenshot": "https://raw.githubusercontent.com/mavris/LogDisabler/master/screenshot1.png"
+    },
+    {
         "name": "SimulatorBuild",
         "url": "https://github.com/Minal91/SimulatorBuild",
         "description": "Create simulator build application for Facebook approval etc.",
