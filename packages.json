@@ -1373,7 +1373,7 @@
        "screenshot": "https://cloud.githubusercontent.com/assets/15303429/12771053/cb4c7582-c9da-11e5-8792-bd1f8810ff03.png"
       },
       {
-        "name": "EDSJSONTODictionary",
+        "name": "EDSJSONToDictionary",
         "url": "https://github.com/EDSIOON/EDSJSONToDictionary",
         "description": "Convert dictionary console output to NSDictionary literal",
         "screenshot": "https://github.com/EDSIOON/EDSJSONToDictionary/blob/master/ScreenShots/EDSJSONToDicitionary.gif"
