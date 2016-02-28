@@ -2134,6 +2134,12 @@
         "name": "YCode-Base-Application",
         "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
         "description": "Xcode template to quick start for a commercial development"
+      },
+      {
+        "name": "EDSJSONTODictionary",
+        "url": "https://github.com/EDSIOON/EDSJSONToDictionary",
+        "description": "Convert dictionary console output to NSDictionary literal",
+        "screenshot": "https://github.com/EDSIOON/EDSJSONToDictionary/blob/master/ScreenShots/EDSJSONToDicitionary.gif"
       }
     ]
   }
