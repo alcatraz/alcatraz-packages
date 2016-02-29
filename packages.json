@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+      "name": "Cichlid",
+      "url": "https://github.com/dealforest/Cichlid",
+      "description": "It will be automatically removed DerivedData when you run the clean",
+      "screenshot": "https://raw.githubusercontent.com/dealforest/Cichlid/master/images/cichlid.png"
+    },
+    {
         "name": "LogDisabler",
         "url": "https://github.com/mavris/LogDisabler.git",
         "description": "Disable/Enable all console log messages",
