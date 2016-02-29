@@ -1660,6 +1660,12 @@
         "url": "https://gist.github.com/coryalder/811771/raw/4ef9e9007f3677df7d9e378c3fe1743c1383c74f/New+Roman+Times.dvtcolortheme",
         "description": "A proportional coding theme. Times New Roman for code, Menlo for comments and the console."
       },
+       {
+        "name": "Nouvelle Dark",
+        "url": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/Nouvelle.Dark.dvtcolortheme",
+        "description": "A dark Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono.",
+        "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/example.png"
+      },
       {
         "name": "ObsidianCode",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
