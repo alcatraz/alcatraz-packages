@@ -1651,7 +1651,7 @@
        {
         "name": "Nouvelle Dark",
         "url": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/Nouvelle.Dark.dvtcolortheme",
-        "description": "A dark Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono."
+        "description": "A dark Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono.",
         "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/example.png"
       },
       {
