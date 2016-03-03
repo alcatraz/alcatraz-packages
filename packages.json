@@ -17,7 +17,7 @@
         "name": "SimulatorBuild",
         "url": "https://github.com/Minal91/SimulatorBuild",
         "description": "Create simulator build application for Facebook approval etc.",
-        "screenshot": "https://github.com/Minal91/SimulatorBuild/blob/master/CreateSimulatorBuild.gif"
+        "screenshot": "https://raw.githubusercontent.com/Minal91/SimulatorBuild/master/CreateSimulatorBuild.gif"
     },
     {
         "name": "SortXcodeSelection-Plugin",
