@@ -850,7 +850,8 @@
       {
         "name": "Snapshots",
         "url": "https://github.com/orta/Snapshots",
-        "description": "An Xcode Plugin to show the state of FBSnapshot Tests."
+        "description": "An Xcode Plugin to show the state of FBSnapshot Tests.",
+        "screenshot": "https://raw.githubusercontent.com/orta/Snapshots/master/web/screenshot.jpg"
       },
       {
         "name": "SuggestedColors",
