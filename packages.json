@@ -586,7 +586,7 @@
         "name": "KSImageNamed",
         "url": "https://github.com/ksuther/KSImageNamed-Xcode",
         "description": "Xcode plug-in that provides autocomplete for imageNamed: calls",
-        "screenshot": "https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.gif"
+        "screenshot": "https://raw.githubusercontent.com/ksuther/KSImageNamed-Xcode/master/screenshot.gif"
       },
       {
         "name": "KSHObjcUML",
