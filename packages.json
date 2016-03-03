@@ -739,7 +739,8 @@
       {
         "name": "QuickLocalization",
         "url": "https://github.com/nanaimostudio/Xcode-Quick-Localization",
-        "description": "Xcode Plugin to Convert @\"content\" to NSLocalizedString(@\"content\", @\"content\")"
+        "description": "Xcode Plugin to Convert @\"content\" to NSLocalizedString(@\"content\", @\"content\")",
+        "screenshot": "https://github.com/nanaimostudio/Xcode-Quick-Localization/blob/master/Xcode_Quick_Localization_Settings.png"
       },
       {
         "name": "RealmPlugin",
