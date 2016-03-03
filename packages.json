@@ -1603,7 +1603,7 @@
       },
       {
         "name": "Irradiated",
-        "url": "https://github.com/fortinmike/irradiated-xcode-theme/raw/master/Irradiated.dvtcolortheme",
+        "url": "https://raw.githubusercontent.com/fortinmike/irradiated-xcode-theme/master/Irradiated.dvtcolortheme",
         "description": "A dark, beautifully coloured theme for Xcode.",
         "screenshot": "https://github.com/fortinmike/irradiated-xcode-theme/raw/master/preview.png"
       },
