@@ -161,7 +161,7 @@
         "name": "Distraction free mode - ZEN",
         "url": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin",
         "description": "Distraction free mode, whenever you want to focus code.",
-        "screenshot": "https://github.com/wczekalski/Distraction-Free-Xcode-plugin/blob/master/ZEN.png"
+        "screenshot": "https://raw.githubusercontent.com/wokalski/Distraction-Free-Xcode-plugin/master/ZEN.png"
       },
       {
         "name": "UnTrashed-Files",
