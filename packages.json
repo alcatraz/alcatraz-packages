@@ -1388,7 +1388,7 @@
         "name": "EDSJSONToDictionary",
         "url": "https://github.com/EDSIOON/EDSJSONToDictionary",
         "description": "Convert dictionary console output to NSDictionary literal",
-        "screenshot": "https://github.com/EDSIOON/EDSJSONToDictionary/blob/master/ScreenShots/EDSJSONToDicitionary.gif"
+        "screenshot": "https://raw.githubusercontent.com/EDSIOON/EDSJSONToDictionary/master/ScreenShots/EDSJSONToDicitionary.gif"
       }
     ],
     "color_schemes": [
