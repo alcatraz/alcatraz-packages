@@ -1655,6 +1655,12 @@
         "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/example.png"
       },
       {
+        "name": "Nouvelle Light",
+        "url": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleLight/master/Nouvelle.Light.dvtcolortheme",
+        "description": "A light Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono.",
+        "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleLight/master/example.png"
+      },
+      {
         "name": "ObsidianCode",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
         "description": "A theme made by Ben Scheirman."
