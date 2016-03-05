@@ -2172,6 +2172,12 @@
         "name": "YCode-Base-Application",
         "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
         "description": "Xcode template to quick start for a commercial development"
+      },
+      {
+        "name": "Rauto",
+        "url": "https://github.com/azurechen/Rauto",
+        "description": "Generate a resource file like the R.java automatically. Make you access colors, images or strings easier with syntax highlighting.",
+        "screenshot": "https://raw.githubusercontent.com/azurechen/Rauto/master/screenshots/sample.png"
       }
     ]
   }
