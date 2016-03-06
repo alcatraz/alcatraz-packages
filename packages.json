@@ -702,6 +702,12 @@
         "description": "Give Xcode's Open Quickly the lost Control-N/P navigation."
       },
       {
+        "name": "OptionalOutlets",
+        "url": "https://github.com/fpg1503/OptionalOutlets",
+        "description": "This Xcode plugin makes @IBOutlets Optional in Xcode.",
+        "screenshot": "https://raw.githubusercontent.com/fpg1503/OptionalOutlets/master/screenshot.png"
+      },
+      {
         "name": "OROpenInAppCode",
         "url": "https://github.com/orta/OROpenInAppCode",
         "description": "Opens the current xcworkspace / xcproject in AppCode.",
