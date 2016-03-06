@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+      "name": "StringsValidator",
+      "url": "https://github.com/wallora/StringsValidator.git",
+      "description": "StringsValidator is a Xcode plugin for easily finding errors in strings files.",
+      "screenshot": "https://raw.githubusercontent.com/wallora/StringsValidator/master/screenshots/screenshot1.png"
+    },
+    {
       "name": "Cichlid",
       "url": "https://github.com/dealforest/Cichlid",
       "description": "It will be automatically removed DerivedData when you run the clean",
