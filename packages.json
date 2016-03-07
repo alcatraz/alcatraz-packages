@@ -8,6 +8,12 @@
       "screenshot": "https://raw.githubusercontent.com/wallora/StringsValidator/master/screenshots/screenshot1.png"
     },
     {
+      "name": "RAConsoleEditor",
+      "url": "https://github.com/Augustyniak/RAConsoleEditor",
+      "description": "RAConsoleEditor is an Xcode plugin which makes it really easy to browse Xcode console logs in external text editors.",
+      "screenshot": "https://raw.githubusercontent.com/Augustyniak/RAConsoleEditor/master/Resources/main-screenshot.png"
+    },
+    {
       "name": "Cichlid",
       "url": "https://github.com/dealforest/Cichlid",
       "description": "It will be automatically removed DerivedData when you run the clean",
@@ -481,6 +487,12 @@
         "url": "https://github.com/johnno1962/GitDiff",
         "description": "Highlights differences against git repo in Xcode source editor.",
         "screenshot": "http://injectionforxcode.johnholdsworth.com/gitdiff.png"
+      },
+      {
+      "name": "GoOutside",
+      "url": "https://github.com/dbgrandi/GoOutside",
+      "description": "Track how much time you have spent waiting for Xcode to build",
+      "screenshot": "https://raw.githubusercontent.com/dbgrandi/GoOutside/master/images/stats.png"
       },
       {
         "name": "GoToJiraIssue",
@@ -1403,9 +1415,21 @@
         "url": "https://github.com/EDSIOON/EDSJSONToDictionary",
         "description": "Convert dictionary console output to NSDictionary literal",
         "screenshot": "https://raw.githubusercontent.com/EDSIOON/EDSJSONToDictionary/master/ScreenShots/EDSJSONToDicitionary.gif"
+      },
+      {
+        "name": "Rauto",
+        "url": "https://github.com/azurechen/Rauto",
+        "description": "Generate a resource file like the R.java automatically. Make you access colors, images or strings easier with syntax highlighting.",
+        "screenshot": "https://raw.githubusercontent.com/azurechen/Rauto/master/screenshots/sample.png"
       }
     ],
     "color_schemes": [
+      {
+        "name": "AssistYou",
+        "url": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYou.dvtcolortheme",
+        "description": "At first glance you would think are not used, but it can protect you.",
+        "screenshot": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYouScreenShot.png"
+      },
       {
         "name": "Anubis",
         "url": "https://raw.githubusercontent.com/gtranchedone/XcodeThemes/master/Anubis.dvtcolortheme",
@@ -2172,6 +2196,17 @@
         "name": "YCode-Base-Application",
         "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
         "description": "Xcode template to quick start for a commercial development"
+      },
+      {
+        "name": "Blacktea theme",
+        "url": "https://github.com/blackteachinese/blackteatheme/blob/master/blacktea.dvtcolortheme",
+        "description": "health theme",
+        "screenshot": "https://github.com/blackteachinese/blackteatheme/blob/master/blackteaScreenShot.png"
+      },
+      {
+        "name": "TablePattern",
+        "url": "https://github.com/materik/tablepattern.git",
+        "description": "Xode file templates for TablePattern, a table view data source design pattern"
       }
     ]
   }
