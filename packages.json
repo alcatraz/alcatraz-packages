@@ -8,6 +8,12 @@
       "screenshot": "https://raw.githubusercontent.com/wallora/StringsValidator/master/screenshots/screenshot1.png"
     },
     {
+      "name": "RAConsoleEditor",
+      "url": "https://github.com/Augustyniak/RAConsoleEditor",
+      "description": "RAConsoleEditor is an Xcode plugin which makes it really easy to browse Xcode console logs in external text editors.",
+      "screenshot": "https://raw.githubusercontent.com/Augustyniak/RAConsoleEditor/master/Resources/main-screenshot.png"
+    },
+    {
       "name": "Cichlid",
       "url": "https://github.com/dealforest/Cichlid",
       "description": "It will be automatically removed DerivedData when you run the clean",
