@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+      "name": "AssistYou",
+      "url": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYou.dvtcolortheme",
+      "description": "At first glance you would think are not used, but it can protect you.”,
+      "screenshot": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYouScreenShot.png"
+    },
+    {
       "name": "StringsValidator",
       "url": "https://github.com/wallora/StringsValidator.git",
       "description": "StringsValidator is a Xcode plugin for easily finding errors in strings files.",
