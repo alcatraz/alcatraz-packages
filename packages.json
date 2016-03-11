@@ -2184,6 +2184,12 @@
         "name": "YCode-Base-Application",
         "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
         "description": "Xcode template to quick start for a commercial development"
+      },
+      {
+        "name": "AssistYou",
+        "url": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYou.dvtcolortheme",
+        "description": "At first glance you would think are not used, but it can protect you.",
+        "screenshot": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYouScreenShot.png"
       }
     ]
   }
