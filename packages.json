@@ -2196,6 +2196,12 @@
         "url": "https://github.com/blackteachinese/blackteatheme/blob/master/blacktea.dvtcolortheme",
         "description": "health theme",
         "screenshot": "https://github.com/blackteachinese/blackteatheme/blob/master/blackteaScreenShot.png"
+      },
+      {
+      "name": "GoOutside",
+      "url": "https://github.com/dbgrandi/GoOutside",
+      "description": "Track how much time you have spent waiting for Xcode to build",
+      "screenshot": "https://raw.githubusercontent.com/dbgrandi/GoOutside/master/images/stats.png"
       }
     ]
   }
