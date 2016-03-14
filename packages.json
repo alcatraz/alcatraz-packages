@@ -489,6 +489,12 @@
         "screenshot": "http://injectionforxcode.johnholdsworth.com/gitdiff.png"
       },
       {
+      "name": "GoOutside",
+      "url": "https://github.com/dbgrandi/GoOutside",
+      "description": "Track how much time you have spent waiting for Xcode to build",
+      "screenshot": "https://raw.githubusercontent.com/dbgrandi/GoOutside/master/images/stats.png"
+      },
+      {
         "name": "GoToJiraIssue",
         "url": "https://github.com/MarshalGeazipp/GoToJiraIssue",
         "description": "A nice little Xcode plugin that opens the 1&1 JIRA issue website if click on an issue reference like 'MAMIOS-123' in the git history."
