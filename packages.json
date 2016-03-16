@@ -2202,6 +2202,11 @@
         "url": "https://github.com/blackteachinese/blackteatheme/blob/master/blacktea.dvtcolortheme",
         "description": "health theme",
         "screenshot": "https://github.com/blackteachinese/blackteatheme/blob/master/blackteaScreenShot.png"
+      },
+      {
+        "name": "TablePattern",
+        "url": "https://github.com/materik/tablepattern.git",
+        "description": "Xode file templates for TablePattern, a table view data source design pattern"
       }
     ]
   }
