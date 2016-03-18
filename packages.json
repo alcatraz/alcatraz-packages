@@ -1405,8 +1405,8 @@
         "screenshot": "https://raw.githubusercontent.com/EDSIOON/EDSJSONToDictionary/master/ScreenShots/EDSJSONToDicitionary.gif"
       },
       {
-        "name": "Rauto",
-        "url": "https://github.com/azurechen/Rauto",
+        "name": "R.swift",
+        "url": "https://github.com/azurechen/R.swift-plugin.git",
         "description": "Generate a resource file like the R.java automatically. Make you access colors, images or strings easier with syntax highlighting.",
         "screenshot": "https://raw.githubusercontent.com/azurechen/Rauto/master/screenshots/sample.png"
       }
