@@ -767,6 +767,12 @@
         "screenshot": "https://github.com/nanaimostudio/Xcode-Quick-Localization/blob/master/Xcode_Quick_Localization_Settings.png"
       },
       {
+        "name": "RainyCode",
+        "url": "https://github.com/dimohamdy/RainyCode",
+        "description": "Listen to rainymood while coding.",
+        "screenshot": "https://github.com/dimohamdy/RainyCode/blob/master/screenshot.png"
+      },
+      {
         "name": "RealmPlugin",
         "url": "https://github.com/realm/realm-cocoa",
         "description": "File and class templates for Realm.",
