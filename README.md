@@ -1,11 +1,13 @@
 alcatraz-packages
 =================
-[![Build Status](https://travis-ci.org/supermarin/alcatraz-packages.svg?branch=master)](https://travis-ci.org/supermarin/alcatraz-packages)
-Package list repository for [Alcatraz](https://github.com/mneorr/Alcatraz), the Xcode Package Manager.
+[![Build Status](https://travis-ci.org/alcatraz/alcatraz-packages.svg?branch=master)](https://travis-ci.org/alcatraz/alcatraz-packages)
+Package list repository for [Alcatraz](https://github.com/alcatraz/Alcatraz), the Xcode Package Manager.
 
 To contribute your own package, fork this project and edit packages.json to include your submission in the correct section (plugins, color schemes, or templates), and submit a pull request.
 
 Every package requires a `name`, `url`, and `description`, in a format determined by the package type (detailed below). The `screenshot` field is optional, but recommended for any package with a user interface component and should be a direct URL to a single image. 
+
+The JSON file is split up into 4 different parts: `plugins`, `file_templates`,`color_schemes` and `project_templates`. Make sure to add your package to the right category or it won't install.
 
 After making your changes please run `rspec` from the console to check if everything is ok.
 
