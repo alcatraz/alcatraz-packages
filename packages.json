@@ -2,12 +2,6 @@
   "packages": {
     "plugins": [
     {
-      "name": "xTransCodelation",
-      "url": "https://github.com/804145113/xTransCodelation",
-      "description": "XCODE in English translation, the use of the word SDK translation and Baidu web translation.",
-      "screenshot": "http://chuantu.biz/t2/33/1458721728x1822611687.png"
-      },
-    {
       "name": "StringsValidator",
       "url": "https://github.com/wallora/StringsValidator.git",
       "description": "StringsValidator is a Xcode plugin for easily finding errors in strings files.",
@@ -148,7 +142,8 @@
       {
         "name": "xTransCodelation",
         "url": "https://github.com/804145113/xTransCodelation",
-        "description": "XCODE in English translation, the use of the word SDK translation and Baidu web translation."
+        "description": "XCODE in English translation, the use of the word SDK translation and Baidu web translation.",
+        "screenshot": "http://chuantu.biz/t2/33/1458721728x1822611687.png"
       },
       {
       "name": "Luft",
