@@ -1434,6 +1434,11 @@
         "url": "https://github.com/everettjf/XSourceNote",
         "description": "Write notes when browsing source code, and generate a markdown article for you.",
         "screenshot": "http://everettjf.github.io/stuff/xsourcenote/project_whole.png"
+      },
+      {
+        "name": "AnyFormat",
+        "url": "https://github.com/ML-Works/AnyFormat-Xcode",
+        "description": "Xcode plug-in to to use any formatting script in Xcode on Cmd-S hotkey"
       }
     ],
     "color_schemes": [
