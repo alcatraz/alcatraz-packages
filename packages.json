@@ -282,6 +282,12 @@
         "screenshot": "https://raw.github.com/MellongLau/AMAppExportToIPA-Xcode-Plugin/master/Screenshots/screenshot.gif"
       },
       {
+        "name": "AMLocalizedStringBuilder",
+        "url": "https://github.com/MellongLau/AMLocalizedStringBuilder-Xcode-Plugin",
+        "description": "AMLocalizedStringBuilder is the localized string helper which help you build your \"Localizable.strings\" file to class with shortcut ctrl+f.",
+        "screenshot": "https://raw.github.com/MellongLau/AMLocalizedStringBuilder-Xcode-Plugin/master/Screenshots/screenshot.gif"
+      },
+      {
         "name": "AMMethod2Implement",
         "url": "https://github.com/MellongLau/AMMethod2Implement",
         "description": "A simple Xcode plugin to generate implement code for the selected method.",
