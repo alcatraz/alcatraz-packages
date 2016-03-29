@@ -32,7 +32,7 @@
         "screenshot": "https://raw.githubusercontent.com/Minal91/SimulatorBuild/master/CreateSimulatorBuild.gif"
     },
     {
-        "name": "SortXcodeSelection-Plugin",
+        "name": "SortXcodeSelection",
         "url": "https://github.com/dayitv89/SortXcodeSelection",
         "description": "SortXcodeSelection-Plugin is a xcode plugin for sort xcode editor selected area alphabetic.",
         "screenshot": "https://raw.githubusercontent.com/dayitv89/SortXcodeSelection/master/screenshot.gif"
