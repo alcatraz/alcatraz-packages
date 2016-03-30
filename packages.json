@@ -1445,6 +1445,12 @@
         "name": "AnyFormat",
         "url": "https://github.com/ML-Works/AnyFormat-Xcode",
         "description": "Xcode plug-in to to use any formatting script in Xcode on Cmd-S hotkey"
+      },
+      {
+        "name": "Refactor Code",
+        "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
+        "description": "refactor some method style, such as setter",
+        "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
       }
     ],
     "color_schemes": [
@@ -2007,6 +2013,12 @@
         "url": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam.dvtcolortheme",
         "description": "Code with vivid colors, with enthusiasm.",
         "screenshot": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam-screenshot.png"
+      },
+      {
+        "name": "Refactor Code",
+        "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
+        "description": "refactor some method style, such as setter",
+        "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
       }
     ],
     "project_templates": [
@@ -2057,6 +2069,11 @@
         "url": "https://github.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template",
         "description": "Bringing the Empty Application template back to Xcode",
         "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template/master/screenshot.png"
+      },
+      {
+        "name": "Refactor Code",
+        "url": "https://github.com/kattrali/Xcode-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode 5+"
       }
     ],
     "file_templates": [
@@ -2235,8 +2252,7 @@
       {
         "name": "Refactor Code",
         "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
-        "description": "refactor some method style, such as setter",
-        "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
+        "description": "refactor some method style, such as setter"
       }
     ]
   }
