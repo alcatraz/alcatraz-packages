@@ -2069,11 +2069,6 @@
         "url": "https://github.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template",
         "description": "Bringing the Empty Application template back to Xcode",
         "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template/master/screenshot.png"
-      },
-      {
-        "name": "Refactor Code",
-        "url": "https://github.com/kattrali/Xcode-Plugin-Template",
-        "description": "Project Template for creating a plugin for Xcode 5+"
       }
     ],
     "file_templates": [
@@ -2251,8 +2246,8 @@
       },
       {
         "name": "Refactor Code",
-        "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
-        "description": "refactor some method style, such as setter"
+        "url": "https://github.com/kattrali/Xcode-Plugin-Template",
+        "description": "Project Template for creating a plugin for Xcode 5+"
       }
     ]
   }
