@@ -2013,12 +2013,6 @@
         "url": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam.dvtcolortheme",
         "description": "Code with vivid colors, with enthusiasm.",
         "screenshot": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam-screenshot.png"
-      },
-      {
-        "name": "Refactor Code",
-        "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
-        "description": "refactor some method style, such as setter",
-        "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
       }
     ],
     "project_templates": [
