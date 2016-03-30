@@ -1445,6 +1445,12 @@
         "name": "AnyFormat",
         "url": "https://github.com/ML-Works/AnyFormat-Xcode",
         "description": "Xcode plug-in to to use any formatting script in Xcode on Cmd-S hotkey"
+      },
+      {
+        "name": "Refactor Code",
+        "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
+        "description": "refactor some method style, such as setter",
+        "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
       }
     ],
     "color_schemes": [
