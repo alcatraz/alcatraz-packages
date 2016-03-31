@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+      "name": "InstaSwift",
+      "url": "https://github.com/MyAppConverter/InstaSwift.git",
+      "description": "MyAppConverter InstaSwift: an Xcode plugin allowing you to convert Objective-C code snippets into Swift instantly.",
+      "screenshot": "https://github.com/MyAppConverter/InstaSwift/blob/master/instaswift-screenshot.png"
+    },
+    {
       "name": "StringsValidator",
       "url": "https://github.com/wallora/StringsValidator.git",
       "description": "StringsValidator is a Xcode plugin for easily finding errors in strings files.",
