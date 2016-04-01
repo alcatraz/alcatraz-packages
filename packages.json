@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+      "name": "ExportConsoleText",
+      "url": "https://github.com/iException/ExportConsoleText",
+      "description": "Exporting xcode console text to html file.",
+      "screenshot": "https://github.com/iException/ExportConsoleText/blob/master/image.png"
+    },
+    {
       "name": "StringsValidator",
       "url": "https://github.com/wallora/StringsValidator.git",
       "description": "StringsValidator is a Xcode plugin for easily finding errors in strings files.",
