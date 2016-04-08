@@ -895,8 +895,14 @@
       {
         "name": "Snapshots",
         "url": "https://github.com/orta/Snapshots",
-        "description": "An Xcode Plugin to show the state of FBSnapshot Tests.",
+        "description": "An Xcode Plugin to show the current state of failed FBSnapshot Tests.",
         "screenshot": "https://raw.githubusercontent.com/orta/Snapshots/master/web/screenshot.jpg"
+      },
+      {
+        "name": "Snapshots Peek",
+        "url": "https://github.com/orta/Snapshots-Peek",
+        "description": "An Xcode Plugin to show the FBSnapshot reference images for the current selected class inline.",
+        "screenshot": "https://raw.githubusercontent.com/orta/Snapshots-Peek/master/web/snapshot-peek.png"
       },
       {
         "name": "SuggestedColors",
