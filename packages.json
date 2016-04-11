@@ -924,6 +924,12 @@
         "screenshot": "https://cloud.githubusercontent.com/assets/400558/14304460/d2a133dc-fbed-11e5-9573-2c21cce699e0.png"
       },
       {
+        "name": "XCSwiftr",
+        "url": "https://github.com/dzenbot/XCSwiftr",
+        "description": "An Xcode Plugin to convert Objective-C to Swift.",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCSwiftr/master/Documentation/Screenshots/screenshot_main.png"
+      },
+      {
         "name": "SwiftyJSON",
         "url": "https://github.com/SwiftyJSON/SwiftyJSON",
         "description": "SwiftyJSON makes it easy to deal with JSON data in Swift."
