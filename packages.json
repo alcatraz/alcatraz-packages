@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+       "name": "SQLPlugin",
+       "url": "https://github.com/viktyz/SQLPlugin",
+       "description": "SQLPlugin is a plugin for Xcode. This plugin will list all files with database type in your simulator directories.",
+       "screenshot": "https://github.com/viktyz/SQLPlugin/blob/master/Screenshots/Screenshots1.png"
+    },
+    {
       "name": "ExportConsoleText",
       "url": "https://github.com/iException/ExportConsoleText",
       "description": "Exporting xcode console text to html file.",
