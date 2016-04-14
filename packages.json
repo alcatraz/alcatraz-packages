@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+      "name": "Make the Mac Great Again",
+      "url": "https://github.com/edwardaux/MakeTheMacGreatAgain",
+      "description": "An Xcode plugin that puts OS X at the top of the list when creating new resources",
+      "screenshot": "https://raw.githubusercontent.com/edwardaux/MakeTheMacGreatAgain/master/MakeTheMacGreatAgain/screenshot.png"
+    },
+    {
        "name": "SQLPlugin",
        "url": "https://github.com/viktyz/SQLPlugin",
        "description": "SQLPlugin is a plugin for Xcode. This plugin will list all files with database type in your simulator directories.",
