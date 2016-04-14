@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+       "name": "gitflow",
+       "url": "https://github.com/alexkrzyzanowski/xcode-gitflow-plugin",
+       "description": "Gitflow plugin for Xcode.",
+       "screenshot": "https://raw.githubusercontent.com/alexkrzyzanowski/xcode-gitflow-plugin/develop/screenshot.png"
+    },
+    {
        "name": "SQLPlugin",
        "url": "https://github.com/viktyz/SQLPlugin",
        "description": "SQLPlugin is a plugin for Xcode. This plugin will list all files with database type in your simulator directories.",
