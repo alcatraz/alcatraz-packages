@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+       "name": "gitflow",
+       "url": "https://github.com/alexkrzyzanowski/xcode-gitflow-plugin",
+       "description": "Gitflow plugin for Xcode.",
+       "screenshot": "https://raw.githubusercontent.com/alexkrzyzanowski/xcode-gitflow-plugin/develop/screenshot.png"
+    },
+    {
       "name": "Make the Mac Great Again",
       "url": "https://github.com/edwardaux/MakeTheMacGreatAgain",
       "description": "An Xcode plugin that puts OS X at the top of the list when creating new resources",
