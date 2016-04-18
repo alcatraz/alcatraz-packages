@@ -1501,6 +1501,12 @@
         "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
         "description": "refactor some method style, such as setter",
         "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
+      },
+      {
+        "name": "JsonFormatter",
+        "url": "https://github.com/MilkerLiu/JsonFormatter.git",
+        "description": "Json Text format",
+        "screenshot": "https://raw.githubusercontent.com/MilkerLiu/JsonFormatter/master/screenshot.gif"
       }
     ],
     "color_schemes": [
