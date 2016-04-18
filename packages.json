@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+       "name": "JSPatchX",
+       "url": "https://github.com/bang590/JSPatchX",
+       "description": "Provides autocompletion for JSPatch.",
+       "screenshot": "https://raw.github.com/bang590/JSPatchX/master/Resource/Screenshot.gif"
+    },
+    {
        "name": "gitflow",
        "url": "https://github.com/alexkrzyzanowski/xcode-gitflow-plugin",
        "description": "Gitflow plugin for Xcode.",
