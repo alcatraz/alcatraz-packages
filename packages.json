@@ -1501,6 +1501,12 @@
         "url": "https://github.com/CharsDavy/RefactorCodePlugin-Xcode.git",
         "description": "refactor some method style, such as setter",
         "screenshot": "https://raw.github.com/charsdavy/RefactorCodePlugin-Xcode/master/screenshots/window.png"
+      },
+      {
+	"name": "RRGIFAlertPanel",
+  	"url": "https://github.com/remirobert/RRGIFAlertPanel",
+  	"description": "Xcode plugin for replace the AlertPanel build succeeded and failed by an animated GIF of your choice !",
+  	"screenshot": "https://cloud.githubusercontent.com/assets/3276768/14404359/077ac0ea-fea6-11e5-890f-9ea5a1b5b677.gif"
       }
     ],
     "color_schemes": [
