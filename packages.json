@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+       "name": "ProfilesTool-Xcode",
+       "url": "https://github.com/shaojiankui/ProfilesTool-Xcode",
+       "description": "ProfilesTool-Xcode,iOS Provisioning Profiles, .mobileprovision files manager tool for Xcode",
+       "screenshot": "https://raw.githubusercontent.com/shaojiankui/ProfilesTool-Xcode/master/demo.png"
+    },
+    {
        "name": "JSPatchX",
        "url": "https://github.com/bang590/JSPatchX",
        "description": "Provides autocompletion for JSPatch.",
