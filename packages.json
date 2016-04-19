@@ -20,6 +20,12 @@
       "screenshot": "https://raw.githubusercontent.com/edwardaux/MakeTheMacGreatAgain/master/MakeTheMacGreatAgain/screenshot.png"
     },
     {
+      "name": "Build Me Up",
+      "url": "https://github.com/edwardaux/BuildMeUp",
+      "description": "An Xcode plugin that keeps track of how long Xcode takes to build your project(s). It accumulates the total time and displays in the Activity View in the Xcode toolbar.",
+      "screenshot": "https://raw.githubusercontent.com/edwardaux/BuildMeUp/master/screenshot.png"
+    },
+    {
        "name": "SQLPlugin",
        "url": "https://github.com/viktyz/SQLPlugin",
        "description": "SQLPlugin is a plugin for Xcode. This plugin will list all files with database type in your simulator directories.",
