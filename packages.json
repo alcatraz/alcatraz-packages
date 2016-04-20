@@ -1519,6 +1519,12 @@
         "url": "https://github.com/MilkerLiu/JsonFormatter.git",
         "description": "Json Text format",
         "screenshot": "https://raw.githubusercontent.com/MilkerLiu/JsonFormatter/master/screenshot.gif"
+      },
+      {
+        "name": "LFAutoTarget",
+        "url": "https://github.com/pigpigdaddy/LFAutoTarget.git",
+        "description": "You setup any target by name, LFAutoTarget select target automaticly for you when you add a new file.",
+        "screenshot": "https://github.com/pigpigdaddy/LFAutoTarget/blob/master/LFAutoTarget/screenshot.png"
       }
     ],
     "color_schemes": [
