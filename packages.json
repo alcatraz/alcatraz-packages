@@ -2291,6 +2291,11 @@
         "screenshot": "https://raw.githubusercontent.com/freesuraj/SwiftTemplate/master/Screenshot.png"
       },
       {
+        "name": "SwiftViper",
+        "url": "https://github.com/freesuraj/SwiftViper",
+        "description": "Generates swift templates using VIPER (view-interactor-presenter-entity-routing) design pattern"
+      },
+      {
         "name": "DRL-Theme-Manager",
         "url": "https://github.com/durul/DRL-Theme-Manager.git",
         "description": "Xcode template to generate swift theme manager.",
