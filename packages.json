@@ -1775,9 +1775,9 @@
       },
       {
         "name": "Midnight Purple",
-        "url": "https://github.com/brunov0id/midnight-purple-code/blob/master/Midnight%20Purple.dvtcolortheme",
+        "url": "https://raw.githubusercontent.com/brunov0id/midnight-purple-code/master/Midnight%20Purple.dvtcolortheme",
         "description": "Awesome dark theme with hack font",
-        "screenshot": "https://github.com/brunov0id/midnight-purple-code/blob/master/preview.png"
+        "screenshot": "https://raw.githubusercontent.com/brunov0id/midnight-purple-code/master/preview.png"
       },
       {
         "name": "Monokai",
