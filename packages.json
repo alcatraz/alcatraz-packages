@@ -2322,6 +2322,12 @@
         "name": "TablePattern",
         "url": "https://github.com/materik/tablepattern.git",
         "description": "Xode file templates for TablePattern, a table view data source design pattern"
+      },
+      {
+        "name": "Xcode-Coordinator-Template",
+        "url": "https://github.com/phranck/Xcode-Coordinator-Template.git",
+        "description": "An Xcode File Template that creates an Objective-C Coordinator class. It is for both iOS and OS X."
+        "screenshot": "https://github.com/phranck/Xcode-Coordinator-Template/blob/master/img/xcode-coordinator-install.png"
       }
     ]
   }
