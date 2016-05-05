@@ -2328,6 +2328,12 @@
         "url": "https://github.com/phranck/Xcode-Coordinator-Template.git",
         "description": "An Xcode File Template that creates an Objective-C Coordinator class. It is for both iOS and OS X.",
         "screenshot": "https://github.com/phranck/Xcode-Coordinator-Template/blob/master/img/xcode-coordinator-install.png"
+      },
+      {
+        "name": "Restart SourceKitService!",
+        "url": "https://github.com/hewigovens/RestartSourceKitService.git",
+        "description": "Add Restart SourceKitService! to Xcode Debug menu",
+        "screenshot": "https://github.com/hewigovens/RestartSourceKitService/blob/master/docs/screenshot.png"
       }
     ]
   }
