@@ -603,9 +603,9 @@
       },
       {
         "name": "IntelliPaste",
-        "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
+        "url": "https://github.com/RobertGummesson/IntelliPaste-for-Xcode",
         "description": "IntelliPaste is an Xcode plugin that makes copy-pasting methods and RGB colors easier.",
-        "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
+        "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-Xcode/master/Screenshots/IntelliPaste-Demo.gif"
       },
       {
         "name": "IpaExporter",
