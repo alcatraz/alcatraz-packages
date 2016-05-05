@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "QCBlockCommenter",
+        "url": "https://github.com/qclmnt/QCBlockCommenter.git",
+        "description": "Xcode plugin to comment block of text with /* */ by pressing ⌘@",
+        "screenshot": "https://github.com/qclmnt/QCBlockCommenter/blob/master/demo.png"
+    },
+    {
        "name": "ProfilesTool-Xcode",
        "url": "https://github.com/shaojiankui/ProfilesTool-Xcode",
        "description": "ProfilesTool-Xcode,iOS Provisioning Profiles, .mobileprovision files manager tool for Xcode",
