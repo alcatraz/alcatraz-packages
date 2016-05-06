@@ -1531,6 +1531,12 @@
         "url": "https://github.com/pigpigdaddy/LFAutoTarget.git",
         "description": "You setup any target by name, LFAutoTarget select target automaticly for you when you add a new file.",
         "screenshot": "https://github.com/pigpigdaddy/LFAutoTarget/blob/master/LFAutoTarget/screenshot.png"
+      },
+      {
+        "name": "Restart SourceKitService!",
+        "url": "https://github.com/hewigovens/RestartSourceKitService.git",
+        "description": "Add Restart SourceKitService! to Xcode Debug menu",
+        "screenshot": "https://github.com/hewigovens/RestartSourceKitService/blob/master/docs/screenshot.png"
       }
     ],
     "color_schemes": [
