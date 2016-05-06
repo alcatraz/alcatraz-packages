@@ -416,7 +416,7 @@
         "description": "Xcode 5+ only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports Xcode 5.x."
       },
       {
-        "name": "Build Time Analyzer for Swift",
+        "name": "BuildTimeAnalyzer-for-Xcode",
         "url": "https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode",
         "description": "Keeps track of where the compiler spends the most time while compiling Swift code.",
         "screenshot": "https://raw.githubusercontent.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode/master/Screenshots/screenshot.png"
