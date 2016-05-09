@@ -600,7 +600,7 @@
         "name": "InjectionPlugin",
         "url": "https://github.com/johnno1962/injectionforxcode",
         "description": "Inject code changes directly into your running application.",
-        "screenshot": "http://johnholdsworth.com/injection/demo.png"
+        "screenshot": "http://injection.johnholdsworth.com/democ.png"
       },
       {
         "name": "InstaCodesPlugin",
