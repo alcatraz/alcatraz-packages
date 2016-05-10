@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "DuplicateLine",
+        "url": "https://github.com/castus/xcode-duplicate-line.git",
+        "description": "Xcode plugin to duplicate selected line or lines",
+        "screenshot": "https://raw.github.com/castus/xcode-duplicate-line/master/screenshot/presentation.gif"
+    },
+    {
         "name": "QCBlockCommenter",
         "url": "https://github.com/qclmnt/QCBlockCommenter.git",
         "description": "Xcode plugin to comment block of text with /* */ by pressing ⌘@",
