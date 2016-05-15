@@ -1527,7 +1527,7 @@
         "screenshot": "https://github.com/pigpigdaddy/LFAutoTarget/blob/master/LFAutoTarget/screenshot.png"
       },
       {
-        "name": "Restart SourceKitService!",
+        "name": "RestartSourceKitService",
         "url": "https://github.com/hewigovens/RestartSourceKitService.git",
         "description": "Add Restart SourceKitService! to Xcode Debug menu",
         "screenshot": "https://github.com/hewigovens/RestartSourceKitService/blob/master/docs/screenshot.png"
