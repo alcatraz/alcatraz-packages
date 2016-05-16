@@ -1553,6 +1553,12 @@
     ],
     "color_schemes": [
       {
+        "name": "DarkSide",
+        "url": "https://raw.githubusercontent.com/onmyway133/DarkSide/master/Xcode/DarkSide.dvtcolortheme",
+        "description": "A dark side theme using flat colors",
+        "screenshot": "https://github.com/onmyway133/DarkSide/raw/master/Screenshots/Xcode.png"
+      },
+      {
         "name": "AssistYou",
         "url": "https://raw.githubusercontent.com/xhzengAIB/AssistYou/master/AssistYou.dvtcolortheme",
         "description": "At first glance you would think are not used, but it can protect you.",
