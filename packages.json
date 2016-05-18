@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+		"name": "XcodeFolders",
+		"url": "https://github.com/poborp/XcodeFolders",
+		"description": "Extra menu for rapid folders.",
+		"screenshot": "https://raw.githubusercontent.com/poborp/XcodeFolders/master/Preview.png"
+	},
+    {
         "name": "XcodeColorSense",
         "url": "https://github.com/onmyway133/XcodeColorSense.git",
         "description": "An Xcode plugin that makes working with color easier",
