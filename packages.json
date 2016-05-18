@@ -2364,6 +2364,16 @@
         "url": "https://github.com/phranck/Xcode-Coordinator-Template.git",
         "description": "An Xcode File Template that creates an Objective-C Coordinator class. It is for both iOS and OS X.",
         "screenshot": "https://github.com/phranck/Xcode-Coordinator-Template/blob/master/img/xcode-coordinator-install.png"
+      },
+      {
+        "name": "CVVM",
+        "url": "https://github.com/rayman-v/xcode_packageManager_extension.git",
+        "description": "Xode file templates for controller, view, viewModel"
+      },
+      {
+        "name": "RealmModel",
+        "url": "https://github.com/rayman-v/xcode_packageManager_extension.git",
+        "description": "Xode file templates for realm model"
       }
     ]
   }
