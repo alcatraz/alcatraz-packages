@@ -2380,6 +2380,12 @@
         "name": "RealmModel",
         "url": "https://github.com/rayman-v/xcode_packageManager_extension.git",
         "description": "Xode file templates for realm model"
+      },
+      {
+        "name": "HCTemplet",
+        "url": "https://github.com/dongjiali/HCTemplet",
+        "description": "HCTemplet is create custom templates",
+        "screenshot": "http://raw.github.com/dongjiali/HCTemplet/master/Screenshots/templet.png"
       }
     ]
   }
