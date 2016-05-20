@@ -1798,6 +1798,12 @@
         "screenshot": "http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png"
       },
       {
+        "name": "Hybrid",
+        "url": "https://raw.githubusercontent.com/yasuoza/Hybrid-Theme-for-Xcode/master/Hybrid.dvtcolortheme",
+        "description": "Hybrid theme for Xcode",
+        "screenshot": "https://raw.githubusercontent.com/yasuoza/Hybrid-Theme-for-Xcode/master/screenshot.png"
+      },
+      {
         "name": "iOS 7",
         "url": "https://raw.github.com/dpree/xcode-ios7-colors/master/iOS%207.dvtcolortheme",
         "description": "Inspired by iOS 7 colors. Made for Xcode 5.",
