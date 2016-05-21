@@ -2030,6 +2030,11 @@
         "description": "Custom UIView file templates, wich creates for you a XIB - loadable UIView subclass with it .XIB file configurated respectively."
       },
       {
+        "name": "Strings Dictionary",
+        "url": "https://github.com/Augustyniak/Stringsdict-Xcode-file-template",
+        "description": "Template which makes creation of the strings dictionary files a lot easier"
+      },
+      {
         "name": "Licensed Swift Templates",
         "url": "https://github.com/leonardosul/LicensedSwiftTemplates",
         "description": "Swift file templates with choice of open source license placed in the header"
