@@ -1239,7 +1239,7 @@
       },
       {
         "name": "XVim",
-        "url": "https://github.com/XVimProject/XVim.git",
+        "url": "https://github.com/XVimProject/XVim",
         "description": "Xcode plugin for Vim keybindings"
       },
       {
