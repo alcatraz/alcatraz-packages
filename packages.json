@@ -1561,6 +1561,12 @@
         "url": "https://github.com/hewigovens/RestartSourceKitService.git",
         "description": "Add Restart SourceKitService! to Xcode Debug menu",
         "screenshot": "https://github.com/hewigovens/RestartSourceKitService/blob/master/docs/screenshot.png"
+      },
+      {
+        "name": "Anglerfish",
+        "url": "https://github.com/dealforest/Anglerfish",
+        "description": "sort the recently used simulators ",
+        "screenshot": "https://raw.githubusercontent.com/dealforest/Cichlid/master/images/anglerfish.png"
       }
     ],
     "color_schemes": [
