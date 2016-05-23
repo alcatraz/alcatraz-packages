@@ -2153,6 +2153,12 @@
         "url": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam.dvtcolortheme",
         "description": "Code with vivid colors, with enthusiasm.",
         "screenshot": "https://raw.githubusercontent.com/veslam/XcodeThemes/master/veslam-screenshot.png"
+      },
+      {
+        "name": "Fairyfloss",
+        "url": "https://raw.githubusercontent.com/sailorhg/fairyfloss/gh-pages/Fairyfloss.dvtcolortheme",
+        "description": "A pastel/candy/daydream fairyfloss theme by @sailorhg.",
+        "screenshot": "https://cloud.githubusercontent.com/assets/498212/15276890/9db3f44a-1ac2-11e6-9608-de79505c55ce.png"
       }
     ],
     "project_templates": [
