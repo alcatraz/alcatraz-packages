@@ -1989,6 +1989,12 @@
         "screenshot": "http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png"
       },
       {
+        "name": "Solarized Light for Xcode",
+        "url": "https://raw.githubusercontent.com/nelsyeung/Solarized-Light-for-Xcode/master/Solarized%20Light.dvtcolortheme",
+        "description": "Solarized Light Theme for Xcode 5, 6 and 7.",
+        "screenshot": "https://raw.githubusercontent.com/nelsyeung/Solarized-Light-for-Xcode/master/solarized-light.png"
+      },
+      {
         "name": "Space Gray",
         "url": "https://raw.github.com/zdne/spacegray-xcode/master/Space%20Gray.dvtcolortheme",
         "description": "Xcode port of @kkga's Spacegray theme for Sublime Text",
