@@ -2,10 +2,10 @@
   "packages": {
     "plugins": [
     {
-        "name": "XcodeFolders",
-        "url": "https://github.com/poborp/XcodeFolders",
-        "description": "Extra menu for rapid folders.",
-        "screenshot": "https://raw.githubusercontent.com/poborp/XcodeFolders/master/Preview.png"
+        "name": "FastStub",
+        "url": "https://github.com/music4kid/FastStub-Xcode",
+        "description": "Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.",
+        "screenshot": "https://raw.githubusercontent.com/music4kid/FastStub-Xcode/master/fs1.png"
     },
     {
         "name": "XcodeColorSense",
