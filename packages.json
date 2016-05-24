@@ -1019,6 +1019,12 @@
         "screenshot": "https://raw.githubusercontent.com/dealforest/Tuna/master/images/capture_backtrace.png"
       },
       {
+        "name": "TweakAutocomplete",
+        "url": "https://github.com/poboke/TweakAutocomplete",
+        "description": "TweakAutocomplete is a plugin for Xcode. This plugin can autocomplete logos syntax.",
+        "screenshot": "https://github.com/poboke/TweakAutocomplete/raw/master/Screenshots/about.png"
+      },
+      {
         "name": "URBNLin",
         "url": "https://github.com/jgrandelli/URBNLin",
         "description": "Xcode plugin that acts like Lin for URBNStr"
