@@ -2415,6 +2415,12 @@
         "name": "RealmModel",
         "url": "https://github.com/rayman-v/xcode_packageManager_extension.git",
         "description": "Xode file templates for realm model"
+      },
+      { 
+        "name": "FastStub",
+        "url": "https://github.com/music4kid/FastStub-Xcode",
+        "description": "Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.",
+        "screenshot": "https://raw.githubusercontent.com/music4kid/FastStub-Xcode/master/fs1.png"
       }
     ]
   }
