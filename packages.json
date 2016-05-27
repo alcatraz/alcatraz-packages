@@ -8,6 +8,11 @@
         "screenshot": "https://raw.githubusercontent.com/poborp/XcodeFolders/master/Preview.png"
     },
     {
+        "name": "ESCodeSection",
+        "url": "https://github.com/ElfSundae/ESCodeSection",
+        "description": "Insert code separators."
+    },
+    {
         "name": "FastStub",
         "url": "https://github.com/music4kid/FastStub-Xcode",
         "description": "Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.",
