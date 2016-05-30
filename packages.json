@@ -332,7 +332,7 @@
       {
         "name": "AdjustFontSize",
         "url": "https://github.com/zats/AdjustFontSize-Xcode-Plugin",
-        "description": "Adjust font size with ⌘ + / ⌘ -",
+        "description": "Adjust font size with ⌃ + / ⌃ -",
         "screenshot": "https://raw.github.com/zats/AdjustFontSize-Xcode-Plugin/master/README/xcode.png"
       },
       {
