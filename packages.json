@@ -2426,6 +2426,12 @@
         "name": "RealmModel",
         "url": "https://github.com/rayman-v/xcode_packageManager_extension.git",
         "description": "Xode file templates for realm model"
+      },
+      {
+        "name": "iTimeTrack",
+        "url": "https://github.com/itimetrack/itimetrack-xcode",
+        "description": "iTimeTrack.com automagical billable time generation while you work",
+        "screenshot": "https://raw.githubusercontent.com/itimetrack/itimetrack-xcode/master/itimetrack-screenshot.png"
       }
     ]
   }
