@@ -1583,7 +1583,7 @@
       {
         "name": "Translate",
         "url": "https://github.com/niehaili/Translate",
-        "description": "XCode插件---shift + alt + t 翻译当前选中内容",
+        "description": "Translate the selected text into Chinese through the keyboard shortcuts shift+command+t ",
         "screenshot": "https://github.com/niehaili/Translate/blob/master/snapshot.png"
       }
     ],
