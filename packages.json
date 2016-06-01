@@ -1579,6 +1579,12 @@
         "url": "https://github.com/dealforest/Anglerfish",
         "description": "sort the recently used simulators ",
         "screenshot": "https://raw.githubusercontent.com/dealforest/Cichlid/master/images/anglerfish.png"
+      },
+      {
+        "name": "Translate",
+        "url": "https://github.com/niehaili/Translate",
+        "description": "Translate the selected text into Chinese through the keyboard shortcuts shift+command+t ",
+        "screenshot": "https://github.com/niehaili/Translate/blob/master/snapshot.png"
       }
     ],
     "color_schemes": [
