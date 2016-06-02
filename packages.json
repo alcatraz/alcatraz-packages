@@ -1572,7 +1572,7 @@
         "name": "RestartSourceKitService",
         "url": "https://github.com/hewigovens/RestartSourceKitService.git",
         "description": "Add Restart SourceKitService! to Xcode Debug menu",
-        "screenshot": "https://github.com/hewigovens/RestartSourceKitService/blob/master/docs/screenshot.png"
+        "screenshot": "https://raw.githubusercontent.com/hewigovens/RestartSourceKitService/master/docs/screenshot.png"
       },
       {
         "name": "Anglerfish",
