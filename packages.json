@@ -420,7 +420,7 @@
         "name": "BBUFullIssueNavigator",
         "url": "https://github.com/neonichu/BBUFullIssueNavigator",
         "description": "Show all issue content in the issue navigator.",
-        "screenshot": "https://github.com/neonichu/BBUFullIssueNavigator/raw/master/screenshot.png"
+        "screenshot": "https://raw.githubusercontent.com/neonichu/BBUFullIssueNavigator/master/screenshot.png"
       },
       {
         "name": "BBUncrustifyPlugin",
