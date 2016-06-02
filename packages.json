@@ -1501,7 +1501,7 @@
         "name": "QuickShowInFinder",
         "url": "https://github.com/lhhuai/QuickShowInFinder",
         "description": "A Xcode Plugin to quick show in finder with using shortcut key（alt+f）.",
-        "screenshot": "https://github.com/lhhuai/QuickShowInFinder/tree/master/QuickShowInFinder/Resource/quickshowinfinder.png"
+        "screenshot": "https://raw.githubusercontent.com/lhhuai/QuickShowInFinder/master/QuickShowInFinder/Resource/quickshowinfinder.png"
       },
       {
        "name": "FKConsole",
