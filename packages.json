@@ -76,7 +76,7 @@
       "name": "ExportConsoleText",
       "url": "https://github.com/iException/ExportConsoleText",
       "description": "Exporting xcode console text to html file.",
-      "screenshot": "https://github.com/iException/ExportConsoleText/blob/master/image.png"
+      "screenshot": "https://raw.githubusercontent.com/iException/ExportConsoleText/master/image.png"
     },
     {
       "name": "StringsValidator",
