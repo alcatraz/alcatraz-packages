@@ -1584,7 +1584,7 @@
         "name": "Translate",
         "url": "https://github.com/niehaili/Translate",
         "description": "Translate the selected text into Chinese through the keyboard shortcuts shift+command+t ",
-        "screenshot": "https://github.com/niehaili/Translate/blob/master/snapshot.png"
+        "screenshot": "https://raw.githubusercontent.com/niehaili/Translate/master/snapshot.png"
       }
     ],
     "color_schemes": [
