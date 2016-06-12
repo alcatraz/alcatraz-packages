@@ -458,11 +458,6 @@
         "screenshot": "https://raw.github.com/tyeen/BlockJump/master/screen_record.gif"
       },
       {
-        "name": "BTGisterPost-Xcode5",
-        "url": "https://github.com/LogikBlitz/BTGisterPost_Xcode5",
-        "description": "Xcode 5+ only. This plug-in allow developers to quickly post gist's to GitHub directly from XCode.It supports Xcode 5.x."
-      },
-      {
         "name": "BuildTimeAnalyzer",
         "url": "https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode",
         "description": "Keeps track of where the compiler spends the most time while compiling Swift code.",
