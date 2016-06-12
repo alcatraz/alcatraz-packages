@@ -1602,6 +1602,12 @@
     ],
     "color_schemes": [
       {
+        "name": "Blacktea theme",
+        "url": "https://github.com/blackteachinese/blackteatheme/blob/master/blacktea.dvtcolortheme",
+        "description": "health theme",
+        "screenshot": "https://github.com/blackteachinese/blackteatheme/blob/master/blackteaScreenShot.png"
+      },
+      {
         "name": "DarkSide",
         "url": "https://raw.githubusercontent.com/onmyway133/DarkSide/master/Xcode/DarkSide.dvtcolortheme",
         "description": "A dark side theme using flat colors",
@@ -2413,12 +2419,6 @@
         "name": "YCode-Base-Application",
         "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
         "description": "Xcode template to quick start for a commercial development"
-      },
-      {
-        "name": "Blacktea theme",
-        "url": "https://github.com/blackteachinese/blackteatheme/blob/master/blacktea.dvtcolortheme",
-        "description": "health theme",
-        "screenshot": "https://github.com/blackteachinese/blackteatheme/blob/master/blackteaScreenShot.png"
       },
       {
         "name": "TablePattern",
