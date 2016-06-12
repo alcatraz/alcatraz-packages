@@ -44,6 +44,12 @@
        "screenshot": "https://raw.githubusercontent.com/alexkrzyzanowski/xcode-gitflow-plugin/develop/screenshot.png"
     },
     {
+      "name": "HCTemplet",
+      "url": "https://github.com/dongjiali/HCTemplet",
+      "description": "HCTemplet is create custom templates",
+      "screenshot": "http://raw.github.com/dongjiali/HCTemplet/master/Screenshots/templet.png"
+    },
+    {
       "name": "Make the Mac Great Again",
       "url": "https://github.com/edwardaux/MakeTheMacGreatAgain",
       "description": "An Xcode plugin that puts OS X at the top of the list when creating new resources",
@@ -2185,12 +2191,6 @@
         "url": "https://github.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template",
         "description": "Bringing the Empty Application template back to Xcode",
         "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template/master/screenshot.png"
-      },
-      {
-        "name": "HCTemplet",
-        "url": "https://github.com/dongjiali/HCTemplet",
-        "description": "HCTemplet is create custom templates",
-        "screenshot": "http://raw.github.com/dongjiali/HCTemplet/master/Screenshots/templet.png"
       }
     ],
     "file_templates": [
