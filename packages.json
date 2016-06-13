@@ -1590,7 +1590,7 @@
       {
         "name": "Translate",
         "url": "https://github.com/niehaili/Translate",
-        "description": "Translate the selected text into Chinese through the keyboard shortcuts shift+command+t ",
+        "description": "Translate the selected text into Chinese through the keyboard shortcuts option+shift+t",
         "screenshot": "https://raw.githubusercontent.com/niehaili/Translate/master/snapshot.png"
       },
       {
