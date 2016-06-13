@@ -1590,7 +1590,7 @@
       {
         "name": "Translate",
         "url": "https://github.com/niehaili/Translate",
-        "description": "Translate the selected text into Chinese through the keyboard shortcuts shift+command+t ",
+        "description": "Translate the selected text into Chinese through the keyboard shortcuts shift+alt(option)+t ",
         "screenshot": "https://raw.githubusercontent.com/niehaili/Translate/master/snapshot.png"
       },
       {
@@ -1598,6 +1598,11 @@
         "url": "https://github.com/itimetrack/itimetrack-xcode",
         "description": "iTimeTrack.com automagical billable time generation while you work",
         "screenshot": "https://raw.githubusercontent.com/itimetrack/itimetrack-xcode/master/itimetrack-screenshot.png"
+      },
+      {
+        "name": "Alcatraz",
+        "url": "https://github.com/alcatraz/Alcatraz",
+        "description": "Alcatraz is an open-source package manager for Xcode 7+. It lets you discover and install plugins, templates and color schemes without the need for manually cloning or copying files. It installs itself as a part of Xcode and it feels like home."
       }
     ],
     "color_schemes": [
