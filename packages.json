@@ -1912,6 +1912,12 @@
         "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleLight/master/example.png"
       },
       {
+        "name": "WWDC 2016",
+        "url": "https://raw.githubusercontent.com/cargath/WWDC2016-Xcode-Color-Scheme/master/WWDC2016.dvtcolortheme",
+        "description": "A color scheme for Xcode based on the WWDC 2016 invitation.",
+        "screenshot": "https://raw.githubusercontent.com/cargath/WWDC2016-Xcode-Color-Scheme/master/preview.png"
+      },
+      {
         "name": "ObsidianCode",
         "url": "https://raw.github.com/jbrennan/xcode4themes/master/ObsidianCode.dvtcolortheme",
         "description": "A theme made by Ben Scheirman."
