@@ -1598,6 +1598,11 @@
         "url": "https://github.com/itimetrack/itimetrack-xcode",
         "description": "iTimeTrack.com automagical billable time generation while you work",
         "screenshot": "https://raw.githubusercontent.com/itimetrack/itimetrack-xcode/master/itimetrack-screenshot.png"
+      },
+      {
+        "name": "ZXPUnicodeDecodePlugsForXcode",
+        "url": "https://github.com/biggercoffee/ZXPUnicodeDecodePlugsForXcode",
+        "description": "Unicode convert Chinese in the console"
       }
     ],
     "color_schemes": [
@@ -2451,11 +2456,6 @@
         "name": "Newzik Templates",
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
-      },
-      {
-        "name": "ZXPUnicodeDecodePlugsForXcode",
-        "url": "https://github.com/biggercoffee/ZXPUnicodeDecodePlugsForXcode",
-        "description": "Unicode convert Chinese in the console"
       }
     ]
   }
