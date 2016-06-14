@@ -2451,6 +2451,11 @@
         "name": "Newzik Templates",
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
+      },
+      {
+        "name": "ZXPUnicodeDecodePlugsForXcode",
+        "url": "https://github.com/biggercoffee/ZXPUnicodeDecodePlugsForXcode",
+        "description": "Unicode convert Chinese in the console"
       }
     ]
   }
