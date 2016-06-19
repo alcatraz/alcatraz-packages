@@ -1907,13 +1907,13 @@
        {
         "name": "Nouvelle Dark",
         "url": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/Nouvelle.Dark.dvtcolortheme",
-        "description": "A dark Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono.",
+        "description": "A dark Xcode color scheme created specifically for Swift.",
         "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/example.png"
       },
       {
         "name": "Nouvelle Light",
         "url": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleLight/master/Nouvelle.Light.dvtcolortheme",
-        "description": "A light Xcode color scheme created specifically for Swift. Uses Menlo, but works best with Operator Mono.",
+        "description": "A light Xcode color scheme created specifically for Swift.",
         "screenshot": "https://raw.githubusercontent.com/BeauNouvelle/NouvelleLight/master/example.png"
       },
       {
