@@ -8,6 +8,12 @@
         "screenshot":"http://yangjunsss.github.io/assets/media/d17c7a5bb3aaa707c347fc08f90de58e.gif"
     },
     {
+        "name": "HHJsonMapperAutocomplete",
+        "url": "https://github.com/red3/HHJsonMapperAutocomplete",
+        "description": "Xcode plug-in which helps you generate JsonModel Mapper automatically",
+        "screenshot": "https://raw.github.com/red3/HHJsonMapperAutocomplete/master/ScreenShot.gif"
+     },	
+    {
         "name": "LCJSONFormatter",
         "url": "https://github.com/EvoIos/LCJSONFormatter",
         "description": "a Xcode Plugin for Argo",
