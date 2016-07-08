@@ -18,8 +18,7 @@
         "url": "https://github.com/poborp/XcodeFolders",
         "description": "Extra menu for rapid folders.",
         "screenshot": "https://raw.githubusercontent.com/poborp/XcodeFolders/master/Preview.png"
-    },
-    {
+    },    {
         "name": "ESCodeSection",
         "url": "https://github.com/ElfSundae/ESCodeSection",
         "description": "Insert code separators."
