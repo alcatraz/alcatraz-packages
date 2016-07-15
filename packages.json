@@ -1,6 +1,12 @@
 {
   "packages": {
     "plugins": [
+     {
+        "name": "FastCoding",
+        "url": "https://github.com/DevDu/FastCoding-Xcode-Plugin",
+        "description": "FastCoding is a plug-in for the fast generation of getter, setter, and lazy methods. ",
+        "screenshot":"https://github.com/DevDu/FastCoding-Xcode-Plugin/blob/master/screenshot/screenShot1.gif"
+      },
     {
         "name": "LCJSONFormatter",
         "url": "https://github.com/EvoIos/LCJSONFormatter",
