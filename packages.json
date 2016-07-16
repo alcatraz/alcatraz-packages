@@ -2456,6 +2456,11 @@
         "name": "Newzik Templates",
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
+      },
+      {
+        "name": "Xcode Tower",
+        "url": "https://github.com/dgyesbreghs/Xcode-Tower",
+        "description": "Open Tower from within Xcode"
       }
     ]
   }
