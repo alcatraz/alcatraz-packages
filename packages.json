@@ -2,11 +2,17 @@
   "packages": {
     "plugins": [
     {
+        "name": "XXAlignOnSave",
+        "url": "https://github.com/yangjunsss/XXAlignOnSave",
+        "description": "Align and indent code on Save",
+        "screenshot":"http://yangjunsss.github.io/assets/media/d17c7a5bb3aaa707c347fc08f90de58e.gif"
+    },
+    {
         "name": "LCJSONFormatter",
         "url": "https://github.com/EvoIos/LCJSONFormatter",
         "description": "a Xcode Plugin for Argo",
         "screenshot":"https://github.com/EvoIos/LCJSONFormatter/blob/master/alcatraz-packages-Img.png"
-      },
+    },
     {
         "name": "XcodeFolders",
         "url": "https://github.com/poborp/XcodeFolders",
@@ -1603,6 +1609,11 @@
         "name": "ZXPUnicodeDecodePlugsForXcode",
         "url": "https://github.com/biggercoffee/ZXPUnicodeDecodePlugsForXcode",
         "description": "Unicode convert Chinese in the console"
+      },
+      {
+        "name": "Xcode Tower",
+        "url": "https://github.com/dgyesbreghs/Xcode-Tower",
+        "description": "Open Tower from within Xcode"
       },
       {
         "name": "FastCoding",
