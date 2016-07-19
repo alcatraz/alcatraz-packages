@@ -2479,6 +2479,12 @@
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
       }
+      {
+        "name": "ProjectCleaner",
+        "url": "https://github.com/Lobster-King/ProjectCleaner",
+        "description": "Find unused resources like png files & delete some files that you want",
+        "screenshot":"https://github.com/Lobster-King/ProjectCleaner/blob/master/ProjectCleaner/search_usage.gif"
+       }
     ]
   }
 }
