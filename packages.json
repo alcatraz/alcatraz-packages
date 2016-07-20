@@ -8,6 +8,12 @@
         "screenshot":"http://yangjunsss.github.io/assets/media/d17c7a5bb3aaa707c347fc08f90de58e.gif"
     },
     {
+        "name": "ProjectCleaner",
+        "url": "https://github.com/Lobster-King/ProjectCleaner",
+        "description": "Find unused resources like png files & delete some files that you want",
+        "screenshot":"https://github.com/Lobster-King/ProjectCleaner/blob/master/ProjectCleaner/search_usage.gif"
+    },
+    {
         "name": "HHJsonMapperAutocomplete",
         "url": "https://github.com/red3/HHJsonMapperAutocomplete",
         "description": "Xcode plug-in which helps you generate JsonModel Mapper automatically",
