@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+    	"name": "Xclip",
+    	"url": "https://github.com/sebastianv1/Xclip",
+    	"description": "Multilevel Clipboard that saves your past 10 copies and allows you to paste them inside Xcode.",
+    	"screenshot": "https://raw.githubusercontent.com/sebastianv1/Xclip/master/XclipScreenshot.png"
+    },
+    {
         "name": "XXAlignOnSave",
         "url": "https://github.com/yangjunsss/XXAlignOnSave",
         "description": "Align and indent code on Save",
