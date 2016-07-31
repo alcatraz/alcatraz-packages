@@ -2301,12 +2301,6 @@
     ],
     "file_templates": [
       {
-        "name": "Kiwi-Template",
-        "url": "https://github.com/Bupterambition/Kiwi-Template.git",
-        "description": "Template which makes creation of Kiwi－Style Test Case by default."
-        "screenshot": "https://github.com/Bupterambition/Kiwi-Template/blob/master/pic1.png?raw=true"
-      },
-      {
         "name": "PZCustomView",
         "url": "https://github.com/zubco/PZCustomView",
         "description": "Custom UIView file templates, wich creates for you a XIB - loadable UIView subclass with it .XIB file configurated respectively."
@@ -2502,6 +2496,12 @@
         "name": "Newzik Templates",
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
+      },
+      {
+        "name": "Kiwi-Template",
+        "url": "https://github.com/Bupterambition/Kiwi-Template.git",
+        "description": "Template which makes creation of Kiwi－Style Test Case by default.",
+        "screenshot": "https://github.com/Bupterambition/Kiwi-Template/blob/master/pic1.png"
       }
     ]
   }
