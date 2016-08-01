@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
     {
+        "description" : "To Create Request File",
+        "name" : "YWGInitRequestFile",
+        "url" : "https://github.com/yangweiguang/YWGInitRequestFile"
+    },
+    {
         "name": "Wdoom",
         "url": "https://github.com/AlexUlenkov/Wdoom",
         "description": "Xcode plugin for the painful coding.",
