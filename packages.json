@@ -2496,6 +2496,12 @@
         "name": "Newzik Templates",
         "url": "https://github.com/newzik/NewzikTemplates.git",
         "description": "File templates for Newzik Coding Standard"
+      },
+      {
+        "name": "Kiwi-Template",
+        "url": "https://github.com/Bupterambition/Kiwi-Template.git",
+        "description": "Template which makes creation of Kiwi－Style Test Case by default.",
+        "screenshot": "https://raw.githubusercontent.com/Bupterambition/Kiwi-Template/master/pic1.png"
       }
     ]
   }
