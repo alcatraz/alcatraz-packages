@@ -1643,6 +1643,12 @@
         "url": "https://github.com/DevDu/FastCoding-Xcode-Plugin",
         "description": "FastCoding is a plug-in for the fast generation of getter, setter, and lazy methods. ",
         "screenshot":"https://raw.githubusercontent.com/DevDu/FastCoding-Xcode-Plugin/master/screenshot/screenShot3.png"
+      },
+      { 
+	"name": "RealGroup",
+	"url": "https://github.com/yizhaorong/RealGroup.git",
+	"description": "Create directory for Xcode Group",
+	"screenshot": "https://github.com/yizhaorong/RealGroup/blob/master/demo.gif"
       }
     ],
     "color_schemes": [
