@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "Snowonder",
+        "url": "https://github.com/Karetski/Snowonder",
+        "description": "Snowonder — pure import sorter for Xcode. It sorts import declarations in a way that you want.",
+        "screenshot": "https://raw.githubusercontent.com/Karetski/Snowonder/master/Resources/GithubHeader.png"
+    }
+    {
         "name": "Wdoom",
         "url": "https://github.com/AlexUlenkov/Wdoom",
         "description": "Xcode plugin for the painful coding.",
