@@ -616,6 +616,12 @@
         "screenshot": "https://raw.github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin/master/demo.gif"
       },
       {
+      	"name": "FocusCycle",
+      	"url": "https://github.com/julian-weinert/FocusCycle",
+      	"description": "Adds menu items for focusing previous/next window to the Window menu item.",
+      	"screenshot": "https://raw.githubusercontent.com/julian-weinert/FocusCycle/master/Screenshots/FocusCycle.png"
+      },
+      {
         "name": "GitDiff",
         "url": "https://github.com/johnno1962/GitDiff",
         "description": "Highlights differences against git repo in Xcode source editor.",
