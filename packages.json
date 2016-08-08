@@ -1655,6 +1655,11 @@
         "url": "https://github.com/DevDu/FastCoding-Xcode-Plugin",
         "description": "FastCoding is a plug-in for the fast generation of getter, setter, and lazy methods. ",
         "screenshot":"https://raw.githubusercontent.com/DevDu/FastCoding-Xcode-Plugin/master/screenshot/screenShot3.png"
+      },
+      {
+        "name": "LYUnicodeDecodeForConsole",
+        "url": "https://github.com/GeekYL/LYUnicodeDecodeForConsole",
+        "description": "LYUnicodeDecodeForConsole is a plugin for Xcode to Unicode convert Chinese in the console."
       }
     ],
     "color_schemes": [
