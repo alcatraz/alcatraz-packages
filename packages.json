@@ -1659,7 +1659,8 @@
       {
         "name": "LYUnicodeDecodeForConsole",
         "url": "https://github.com/GeekYL/LYUnicodeDecodeForConsole",
-        "description": "LYUnicodeDecodeForConsole is a plugin for Xcode to Unicode convert Chinese in the console."
+        "description": "LYUnicodeDecodeForConsole is a plugin for Xcode to Unicode convert Chinese in the console.",
+        "screenshot": "https://github.com/GeekYL/LYUnicodeDecodeForConsole/blob/master/LYUnicodeDecodeForConsoleTest.gif"
       }
     ],
     "color_schemes": [
