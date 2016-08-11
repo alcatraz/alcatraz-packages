@@ -1,6 +1,12 @@
 {
   "packages": {
-    "plugins": [
+      "plugins": [
+    {
+        "name": "FindIt",
+        "url": "https://github.com/rogermolas/findit-for-xcode",
+        "description": "Plug-in for browsing stackoverflow website inside XCode IDE.",
+        "screenshot": "https://github.com/rogermolas/findit-for-xcode/blob/master/demo.gif"
+    },
     {
         "name": "Snowonder",
         "url": "https://github.com/Karetski/Snowonder",
