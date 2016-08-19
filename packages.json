@@ -2320,6 +2320,12 @@
         "url": "https://github.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template",
         "description": "Bringing the Empty Application template back to Xcode",
         "screenshot": "https://raw.githubusercontent.com/Isuru-Nanayakkara/Xcode-Empty-Application-Template/master/screenshot.png"
+      },
+ +    {
+ +      "name": "HQBlockMention",
+ +      "url": "https://github.com/qianhongqiang/HQBlockMention.git",
+ +      "description": "A plugin for Xcode,which will remind you retain circle in block.",
+ +      "screenshot": "https://github.com/qianhongqiang/HQBlockMention/blob/master/HQBlockMentionScreenSHot.png"
       }
     ],
     "file_templates": [
@@ -2525,12 +2531,6 @@
         "url": "https://github.com/Bupterambition/Kiwi-Template.git",
         "description": "Template which makes creation of Kiwi－Style Test Case by default.",
         "screenshot": "https://raw.githubusercontent.com/Bupterambition/Kiwi-Template/master/pic1.png"
-      },
-      {
-        "name": "HQBlockMention",
-        "url": "https://github.com/qianhongqiang/HQBlockMention.git",
-        "description": "A plugin for Xcode,which will remind you retain circle in block.",
-        "screenshot": "https://github.com/qianhongqiang/HQBlockMention/blob/master/HQBlockMentionScreenSHot.png"
       }
     ]
   }
