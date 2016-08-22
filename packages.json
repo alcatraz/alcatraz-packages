@@ -1666,6 +1666,12 @@
         "name": "LYUnicodeDecodeForConsole",
         "url": "https://github.com/GeekYL/LYUnicodeDecodeForConsole",
         "description": "LYUnicodeDecodeForConsole is a plugin for Xcode to Unicode convert Chinese in the console."
+      },
+      {
+        "name": "HQBlockMention",
+        "url": "https://github.com/qianhongqiang/HQBlockMention.git",
+        "description": "A plugin for Xcode,which will remind you retain circle in block.",
+        "screenshot": "https://github.com/qianhongqiang/HQBlockMention/blob/master/HQBlockMentionScreenSHot.png"
       }
     ],
     "color_schemes": [
