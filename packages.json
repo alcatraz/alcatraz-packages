@@ -20,6 +20,12 @@
         "screenshot":"https://raw.githubusercontent.com/AlexUlenkov/Wdoom/master/Screenshots/Wdoom.png"
     },
     {
+        "name": "OCPropertyTransfer",
+        "url": "https://github.com/slq0378/OCPropertyTransfer",
+        "description": "Transfer assigned string to property",
+        "screenshot": "https://github.com/slq0378/OCPropertyTransfer/blob/master/OCPropertyTransfer%E4%BD%BF%E7%94%A8.gif"
+    },
+    {
     	"name": "Xclip",
     	"url": "https://github.com/sebastianv1/Xclip",
     	"description": "Multilevel Clipboard that saves your past 10 copies and allows you to paste them inside Xcode.",
