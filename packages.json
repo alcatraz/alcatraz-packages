@@ -1488,12 +1488,6 @@
         "screenshot": "https://raw.githubusercontent.com/bugEnding/HHEnumeration-xcode/master/img/after-new.gif"
       },
       {
-        "name": "Multiplex",
-        "url": "https://github.com/kolinkrewinkel/Multiplex",
-        "description": "Simultaneous editing inspired by Sublime Text, for Xcode.",
-        "screenshot": "https://raw.githubusercontent.com/kolinkrewinkel/Multiplex/develop/Meta/Demo.gif"
-      },
-      {
         "name": "FRMBreakFast",
         "url": "https://github.com/fzwo/FRMBreakFast",
         "description": "Makes it obvious whether a breakpoint has actions, and whether it stops or continues execution, and faster creation of logging breakpoints.",
@@ -1740,6 +1734,24 @@
         "url": "https://raw.github.com/paulpilone/xcode-themes/master/AtomLight.dvtcolortheme",
         "description": "A light theme based on the default theme from Atom.io.",
         "screenshot": "https://raw.githubusercontent.com/paulpilone/xcode-themes/master/AtomLight.png"
+      },
+      {
+        "name": "AVBushwhacked",
+        "url": "https://raw.githubusercontent.com/anjerodesu/xcode-themes/master/AVBushwhacked.dvtcolortheme",
+        "description": "A dark candy-like theme by Angelo Villegas",
+        "screenshot": "https://raw.githubusercontent.com/anjerodesu/xcode-themes/master/screenshots/AVBushwhacked.png"
+      },
+      {
+        "name": "AVTaintedPaint",
+        "url": "https://raw.githubusercontent.com/anjerodesu/xcode-themes/master/AVTaintedPaint.dvtcolortheme",
+        "description": "An eye relaxing dark theme by Angelo Villegas",
+        "screenshot": "https://raw.githubusercontent.com/anjerodesu/xcode-themes/master/screenshots/AVTaintedPaint.png"
+      },
+      {
+        "name": "AVUnderwater",
+        "url": "https://raw.githubusercontent.com/anjerodesu/xcode-themes/master/AVUnderwater.dvtcolortheme",
+        "description": "A dark, underwater-colours-inspired theme by Angelo Villegas",
+        "screenshot": "https://raw.githubusercontent.com/anjerodesu/xcode-themes/master/screenshots/AVUnderwater.png"
       },
       {
         "name": "Aytharn",
