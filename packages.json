@@ -29,7 +29,7 @@
         "name": "OCPropertyTransfer",
         "url": "https://github.com/slq0378/OCPropertyTransfer",
         "description": "Transfer assigned string to property",
-        "screenshot": "https://github.com/slq0378/OCPropertyTransfer/blob/master/OCPropertyTransfer%E4%BD%BF%E7%94%A8.gif"
+        "screenshot": "https://raw.githubusercontent.com/slq0378/OCPropertyTransfer/master/OCPropertyTransfer%E4%BD%BF%E7%94%A8.gif"
     },
     {
     	"name": "Xclip",
@@ -47,7 +47,7 @@
         "name": "ProjectCleaner",
         "url": "https://github.com/Lobster-King/ProjectCleaner",
         "description": "Find unused resources like png files & delete some files that you want",
-        "screenshot":"https://github.com/Lobster-King/ProjectCleaner/blob/master/ProjectCleaner/search_usage.gif"
+        "screenshot":"https://raw.githubusercontent.com/Lobster-King/ProjectCleaner/master/ProjectCleaner/search_usage.gif"
     },
     {
         "name": "HHJsonMapperAutocomplete",
@@ -59,7 +59,7 @@
         "name": "LCJSONFormatter",
         "url": "https://github.com/EvoIos/LCJSONFormatter",
         "description": "a Xcode Plugin for Argo",
-        "screenshot":"https://github.com/EvoIos/LCJSONFormatter/blob/master/alcatraz-packages-Img.png"
+        "screenshot":"https://raw.githubusercontent.com/EvoIos/LCJSONFormatter/master/alcatraz-packages-Img.png"
     },
     {
         "name": "XcodeFolders",
@@ -93,7 +93,7 @@
         "name": "QCBlockCommenter",
         "url": "https://github.com/qclmnt/QCBlockCommenter.git",
         "description": "Xcode plugin to comment block of text with /* */ by pressing ⌘@",
-        "screenshot": "https://github.com/qclmnt/QCBlockCommenter/blob/master/demo.png"
+        "screenshot": "https://raw.githubusercontent.com/qclmnt/QCBlockCommenter/master/demo.png"
     },
     {
        "name": "ProfilesTool-Xcode",
@@ -1140,8 +1140,7 @@
       {
         "name": "XActivatePowerMode",
         "url": "https://github.com/qfish/XActivatePowerMode",
-        "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode.",
-        "screenshot": "http://7d9o0x.com1.z0.glb.clouddn.com/XActivatePowerModepreview.gif"
+        "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode."
       },
       {
         "name": "XcAddedMarkup",
@@ -1221,8 +1220,7 @@
       {
         "name": "XcodePerforcePlugin",
         "url": "https://guest@git.workshop.perforce.com/jaime-rios-xcodeperforceplugin",
-        "description": "Native Xcode Plugin that integrates with Perforce source control system. For more information about this plugin and how to use it, you can view the project's README page at https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/ .",
-        "screenshot": "https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/view/xcodeperforceplugin/screenshot_xcodeperforceplugin.png"
+        "description": "Native Xcode Plugin that integrates with Perforce source control system. For more information about this plugin and how to use it, you can view the project's README page at https://swarm.workshop.perforce.com/projects/jaime-rios-xcodeperforceplugin/ ."
       },
       {
         "name": "XcodePlus Delete Line",
@@ -1672,7 +1670,7 @@
         "name": "HQBlockMention",
         "url": "https://github.com/qianhongqiang/HQBlockMention.git",
         "description": "A plugin for Xcode,which will remind you retain circle in block.",
-        "screenshot": "https://github.com/qianhongqiang/HQBlockMention/blob/master/HQBlockMentionScreenSHot.png"
+        "screenshot": "https://raw.githubusercontent.com/qianhongqiang/HQBlockMention/master/HQBlockMentionScreenSHot.png"
       },
       {
         "name": "StarConsoleLink",
@@ -1698,7 +1696,7 @@
         "name": "Blacktea theme",
         "url": "https://github.com/blackteachinese/blackteatheme/blob/master/blacktea.dvtcolortheme",
         "description": "health theme",
-        "screenshot": "https://github.com/blackteachinese/blackteatheme/blob/master/blackteaScreenShot.png"
+        "screenshot": "https://raw.githubusercontent.com/blackteachinese/blackteatheme/master/blackteaScreenShot.png"
       },
       {
         "name": "DarkSide",
@@ -2452,8 +2450,7 @@
       {
         "name": "Quick Templates",
         "url": "https://github.com/modocache/Quick",
-        "description": "Xcode file templates for the Quick testing framework.",
-        "screenshot": "http://f.cl.ly/items/2l3P203C052Z3d2p0q0e/Screen%20Shot%202014-06-26%20at%204.20.47%20AM.png"
+        "description": "Xcode file templates for the Quick testing framework."
       },
       {
         "name": "Scaffolding",
@@ -2546,7 +2543,7 @@
         "name": "Xcode-Coordinator-Template",
         "url": "https://github.com/phranck/Xcode-Coordinator-Template.git",
         "description": "An Xcode File Template that creates an Objective-C Coordinator class. It is for both iOS and OS X.",
-        "screenshot": "https://github.com/phranck/Xcode-Coordinator-Template/blob/master/img/xcode-coordinator-install.png"
+        "screenshot": "https://raw.githubusercontent.com/phranck/Xcode-Coordinator-Template/master/img/xcode-coordinator-install.png"
       },
       {
         "name": "CVVM",
