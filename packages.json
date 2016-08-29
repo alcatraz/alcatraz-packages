@@ -1673,7 +1673,13 @@
        "url": "https://github.com/remirobert/RRGIFAlertPanel",
        "description": "Xcode plugin for replace the AlertPanel build succeeded and failed by an animated GIF of your choice !",
        "screenshot": "https://cloud.githubusercontent.com/assets/3276768/14404359/077ac0ea-fea6-11e5-890f-9ea5a1b5b677.gif"
-     }
+     },
+      {
+        "name": "KWCodeLibrary",
+        "url": "https://github.com/kevin-ma/KWCodeLibrary",
+        "description": "Help you manager your code snippet instead of Xcode Code Snippet.",
+        "screenshot": "https://raw.githubusercontent.com/kevin-ma/KWCodeLibrary/master/Images/demo1.gif"
+      }
     ],
     "color_schemes": [
       {
@@ -2550,12 +2556,6 @@
         "url": "https://github.com/Bupterambition/Kiwi-Template.git",
         "description": "Template which makes creation of Kiwi－Style Test Case by default.",
         "screenshot": "https://raw.githubusercontent.com/Bupterambition/Kiwi-Template/master/pic1.png"
-      },
-      {
-        "name": "KWCodeLibrary",
-        "url": "https://github.com/kevin-ma/KWCodeLibrary",
-        "description": "Help you manager your code snippet instead of Xcode Code Snippet.",
-        "screenshot": "https://raw.githubusercontent.com/kevin-ma/KWCodeLibrary/master/Images/demo1.gif"
       }
     ]
   }
