@@ -1673,13 +1673,19 @@
        "url": "https://github.com/remirobert/RRGIFAlertPanel",
        "description": "Xcode plugin for replace the AlertPanel build succeeded and failed by an animated GIF of your choice !",
        "screenshot": "https://cloud.githubusercontent.com/assets/3276768/14404359/077ac0ea-fea6-11e5-890f-9ea5a1b5b677.gif"
-     },
+      },
       {
         "name": "KWCodeLibrary",
         "url": "https://github.com/kevin-ma/KWCodeLibrary",
         "description": "Help you manager your code snippet instead of Xcode Code Snippet.",
         "screenshot": "https://raw.githubusercontent.com/kevin-ma/KWCodeLibrary/master/Images/demo1.gif"
-      }
+      },
+      {
+        "name": "StarConsoleLink",
+        "url": "https://github.com/iStarEternal/StarConsoleLink",
+        "description": "StarConsoleLink inject the link to your Xcode console, which allows you to click on the link area rapid positioning to the log line.",
+        "screenshot": "https://raw.githubusercontent.com/iStarEternal/StarConsoleLink/master/ExampleImage/StarConsoleLink.gif"
+      },
     ],
     "color_schemes": [
       {
