@@ -1669,6 +1669,12 @@
         "screenshot": "https://github.com/qianhongqiang/HQBlockMention/blob/master/HQBlockMentionScreenSHot.png"
       },
       {
+        "name": "StarConsoleLink",
+        "url": "https://github.com/iStarEternal/StarConsoleLink",
+        "description": "StarConsoleLink inject the link to your Xcode console, which allows you to click on the link area rapid positioning to the log line.",
+        "screenshot": "https://raw.githubusercontent.com/iStarEternal/StarConsoleLink/master/ExampleImage/StarConsoleLink.gif"
+      },
+      {
        "name": "RRGIFAlertPanel",
        "url": "https://github.com/remirobert/RRGIFAlertPanel",
        "description": "Xcode plugin for replace the AlertPanel build succeeded and failed by an animated GIF of your choice !",
