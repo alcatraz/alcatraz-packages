@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
     {
+        "name": "Auto Select targets",
+        "url": "https://github.com/fjtrujy/AutoSelectTargets",
+        "description": "The plugin intends to auto select targets depending of the selected configuration when you add files to the project.",
+        "screenshot": "https://raw.githubusercontent.com/fjtrujy/AutoSelectTargets/master/Screenshots/mainMenu.png"
+    },
+    {
         "name": "FindIt",
         "url": "https://github.com/rogermolas/findit-for-xcode",
         "description": "Plug-in for browsing stackoverflow website inside XCode IDE.",
