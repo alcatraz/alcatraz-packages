@@ -2,7 +2,7 @@
   "packages": {
     "plugins": [
     {
-        "name": "Auto Select targets",
+        "name": "AutoSelectTargets",
         "url": "https://github.com/fjtrujy/AutoSelectTargets",
         "description": "The plugin intends to auto select targets depending of the selected configuration when you add files to the project.",
         "screenshot": "https://raw.githubusercontent.com/fjtrujy/AutoSelectTargets/master/Screenshots/mainMenu.png"
