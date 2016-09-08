@@ -517,12 +517,6 @@
         "screenshot": "https://raw.github.com/tyeen/BlockJump/master/screen_record.gif"
       },
       {
-        "name": "BuildTimeAnalyzer",
-        "url": "https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode",
-        "description": "Keeps track of where the compiler spends the most time while compiling Swift code.",
-        "screenshot": "https://raw.githubusercontent.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode/master/Screenshots/screenshot.png"
-      },
-      {
         "name": "CATweakerSense",
         "url": "https://github.com/keefo/CATweaker",
         "description": "Xcode plugin that makes working with CAMediaTimingFunction more visual.",
