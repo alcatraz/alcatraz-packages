@@ -2567,5 +2567,12 @@
         "screenshot": "https://raw.githubusercontent.com/Bupterambition/Kiwi-Template/master/pic1.png"
       }
     ]
+      "color schemes"": [
+    {
+    "name": "Xcore",
+    "url": "https://github.com/bumblebritches57/XCore",
+    "description": "Xcore  is a colorful, monospaced theme meant to make code easier to understand at a glance.",
+    "screenshot": "https://raw.githubusercontent.com/bumblebritches57/XCoreTheme/master/Image/Xcore.png"
+    },
   }
 }
