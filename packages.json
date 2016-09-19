@@ -2311,7 +2311,12 @@
         "url": "https://raw.githubusercontent.com/sailorhg/fairyfloss/gh-pages/Fairyfloss.dvtcolortheme",
         "description": "A pastel/candy/daydream fairyfloss theme by @sailorhg.",
         "screenshot": "https://cloud.githubusercontent.com/assets/498212/15276890/9db3f44a-1ac2-11e6-9608-de79505c55ce.png"
-      }
+        }, {
+        "name": "Xcore",
+        "url": "https://raw.githubusercontent.com/bumblebritches57/XCoreTheme/master/XCore.dvtcolortheme",
+        "description": "Xcore  is a colorful, monospaced theme meant to make code easier to understand at a glance.",
+        "screenshot": "https://raw.githubusercontent.com/bumblebritches57/XCoreTheme/master/Image/Xcore.png"
+        }
     ],
     "project_templates": [
       {
