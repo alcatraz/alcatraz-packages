@@ -2,6 +2,12 @@
   "packages": {
     "plugins": [
       {
+        "name": "OMMiniXcode",
+        "url": "https://github.com/Daij-Djan/MiniXcode",
+        "description": "This is a plugin that makes it easier to run Xcode without the main toolbar.",
+        "screenshot": "https://raw.githubusercontent.com/Daij-Djan/MiniXcode/master/Screenshot2.png"
+      },
+      {
         "name": "XcodeBuddyPlugin",
         "url": "https://github.com/uugo/XcodeBuddyPlugin",
         "description": "XcBuddy App  running on ios devices is not only an independent source view and analysis tool, but also a client  attached to the Xcode. You can connect to xcBuddy app and operate it with XcodeBuddy Plugin.",
