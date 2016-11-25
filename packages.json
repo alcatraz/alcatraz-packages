@@ -617,6 +617,11 @@
         "description": "Convert unicode string to Human-readable in xcode 5+ console."
       },
       {
+        "name": "DXViewInspectorPlugin",
+        "url": "https://github.com/dhcdht/DXViewInspectorPlugin",
+        "description": "Plugin for Xcode to integrate the Reveal and Spark Inspector to your project automatic."
+      },
+      {
         "name": "Eero Xcode",
         "url": "https://github.com/eerolanguage/eero-installer-for-alcatraz",
         "description": "Eero Programming Language support. Please restart Xcode after installing!",
