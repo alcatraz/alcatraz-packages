@@ -1695,6 +1695,12 @@
         "url": "https://github.com/kevin-ma/KWCodeLibrary",
         "description": "Help you manager your code snippet instead of Xcode Code Snippet.",
         "screenshot": "https://raw.githubusercontent.com/kevin-ma/KWCodeLibrary/master/Images/demo1.gif"
+      },
+      {
+        "name": "LocalizedStringsHelper",
+        "url": "https://github.com/jianzhi2010/LocalizedStringsHelper.git",
+        "description": "Xcode plug-in which helps you find duplicate keys when you're editing localizable.strings files.",
+        "screenshot": "https://raw.githubusercontent.com/jianzhi2010/LocalizedStringsHelper/master/Resource/ShowDuplicateKey.gif"
       }
     ],
     "color_schemes": [
