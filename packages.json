@@ -354,6 +354,12 @@
         "description": "Plugin for symbolicating crashes, fetching details of the application binary.",
         "screenshot": "https://raw.githubusercontent.com/MaheshRS/symbolication-plugin/master/screenshots/Symbolicate_screen.png"
       },
+{
+      "name": « ImageOptim,
+      "url": "https://github.com/yeahdongcn/RSImageOptimPlugin",
+      "description": "Plugin for compressing PNG files. »,
+      "screenshot": ""
+      },
       {
         "name": "ApplicationSupport",
         "url": "https://github.com/knutigro/Xcode-Plugin-Application-Support",
