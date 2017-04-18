@@ -12,7 +12,7 @@ The JSON file is split up into 4 different parts: `plugins`, `file_templates`,`c
 After making your changes please run `rspec` from the console to check if everything is ok.
 
 ### Plugin Format
-The `url` should be a repository containing the Xcode project, and the `name` should be the same as the `.xcodeproj` file.
+The `url` should be a repository containing the Xcode project, and the `name` should be the same as the `.xcodeproj` file and project target name.
 
 ``` json
 {
