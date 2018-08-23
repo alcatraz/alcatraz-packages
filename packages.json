@@ -1701,6 +1701,12 @@
         "url": "https://github.com/jianzhi2010/LocalizedStringsHelper.git",
         "description": "Xcode plug-in which helps you find duplicate keys when you're editing localizable.strings files.",
         "screenshot": "https://raw.githubusercontent.com/jianzhi2010/LocalizedStringsHelper/master/Resource/ShowDuplicateKey.gif"
+      },
+      {
+        "name" : "XcodeDark",
+        "url" : "https://github.com/Dmitriy-Gonchar/XcodeDark.git",
+        "description" : "Xcode plug-in for change Xcode UI",
+        "screenshot" : "https://raw.githubusercontent.com/Dmitriy-Gonchar/XcodeDark/master/XcodeDarkScreen.png"
       }
     ],
     "color_schemes": [
